@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e61939451509415daa9c746f023566bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e61939451509415daa9c746f023566bc
+run_name: capricious-horse-781
+run_uuid: e61939451509415daa9c746f023566bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495379
+status: 1
+tags: []
+user_id: unknown

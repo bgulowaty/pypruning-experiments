@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6862ee2b3d434c5c8aa5ca74a1a18c8b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6862ee2b3d434c5c8aa5ca74a1a18c8b
+run_name: nervous-donkey-214
+run_uuid: 6862ee2b3d434c5c8aa5ca74a1a18c8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041531603
+status: 1
+tags: []
+user_id: unknown

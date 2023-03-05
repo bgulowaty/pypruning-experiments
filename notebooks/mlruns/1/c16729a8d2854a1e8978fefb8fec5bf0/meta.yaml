@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c16729a8d2854a1e8978fefb8fec5bf0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c16729a8d2854a1e8978fefb8fec5bf0
+run_name: amazing-rook-887
+run_uuid: c16729a8d2854a1e8978fefb8fec5bf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041498131
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ae5e174800304dfbb1826074d00ea79f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ae5e174800304dfbb1826074d00ea79f
+run_name: omniscient-shark-487
+run_uuid: ae5e174800304dfbb1826074d00ea79f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041604930
+status: 1
+tags: []
+user_id: unknown

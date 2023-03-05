@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bdb436e90ef04c48b087f5e793157d38/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bdb436e90ef04c48b087f5e793157d38
+run_name: dapper-trout-821
+run_uuid: bdb436e90ef04c48b087f5e793157d38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041803930
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1088ec9eadc34bb5abce0b96560b7e1b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1088ec9eadc34bb5abce0b96560b7e1b
+run_name: aged-snake-881
+run_uuid: 1088ec9eadc34bb5abce0b96560b7e1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041539952
+status: 1
+tags: []
+user_id: unknown

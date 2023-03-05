@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/853fed5f34c74d4a8775e31cf2bf76ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 853fed5f34c74d4a8775e31cf2bf76ac
+run_name: rebellious-wasp-428
+run_uuid: 853fed5f34c74d4a8775e31cf2bf76ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041501613
+status: 1
+tags: []
+user_id: unknown

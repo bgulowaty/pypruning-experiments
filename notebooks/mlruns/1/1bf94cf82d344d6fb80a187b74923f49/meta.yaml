@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1bf94cf82d344d6fb80a187b74923f49/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1bf94cf82d344d6fb80a187b74923f49
+run_name: bittersweet-foal-5
+run_uuid: 1bf94cf82d344d6fb80a187b74923f49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041593838
+status: 1
+tags: []
+user_id: unknown

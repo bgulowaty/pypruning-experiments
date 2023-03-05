@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/63212ffb02a74162a9cec0d18ebf222e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 63212ffb02a74162a9cec0d18ebf222e
+run_name: mysterious-bird-71
+run_uuid: 63212ffb02a74162a9cec0d18ebf222e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041741234
+status: 1
+tags: []
+user_id: unknown

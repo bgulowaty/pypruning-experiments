@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/48af916c758846a7aabd767456d4ce31/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 48af916c758846a7aabd767456d4ce31
+run_name: dashing-stoat-755
+run_uuid: 48af916c758846a7aabd767456d4ce31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041542123
+status: 1
+tags: []
+user_id: unknown

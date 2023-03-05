@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dada16cd0aa04889a104610d92efc58d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dada16cd0aa04889a104610d92efc58d
+run_name: bemused-ant-448
+run_uuid: dada16cd0aa04889a104610d92efc58d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041605964
+status: 1
+tags: []
+user_id: unknown

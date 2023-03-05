@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3269b17a0433485186ac5844a47667db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3269b17a0433485186ac5844a47667db
+run_name: dashing-duck-551
+run_uuid: 3269b17a0433485186ac5844a47667db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041756214
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dff3d82629b7421e87d6f309db7d075a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dff3d82629b7421e87d6f309db7d075a
+run_name: handsome-fish-819
+run_uuid: dff3d82629b7421e87d6f309db7d075a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041874503
+status: 1
+tags: []
+user_id: unknown

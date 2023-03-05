@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e1d4c49dcd6d46d79ef604099517affd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e1d4c49dcd6d46d79ef604099517affd
+run_name: wistful-stoat-529
+run_uuid: e1d4c49dcd6d46d79ef604099517affd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041676932
+status: 1
+tags: []
+user_id: unknown

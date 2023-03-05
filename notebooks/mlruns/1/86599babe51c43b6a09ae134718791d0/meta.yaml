@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/86599babe51c43b6a09ae134718791d0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86599babe51c43b6a09ae134718791d0
+run_name: enthused-vole-67
+run_uuid: 86599babe51c43b6a09ae134718791d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495976
+status: 1
+tags: []
+user_id: unknown

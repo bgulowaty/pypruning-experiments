@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3487b1147e6f4812bf4de5d76cac1e1f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3487b1147e6f4812bf4de5d76cac1e1f
+run_name: shivering-dove-710
+run_uuid: 3487b1147e6f4812bf4de5d76cac1e1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041688518
+status: 1
+tags: []
+user_id: unknown

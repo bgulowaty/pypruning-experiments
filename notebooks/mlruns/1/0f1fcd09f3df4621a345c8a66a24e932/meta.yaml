@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0f1fcd09f3df4621a345c8a66a24e932/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0f1fcd09f3df4621a345c8a66a24e932
+run_name: welcoming-flea-364
+run_uuid: 0f1fcd09f3df4621a345c8a66a24e932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041668793
+status: 1
+tags: []
+user_id: unknown

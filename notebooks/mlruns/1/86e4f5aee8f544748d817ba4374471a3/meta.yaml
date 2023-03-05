@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/86e4f5aee8f544748d817ba4374471a3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86e4f5aee8f544748d817ba4374471a3
+run_name: upbeat-doe-104
+run_uuid: 86e4f5aee8f544748d817ba4374471a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041846554
+status: 1
+tags: []
+user_id: unknown

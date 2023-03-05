@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/37d689a55238458c81aa4389fa3d89ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 37d689a55238458c81aa4389fa3d89ee
+run_name: fortunate-mare-118
+run_uuid: 37d689a55238458c81aa4389fa3d89ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041678229
+status: 1
+tags: []
+user_id: unknown

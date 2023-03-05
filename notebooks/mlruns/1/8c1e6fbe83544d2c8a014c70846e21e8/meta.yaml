@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8c1e6fbe83544d2c8a014c70846e21e8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8c1e6fbe83544d2c8a014c70846e21e8
+run_name: abundant-pig-374
+run_uuid: 8c1e6fbe83544d2c8a014c70846e21e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041500132
+status: 1
+tags: []
+user_id: unknown

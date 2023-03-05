@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a9baac3586794221b49dc8afbf6e483d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a9baac3586794221b49dc8afbf6e483d
+run_name: monumental-fish-193
+run_uuid: a9baac3586794221b49dc8afbf6e483d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041914900
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d6a947b47d17411b9a19bfb0464409d0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d6a947b47d17411b9a19bfb0464409d0
+run_name: trusting-fowl-77
+run_uuid: d6a947b47d17411b9a19bfb0464409d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041728130
+status: 1
+tags: []
+user_id: unknown

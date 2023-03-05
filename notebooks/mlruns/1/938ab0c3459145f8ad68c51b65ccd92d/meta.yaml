@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/938ab0c3459145f8ad68c51b65ccd92d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 938ab0c3459145f8ad68c51b65ccd92d
+run_name: secretive-bat-604
+run_uuid: 938ab0c3459145f8ad68c51b65ccd92d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041831572
+status: 1
+tags: []
+user_id: unknown

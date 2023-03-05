@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7e22f389242547cfba53e22d42c6fd0e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7e22f389242547cfba53e22d42c6fd0e
+run_name: respected-fish-835
+run_uuid: 7e22f389242547cfba53e22d42c6fd0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041971139
+status: 1
+tags: []
+user_id: unknown

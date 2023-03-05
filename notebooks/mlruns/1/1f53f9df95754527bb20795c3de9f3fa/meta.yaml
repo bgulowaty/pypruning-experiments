@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1f53f9df95754527bb20795c3de9f3fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1f53f9df95754527bb20795c3de9f3fa
+run_name: burly-tern-378
+run_uuid: 1f53f9df95754527bb20795c3de9f3fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041566175
+status: 1
+tags: []
+user_id: unknown

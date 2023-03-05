@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b49c59a136714ad5a1b45834d62eae56/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b49c59a136714ad5a1b45834d62eae56
+run_name: zealous-colt-333
+run_uuid: b49c59a136714ad5a1b45834d62eae56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041808771
+status: 1
+tags: []
+user_id: unknown

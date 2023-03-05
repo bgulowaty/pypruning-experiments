@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/890fe28504ae4f5e9b856e8164d7ed55/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 890fe28504ae4f5e9b856e8164d7ed55
+run_name: salty-squirrel-749
+run_uuid: 890fe28504ae4f5e9b856e8164d7ed55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041726135
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/396cdcd4fcf5416a88739b8f2cb9203f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 396cdcd4fcf5416a88739b8f2cb9203f
+run_name: abrasive-shoat-808
+run_uuid: 396cdcd4fcf5416a88739b8f2cb9203f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041500196
+status: 1
+tags: []
+user_id: unknown

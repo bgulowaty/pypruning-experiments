@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2543648ea41642a285600bd5ed978987/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2543648ea41642a285600bd5ed978987
+run_name: adorable-lark-423
+run_uuid: 2543648ea41642a285600bd5ed978987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041634357
+status: 1
+tags: []
+user_id: unknown

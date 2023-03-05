@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2e5bfe1bd8574a008e9ddb6e365e845d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2e5bfe1bd8574a008e9ddb6e365e845d
+run_name: melodic-bird-372
+run_uuid: 2e5bfe1bd8574a008e9ddb6e365e845d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041941189
+status: 1
+tags: []
+user_id: unknown

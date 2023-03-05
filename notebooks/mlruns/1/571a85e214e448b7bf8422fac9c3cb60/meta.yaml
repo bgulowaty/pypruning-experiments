@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/571a85e214e448b7bf8422fac9c3cb60/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 571a85e214e448b7bf8422fac9c3cb60
+run_name: languid-goose-930
+run_uuid: 571a85e214e448b7bf8422fac9c3cb60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041505575
+status: 1
+tags: []
+user_id: unknown

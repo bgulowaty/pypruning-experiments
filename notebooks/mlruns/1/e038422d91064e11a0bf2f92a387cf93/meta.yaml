@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e038422d91064e11a0bf2f92a387cf93/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e038422d91064e11a0bf2f92a387cf93
+run_name: shivering-sloth-438
+run_uuid: e038422d91064e11a0bf2f92a387cf93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041899977
+status: 1
+tags: []
+user_id: unknown

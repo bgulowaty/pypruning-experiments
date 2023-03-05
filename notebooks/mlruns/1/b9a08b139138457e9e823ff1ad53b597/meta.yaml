@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b9a08b139138457e9e823ff1ad53b597/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b9a08b139138457e9e823ff1ad53b597
+run_name: suave-koi-186
+run_uuid: b9a08b139138457e9e823ff1ad53b597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041613024
+status: 1
+tags: []
+user_id: unknown

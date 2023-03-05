@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cfb04bc653874bc190b47417be403f26/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cfb04bc653874bc190b47417be403f26
+run_name: dapper-fish-29
+run_uuid: cfb04bc653874bc190b47417be403f26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041668061
+status: 1
+tags: []
+user_id: unknown

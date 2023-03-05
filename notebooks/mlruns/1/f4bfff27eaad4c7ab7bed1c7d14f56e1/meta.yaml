@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f4bfff27eaad4c7ab7bed1c7d14f56e1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f4bfff27eaad4c7ab7bed1c7d14f56e1
+run_name: sneaky-kite-927
+run_uuid: f4bfff27eaad4c7ab7bed1c7d14f56e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041544770
+status: 1
+tags: []
+user_id: unknown

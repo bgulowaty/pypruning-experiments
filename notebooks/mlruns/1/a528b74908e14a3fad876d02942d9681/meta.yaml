@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a528b74908e14a3fad876d02942d9681/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a528b74908e14a3fad876d02942d9681
+run_name: awesome-vole-889
+run_uuid: a528b74908e14a3fad876d02942d9681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041681395
+status: 1
+tags: []
+user_id: unknown

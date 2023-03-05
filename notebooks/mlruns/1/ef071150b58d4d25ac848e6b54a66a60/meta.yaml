@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ef071150b58d4d25ac848e6b54a66a60/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef071150b58d4d25ac848e6b54a66a60
+run_name: melodic-bee-0
+run_uuid: ef071150b58d4d25ac848e6b54a66a60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041727023
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/50dea2c371a3466580c5eadfd2114dc9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 50dea2c371a3466580c5eadfd2114dc9
+run_name: welcoming-smelt-387
+run_uuid: 50dea2c371a3466580c5eadfd2114dc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041840664
+status: 1
+tags: []
+user_id: unknown

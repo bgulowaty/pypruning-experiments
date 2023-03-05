@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/76eea6a44aae4f19a7046d24c2ae4fbe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 76eea6a44aae4f19a7046d24c2ae4fbe
+run_name: enthused-pig-35
+run_uuid: 76eea6a44aae4f19a7046d24c2ae4fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041855260
+status: 1
+tags: []
+user_id: unknown

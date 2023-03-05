@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bd5136b92abb4b62a0427d90742da0a8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd5136b92abb4b62a0427d90742da0a8
+run_name: grandiose-ray-551
+run_uuid: bd5136b92abb4b62a0427d90742da0a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041955861
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a35f34555b114881aeb28c22ec5bf29e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a35f34555b114881aeb28c22ec5bf29e
+run_name: flawless-gnat-722
+run_uuid: a35f34555b114881aeb28c22ec5bf29e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041824655
+status: 1
+tags: []
+user_id: unknown

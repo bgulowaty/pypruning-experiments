@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7bcc6ce652e64840a8fd60f9b278cbaa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7bcc6ce652e64840a8fd60f9b278cbaa
+run_name: able-carp-460
+run_uuid: 7bcc6ce652e64840a8fd60f9b278cbaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041521012
+status: 1
+tags: []
+user_id: unknown

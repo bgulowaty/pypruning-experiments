@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/26b291270a104fcf90c85bb444e0d7b4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 26b291270a104fcf90c85bb444e0d7b4
+run_name: gregarious-crane-158
+run_uuid: 26b291270a104fcf90c85bb444e0d7b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499614
+status: 1
+tags: []
+user_id: unknown

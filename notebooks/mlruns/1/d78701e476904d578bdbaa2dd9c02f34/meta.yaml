@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d78701e476904d578bdbaa2dd9c02f34/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d78701e476904d578bdbaa2dd9c02f34
+run_name: dashing-seal-588
+run_uuid: d78701e476904d578bdbaa2dd9c02f34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041620080
+status: 1
+tags: []
+user_id: unknown

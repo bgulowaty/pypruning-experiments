@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ecc39f09b57d45ee8b9f8cc220d72cf5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ecc39f09b57d45ee8b9f8cc220d72cf5
+run_name: debonair-slug-28
+run_uuid: ecc39f09b57d45ee8b9f8cc220d72cf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041723599
+status: 1
+tags: []
+user_id: unknown

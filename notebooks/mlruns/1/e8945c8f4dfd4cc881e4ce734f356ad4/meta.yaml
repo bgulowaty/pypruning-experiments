@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e8945c8f4dfd4cc881e4ce734f356ad4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e8945c8f4dfd4cc881e4ce734f356ad4
+run_name: crawling-mouse-940
+run_uuid: e8945c8f4dfd4cc881e4ce734f356ad4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041633277
+status: 1
+tags: []
+user_id: unknown

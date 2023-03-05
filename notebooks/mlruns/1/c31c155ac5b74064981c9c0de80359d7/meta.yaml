@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c31c155ac5b74064981c9c0de80359d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c31c155ac5b74064981c9c0de80359d7
+run_name: worried-sheep-427
+run_uuid: c31c155ac5b74064981c9c0de80359d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497058
+status: 1
+tags: []
+user_id: unknown

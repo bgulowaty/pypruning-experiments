@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/95cfa199be2d4ef1a50e370b9a069f49/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95cfa199be2d4ef1a50e370b9a069f49
+run_name: blushing-shrew-34
+run_uuid: 95cfa199be2d4ef1a50e370b9a069f49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041831732
+status: 1
+tags: []
+user_id: unknown

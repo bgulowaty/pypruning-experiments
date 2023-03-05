@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/887378b124a64ae2bc067620d6b36fe4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 887378b124a64ae2bc067620d6b36fe4
+run_name: exultant-toad-98
+run_uuid: 887378b124a64ae2bc067620d6b36fe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041744000
+status: 1
+tags: []
+user_id: unknown

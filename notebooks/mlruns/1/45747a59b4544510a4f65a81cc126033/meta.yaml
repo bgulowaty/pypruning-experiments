@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/45747a59b4544510a4f65a81cc126033/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45747a59b4544510a4f65a81cc126033
+run_name: skillful-penguin-466
+run_uuid: 45747a59b4544510a4f65a81cc126033
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041611590
+status: 1
+tags: []
+user_id: unknown

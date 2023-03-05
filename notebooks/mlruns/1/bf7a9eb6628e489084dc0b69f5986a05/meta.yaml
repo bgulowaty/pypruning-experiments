@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bf7a9eb6628e489084dc0b69f5986a05/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bf7a9eb6628e489084dc0b69f5986a05
+run_name: unleashed-bat-699
+run_uuid: bf7a9eb6628e489084dc0b69f5986a05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502630
+status: 1
+tags: []
+user_id: unknown

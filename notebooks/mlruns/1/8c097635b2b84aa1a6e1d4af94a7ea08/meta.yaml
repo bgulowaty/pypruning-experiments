@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8c097635b2b84aa1a6e1d4af94a7ea08/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8c097635b2b84aa1a6e1d4af94a7ea08
+run_name: beautiful-chimp-120
+run_uuid: 8c097635b2b84aa1a6e1d4af94a7ea08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041503467
+status: 1
+tags: []
+user_id: unknown

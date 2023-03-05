@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0693867f87264ae890f9bc10cbb7ee40/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0693867f87264ae890f9bc10cbb7ee40
+run_name: abrasive-hen-518
+run_uuid: 0693867f87264ae890f9bc10cbb7ee40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041747942
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/01414245b4f4427b960da92b108578ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01414245b4f4427b960da92b108578ae
+run_name: righteous-colt-125
+run_uuid: 01414245b4f4427b960da92b108578ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041821382
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/409ffa7c404143d8a62de6d83523132f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 409ffa7c404143d8a62de6d83523132f
+run_name: languid-crab-282
+run_uuid: 409ffa7c404143d8a62de6d83523132f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041980725
+status: 1
+tags: []
+user_id: unknown

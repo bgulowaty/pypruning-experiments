@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e6dca461072448a19f96a0156d7fa045/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e6dca461072448a19f96a0156d7fa045
+run_name: unruly-jay-739
+run_uuid: e6dca461072448a19f96a0156d7fa045
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499164
+status: 1
+tags: []
+user_id: unknown

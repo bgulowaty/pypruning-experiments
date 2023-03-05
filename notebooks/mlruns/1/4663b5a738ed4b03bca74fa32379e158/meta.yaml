@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4663b5a738ed4b03bca74fa32379e158/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4663b5a738ed4b03bca74fa32379e158
+run_name: angry-carp-96
+run_uuid: 4663b5a738ed4b03bca74fa32379e158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041823495
+status: 1
+tags: []
+user_id: unknown

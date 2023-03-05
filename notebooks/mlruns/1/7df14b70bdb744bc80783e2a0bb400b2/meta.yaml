@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7df14b70bdb744bc80783e2a0bb400b2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7df14b70bdb744bc80783e2a0bb400b2
+run_name: resilient-stork-434
+run_uuid: 7df14b70bdb744bc80783e2a0bb400b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041872981
+status: 1
+tags: []
+user_id: unknown

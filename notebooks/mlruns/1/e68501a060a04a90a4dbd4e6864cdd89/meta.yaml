@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e68501a060a04a90a4dbd4e6864cdd89/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e68501a060a04a90a4dbd4e6864cdd89
+run_name: victorious-bear-756
+run_uuid: e68501a060a04a90a4dbd4e6864cdd89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041543564
+status: 1
+tags: []
+user_id: unknown

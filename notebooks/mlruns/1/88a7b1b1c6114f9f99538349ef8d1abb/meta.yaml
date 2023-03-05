@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/88a7b1b1c6114f9f99538349ef8d1abb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 88a7b1b1c6114f9f99538349ef8d1abb
+run_name: thundering-fly-802
+run_uuid: 88a7b1b1c6114f9f99538349ef8d1abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041870378
+status: 1
+tags: []
+user_id: unknown

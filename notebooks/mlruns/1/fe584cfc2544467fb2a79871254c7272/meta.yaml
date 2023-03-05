@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fe584cfc2544467fb2a79871254c7272/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe584cfc2544467fb2a79871254c7272
+run_name: casual-donkey-997
+run_uuid: fe584cfc2544467fb2a79871254c7272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041531965
+status: 1
+tags: []
+user_id: unknown

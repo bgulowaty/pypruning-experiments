@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a80c2b0df95640e9bf4060156623cf72/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a80c2b0df95640e9bf4060156623cf72
+run_name: classy-koi-330
+run_uuid: a80c2b0df95640e9bf4060156623cf72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041600177
+status: 1
+tags: []
+user_id: unknown

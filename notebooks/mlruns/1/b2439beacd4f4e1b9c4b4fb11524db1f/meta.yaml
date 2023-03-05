@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b2439beacd4f4e1b9c4b4fb11524db1f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b2439beacd4f4e1b9c4b4fb11524db1f
+run_name: useful-seal-750
+run_uuid: b2439beacd4f4e1b9c4b4fb11524db1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041686731
+status: 1
+tags: []
+user_id: unknown

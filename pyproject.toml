@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "pypruning-new"
+version = "0.1.0"
+description = ""
+authors = ["Bogdan Gulowaty <b.gulowaty@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pypruning = {git = "https://github.com/sbuschjaeger/PyPruning.git"}
+ml-utils = {path = "../ml-utils", develop = true}
+jupyterlab = "^3.6.1"
+mlflow = "^1.3"
+python-box = "^7.0.1"
+mlxtend = "^0.21.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

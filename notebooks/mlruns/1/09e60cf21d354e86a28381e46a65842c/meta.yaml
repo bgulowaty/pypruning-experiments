@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/09e60cf21d354e86a28381e46a65842c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09e60cf21d354e86a28381e46a65842c
+run_name: bedecked-hen-887
+run_uuid: 09e60cf21d354e86a28381e46a65842c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041645610
+status: 1
+tags: []
+user_id: unknown

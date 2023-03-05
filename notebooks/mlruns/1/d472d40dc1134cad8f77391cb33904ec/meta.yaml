@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d472d40dc1134cad8f77391cb33904ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d472d40dc1134cad8f77391cb33904ec
+run_name: abrasive-kite-520
+run_uuid: d472d40dc1134cad8f77391cb33904ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041906409
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8f4b26869c7d48729db63f3f9494bbbf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8f4b26869c7d48729db63f3f9494bbbf
+run_name: redolent-dolphin-190
+run_uuid: 8f4b26869c7d48729db63f3f9494bbbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041708390
+status: 1
+tags: []
+user_id: unknown

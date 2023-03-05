@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/819885cb7a9141cca8ce5b5317b53a05/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 819885cb7a9141cca8ce5b5317b53a05
+run_name: resilient-shad-178
+run_uuid: 819885cb7a9141cca8ce5b5317b53a05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041580765
+status: 1
+tags: []
+user_id: unknown

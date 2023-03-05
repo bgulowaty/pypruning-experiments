@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/877a70a6e6d4458cad7f3d4984c96a7c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 877a70a6e6d4458cad7f3d4984c96a7c
+run_name: skillful-lamb-31
+run_uuid: 877a70a6e6d4458cad7f3d4984c96a7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041891089
+status: 1
+tags: []
+user_id: unknown

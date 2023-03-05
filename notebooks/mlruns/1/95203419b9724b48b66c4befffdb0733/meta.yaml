@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/95203419b9724b48b66c4befffdb0733/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95203419b9724b48b66c4befffdb0733
+run_name: able-ray-638
+run_uuid: 95203419b9724b48b66c4befffdb0733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041501711
+status: 1
+tags: []
+user_id: unknown

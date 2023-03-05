@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6e422a1a978c4b578f4997af98985f80/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e422a1a978c4b578f4997af98985f80
+run_name: sedate-colt-848
+run_uuid: 6e422a1a978c4b578f4997af98985f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041799321
+status: 1
+tags: []
+user_id: unknown

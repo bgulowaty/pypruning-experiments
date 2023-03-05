@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/485b09f296584ccbb408d4e5953887f5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 485b09f296584ccbb408d4e5953887f5
+run_name: nimble-shark-561
+run_uuid: 485b09f296584ccbb408d4e5953887f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041750192
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/466f265a0f9b45bdb9acda9d138ef66a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 466f265a0f9b45bdb9acda9d138ef66a
+run_name: rebellious-loon-691
+run_uuid: 466f265a0f9b45bdb9acda9d138ef66a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041880329
+status: 1
+tags: []
+user_id: unknown

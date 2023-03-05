@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bfed45384a6a4348996da1210fa7740f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bfed45384a6a4348996da1210fa7740f
+run_name: nervous-bass-472
+run_uuid: bfed45384a6a4348996da1210fa7740f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041667334
+status: 1
+tags: []
+user_id: unknown

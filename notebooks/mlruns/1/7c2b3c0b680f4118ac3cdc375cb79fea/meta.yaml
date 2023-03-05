@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7c2b3c0b680f4118ac3cdc375cb79fea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7c2b3c0b680f4118ac3cdc375cb79fea
+run_name: able-dolphin-64
+run_uuid: 7c2b3c0b680f4118ac3cdc375cb79fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041876287
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/00c20b0963bb4604a375843c73629da8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 00c20b0963bb4604a375843c73629da8
+run_name: nervous-quail-214
+run_uuid: 00c20b0963bb4604a375843c73629da8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041814426
+status: 1
+tags: []
+user_id: unknown

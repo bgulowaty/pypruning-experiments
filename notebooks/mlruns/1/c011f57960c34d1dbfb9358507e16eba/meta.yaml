@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c011f57960c34d1dbfb9358507e16eba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c011f57960c34d1dbfb9358507e16eba
+run_name: youthful-grub-728
+run_uuid: c011f57960c34d1dbfb9358507e16eba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041518705
+status: 1
+tags: []
+user_id: unknown

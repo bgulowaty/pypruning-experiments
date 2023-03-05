@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2d97b9eb86b544f2aa88281c289a41da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2d97b9eb86b544f2aa88281c289a41da
+run_name: honorable-sloth-740
+run_uuid: 2d97b9eb86b544f2aa88281c289a41da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041543771
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d79b2d8adcb34448bb7625257cee08f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d79b2d8adcb34448bb7625257cee08f2
+run_name: adorable-shrimp-808
+run_uuid: d79b2d8adcb34448bb7625257cee08f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041825933
+status: 1
+tags: []
+user_id: unknown

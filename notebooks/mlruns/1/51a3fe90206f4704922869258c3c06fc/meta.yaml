@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/51a3fe90206f4704922869258c3c06fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 51a3fe90206f4704922869258c3c06fc
+run_name: shivering-horse-944
+run_uuid: 51a3fe90206f4704922869258c3c06fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041847772
+status: 1
+tags: []
+user_id: unknown

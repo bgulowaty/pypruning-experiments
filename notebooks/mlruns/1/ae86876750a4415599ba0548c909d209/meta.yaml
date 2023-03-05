@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ae86876750a4415599ba0548c909d209/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ae86876750a4415599ba0548c909d209
+run_name: suave-wasp-253
+run_uuid: ae86876750a4415599ba0548c909d209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041532501
+status: 1
+tags: []
+user_id: unknown

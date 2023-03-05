@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b54a16a32bf5408f973509d3db8867ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b54a16a32bf5408f973509d3db8867ac
+run_name: blushing-kit-171
+run_uuid: b54a16a32bf5408f973509d3db8867ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041908003
+status: 1
+tags: []
+user_id: unknown

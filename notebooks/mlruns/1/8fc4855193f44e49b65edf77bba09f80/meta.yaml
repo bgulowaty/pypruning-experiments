@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8fc4855193f44e49b65edf77bba09f80/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8fc4855193f44e49b65edf77bba09f80
+run_name: blushing-steed-508
+run_uuid: 8fc4855193f44e49b65edf77bba09f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041687070
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bef2416549754681a19d511a968975ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bef2416549754681a19d511a968975ac
+run_name: zealous-kite-927
+run_uuid: bef2416549754681a19d511a968975ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041951543
+status: 1
+tags: []
+user_id: unknown

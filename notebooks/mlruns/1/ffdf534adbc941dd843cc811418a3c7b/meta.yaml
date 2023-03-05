@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ffdf534adbc941dd843cc811418a3c7b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ffdf534adbc941dd843cc811418a3c7b
+run_name: smiling-fox-356
+run_uuid: ffdf534adbc941dd843cc811418a3c7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502573
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fed993096c8747eebc9d585f5dbc390c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fed993096c8747eebc9d585f5dbc390c
+run_name: nervous-yak-211
+run_uuid: fed993096c8747eebc9d585f5dbc390c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041614430
+status: 1
+tags: []
+user_id: unknown

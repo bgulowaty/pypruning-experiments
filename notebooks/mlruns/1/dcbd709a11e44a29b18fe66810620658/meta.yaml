@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dcbd709a11e44a29b18fe66810620658/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dcbd709a11e44a29b18fe66810620658
+run_name: big-dolphin-402
+run_uuid: dcbd709a11e44a29b18fe66810620658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041647957
+status: 1
+tags: []
+user_id: unknown

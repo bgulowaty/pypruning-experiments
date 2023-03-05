@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6ed5e2d2b4e841e1a7a52a7d0f1689b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6ed5e2d2b4e841e1a7a52a7d0f1689b3
+run_name: inquisitive-bird-288
+run_uuid: 6ed5e2d2b4e841e1a7a52a7d0f1689b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041554601
+status: 1
+tags: []
+user_id: unknown

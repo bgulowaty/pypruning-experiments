@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2ab9ccd094d04a099c50f11d973be162/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ab9ccd094d04a099c50f11d973be162
+run_name: bittersweet-loon-878
+run_uuid: 2ab9ccd094d04a099c50f11d973be162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041563527
+status: 1
+tags: []
+user_id: unknown

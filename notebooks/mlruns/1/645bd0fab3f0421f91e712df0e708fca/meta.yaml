@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/645bd0fab3f0421f91e712df0e708fca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 645bd0fab3f0421f91e712df0e708fca
+run_name: painted-cow-887
+run_uuid: 645bd0fab3f0421f91e712df0e708fca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495275
+status: 1
+tags: []
+user_id: unknown

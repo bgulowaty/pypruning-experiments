@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/21310a002ff147f9ba807d872857006e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 21310a002ff147f9ba807d872857006e
+run_name: incongruous-rat-598
+run_uuid: 21310a002ff147f9ba807d872857006e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041934355
+status: 1
+tags: []
+user_id: unknown

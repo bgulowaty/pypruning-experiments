@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a6cfb6135be042f6aaa6cd54ef1fce05/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a6cfb6135be042f6aaa6cd54ef1fce05
+run_name: thundering-fox-619
+run_uuid: a6cfb6135be042f6aaa6cd54ef1fce05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041541962
+status: 1
+tags: []
+user_id: unknown

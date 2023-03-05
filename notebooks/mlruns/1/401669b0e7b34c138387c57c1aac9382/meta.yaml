@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/401669b0e7b34c138387c57c1aac9382/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 401669b0e7b34c138387c57c1aac9382
+run_name: learned-snail-51
+run_uuid: 401669b0e7b34c138387c57c1aac9382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041594084
+status: 1
+tags: []
+user_id: unknown

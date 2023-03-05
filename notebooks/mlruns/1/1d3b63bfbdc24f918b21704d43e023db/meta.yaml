@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1d3b63bfbdc24f918b21704d43e023db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1d3b63bfbdc24f918b21704d43e023db
+run_name: intrigued-slug-848
+run_uuid: 1d3b63bfbdc24f918b21704d43e023db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041561959
+status: 1
+tags: []
+user_id: unknown

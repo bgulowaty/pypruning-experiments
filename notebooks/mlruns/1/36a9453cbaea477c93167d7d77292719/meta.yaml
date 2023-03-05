@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/36a9453cbaea477c93167d7d77292719/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 36a9453cbaea477c93167d7d77292719
+run_name: chill-chimp-751
+run_uuid: 36a9453cbaea477c93167d7d77292719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041506312
+status: 1
+tags: []
+user_id: unknown

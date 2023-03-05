@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9cb3dcdb594149b18381fc750a1605fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9cb3dcdb594149b18381fc750a1605fa
+run_name: handsome-ray-632
+run_uuid: 9cb3dcdb594149b18381fc750a1605fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041897046
+status: 1
+tags: []
+user_id: unknown

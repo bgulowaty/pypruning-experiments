@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4381c3123bbc428d9cb9dcfc643c10ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4381c3123bbc428d9cb9dcfc643c10ae
+run_name: beautiful-cow-534
+run_uuid: 4381c3123bbc428d9cb9dcfc643c10ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041797222
+status: 1
+tags: []
+user_id: unknown

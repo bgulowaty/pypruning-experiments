@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fc7a05260bc243bd81a69cd81b5e62ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc7a05260bc243bd81a69cd81b5e62ee
+run_name: delicate-shad-935
+run_uuid: fc7a05260bc243bd81a69cd81b5e62ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041709849
+status: 1
+tags: []
+user_id: unknown

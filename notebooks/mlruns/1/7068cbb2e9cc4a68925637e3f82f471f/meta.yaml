@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7068cbb2e9cc4a68925637e3f82f471f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7068cbb2e9cc4a68925637e3f82f471f
+run_name: likeable-fawn-633
+run_uuid: 7068cbb2e9cc4a68925637e3f82f471f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041941717
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6ce3d3219060455ba75d7282701547dc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6ce3d3219060455ba75d7282701547dc
+run_name: thundering-lynx-812
+run_uuid: 6ce3d3219060455ba75d7282701547dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041597566
+status: 1
+tags: []
+user_id: unknown

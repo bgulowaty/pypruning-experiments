@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3ca6913b71fa463bab15af6d5ec1c367/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3ca6913b71fa463bab15af6d5ec1c367
+run_name: exultant-sloth-288
+run_uuid: 3ca6913b71fa463bab15af6d5ec1c367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041921082
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/47d76ab0a0894b40aaf764e9514f76c8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 47d76ab0a0894b40aaf764e9514f76c8
+run_name: casual-fawn-861
+run_uuid: 47d76ab0a0894b40aaf764e9514f76c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041701623
+status: 1
+tags: []
+user_id: unknown

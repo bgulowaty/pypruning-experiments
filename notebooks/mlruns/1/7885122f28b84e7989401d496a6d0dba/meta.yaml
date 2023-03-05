@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7885122f28b84e7989401d496a6d0dba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7885122f28b84e7989401d496a6d0dba
+run_name: rogue-horse-505
+run_uuid: 7885122f28b84e7989401d496a6d0dba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041723768
+status: 1
+tags: []
+user_id: unknown

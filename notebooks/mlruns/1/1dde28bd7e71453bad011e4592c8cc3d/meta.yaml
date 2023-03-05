@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1dde28bd7e71453bad011e4592c8cc3d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1dde28bd7e71453bad011e4592c8cc3d
+run_name: smiling-jay-78
+run_uuid: 1dde28bd7e71453bad011e4592c8cc3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041939630
+status: 1
+tags: []
+user_id: unknown

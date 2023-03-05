@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cff8f1a8d561444bbf570ba445ee81cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cff8f1a8d561444bbf570ba445ee81cf
+run_name: silent-ape-303
+run_uuid: cff8f1a8d561444bbf570ba445ee81cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041507069
+status: 1
+tags: []
+user_id: unknown

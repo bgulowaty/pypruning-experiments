@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fed60eba2eba4886859f64f215d17463/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fed60eba2eba4886859f64f215d17463
+run_name: receptive-doe-682
+run_uuid: fed60eba2eba4886859f64f215d17463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041834091
+status: 1
+tags: []
+user_id: unknown

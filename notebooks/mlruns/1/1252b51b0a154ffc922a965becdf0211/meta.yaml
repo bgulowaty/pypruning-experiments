@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1252b51b0a154ffc922a965becdf0211/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1252b51b0a154ffc922a965becdf0211
+run_name: calm-grub-231
+run_uuid: 1252b51b0a154ffc922a965becdf0211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041702503
+status: 1
+tags: []
+user_id: unknown

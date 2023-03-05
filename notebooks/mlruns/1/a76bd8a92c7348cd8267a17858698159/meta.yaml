@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a76bd8a92c7348cd8267a17858698159/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a76bd8a92c7348cd8267a17858698159
+run_name: suave-carp-395
+run_uuid: a76bd8a92c7348cd8267a17858698159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041964884
+status: 1
+tags: []
+user_id: unknown

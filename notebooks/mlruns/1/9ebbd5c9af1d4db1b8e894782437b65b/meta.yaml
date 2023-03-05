@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9ebbd5c9af1d4db1b8e894782437b65b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ebbd5c9af1d4db1b8e894782437b65b
+run_name: righteous-doe-165
+run_uuid: 9ebbd5c9af1d4db1b8e894782437b65b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041635976
+status: 1
+tags: []
+user_id: unknown

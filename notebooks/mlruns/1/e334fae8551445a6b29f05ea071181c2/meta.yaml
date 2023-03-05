@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e334fae8551445a6b29f05ea071181c2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e334fae8551445a6b29f05ea071181c2
+run_name: delicate-stoat-715
+run_uuid: e334fae8551445a6b29f05ea071181c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041586040
+status: 1
+tags: []
+user_id: unknown

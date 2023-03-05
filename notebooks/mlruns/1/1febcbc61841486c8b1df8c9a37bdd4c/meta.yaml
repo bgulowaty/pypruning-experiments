@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1febcbc61841486c8b1df8c9a37bdd4c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1febcbc61841486c8b1df8c9a37bdd4c
+run_name: puzzled-hound-665
+run_uuid: 1febcbc61841486c8b1df8c9a37bdd4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041973290
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d1a0825f2f81480086a7cdeff63028d8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d1a0825f2f81480086a7cdeff63028d8
+run_name: wistful-steed-99
+run_uuid: d1a0825f2f81480086a7cdeff63028d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041906185
+status: 1
+tags: []
+user_id: unknown

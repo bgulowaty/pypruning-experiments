@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/794b476c43e440b68b0a29031d5e80be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 794b476c43e440b68b0a29031d5e80be
+run_name: abundant-jay-717
+run_uuid: 794b476c43e440b68b0a29031d5e80be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041557376
+status: 1
+tags: []
+user_id: unknown

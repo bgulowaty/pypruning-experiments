@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c744d1173dd24258841d5db086770548/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c744d1173dd24258841d5db086770548
+run_name: honorable-eel-259
+run_uuid: c744d1173dd24258841d5db086770548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041725895
+status: 1
+tags: []
+user_id: unknown

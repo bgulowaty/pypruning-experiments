@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3fea7faadd5e4cfa8e232a6daf0d0014/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3fea7faadd5e4cfa8e232a6daf0d0014
+run_name: learned-squirrel-612
+run_uuid: 3fea7faadd5e4cfa8e232a6daf0d0014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041507396
+status: 1
+tags: []
+user_id: unknown

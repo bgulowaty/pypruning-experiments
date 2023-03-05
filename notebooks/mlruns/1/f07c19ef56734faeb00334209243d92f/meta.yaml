@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f07c19ef56734faeb00334209243d92f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f07c19ef56734faeb00334209243d92f
+run_name: glamorous-elk-268
+run_uuid: f07c19ef56734faeb00334209243d92f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041674456
+status: 1
+tags: []
+user_id: unknown

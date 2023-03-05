@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a8f3c3f98bee47a5bf61c56ffde31652/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8f3c3f98bee47a5bf61c56ffde31652
+run_name: merciful-koi-385
+run_uuid: a8f3c3f98bee47a5bf61c56ffde31652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041498925
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/557b0939e6354a528e3a7c196e70f99e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 557b0939e6354a528e3a7c196e70f99e
+run_name: amusing-penguin-235
+run_uuid: 557b0939e6354a528e3a7c196e70f99e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041781918
+status: 1
+tags: []
+user_id: unknown

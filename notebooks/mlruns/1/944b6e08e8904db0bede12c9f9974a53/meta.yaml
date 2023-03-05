@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/944b6e08e8904db0bede12c9f9974a53/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 944b6e08e8904db0bede12c9f9974a53
+run_name: angry-hen-97
+run_uuid: 944b6e08e8904db0bede12c9f9974a53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495494
+status: 1
+tags: []
+user_id: unknown

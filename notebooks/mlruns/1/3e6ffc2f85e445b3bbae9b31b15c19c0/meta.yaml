@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3e6ffc2f85e445b3bbae9b31b15c19c0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e6ffc2f85e445b3bbae9b31b15c19c0
+run_name: handsome-hog-499
+run_uuid: 3e6ffc2f85e445b3bbae9b31b15c19c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494431
+status: 1
+tags: []
+user_id: unknown

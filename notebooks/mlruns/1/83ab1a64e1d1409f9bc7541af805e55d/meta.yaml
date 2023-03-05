@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/83ab1a64e1d1409f9bc7541af805e55d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 83ab1a64e1d1409f9bc7541af805e55d
+run_name: peaceful-snake-588
+run_uuid: 83ab1a64e1d1409f9bc7541af805e55d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041837893
+status: 1
+tags: []
+user_id: unknown

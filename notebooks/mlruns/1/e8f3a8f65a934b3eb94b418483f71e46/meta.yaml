@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e8f3a8f65a934b3eb94b418483f71e46/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e8f3a8f65a934b3eb94b418483f71e46
+run_name: grandiose-sponge-455
+run_uuid: e8f3a8f65a934b3eb94b418483f71e46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041782233
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7d06a69e68a9407bbb3e1306b25d7cb3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d06a69e68a9407bbb3e1306b25d7cb3
+run_name: calm-penguin-332
+run_uuid: 7d06a69e68a9407bbb3e1306b25d7cb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495422
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/98e36448ee5745e09dc0de34a74f249f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98e36448ee5745e09dc0de34a74f249f
+run_name: handsome-mare-836
+run_uuid: 98e36448ee5745e09dc0de34a74f249f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041868528
+status: 1
+tags: []
+user_id: unknown

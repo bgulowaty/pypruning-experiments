@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ae7ae7a3f6214715a1044e8800204cc2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ae7ae7a3f6214715a1044e8800204cc2
+run_name: amusing-worm-614
+run_uuid: ae7ae7a3f6214715a1044e8800204cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041698026
+status: 1
+tags: []
+user_id: unknown

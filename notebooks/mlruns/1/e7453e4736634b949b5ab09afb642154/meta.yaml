@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e7453e4736634b949b5ab09afb642154/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7453e4736634b949b5ab09afb642154
+run_name: skillful-mink-466
+run_uuid: e7453e4736634b949b5ab09afb642154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041934258
+status: 1
+tags: []
+user_id: unknown

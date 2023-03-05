@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e006d6e5affd42e3be7a4fecaec86aa4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e006d6e5affd42e3be7a4fecaec86aa4
+run_name: thundering-rat-779
+run_uuid: e006d6e5affd42e3be7a4fecaec86aa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041916920
+status: 1
+tags: []
+user_id: unknown

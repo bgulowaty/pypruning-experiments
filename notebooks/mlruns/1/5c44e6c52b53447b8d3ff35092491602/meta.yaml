@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5c44e6c52b53447b8d3ff35092491602/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5c44e6c52b53447b8d3ff35092491602
+run_name: intelligent-ox-59
+run_uuid: 5c44e6c52b53447b8d3ff35092491602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041873666
+status: 1
+tags: []
+user_id: unknown

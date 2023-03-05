@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/494e8aa892b24691a359f4eb50d036ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 494e8aa892b24691a359f4eb50d036ed
+run_name: youthful-midge-513
+run_uuid: 494e8aa892b24691a359f4eb50d036ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041822168
+status: 1
+tags: []
+user_id: unknown

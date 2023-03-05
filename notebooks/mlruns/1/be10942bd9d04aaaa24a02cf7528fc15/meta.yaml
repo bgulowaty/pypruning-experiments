@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/be10942bd9d04aaaa24a02cf7528fc15/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: be10942bd9d04aaaa24a02cf7528fc15
+run_name: unique-mule-205
+run_uuid: be10942bd9d04aaaa24a02cf7528fc15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494841
+status: 1
+tags: []
+user_id: unknown

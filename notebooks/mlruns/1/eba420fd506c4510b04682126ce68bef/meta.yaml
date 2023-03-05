@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eba420fd506c4510b04682126ce68bef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eba420fd506c4510b04682126ce68bef
+run_name: upset-stork-738
+run_uuid: eba420fd506c4510b04682126ce68bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041577564
+status: 1
+tags: []
+user_id: unknown

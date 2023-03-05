@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f81eaf291df849efbec231111ede393d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f81eaf291df849efbec231111ede393d
+run_name: merciful-robin-39
+run_uuid: f81eaf291df849efbec231111ede393d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041560653
+status: 1
+tags: []
+user_id: unknown

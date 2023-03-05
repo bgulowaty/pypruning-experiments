@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d8cbfb247d1141ac89f6fb9760cf73ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8cbfb247d1141ac89f6fb9760cf73ad
+run_name: skillful-stoat-775
+run_uuid: d8cbfb247d1141ac89f6fb9760cf73ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041506256
+status: 1
+tags: []
+user_id: unknown

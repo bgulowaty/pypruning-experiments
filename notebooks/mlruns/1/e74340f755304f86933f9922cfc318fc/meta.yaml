@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e74340f755304f86933f9922cfc318fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e74340f755304f86933f9922cfc318fc
+run_name: bouncy-chimp-257
+run_uuid: e74340f755304f86933f9922cfc318fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041929724
+status: 1
+tags: []
+user_id: unknown

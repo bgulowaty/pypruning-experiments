@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a8d6a9a37bbc4acaa15423c2ff620fd4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8d6a9a37bbc4acaa15423c2ff620fd4
+run_name: selective-jay-526
+run_uuid: a8d6a9a37bbc4acaa15423c2ff620fd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041674377
+status: 1
+tags: []
+user_id: unknown

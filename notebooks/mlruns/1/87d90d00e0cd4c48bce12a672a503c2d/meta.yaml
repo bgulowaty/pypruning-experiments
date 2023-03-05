@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/87d90d00e0cd4c48bce12a672a503c2d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87d90d00e0cd4c48bce12a672a503c2d
+run_name: upset-shrew-538
+run_uuid: 87d90d00e0cd4c48bce12a672a503c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041599921
+status: 1
+tags: []
+user_id: unknown

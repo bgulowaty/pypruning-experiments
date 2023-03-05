@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fd4507dcbf194f438ed973f02b4b237b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fd4507dcbf194f438ed973f02b4b237b
+run_name: legendary-snipe-729
+run_uuid: fd4507dcbf194f438ed973f02b4b237b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041766303
+status: 1
+tags: []
+user_id: unknown

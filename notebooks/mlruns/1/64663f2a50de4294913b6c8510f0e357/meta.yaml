@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/64663f2a50de4294913b6c8510f0e357/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 64663f2a50de4294913b6c8510f0e357
+run_name: casual-carp-26
+run_uuid: 64663f2a50de4294913b6c8510f0e357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041591974
+status: 1
+tags: []
+user_id: unknown

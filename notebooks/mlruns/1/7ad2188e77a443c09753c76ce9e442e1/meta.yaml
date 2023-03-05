@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7ad2188e77a443c09753c76ce9e442e1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7ad2188e77a443c09753c76ce9e442e1
+run_name: sneaky-bear-635
+run_uuid: 7ad2188e77a443c09753c76ce9e442e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041639866
+status: 1
+tags: []
+user_id: unknown

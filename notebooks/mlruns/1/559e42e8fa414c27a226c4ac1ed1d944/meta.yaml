@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/559e42e8fa414c27a226c4ac1ed1d944/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 559e42e8fa414c27a226c4ac1ed1d944
+run_name: enchanting-owl-836
+run_uuid: 559e42e8fa414c27a226c4ac1ed1d944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041606461
+status: 1
+tags: []
+user_id: unknown

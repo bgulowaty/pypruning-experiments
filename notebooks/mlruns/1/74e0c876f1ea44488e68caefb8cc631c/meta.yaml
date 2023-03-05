@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/74e0c876f1ea44488e68caefb8cc631c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74e0c876f1ea44488e68caefb8cc631c
+run_name: bald-lamb-275
+run_uuid: 74e0c876f1ea44488e68caefb8cc631c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497045
+status: 1
+tags: []
+user_id: unknown

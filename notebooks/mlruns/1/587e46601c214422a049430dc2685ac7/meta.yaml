@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/587e46601c214422a049430dc2685ac7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 587e46601c214422a049430dc2685ac7
+run_name: welcoming-stag-254
+run_uuid: 587e46601c214422a049430dc2685ac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041559770
+status: 1
+tags: []
+user_id: unknown

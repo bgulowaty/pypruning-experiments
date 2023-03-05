@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f0ddb7b05f8c4d1dbaf1e154bab36efb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f0ddb7b05f8c4d1dbaf1e154bab36efb
+run_name: nervous-hen-322
+run_uuid: f0ddb7b05f8c4d1dbaf1e154bab36efb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041796007
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ef15f5c0ebd842188e491a86c0620a25/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef15f5c0ebd842188e491a86c0620a25
+run_name: worried-whale-849
+run_uuid: ef15f5c0ebd842188e491a86c0620a25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041506648
+status: 1
+tags: []
+user_id: unknown

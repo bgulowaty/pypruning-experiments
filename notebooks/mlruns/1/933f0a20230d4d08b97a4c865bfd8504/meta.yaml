@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/933f0a20230d4d08b97a4c865bfd8504/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 933f0a20230d4d08b97a4c865bfd8504
+run_name: delightful-finch-458
+run_uuid: 933f0a20230d4d08b97a4c865bfd8504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041632535
+status: 1
+tags: []
+user_id: unknown

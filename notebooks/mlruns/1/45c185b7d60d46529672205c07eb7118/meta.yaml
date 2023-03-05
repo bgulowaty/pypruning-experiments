@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/45c185b7d60d46529672205c07eb7118/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45c185b7d60d46529672205c07eb7118
+run_name: suave-lark-693
+run_uuid: 45c185b7d60d46529672205c07eb7118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041727168
+status: 1
+tags: []
+user_id: unknown

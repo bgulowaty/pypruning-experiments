@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/61d87fbf05bb42f781a59aece7c0c98c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 61d87fbf05bb42f781a59aece7c0c98c
+run_name: enchanting-hound-145
+run_uuid: 61d87fbf05bb42f781a59aece7c0c98c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041919519
+status: 1
+tags: []
+user_id: unknown

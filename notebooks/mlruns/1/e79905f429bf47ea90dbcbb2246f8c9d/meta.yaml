@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e79905f429bf47ea90dbcbb2246f8c9d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e79905f429bf47ea90dbcbb2246f8c9d
+run_name: sincere-bug-675
+run_uuid: e79905f429bf47ea90dbcbb2246f8c9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041727965
+status: 1
+tags: []
+user_id: unknown

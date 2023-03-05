@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c66167be11af4ff099b3de10afeb8877/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c66167be11af4ff099b3de10afeb8877
+run_name: respected-bat-896
+run_uuid: c66167be11af4ff099b3de10afeb8877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041507625
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4008e4653a404da6b6aeeea6622397c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4008e4653a404da6b6aeeea6622397c5
+run_name: industrious-mink-354
+run_uuid: 4008e4653a404da6b6aeeea6622397c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041664366
+status: 1
+tags: []
+user_id: unknown

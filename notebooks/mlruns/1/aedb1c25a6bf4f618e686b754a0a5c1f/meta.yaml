@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/aedb1c25a6bf4f618e686b754a0a5c1f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aedb1c25a6bf4f618e686b754a0a5c1f
+run_name: wise-moth-211
+run_uuid: aedb1c25a6bf4f618e686b754a0a5c1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041780952
+status: 1
+tags: []
+user_id: unknown

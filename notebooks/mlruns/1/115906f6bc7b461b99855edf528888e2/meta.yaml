@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/115906f6bc7b461b99855edf528888e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 115906f6bc7b461b99855edf528888e2
+run_name: invincible-ant-383
+run_uuid: 115906f6bc7b461b99855edf528888e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041974859
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/14c8342337a24c79a633b002c0701f34/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 14c8342337a24c79a633b002c0701f34
+run_name: resilient-mule-522
+run_uuid: 14c8342337a24c79a633b002c0701f34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041849021
+status: 1
+tags: []
+user_id: unknown

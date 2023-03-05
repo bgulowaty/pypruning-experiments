@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/139e12cc0a814e66a00e02143c681285/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 139e12cc0a814e66a00e02143c681285
+run_name: polite-duck-195
+run_uuid: 139e12cc0a814e66a00e02143c681285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041757885
+status: 1
+tags: []
+user_id: unknown

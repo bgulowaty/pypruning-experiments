@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/72ff48ad31b74effb7956329f9f95f6f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 72ff48ad31b74effb7956329f9f95f6f
+run_name: tasteful-bat-550
+run_uuid: 72ff48ad31b74effb7956329f9f95f6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041953744
+status: 1
+tags: []
+user_id: unknown

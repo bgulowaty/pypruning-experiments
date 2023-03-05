@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/10afde8ee4dc48b6a4edd8a18d76b358/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 10afde8ee4dc48b6a4edd8a18d76b358
+run_name: whimsical-grub-592
+run_uuid: 10afde8ee4dc48b6a4edd8a18d76b358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041871439
+status: 1
+tags: []
+user_id: unknown

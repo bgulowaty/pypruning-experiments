@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ebc80dd389494305b17de3838dd143fe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ebc80dd389494305b17de3838dd143fe
+run_name: nebulous-rook-152
+run_uuid: ebc80dd389494305b17de3838dd143fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041602365
+status: 1
+tags: []
+user_id: unknown

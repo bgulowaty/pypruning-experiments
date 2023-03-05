@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ce60c272d5054becb1233f916d5aeef1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce60c272d5054becb1233f916d5aeef1
+run_name: serious-mouse-831
+run_uuid: ce60c272d5054becb1233f916d5aeef1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041918403
+status: 1
+tags: []
+user_id: unknown

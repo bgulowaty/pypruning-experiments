@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e97f7fb55bc24ff59263a3ac521ea80d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e97f7fb55bc24ff59263a3ac521ea80d
+run_name: puzzled-quail-828
+run_uuid: e97f7fb55bc24ff59263a3ac521ea80d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041801703
+status: 1
+tags: []
+user_id: unknown

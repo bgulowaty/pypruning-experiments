@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/43c466caa82e4f3f8a362f7e2449c4ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 43c466caa82e4f3f8a362f7e2449c4ca
+run_name: unleashed-flea-194
+run_uuid: 43c466caa82e4f3f8a362f7e2449c4ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041744236
+status: 1
+tags: []
+user_id: unknown

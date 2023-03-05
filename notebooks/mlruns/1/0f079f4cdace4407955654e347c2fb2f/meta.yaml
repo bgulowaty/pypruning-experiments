@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0f079f4cdace4407955654e347c2fb2f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0f079f4cdace4407955654e347c2fb2f
+run_name: dazzling-mink-294
+run_uuid: 0f079f4cdace4407955654e347c2fb2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041621405
+status: 1
+tags: []
+user_id: unknown

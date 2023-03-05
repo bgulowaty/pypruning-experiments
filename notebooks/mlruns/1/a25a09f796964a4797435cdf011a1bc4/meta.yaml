@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a25a09f796964a4797435cdf011a1bc4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a25a09f796964a4797435cdf011a1bc4
+run_name: burly-bird-691
+run_uuid: a25a09f796964a4797435cdf011a1bc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041525410
+status: 1
+tags: []
+user_id: unknown

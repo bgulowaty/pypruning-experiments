@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b0cb0117244a4011a1b6ce2782bd69fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b0cb0117244a4011a1b6ce2782bd69fc
+run_name: melodic-crow-992
+run_uuid: b0cb0117244a4011a1b6ce2782bd69fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041536143
+status: 1
+tags: []
+user_id: unknown

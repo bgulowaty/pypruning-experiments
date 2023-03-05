@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c42aa2cd100d4993910f966ef333e277/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c42aa2cd100d4993910f966ef333e277
+run_name: upset-trout-386
+run_uuid: c42aa2cd100d4993910f966ef333e277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041943677
+status: 1
+tags: []
+user_id: unknown

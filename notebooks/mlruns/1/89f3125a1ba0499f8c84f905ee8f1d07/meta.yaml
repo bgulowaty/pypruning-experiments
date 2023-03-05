@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/89f3125a1ba0499f8c84f905ee8f1d07/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89f3125a1ba0499f8c84f905ee8f1d07
+run_name: traveling-rat-619
+run_uuid: 89f3125a1ba0499f8c84f905ee8f1d07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041598444
+status: 1
+tags: []
+user_id: unknown

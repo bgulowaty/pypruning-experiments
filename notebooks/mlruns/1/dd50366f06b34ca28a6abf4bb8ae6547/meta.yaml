@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dd50366f06b34ca28a6abf4bb8ae6547/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd50366f06b34ca28a6abf4bb8ae6547
+run_name: abrasive-ox-135
+run_uuid: dd50366f06b34ca28a6abf4bb8ae6547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041863729
+status: 1
+tags: []
+user_id: unknown

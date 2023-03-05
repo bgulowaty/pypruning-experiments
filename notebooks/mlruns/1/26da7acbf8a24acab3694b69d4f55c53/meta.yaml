@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/26da7acbf8a24acab3694b69d4f55c53/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 26da7acbf8a24acab3694b69d4f55c53
+run_name: monumental-skunk-967
+run_uuid: 26da7acbf8a24acab3694b69d4f55c53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041798490
+status: 1
+tags: []
+user_id: unknown

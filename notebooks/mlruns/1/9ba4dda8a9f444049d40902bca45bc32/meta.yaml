@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9ba4dda8a9f444049d40902bca45bc32/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ba4dda8a9f444049d40902bca45bc32
+run_name: nervous-bug-391
+run_uuid: 9ba4dda8a9f444049d40902bca45bc32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041644597
+status: 1
+tags: []
+user_id: unknown

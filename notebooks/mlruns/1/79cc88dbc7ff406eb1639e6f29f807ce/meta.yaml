@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/79cc88dbc7ff406eb1639e6f29f807ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 79cc88dbc7ff406eb1639e6f29f807ce
+run_name: delicate-goose-229
+run_uuid: 79cc88dbc7ff406eb1639e6f29f807ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041839457
+status: 1
+tags: []
+user_id: unknown

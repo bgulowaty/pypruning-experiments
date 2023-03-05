@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e1ad8714c61045979ca3fed52615538f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e1ad8714c61045979ca3fed52615538f
+run_name: stately-crab-940
+run_uuid: e1ad8714c61045979ca3fed52615538f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041753212
+status: 1
+tags: []
+user_id: unknown

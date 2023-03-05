@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fa2a444efb4c4965a98cc10048d1d340/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa2a444efb4c4965a98cc10048d1d340
+run_name: clean-fly-416
+run_uuid: fa2a444efb4c4965a98cc10048d1d340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041675575
+status: 1
+tags: []
+user_id: unknown

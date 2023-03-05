@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c34766996da546b68e27d05407879b6d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c34766996da546b68e27d05407879b6d
+run_name: rogue-perch-597
+run_uuid: c34766996da546b68e27d05407879b6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041650455
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/62e890c3add840ea8992eb0ac924f2f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 62e890c3add840ea8992eb0ac924f2f2
+run_name: magnificent-hen-183
+run_uuid: 62e890c3add840ea8992eb0ac924f2f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041653762
+status: 1
+tags: []
+user_id: unknown

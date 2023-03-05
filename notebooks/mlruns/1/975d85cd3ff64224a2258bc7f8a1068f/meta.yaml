@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/975d85cd3ff64224a2258bc7f8a1068f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 975d85cd3ff64224a2258bc7f8a1068f
+run_name: delicate-mole-366
+run_uuid: 975d85cd3ff64224a2258bc7f8a1068f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041641772
+status: 1
+tags: []
+user_id: unknown

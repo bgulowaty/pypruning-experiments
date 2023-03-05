@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e23a3149d0df4f3fbcea183965306d3d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e23a3149d0df4f3fbcea183965306d3d
+run_name: bold-panda-281
+run_uuid: e23a3149d0df4f3fbcea183965306d3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041883327
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1c8ffcdcd7ea41e181d29d3ad84ea88f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c8ffcdcd7ea41e181d29d3ad84ea88f
+run_name: casual-yak-666
+run_uuid: 1c8ffcdcd7ea41e181d29d3ad84ea88f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041937915
+status: 1
+tags: []
+user_id: unknown

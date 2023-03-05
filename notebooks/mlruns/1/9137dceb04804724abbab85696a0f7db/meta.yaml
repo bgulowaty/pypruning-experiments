@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9137dceb04804724abbab85696a0f7db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9137dceb04804724abbab85696a0f7db
+run_name: capricious-pug-104
+run_uuid: 9137dceb04804724abbab85696a0f7db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041791970
+status: 1
+tags: []
+user_id: unknown

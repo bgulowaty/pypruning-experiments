@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/05c7865fbf9844d48fee4402577b87bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 05c7865fbf9844d48fee4402577b87bb
+run_name: salty-colt-524
+run_uuid: 05c7865fbf9844d48fee4402577b87bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041930514
+status: 1
+tags: []
+user_id: unknown

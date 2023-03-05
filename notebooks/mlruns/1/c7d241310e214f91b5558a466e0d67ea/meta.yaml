@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c7d241310e214f91b5558a466e0d67ea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7d241310e214f91b5558a466e0d67ea
+run_name: thoughtful-duck-941
+run_uuid: c7d241310e214f91b5558a466e0d67ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041611007
+status: 1
+tags: []
+user_id: unknown

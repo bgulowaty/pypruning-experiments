@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d614b404cac14063ac63112cdf321cde/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d614b404cac14063ac63112cdf321cde
+run_name: big-toad-772
+run_uuid: d614b404cac14063ac63112cdf321cde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041671710
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8c980dd0d67b4df3ba0b225660cf6693/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8c980dd0d67b4df3ba0b225660cf6693
+run_name: powerful-bear-666
+run_uuid: 8c980dd0d67b4df3ba0b225660cf6693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041924845
+status: 1
+tags: []
+user_id: unknown

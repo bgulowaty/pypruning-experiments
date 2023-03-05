@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a385bf593ded4d6e8e0cc477b5f04dea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a385bf593ded4d6e8e0cc477b5f04dea
+run_name: nosy-ray-391
+run_uuid: a385bf593ded4d6e8e0cc477b5f04dea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041663870
+status: 1
+tags: []
+user_id: unknown

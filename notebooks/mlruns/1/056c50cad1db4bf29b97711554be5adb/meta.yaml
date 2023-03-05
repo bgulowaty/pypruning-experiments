@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/056c50cad1db4bf29b97711554be5adb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 056c50cad1db4bf29b97711554be5adb
+run_name: shivering-whale-282
+run_uuid: 056c50cad1db4bf29b97711554be5adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041548516
+status: 1
+tags: []
+user_id: unknown

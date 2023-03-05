@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7853b27951a2400db672377b16020530/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7853b27951a2400db672377b16020530
+run_name: fortunate-finch-10
+run_uuid: 7853b27951a2400db672377b16020530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041505340
+status: 1
+tags: []
+user_id: unknown

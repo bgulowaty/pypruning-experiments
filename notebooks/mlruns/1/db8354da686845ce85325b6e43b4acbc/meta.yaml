@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/db8354da686845ce85325b6e43b4acbc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db8354da686845ce85325b6e43b4acbc
+run_name: clumsy-frog-508
+run_uuid: db8354da686845ce85325b6e43b4acbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041728907
+status: 1
+tags: []
+user_id: unknown

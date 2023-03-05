@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cb0b638d24f44f1ea619004e9e09c659/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb0b638d24f44f1ea619004e9e09c659
+run_name: casual-bird-865
+run_uuid: cb0b638d24f44f1ea619004e9e09c659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041756994
+status: 1
+tags: []
+user_id: unknown

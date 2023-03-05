@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/465ac7700efc457694a18ac9088bac00/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 465ac7700efc457694a18ac9088bac00
+run_name: gifted-shad-822
+run_uuid: 465ac7700efc457694a18ac9088bac00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041829364
+status: 1
+tags: []
+user_id: unknown

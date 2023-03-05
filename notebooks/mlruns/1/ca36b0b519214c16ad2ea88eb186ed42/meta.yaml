@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ca36b0b519214c16ad2ea88eb186ed42/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca36b0b519214c16ad2ea88eb186ed42
+run_name: clean-penguin-855
+run_uuid: ca36b0b519214c16ad2ea88eb186ed42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041508680
+status: 1
+tags: []
+user_id: unknown

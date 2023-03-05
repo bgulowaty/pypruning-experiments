@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d7797d5cf2904d26a0f66ba9a44f1ec0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7797d5cf2904d26a0f66ba9a44f1ec0
+run_name: unruly-gnu-746
+run_uuid: d7797d5cf2904d26a0f66ba9a44f1ec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041728049
+status: 1
+tags: []
+user_id: unknown

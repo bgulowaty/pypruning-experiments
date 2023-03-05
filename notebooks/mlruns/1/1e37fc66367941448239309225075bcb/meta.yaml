@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1e37fc66367941448239309225075bcb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1e37fc66367941448239309225075bcb
+run_name: zealous-shrew-992
+run_uuid: 1e37fc66367941448239309225075bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497510
+status: 1
+tags: []
+user_id: unknown

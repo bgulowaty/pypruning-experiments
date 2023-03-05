@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3390fc3406b2424ca632e70bd29931da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3390fc3406b2424ca632e70bd29931da
+run_name: redolent-asp-6
+run_uuid: 3390fc3406b2424ca632e70bd29931da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041839717
+status: 1
+tags: []
+user_id: unknown

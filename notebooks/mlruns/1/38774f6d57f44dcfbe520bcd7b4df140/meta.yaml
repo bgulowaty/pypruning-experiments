@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/38774f6d57f44dcfbe520bcd7b4df140/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 38774f6d57f44dcfbe520bcd7b4df140
+run_name: valuable-midge-242
+run_uuid: 38774f6d57f44dcfbe520bcd7b4df140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041752493
+status: 1
+tags: []
+user_id: unknown

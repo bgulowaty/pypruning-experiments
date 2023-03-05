@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/997370f83e2543e982d46f8405742ec5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 997370f83e2543e982d46f8405742ec5
+run_name: nebulous-snake-443
+run_uuid: 997370f83e2543e982d46f8405742ec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041514015
+status: 1
+tags: []
+user_id: unknown

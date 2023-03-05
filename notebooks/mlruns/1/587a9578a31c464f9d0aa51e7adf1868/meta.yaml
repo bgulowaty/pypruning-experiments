@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/587a9578a31c464f9d0aa51e7adf1868/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 587a9578a31c464f9d0aa51e7adf1868
+run_name: painted-mare-788
+run_uuid: 587a9578a31c464f9d0aa51e7adf1868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041778744
+status: 1
+tags: []
+user_id: unknown

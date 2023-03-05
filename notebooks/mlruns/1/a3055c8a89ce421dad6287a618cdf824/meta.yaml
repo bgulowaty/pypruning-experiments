@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a3055c8a89ce421dad6287a618cdf824/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a3055c8a89ce421dad6287a618cdf824
+run_name: bright-koi-476
+run_uuid: a3055c8a89ce421dad6287a618cdf824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041511950
+status: 1
+tags: []
+user_id: unknown

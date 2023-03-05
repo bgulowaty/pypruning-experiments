@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/743b11704bba4021bccbaf59e0ba3bdb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 743b11704bba4021bccbaf59e0ba3bdb
+run_name: bald-cat-944
+run_uuid: 743b11704bba4021bccbaf59e0ba3bdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041688434
+status: 1
+tags: []
+user_id: unknown

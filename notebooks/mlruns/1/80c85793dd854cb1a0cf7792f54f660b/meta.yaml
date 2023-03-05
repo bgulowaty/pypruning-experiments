@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/80c85793dd854cb1a0cf7792f54f660b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 80c85793dd854cb1a0cf7792f54f660b
+run_name: placid-smelt-929
+run_uuid: 80c85793dd854cb1a0cf7792f54f660b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041928734
+status: 1
+tags: []
+user_id: unknown

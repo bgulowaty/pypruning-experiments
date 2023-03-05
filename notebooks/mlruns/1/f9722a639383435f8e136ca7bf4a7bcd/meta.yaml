@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f9722a639383435f8e136ca7bf4a7bcd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f9722a639383435f8e136ca7bf4a7bcd
+run_name: gregarious-fly-387
+run_uuid: f9722a639383435f8e136ca7bf4a7bcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041613698
+status: 1
+tags: []
+user_id: unknown

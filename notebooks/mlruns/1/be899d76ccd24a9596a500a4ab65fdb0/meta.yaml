@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/be899d76ccd24a9596a500a4ab65fdb0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: be899d76ccd24a9596a500a4ab65fdb0
+run_name: honorable-moose-183
+run_uuid: be899d76ccd24a9596a500a4ab65fdb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041662228
+status: 1
+tags: []
+user_id: unknown

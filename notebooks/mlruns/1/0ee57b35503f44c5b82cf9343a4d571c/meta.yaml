@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0ee57b35503f44c5b82cf9343a4d571c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ee57b35503f44c5b82cf9343a4d571c
+run_name: learned-slug-331
+run_uuid: 0ee57b35503f44c5b82cf9343a4d571c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041960192
+status: 1
+tags: []
+user_id: unknown

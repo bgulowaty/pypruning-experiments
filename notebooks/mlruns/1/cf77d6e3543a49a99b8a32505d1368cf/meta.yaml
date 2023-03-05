@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cf77d6e3543a49a99b8a32505d1368cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf77d6e3543a49a99b8a32505d1368cf
+run_name: polite-newt-984
+run_uuid: cf77d6e3543a49a99b8a32505d1368cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041584781
+status: 1
+tags: []
+user_id: unknown

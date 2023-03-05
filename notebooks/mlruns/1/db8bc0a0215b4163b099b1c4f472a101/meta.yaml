@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/db8bc0a0215b4163b099b1c4f472a101/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db8bc0a0215b4163b099b1c4f472a101
+run_name: burly-squirrel-788
+run_uuid: db8bc0a0215b4163b099b1c4f472a101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496715
+status: 1
+tags: []
+user_id: unknown

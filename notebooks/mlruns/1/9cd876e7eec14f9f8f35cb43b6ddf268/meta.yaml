@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9cd876e7eec14f9f8f35cb43b6ddf268/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9cd876e7eec14f9f8f35cb43b6ddf268
+run_name: victorious-fawn-660
+run_uuid: 9cd876e7eec14f9f8f35cb43b6ddf268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041590427
+status: 1
+tags: []
+user_id: unknown

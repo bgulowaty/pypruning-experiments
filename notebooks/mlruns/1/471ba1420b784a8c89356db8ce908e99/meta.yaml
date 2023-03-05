@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/471ba1420b784a8c89356db8ce908e99/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 471ba1420b784a8c89356db8ce908e99
+run_name: orderly-fowl-478
+run_uuid: 471ba1420b784a8c89356db8ce908e99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041730320
+status: 1
+tags: []
+user_id: unknown

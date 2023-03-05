@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fbc5f0669cc1403698722b6ae45cda4b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fbc5f0669cc1403698722b6ae45cda4b
+run_name: rogue-shrew-751
+run_uuid: fbc5f0669cc1403698722b6ae45cda4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041784277
+status: 1
+tags: []
+user_id: unknown

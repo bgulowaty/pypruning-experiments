@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e2246ad7467a46db9409a68e88fa39a0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e2246ad7467a46db9409a68e88fa39a0
+run_name: unruly-bear-181
+run_uuid: e2246ad7467a46db9409a68e88fa39a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041685551
+status: 1
+tags: []
+user_id: unknown

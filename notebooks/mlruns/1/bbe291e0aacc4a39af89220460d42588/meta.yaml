@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bbe291e0aacc4a39af89220460d42588/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bbe291e0aacc4a39af89220460d42588
+run_name: big-panda-116
+run_uuid: bbe291e0aacc4a39af89220460d42588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041507709
+status: 1
+tags: []
+user_id: unknown

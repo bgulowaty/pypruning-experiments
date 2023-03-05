@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fb4e95613f4d4cecb5de54ba6c1d22cb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb4e95613f4d4cecb5de54ba6c1d22cb
+run_name: suave-donkey-837
+run_uuid: fb4e95613f4d4cecb5de54ba6c1d22cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041815355
+status: 1
+tags: []
+user_id: unknown

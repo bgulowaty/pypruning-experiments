@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1443c6ab6a1b4a11be45e0e4890e9cde/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1443c6ab6a1b4a11be45e0e4890e9cde
+run_name: flawless-cub-104
+run_uuid: 1443c6ab6a1b4a11be45e0e4890e9cde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041565554
+status: 1
+tags: []
+user_id: unknown

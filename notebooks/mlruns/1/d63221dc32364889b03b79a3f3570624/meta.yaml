@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d63221dc32364889b03b79a3f3570624/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d63221dc32364889b03b79a3f3570624
+run_name: nebulous-boar-644
+run_uuid: d63221dc32364889b03b79a3f3570624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041691335
+status: 1
+tags: []
+user_id: unknown

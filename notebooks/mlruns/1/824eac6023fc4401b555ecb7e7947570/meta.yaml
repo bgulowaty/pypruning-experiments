@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/824eac6023fc4401b555ecb7e7947570/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 824eac6023fc4401b555ecb7e7947570
+run_name: stylish-slug-55
+run_uuid: 824eac6023fc4401b555ecb7e7947570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041660944
+status: 1
+tags: []
+user_id: unknown

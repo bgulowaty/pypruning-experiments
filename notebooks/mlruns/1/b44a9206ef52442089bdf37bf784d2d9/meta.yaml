@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b44a9206ef52442089bdf37bf784d2d9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b44a9206ef52442089bdf37bf784d2d9
+run_name: hilarious-gnat-591
+run_uuid: b44a9206ef52442089bdf37bf784d2d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041933478
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7ae5419936de4a78aff181b84a7696b6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7ae5419936de4a78aff181b84a7696b6
+run_name: trusting-rat-926
+run_uuid: 7ae5419936de4a78aff181b84a7696b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041557934
+status: 1
+tags: []
+user_id: unknown

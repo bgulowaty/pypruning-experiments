@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1c2407c6c86840a0874a111bc4d63dca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c2407c6c86840a0874a111bc4d63dca
+run_name: colorful-rat-186
+run_uuid: 1c2407c6c86840a0874a111bc4d63dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041500713
+status: 1
+tags: []
+user_id: unknown

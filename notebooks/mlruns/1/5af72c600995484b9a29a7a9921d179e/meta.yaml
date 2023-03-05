@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5af72c600995484b9a29a7a9921d179e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5af72c600995484b9a29a7a9921d179e
+run_name: righteous-hare-730
+run_uuid: 5af72c600995484b9a29a7a9921d179e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041640544
+status: 1
+tags: []
+user_id: unknown

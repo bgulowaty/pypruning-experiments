@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7b0bf7442bdd454eb9f3a8eae8d51c93/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7b0bf7442bdd454eb9f3a8eae8d51c93
+run_name: rogue-trout-541
+run_uuid: 7b0bf7442bdd454eb9f3a8eae8d51c93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041923335
+status: 1
+tags: []
+user_id: unknown

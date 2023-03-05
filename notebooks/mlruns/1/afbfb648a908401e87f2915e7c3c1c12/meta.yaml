@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/afbfb648a908401e87f2915e7c3c1c12/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: afbfb648a908401e87f2915e7c3c1c12
+run_name: victorious-whale-841
+run_uuid: afbfb648a908401e87f2915e7c3c1c12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041506391
+status: 1
+tags: []
+user_id: unknown

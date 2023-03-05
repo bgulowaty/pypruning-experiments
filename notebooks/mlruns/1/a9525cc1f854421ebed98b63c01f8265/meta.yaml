@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a9525cc1f854421ebed98b63c01f8265/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a9525cc1f854421ebed98b63c01f8265
+run_name: illustrious-shad-545
+run_uuid: a9525cc1f854421ebed98b63c01f8265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041896821
+status: 1
+tags: []
+user_id: unknown

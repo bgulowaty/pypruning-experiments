@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/551323f01ee44e6e808441fdc0c590c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 551323f01ee44e6e808441fdc0c590c7
+run_name: beautiful-pug-784
+run_uuid: 551323f01ee44e6e808441fdc0c590c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041641226
+status: 1
+tags: []
+user_id: unknown

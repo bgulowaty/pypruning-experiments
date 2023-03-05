@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8754bf6a6f9f433fa2c5f68c104cfde4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8754bf6a6f9f433fa2c5f68c104cfde4
+run_name: crawling-mule-149
+run_uuid: 8754bf6a6f9f433fa2c5f68c104cfde4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041833202
+status: 1
+tags: []
+user_id: unknown

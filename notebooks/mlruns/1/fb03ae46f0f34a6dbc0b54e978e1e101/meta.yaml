@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fb03ae46f0f34a6dbc0b54e978e1e101/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb03ae46f0f34a6dbc0b54e978e1e101
+run_name: unique-stoat-185
+run_uuid: fb03ae46f0f34a6dbc0b54e978e1e101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041676318
+status: 1
+tags: []
+user_id: unknown

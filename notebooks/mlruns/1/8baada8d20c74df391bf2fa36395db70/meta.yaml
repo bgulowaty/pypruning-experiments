@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8baada8d20c74df391bf2fa36395db70/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8baada8d20c74df391bf2fa36395db70
+run_name: gifted-hare-995
+run_uuid: 8baada8d20c74df391bf2fa36395db70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041813210
+status: 1
+tags: []
+user_id: unknown

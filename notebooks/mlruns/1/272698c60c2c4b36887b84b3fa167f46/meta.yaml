@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/272698c60c2c4b36887b84b3fa167f46/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 272698c60c2c4b36887b84b3fa167f46
+run_name: awesome-moose-260
+run_uuid: 272698c60c2c4b36887b84b3fa167f46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041810624
+status: 1
+tags: []
+user_id: unknown

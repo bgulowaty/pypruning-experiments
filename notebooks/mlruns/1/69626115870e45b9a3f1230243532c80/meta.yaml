@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/69626115870e45b9a3f1230243532c80/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 69626115870e45b9a3f1230243532c80
+run_name: trusting-swan-451
+run_uuid: 69626115870e45b9a3f1230243532c80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041926808
+status: 1
+tags: []
+user_id: unknown

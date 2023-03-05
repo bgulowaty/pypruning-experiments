@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b83524545a044d9790dd54c48180ef3f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b83524545a044d9790dd54c48180ef3f
+run_name: illustrious-wasp-145
+run_uuid: b83524545a044d9790dd54c48180ef3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041550694
+status: 1
+tags: []
+user_id: unknown

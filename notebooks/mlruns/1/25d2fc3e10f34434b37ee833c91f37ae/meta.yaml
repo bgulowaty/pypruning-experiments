@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/25d2fc3e10f34434b37ee833c91f37ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 25d2fc3e10f34434b37ee833c91f37ae
+run_name: amusing-carp-357
+run_uuid: 25d2fc3e10f34434b37ee833c91f37ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041594695
+status: 1
+tags: []
+user_id: unknown

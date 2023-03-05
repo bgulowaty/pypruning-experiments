@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a8fddca40a1f4f22b9c61ca087f58763/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8fddca40a1f4f22b9c61ca087f58763
+run_name: suave-panda-543
+run_uuid: a8fddca40a1f4f22b9c61ca087f58763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041504358
+status: 1
+tags: []
+user_id: unknown

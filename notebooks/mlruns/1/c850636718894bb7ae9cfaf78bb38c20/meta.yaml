@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c850636718894bb7ae9cfaf78bb38c20/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c850636718894bb7ae9cfaf78bb38c20
+run_name: overjoyed-foal-32
+run_uuid: c850636718894bb7ae9cfaf78bb38c20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041700552
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bcf04df210864ed6a700a5148a0270cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bcf04df210864ed6a700a5148a0270cf
+run_name: sassy-doe-492
+run_uuid: bcf04df210864ed6a700a5148a0270cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041815240
+status: 1
+tags: []
+user_id: unknown

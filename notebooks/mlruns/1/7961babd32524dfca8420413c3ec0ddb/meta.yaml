@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7961babd32524dfca8420413c3ec0ddb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7961babd32524dfca8420413c3ec0ddb
+run_name: mysterious-stag-107
+run_uuid: 7961babd32524dfca8420413c3ec0ddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041699879
+status: 1
+tags: []
+user_id: unknown

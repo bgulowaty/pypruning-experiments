@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d9aac3cc6df4493dbc8f7100e13e8481/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d9aac3cc6df4493dbc8f7100e13e8481
+run_name: exultant-wolf-139
+run_uuid: d9aac3cc6df4493dbc8f7100e13e8481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041728822
+status: 1
+tags: []
+user_id: unknown

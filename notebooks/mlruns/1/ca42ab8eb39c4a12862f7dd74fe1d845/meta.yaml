@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ca42ab8eb39c4a12862f7dd74fe1d845/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca42ab8eb39c4a12862f7dd74fe1d845
+run_name: rogue-bear-158
+run_uuid: ca42ab8eb39c4a12862f7dd74fe1d845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041572503
+status: 1
+tags: []
+user_id: unknown

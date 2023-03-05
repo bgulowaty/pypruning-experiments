@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/07a4421af9ad448aa07c9265638382b7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 07a4421af9ad448aa07c9265638382b7
+run_name: smiling-mink-300
+run_uuid: 07a4421af9ad448aa07c9265638382b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041522517
+status: 1
+tags: []
+user_id: unknown

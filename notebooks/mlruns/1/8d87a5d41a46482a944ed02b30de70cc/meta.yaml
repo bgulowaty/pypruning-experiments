@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8d87a5d41a46482a944ed02b30de70cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8d87a5d41a46482a944ed02b30de70cc
+run_name: delightful-asp-482
+run_uuid: 8d87a5d41a46482a944ed02b30de70cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041524730
+status: 1
+tags: []
+user_id: unknown

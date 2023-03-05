@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cab7c4909bf1446fa43e6c49d8dc9593/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cab7c4909bf1446fa43e6c49d8dc9593
+run_name: carefree-skink-421
+run_uuid: cab7c4909bf1446fa43e6c49d8dc9593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041970449
+status: 1
+tags: []
+user_id: unknown

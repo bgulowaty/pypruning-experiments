@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/224d7aadee934e47a7a82c7fa5b5532a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 224d7aadee934e47a7a82c7fa5b5532a
+run_name: receptive-crow-240
+run_uuid: 224d7aadee934e47a7a82c7fa5b5532a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041685479
+status: 1
+tags: []
+user_id: unknown

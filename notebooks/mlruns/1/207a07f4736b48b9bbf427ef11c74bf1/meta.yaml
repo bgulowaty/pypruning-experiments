@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/207a07f4736b48b9bbf427ef11c74bf1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 207a07f4736b48b9bbf427ef11c74bf1
+run_name: merciful-shad-926
+run_uuid: 207a07f4736b48b9bbf427ef11c74bf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041964685
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/58d98b00aeaa4fb19abba63b5bd2120d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 58d98b00aeaa4fb19abba63b5bd2120d
+run_name: indecisive-shark-238
+run_uuid: 58d98b00aeaa4fb19abba63b5bd2120d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041627722
+status: 1
+tags: []
+user_id: unknown

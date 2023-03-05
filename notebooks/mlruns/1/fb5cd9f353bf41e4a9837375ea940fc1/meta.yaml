@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fb5cd9f353bf41e4a9837375ea940fc1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb5cd9f353bf41e4a9837375ea940fc1
+run_name: rumbling-snail-18
+run_uuid: fb5cd9f353bf41e4a9837375ea940fc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041966193
+status: 1
+tags: []
+user_id: unknown

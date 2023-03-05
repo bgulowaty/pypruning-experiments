@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d816241bbe8e473eb7a2242ca2a65c6e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d816241bbe8e473eb7a2242ca2a65c6e
+run_name: rumbling-koi-785
+run_uuid: d816241bbe8e473eb7a2242ca2a65c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041569280
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/011b7f20f4b447f9b5a96ed6ab8236bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 011b7f20f4b447f9b5a96ed6ab8236bf
+run_name: abundant-crane-587
+run_uuid: 011b7f20f4b447f9b5a96ed6ab8236bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496331
+status: 1
+tags: []
+user_id: unknown

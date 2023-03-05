@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5f57aff3f8d14eb2b6309fbafa731834/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5f57aff3f8d14eb2b6309fbafa731834
+run_name: traveling-grouse-925
+run_uuid: 5f57aff3f8d14eb2b6309fbafa731834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041827572
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2f18b2a0f27f4af1a5bd6cfa1026f30c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2f18b2a0f27f4af1a5bd6cfa1026f30c
+run_name: abundant-bear-627
+run_uuid: 2f18b2a0f27f4af1a5bd6cfa1026f30c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041539815
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0a3dbee4a571444ca6f70a6d4414e34d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0a3dbee4a571444ca6f70a6d4414e34d
+run_name: puzzled-kit-79
+run_uuid: 0a3dbee4a571444ca6f70a6d4414e34d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041970046
+status: 1
+tags: []
+user_id: unknown

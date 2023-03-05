@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/920d7ad68adc401eb3ab085585bc00bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 920d7ad68adc401eb3ab085585bc00bd
+run_name: indecisive-auk-806
+run_uuid: 920d7ad68adc401eb3ab085585bc00bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041914483
+status: 1
+tags: []
+user_id: unknown

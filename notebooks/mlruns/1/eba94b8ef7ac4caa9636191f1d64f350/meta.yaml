@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eba94b8ef7ac4caa9636191f1d64f350/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eba94b8ef7ac4caa9636191f1d64f350
+run_name: adventurous-fly-103
+run_uuid: eba94b8ef7ac4caa9636191f1d64f350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041501630
+status: 1
+tags: []
+user_id: unknown

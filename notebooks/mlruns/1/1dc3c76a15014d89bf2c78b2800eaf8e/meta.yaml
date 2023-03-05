@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1dc3c76a15014d89bf2c78b2800eaf8e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1dc3c76a15014d89bf2c78b2800eaf8e
+run_name: hilarious-perch-325
+run_uuid: 1dc3c76a15014d89bf2c78b2800eaf8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041866006
+status: 1
+tags: []
+user_id: unknown

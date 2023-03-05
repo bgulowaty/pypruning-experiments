@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9669b3749c6e489ab79bf6e61c8f77e3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9669b3749c6e489ab79bf6e61c8f77e3
+run_name: nervous-mouse-833
+run_uuid: 9669b3749c6e489ab79bf6e61c8f77e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041541542
+status: 1
+tags: []
+user_id: unknown

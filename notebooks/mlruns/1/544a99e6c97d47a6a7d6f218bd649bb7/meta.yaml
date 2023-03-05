@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/544a99e6c97d47a6a7d6f218bd649bb7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 544a99e6c97d47a6a7d6f218bd649bb7
+run_name: victorious-bear-654
+run_uuid: 544a99e6c97d47a6a7d6f218bd649bb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041863965
+status: 1
+tags: []
+user_id: unknown

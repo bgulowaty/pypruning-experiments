@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4c2585f4d5474b65a5a97bdd84562279/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4c2585f4d5474b65a5a97bdd84562279
+run_name: polite-gnat-357
+run_uuid: 4c2585f4d5474b65a5a97bdd84562279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041729230
+status: 1
+tags: []
+user_id: unknown

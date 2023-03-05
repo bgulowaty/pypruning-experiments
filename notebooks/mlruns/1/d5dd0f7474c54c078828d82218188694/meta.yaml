@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d5dd0f7474c54c078828d82218188694/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d5dd0f7474c54c078828d82218188694
+run_name: nimble-vole-363
+run_uuid: d5dd0f7474c54c078828d82218188694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041534869
+status: 1
+tags: []
+user_id: unknown

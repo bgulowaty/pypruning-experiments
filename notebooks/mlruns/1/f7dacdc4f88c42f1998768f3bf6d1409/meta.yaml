@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f7dacdc4f88c42f1998768f3bf6d1409/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f7dacdc4f88c42f1998768f3bf6d1409
+run_name: unruly-grouse-913
+run_uuid: f7dacdc4f88c42f1998768f3bf6d1409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041564636
+status: 1
+tags: []
+user_id: unknown

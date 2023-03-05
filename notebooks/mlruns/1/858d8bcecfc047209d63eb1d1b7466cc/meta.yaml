@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/858d8bcecfc047209d63eb1d1b7466cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 858d8bcecfc047209d63eb1d1b7466cc
+run_name: vaunted-shrew-999
+run_uuid: 858d8bcecfc047209d63eb1d1b7466cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041509268
+status: 1
+tags: []
+user_id: unknown

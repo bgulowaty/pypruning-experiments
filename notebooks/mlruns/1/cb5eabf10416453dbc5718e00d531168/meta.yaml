@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cb5eabf10416453dbc5718e00d531168/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb5eabf10416453dbc5718e00d531168
+run_name: bemused-calf-998
+run_uuid: cb5eabf10416453dbc5718e00d531168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041634788
+status: 1
+tags: []
+user_id: unknown

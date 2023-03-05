@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3166191fcc68466bb7fe1c7d1827631d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3166191fcc68466bb7fe1c7d1827631d
+run_name: inquisitive-fly-458
+run_uuid: 3166191fcc68466bb7fe1c7d1827631d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041651417
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2e507699b9d34338a79e90b01a73dde1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2e507699b9d34338a79e90b01a73dde1
+run_name: righteous-snake-130
+run_uuid: 2e507699b9d34338a79e90b01a73dde1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041595889
+status: 1
+tags: []
+user_id: unknown

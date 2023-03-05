@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3371ddd03bcd47d595c9e4f7cc4e439b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3371ddd03bcd47d595c9e4f7cc4e439b
+run_name: caring-stoat-651
+run_uuid: 3371ddd03bcd47d595c9e4f7cc4e439b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041567619
+status: 1
+tags: []
+user_id: unknown

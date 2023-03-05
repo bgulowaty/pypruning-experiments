@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/898ed8cbb14644038b41336e2fed0266/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 898ed8cbb14644038b41336e2fed0266
+run_name: upset-ray-488
+run_uuid: 898ed8cbb14644038b41336e2fed0266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041530458
+status: 1
+tags: []
+user_id: unknown

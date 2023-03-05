@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/740c07a19cef4fec8155df06b8837b4a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 740c07a19cef4fec8155df06b8837b4a
+run_name: gifted-dove-219
+run_uuid: 740c07a19cef4fec8155df06b8837b4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041510340
+status: 1
+tags: []
+user_id: unknown

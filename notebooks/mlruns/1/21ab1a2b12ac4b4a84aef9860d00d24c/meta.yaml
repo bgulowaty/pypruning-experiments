@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/21ab1a2b12ac4b4a84aef9860d00d24c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 21ab1a2b12ac4b4a84aef9860d00d24c
+run_name: ambitious-duck-890
+run_uuid: 21ab1a2b12ac4b4a84aef9860d00d24c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041638635
+status: 1
+tags: []
+user_id: unknown

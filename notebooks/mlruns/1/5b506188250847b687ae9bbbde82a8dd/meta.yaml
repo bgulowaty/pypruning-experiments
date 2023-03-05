@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5b506188250847b687ae9bbbde82a8dd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5b506188250847b687ae9bbbde82a8dd
+run_name: fun-mare-335
+run_uuid: 5b506188250847b687ae9bbbde82a8dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041596682
+status: 1
+tags: []
+user_id: unknown

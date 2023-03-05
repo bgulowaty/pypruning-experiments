@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c21a182cd9744fe797e085607a1e49fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c21a182cd9744fe797e085607a1e49fc
+run_name: tasteful-toad-121
+run_uuid: c21a182cd9744fe797e085607a1e49fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041595695
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0c2cb54da7404e35b2aa1b3c91eb325c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0c2cb54da7404e35b2aa1b3c91eb325c
+run_name: unequaled-carp-393
+run_uuid: 0c2cb54da7404e35b2aa1b3c91eb325c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041595956
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1ca674eaa8df4962b5b42a7f557e9d96/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ca674eaa8df4962b5b42a7f557e9d96
+run_name: honorable-perch-88
+run_uuid: 1ca674eaa8df4962b5b42a7f557e9d96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041683157
+status: 1
+tags: []
+user_id: unknown

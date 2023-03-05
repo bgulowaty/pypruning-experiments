@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b9538813c8764cb48fb62fb9e63d33c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b9538813c8764cb48fb62fb9e63d33c5
+run_name: grandiose-snipe-445
+run_uuid: b9538813c8764cb48fb62fb9e63d33c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041648271
+status: 1
+tags: []
+user_id: unknown

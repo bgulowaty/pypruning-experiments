@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2118b0127a8f40469a42c6f157226b83/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2118b0127a8f40469a42c6f157226b83
+run_name: unleashed-cub-947
+run_uuid: 2118b0127a8f40469a42c6f157226b83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041661330
+status: 1
+tags: []
+user_id: unknown

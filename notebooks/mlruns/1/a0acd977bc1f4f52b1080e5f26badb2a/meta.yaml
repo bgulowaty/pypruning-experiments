@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a0acd977bc1f4f52b1080e5f26badb2a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0acd977bc1f4f52b1080e5f26badb2a
+run_name: brawny-vole-311
+run_uuid: a0acd977bc1f4f52b1080e5f26badb2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041959047
+status: 1
+tags: []
+user_id: unknown

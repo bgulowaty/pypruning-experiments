@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9c35b676db1f4b78ad03b388c94b2e96/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9c35b676db1f4b78ad03b388c94b2e96
+run_name: languid-dog-968
+run_uuid: 9c35b676db1f4b78ad03b388c94b2e96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041673893
+status: 1
+tags: []
+user_id: unknown

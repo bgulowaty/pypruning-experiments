@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/efbed81501c243e6ab777da7cd861b66/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: efbed81501c243e6ab777da7cd861b66
+run_name: serious-perch-726
+run_uuid: efbed81501c243e6ab777da7cd861b66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041822352
+status: 1
+tags: []
+user_id: unknown

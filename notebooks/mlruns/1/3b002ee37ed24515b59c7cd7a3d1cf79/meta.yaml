@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3b002ee37ed24515b59c7cd7a3d1cf79/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3b002ee37ed24515b59c7cd7a3d1cf79
+run_name: victorious-bass-794
+run_uuid: 3b002ee37ed24515b59c7cd7a3d1cf79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041964545
+status: 1
+tags: []
+user_id: unknown

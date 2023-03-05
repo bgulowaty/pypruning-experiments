@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a8d3c0a37dda4c02b33dd5428ce1411d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8d3c0a37dda4c02b33dd5428ce1411d
+run_name: kindly-wolf-763
+run_uuid: a8d3c0a37dda4c02b33dd5428ce1411d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041577816
+status: 1
+tags: []
+user_id: unknown

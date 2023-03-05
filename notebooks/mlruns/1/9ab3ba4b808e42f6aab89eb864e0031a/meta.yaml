@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9ab3ba4b808e42f6aab89eb864e0031a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ab3ba4b808e42f6aab89eb864e0031a
+run_name: bold-hare-890
+run_uuid: 9ab3ba4b808e42f6aab89eb864e0031a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041774069
+status: 1
+tags: []
+user_id: unknown

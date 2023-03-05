@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/223bcf928c4440beadd14c77c4418753/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 223bcf928c4440beadd14c77c4418753
+run_name: luminous-goose-1000
+run_uuid: 223bcf928c4440beadd14c77c4418753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041906619
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7a11866bc6c84cf6a4d514be9e5100be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7a11866bc6c84cf6a4d514be9e5100be
+run_name: unequaled-worm-106
+run_uuid: 7a11866bc6c84cf6a4d514be9e5100be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041580371
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1eb26c17ba424c3b9a0e8b0cfe3dc326/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1eb26c17ba424c3b9a0e8b0cfe3dc326
+run_name: gregarious-mouse-501
+run_uuid: 1eb26c17ba424c3b9a0e8b0cfe3dc326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041498777
+status: 1
+tags: []
+user_id: unknown

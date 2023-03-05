@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a1e21cf4bbaa44a79a4729be1911e7bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a1e21cf4bbaa44a79a4729be1911e7bc
+run_name: delicate-steed-229
+run_uuid: a1e21cf4bbaa44a79a4729be1911e7bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041500424
+status: 1
+tags: []
+user_id: unknown

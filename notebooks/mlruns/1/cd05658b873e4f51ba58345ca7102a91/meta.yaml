@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cd05658b873e4f51ba58345ca7102a91/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cd05658b873e4f51ba58345ca7102a91
+run_name: capricious-dog-380
+run_uuid: cd05658b873e4f51ba58345ca7102a91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041597380
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9a12fb7748ea49ac9dd2ad3509f71c5e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9a12fb7748ea49ac9dd2ad3509f71c5e
+run_name: invincible-crane-287
+run_uuid: 9a12fb7748ea49ac9dd2ad3509f71c5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041639060
+status: 1
+tags: []
+user_id: unknown

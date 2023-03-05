@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/86d108b41b4d4c6499afa8e0d819d891/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86d108b41b4d4c6499afa8e0d819d891
+run_name: awesome-eel-291
+run_uuid: 86d108b41b4d4c6499afa8e0d819d891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041836155
+status: 1
+tags: []
+user_id: unknown

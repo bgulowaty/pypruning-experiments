@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/39c6d7e895324df8a88779b56db4d081/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 39c6d7e895324df8a88779b56db4d081
+run_name: powerful-snake-370
+run_uuid: 39c6d7e895324df8a88779b56db4d081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041520479
+status: 1
+tags: []
+user_id: unknown

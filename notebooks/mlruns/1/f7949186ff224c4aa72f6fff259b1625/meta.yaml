@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f7949186ff224c4aa72f6fff259b1625/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f7949186ff224c4aa72f6fff259b1625
+run_name: redolent-pig-483
+run_uuid: f7949186ff224c4aa72f6fff259b1625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041532172
+status: 1
+tags: []
+user_id: unknown

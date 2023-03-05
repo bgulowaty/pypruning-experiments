@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6cdd090cd8a64a038edf70dd9c20a317/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6cdd090cd8a64a038edf70dd9c20a317
+run_name: glamorous-midge-303
+run_uuid: 6cdd090cd8a64a038edf70dd9c20a317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041971624
+status: 1
+tags: []
+user_id: unknown

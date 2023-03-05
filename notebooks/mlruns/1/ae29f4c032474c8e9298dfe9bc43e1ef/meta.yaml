@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ae29f4c032474c8e9298dfe9bc43e1ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ae29f4c032474c8e9298dfe9bc43e1ef
+run_name: unruly-ray-813
+run_uuid: ae29f4c032474c8e9298dfe9bc43e1ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041635485
+status: 1
+tags: []
+user_id: unknown

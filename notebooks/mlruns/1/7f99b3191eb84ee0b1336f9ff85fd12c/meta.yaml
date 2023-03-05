@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7f99b3191eb84ee0b1336f9ff85fd12c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7f99b3191eb84ee0b1336f9ff85fd12c
+run_name: sneaky-lark-219
+run_uuid: 7f99b3191eb84ee0b1336f9ff85fd12c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041943401
+status: 1
+tags: []
+user_id: unknown

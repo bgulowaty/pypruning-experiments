@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d0ce1de98f404f9db732293481cca581/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d0ce1de98f404f9db732293481cca581
+run_name: enthused-steed-426
+run_uuid: d0ce1de98f404f9db732293481cca581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041802037
+status: 1
+tags: []
+user_id: unknown

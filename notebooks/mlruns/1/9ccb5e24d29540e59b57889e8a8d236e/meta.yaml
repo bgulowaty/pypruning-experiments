@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9ccb5e24d29540e59b57889e8a8d236e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ccb5e24d29540e59b57889e8a8d236e
+run_name: industrious-rat-84
+run_uuid: 9ccb5e24d29540e59b57889e8a8d236e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041827814
+status: 1
+tags: []
+user_id: unknown

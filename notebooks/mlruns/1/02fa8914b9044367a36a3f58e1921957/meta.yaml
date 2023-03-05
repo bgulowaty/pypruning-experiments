@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/02fa8914b9044367a36a3f58e1921957/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 02fa8914b9044367a36a3f58e1921957
+run_name: silent-crane-116
+run_uuid: 02fa8914b9044367a36a3f58e1921957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041956682
+status: 1
+tags: []
+user_id: unknown

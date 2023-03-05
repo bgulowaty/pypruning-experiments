@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c0de01c74eb44227bf2a0c3ec03c8eb0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c0de01c74eb44227bf2a0c3ec03c8eb0
+run_name: resilient-rat-590
+run_uuid: c0de01c74eb44227bf2a0c3ec03c8eb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041532407
+status: 1
+tags: []
+user_id: unknown

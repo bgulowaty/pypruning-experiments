@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/74ccff442b9b49e492ee6aa8a9d529ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74ccff442b9b49e492ee6aa8a9d529ad
+run_name: fearless-shoat-637
+run_uuid: 74ccff442b9b49e492ee6aa8a9d529ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041966699
+status: 1
+tags: []
+user_id: unknown

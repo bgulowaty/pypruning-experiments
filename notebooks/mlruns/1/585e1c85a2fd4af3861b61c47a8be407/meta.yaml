@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/585e1c85a2fd4af3861b61c47a8be407/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 585e1c85a2fd4af3861b61c47a8be407
+run_name: stately-koi-723
+run_uuid: 585e1c85a2fd4af3861b61c47a8be407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041873400
+status: 1
+tags: []
+user_id: unknown

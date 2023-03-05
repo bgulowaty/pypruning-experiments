@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ece20fa2a68c4192a68e42828c50a0e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ece20fa2a68c4192a68e42828c50a0e2
+run_name: resilient-skink-520
+run_uuid: ece20fa2a68c4192a68e42828c50a0e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041578193
+status: 1
+tags: []
+user_id: unknown

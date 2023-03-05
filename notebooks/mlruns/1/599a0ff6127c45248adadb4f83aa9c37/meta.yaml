@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/599a0ff6127c45248adadb4f83aa9c37/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 599a0ff6127c45248adadb4f83aa9c37
+run_name: adorable-auk-303
+run_uuid: 599a0ff6127c45248adadb4f83aa9c37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041968165
+status: 1
+tags: []
+user_id: unknown

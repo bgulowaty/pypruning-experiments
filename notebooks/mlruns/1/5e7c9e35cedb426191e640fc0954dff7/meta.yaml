@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5e7c9e35cedb426191e640fc0954dff7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e7c9e35cedb426191e640fc0954dff7
+run_name: lyrical-mule-623
+run_uuid: 5e7c9e35cedb426191e640fc0954dff7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041640782
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/64a3b2d182b3401da2d0ef9d0f57981e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 64a3b2d182b3401da2d0ef9d0f57981e
+run_name: dashing-quail-920
+run_uuid: 64a3b2d182b3401da2d0ef9d0f57981e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041754106
+status: 1
+tags: []
+user_id: unknown

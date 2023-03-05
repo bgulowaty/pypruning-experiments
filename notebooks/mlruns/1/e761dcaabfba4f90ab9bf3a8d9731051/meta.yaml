@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e761dcaabfba4f90ab9bf3a8d9731051/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e761dcaabfba4f90ab9bf3a8d9731051
+run_name: invincible-shrimp-48
+run_uuid: e761dcaabfba4f90ab9bf3a8d9731051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041535959
+status: 1
+tags: []
+user_id: unknown

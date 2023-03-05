@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/59c60bdf2a9a4b24a0d0bf6896c83c77/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 59c60bdf2a9a4b24a0d0bf6896c83c77
+run_name: hilarious-smelt-580
+run_uuid: 59c60bdf2a9a4b24a0d0bf6896c83c77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041543930
+status: 1
+tags: []
+user_id: unknown

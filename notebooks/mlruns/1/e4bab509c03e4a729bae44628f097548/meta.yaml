@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e4bab509c03e4a729bae44628f097548/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e4bab509c03e4a729bae44628f097548
+run_name: efficient-wolf-13
+run_uuid: e4bab509c03e4a729bae44628f097548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041733440
+status: 1
+tags: []
+user_id: unknown

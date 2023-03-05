@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a0ee0115c26c4db4ad9df5885ab19297/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0ee0115c26c4db4ad9df5885ab19297
+run_name: upset-hound-965
+run_uuid: a0ee0115c26c4db4ad9df5885ab19297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041589103
+status: 1
+tags: []
+user_id: unknown

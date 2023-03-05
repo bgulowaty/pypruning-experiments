@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/776c87fa681342b0b989c028a16428c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 776c87fa681342b0b989c028a16428c5
+run_name: agreeable-stoat-704
+run_uuid: 776c87fa681342b0b989c028a16428c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041894908
+status: 1
+tags: []
+user_id: unknown

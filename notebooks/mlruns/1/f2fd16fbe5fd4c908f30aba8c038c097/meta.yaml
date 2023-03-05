@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f2fd16fbe5fd4c908f30aba8c038c097/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f2fd16fbe5fd4c908f30aba8c038c097
+run_name: masked-wasp-627
+run_uuid: f2fd16fbe5fd4c908f30aba8c038c097
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041518205
+status: 1
+tags: []
+user_id: unknown

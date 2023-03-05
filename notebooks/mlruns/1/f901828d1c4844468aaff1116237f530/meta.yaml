@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f901828d1c4844468aaff1116237f530/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f901828d1c4844468aaff1116237f530
+run_name: nebulous-shark-229
+run_uuid: f901828d1c4844468aaff1116237f530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041586794
+status: 1
+tags: []
+user_id: unknown

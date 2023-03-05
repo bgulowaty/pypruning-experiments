@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/adae6354234d4777987d850e4b4c04dd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: adae6354234d4777987d850e4b4c04dd
+run_name: blushing-bird-863
+run_uuid: adae6354234d4777987d850e4b4c04dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041520277
+status: 1
+tags: []
+user_id: unknown

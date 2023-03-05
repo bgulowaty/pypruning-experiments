@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4d544b4229db49b28e171aeb27837335/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d544b4229db49b28e171aeb27837335
+run_name: unique-shrew-970
+run_uuid: 4d544b4229db49b28e171aeb27837335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497467
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e64f8d03fd7445ce9f49991ed675a574/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e64f8d03fd7445ce9f49991ed675a574
+run_name: shivering-colt-130
+run_uuid: e64f8d03fd7445ce9f49991ed675a574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041609180
+status: 1
+tags: []
+user_id: unknown

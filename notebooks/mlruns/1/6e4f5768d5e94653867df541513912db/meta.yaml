@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6e4f5768d5e94653867df541513912db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e4f5768d5e94653867df541513912db
+run_name: invincible-sheep-40
+run_uuid: 6e4f5768d5e94653867df541513912db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041539744
+status: 1
+tags: []
+user_id: unknown

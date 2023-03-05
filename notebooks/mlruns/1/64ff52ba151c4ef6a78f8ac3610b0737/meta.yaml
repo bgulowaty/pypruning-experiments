@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/64ff52ba151c4ef6a78f8ac3610b0737/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 64ff52ba151c4ef6a78f8ac3610b0737
+run_name: defiant-conch-888
+run_uuid: 64ff52ba151c4ef6a78f8ac3610b0737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041710112
+status: 1
+tags: []
+user_id: unknown

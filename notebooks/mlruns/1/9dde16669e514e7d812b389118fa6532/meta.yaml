@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9dde16669e514e7d812b389118fa6532/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9dde16669e514e7d812b389118fa6532
+run_name: carefree-horse-546
+run_uuid: 9dde16669e514e7d812b389118fa6532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041780054
+status: 1
+tags: []
+user_id: unknown

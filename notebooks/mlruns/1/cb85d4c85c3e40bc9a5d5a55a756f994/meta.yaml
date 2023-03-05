@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cb85d4c85c3e40bc9a5d5a55a756f994/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb85d4c85c3e40bc9a5d5a55a756f994
+run_name: awesome-sponge-588
+run_uuid: cb85d4c85c3e40bc9a5d5a55a756f994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499859
+status: 1
+tags: []
+user_id: unknown

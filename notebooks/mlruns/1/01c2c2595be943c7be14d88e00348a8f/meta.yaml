@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/01c2c2595be943c7be14d88e00348a8f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01c2c2595be943c7be14d88e00348a8f
+run_name: thundering-fawn-322
+run_uuid: 01c2c2595be943c7be14d88e00348a8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041541324
+status: 1
+tags: []
+user_id: unknown

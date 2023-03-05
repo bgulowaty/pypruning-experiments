@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4ac8adc8d44c4efd88103eba671df049/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ac8adc8d44c4efd88103eba671df049
+run_name: industrious-ant-799
+run_uuid: 4ac8adc8d44c4efd88103eba671df049
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041628325
+status: 1
+tags: []
+user_id: unknown

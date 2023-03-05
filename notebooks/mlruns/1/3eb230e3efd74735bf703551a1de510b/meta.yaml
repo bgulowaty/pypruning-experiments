@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3eb230e3efd74735bf703551a1de510b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3eb230e3efd74735bf703551a1de510b
+run_name: charming-grouse-338
+run_uuid: 3eb230e3efd74735bf703551a1de510b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041556544
+status: 1
+tags: []
+user_id: unknown

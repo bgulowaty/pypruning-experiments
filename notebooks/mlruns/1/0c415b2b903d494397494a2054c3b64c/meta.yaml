@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0c415b2b903d494397494a2054c3b64c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0c415b2b903d494397494a2054c3b64c
+run_name: victorious-duck-192
+run_uuid: 0c415b2b903d494397494a2054c3b64c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041505194
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bfb312672e664847a9926b9ac7b96a96/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bfb312672e664847a9926b9ac7b96a96
+run_name: melodic-shad-432
+run_uuid: bfb312672e664847a9926b9ac7b96a96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041856002
+status: 1
+tags: []
+user_id: unknown

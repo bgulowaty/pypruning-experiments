@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/df3fa4ba7c6346c79254980b30df4827/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df3fa4ba7c6346c79254980b30df4827
+run_name: intelligent-cat-206
+run_uuid: df3fa4ba7c6346c79254980b30df4827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041577262
+status: 1
+tags: []
+user_id: unknown

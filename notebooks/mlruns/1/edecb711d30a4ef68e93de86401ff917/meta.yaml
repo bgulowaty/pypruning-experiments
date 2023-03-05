@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/edecb711d30a4ef68e93de86401ff917/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: edecb711d30a4ef68e93de86401ff917
+run_name: tasteful-stag-309
+run_uuid: edecb711d30a4ef68e93de86401ff917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041714683
+status: 1
+tags: []
+user_id: unknown

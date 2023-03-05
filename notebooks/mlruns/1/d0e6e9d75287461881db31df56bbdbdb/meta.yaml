@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d0e6e9d75287461881db31df56bbdbdb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d0e6e9d75287461881db31df56bbdbdb
+run_name: angry-donkey-200
+run_uuid: d0e6e9d75287461881db31df56bbdbdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041519739
+status: 1
+tags: []
+user_id: unknown

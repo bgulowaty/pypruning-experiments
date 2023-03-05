@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/76815ab5a43348208ec39bb6444dbe47/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 76815ab5a43348208ec39bb6444dbe47
+run_name: thoughtful-panda-27
+run_uuid: 76815ab5a43348208ec39bb6444dbe47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041513069
+status: 1
+tags: []
+user_id: unknown

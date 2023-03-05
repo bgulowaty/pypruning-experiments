@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cab664391b724542a708652eb6a1c93e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cab664391b724542a708652eb6a1c93e
+run_name: sincere-toad-436
+run_uuid: cab664391b724542a708652eb6a1c93e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041815475
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5233a743957c4f7a84c0ead4f2b8cabc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5233a743957c4f7a84c0ead4f2b8cabc
+run_name: luxuriant-yak-532
+run_uuid: 5233a743957c4f7a84c0ead4f2b8cabc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041843495
+status: 1
+tags: []
+user_id: unknown

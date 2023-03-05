@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/743363f6fc21406cbb2e8d3d9b4d3ce9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 743363f6fc21406cbb2e8d3d9b4d3ce9
+run_name: agreeable-crab-862
+run_uuid: 743363f6fc21406cbb2e8d3d9b4d3ce9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041780243
+status: 1
+tags: []
+user_id: unknown

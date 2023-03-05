@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e4f0c5da30dd4888a4ebbc582535bfb2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e4f0c5da30dd4888a4ebbc582535bfb2
+run_name: thoughtful-koi-276
+run_uuid: e4f0c5da30dd4888a4ebbc582535bfb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041500116
+status: 1
+tags: []
+user_id: unknown

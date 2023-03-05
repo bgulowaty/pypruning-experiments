@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/39f1ca013f374691a80085948f817231/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 39f1ca013f374691a80085948f817231
+run_name: funny-fawn-163
+run_uuid: 39f1ca013f374691a80085948f817231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041908233
+status: 1
+tags: []
+user_id: unknown

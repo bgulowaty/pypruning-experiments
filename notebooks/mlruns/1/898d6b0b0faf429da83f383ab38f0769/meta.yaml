@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/898d6b0b0faf429da83f383ab38f0769/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 898d6b0b0faf429da83f383ab38f0769
+run_name: auspicious-calf-421
+run_uuid: 898d6b0b0faf429da83f383ab38f0769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041632849
+status: 1
+tags: []
+user_id: unknown

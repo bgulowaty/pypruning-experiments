@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f59c61e1ef324015b311fc12a07221af/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f59c61e1ef324015b311fc12a07221af
+run_name: mercurial-kite-561
+run_uuid: f59c61e1ef324015b311fc12a07221af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041498738
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ef25e0f45aba43c9af14fb08667bfef4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef25e0f45aba43c9af14fb08667bfef4
+run_name: learned-steed-867
+run_uuid: ef25e0f45aba43c9af14fb08667bfef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041572032
+status: 1
+tags: []
+user_id: unknown

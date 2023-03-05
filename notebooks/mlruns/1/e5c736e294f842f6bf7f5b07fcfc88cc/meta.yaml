@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e5c736e294f842f6bf7f5b07fcfc88cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e5c736e294f842f6bf7f5b07fcfc88cc
+run_name: abrasive-grouse-321
+run_uuid: e5c736e294f842f6bf7f5b07fcfc88cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041508308
+status: 1
+tags: []
+user_id: unknown

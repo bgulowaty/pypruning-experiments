@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c4bfc09ac987442c8fd29b54445b110a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c4bfc09ac987442c8fd29b54445b110a
+run_name: melodic-conch-654
+run_uuid: c4bfc09ac987442c8fd29b54445b110a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041874766
+status: 1
+tags: []
+user_id: unknown

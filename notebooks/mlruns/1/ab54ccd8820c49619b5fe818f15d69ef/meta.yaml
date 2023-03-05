@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ab54ccd8820c49619b5fe818f15d69ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab54ccd8820c49619b5fe818f15d69ef
+run_name: skittish-sheep-380
+run_uuid: ab54ccd8820c49619b5fe818f15d69ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041774777
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fcaacea2efb540e2a2a54d414eb3abbc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fcaacea2efb540e2a2a54d414eb3abbc
+run_name: calm-frog-442
+run_uuid: fcaacea2efb540e2a2a54d414eb3abbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041904106
+status: 1
+tags: []
+user_id: unknown

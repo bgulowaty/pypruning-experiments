@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/52359ca9440a45b9a47f1412a2a5974f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 52359ca9440a45b9a47f1412a2a5974f
+run_name: resilient-ray-290
+run_uuid: 52359ca9440a45b9a47f1412a2a5974f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041896573
+status: 1
+tags: []
+user_id: unknown

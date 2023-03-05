@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1d06d4863cb743a5b62617888ab9a28c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1d06d4863cb743a5b62617888ab9a28c
+run_name: casual-frog-884
+run_uuid: 1d06d4863cb743a5b62617888ab9a28c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041963899
+status: 1
+tags: []
+user_id: unknown

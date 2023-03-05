@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cfc931284ff64494882b070f77fc2b8c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cfc931284ff64494882b070f77fc2b8c
+run_name: orderly-finch-530
+run_uuid: cfc931284ff64494882b070f77fc2b8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495211
+status: 1
+tags: []
+user_id: unknown

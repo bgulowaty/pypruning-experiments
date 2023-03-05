@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4d9443c45e6d4cad96c6906c5ed98b1d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d9443c45e6d4cad96c6906c5ed98b1d
+run_name: receptive-bird-421
+run_uuid: 4d9443c45e6d4cad96c6906c5ed98b1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041911333
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bacdd1d47519418c8882a4bd086aefba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bacdd1d47519418c8882a4bd086aefba
+run_name: gentle-shrike-917
+run_uuid: bacdd1d47519418c8882a4bd086aefba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041938643
+status: 1
+tags: []
+user_id: unknown

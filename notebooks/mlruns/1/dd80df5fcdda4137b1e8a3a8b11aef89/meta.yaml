@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dd80df5fcdda4137b1e8a3a8b11aef89/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd80df5fcdda4137b1e8a3a8b11aef89
+run_name: dashing-horse-756
+run_uuid: dd80df5fcdda4137b1e8a3a8b11aef89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041574987
+status: 1
+tags: []
+user_id: unknown

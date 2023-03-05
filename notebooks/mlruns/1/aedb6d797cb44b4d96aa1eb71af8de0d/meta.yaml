@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/aedb6d797cb44b4d96aa1eb71af8de0d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aedb6d797cb44b4d96aa1eb71af8de0d
+run_name: lyrical-doe-992
+run_uuid: aedb6d797cb44b4d96aa1eb71af8de0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041694177
+status: 1
+tags: []
+user_id: unknown

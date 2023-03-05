@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/037624afe24f44ca92b0fd272f2eafcb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 037624afe24f44ca92b0fd272f2eafcb
+run_name: nimble-owl-315
+run_uuid: 037624afe24f44ca92b0fd272f2eafcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041956368
+status: 1
+tags: []
+user_id: unknown

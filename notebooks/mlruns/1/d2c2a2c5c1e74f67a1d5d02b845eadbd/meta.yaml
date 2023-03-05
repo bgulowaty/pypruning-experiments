@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d2c2a2c5c1e74f67a1d5d02b845eadbd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2c2a2c5c1e74f67a1d5d02b845eadbd
+run_name: upbeat-smelt-284
+run_uuid: d2c2a2c5c1e74f67a1d5d02b845eadbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497626
+status: 1
+tags: []
+user_id: unknown

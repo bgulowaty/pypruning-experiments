@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9acdc83d86a04c2588bbc3ac7e840e06/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9acdc83d86a04c2588bbc3ac7e840e06
+run_name: likeable-stag-718
+run_uuid: 9acdc83d86a04c2588bbc3ac7e840e06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041798407
+status: 1
+tags: []
+user_id: unknown

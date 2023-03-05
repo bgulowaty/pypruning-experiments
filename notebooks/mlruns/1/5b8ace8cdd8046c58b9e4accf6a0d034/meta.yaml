@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5b8ace8cdd8046c58b9e4accf6a0d034/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5b8ace8cdd8046c58b9e4accf6a0d034
+run_name: big-sloth-924
+run_uuid: 5b8ace8cdd8046c58b9e4accf6a0d034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041511850
+status: 1
+tags: []
+user_id: unknown

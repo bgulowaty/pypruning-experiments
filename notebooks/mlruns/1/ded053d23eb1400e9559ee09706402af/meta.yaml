@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ded053d23eb1400e9559ee09706402af/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ded053d23eb1400e9559ee09706402af
+run_name: respected-vole-833
+run_uuid: ded053d23eb1400e9559ee09706402af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041522009
+status: 1
+tags: []
+user_id: unknown

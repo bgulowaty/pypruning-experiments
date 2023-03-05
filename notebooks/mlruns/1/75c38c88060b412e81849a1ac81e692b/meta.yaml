@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/75c38c88060b412e81849a1ac81e692b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 75c38c88060b412e81849a1ac81e692b
+run_name: bright-dog-665
+run_uuid: 75c38c88060b412e81849a1ac81e692b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041812009
+status: 1
+tags: []
+user_id: unknown

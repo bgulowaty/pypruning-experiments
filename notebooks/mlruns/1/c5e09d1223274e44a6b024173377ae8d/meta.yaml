@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c5e09d1223274e44a6b024173377ae8d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c5e09d1223274e44a6b024173377ae8d
+run_name: mercurial-newt-139
+run_uuid: c5e09d1223274e44a6b024173377ae8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041506117
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d73e0567d9f04479809e2aee6e0164e4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d73e0567d9f04479809e2aee6e0164e4
+run_name: placid-whale-851
+run_uuid: d73e0567d9f04479809e2aee6e0164e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041508231
+status: 1
+tags: []
+user_id: unknown

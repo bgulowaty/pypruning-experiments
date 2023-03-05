@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8c8818cffbee40da8712dce5428a49ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8c8818cffbee40da8712dce5428a49ba
+run_name: polite-flea-64
+run_uuid: 8c8818cffbee40da8712dce5428a49ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041856417
+status: 1
+tags: []
+user_id: unknown

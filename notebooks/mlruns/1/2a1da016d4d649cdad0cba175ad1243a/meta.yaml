@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2a1da016d4d649cdad0cba175ad1243a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2a1da016d4d649cdad0cba175ad1243a
+run_name: amazing-moth-434
+run_uuid: 2a1da016d4d649cdad0cba175ad1243a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496207
+status: 1
+tags: []
+user_id: unknown

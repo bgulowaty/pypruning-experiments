@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dd5f374443dc434691b20f86e9fa537c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd5f374443dc434691b20f86e9fa537c
+run_name: valuable-cod-920
+run_uuid: dd5f374443dc434691b20f86e9fa537c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041969354
+status: 1
+tags: []
+user_id: unknown

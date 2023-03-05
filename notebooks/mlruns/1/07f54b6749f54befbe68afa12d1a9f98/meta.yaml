@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/07f54b6749f54befbe68afa12d1a9f98/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 07f54b6749f54befbe68afa12d1a9f98
+run_name: able-cub-835
+run_uuid: 07f54b6749f54befbe68afa12d1a9f98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041787810
+status: 1
+tags: []
+user_id: unknown

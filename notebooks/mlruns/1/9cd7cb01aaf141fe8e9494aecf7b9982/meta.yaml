@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9cd7cb01aaf141fe8e9494aecf7b9982/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9cd7cb01aaf141fe8e9494aecf7b9982
+run_name: thundering-moth-445
+run_uuid: 9cd7cb01aaf141fe8e9494aecf7b9982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041748832
+status: 1
+tags: []
+user_id: unknown

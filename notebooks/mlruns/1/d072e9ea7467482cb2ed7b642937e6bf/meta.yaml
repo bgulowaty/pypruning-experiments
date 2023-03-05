@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d072e9ea7467482cb2ed7b642937e6bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d072e9ea7467482cb2ed7b642937e6bf
+run_name: skittish-asp-442
+run_uuid: d072e9ea7467482cb2ed7b642937e6bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041576059
+status: 1
+tags: []
+user_id: unknown

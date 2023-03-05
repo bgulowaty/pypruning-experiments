@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ccb630d5aa6b4355b8ce8fc01f5ed439/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ccb630d5aa6b4355b8ce8fc01f5ed439
+run_name: hilarious-donkey-700
+run_uuid: ccb630d5aa6b4355b8ce8fc01f5ed439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502667
+status: 1
+tags: []
+user_id: unknown

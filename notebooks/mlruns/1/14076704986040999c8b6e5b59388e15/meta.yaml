@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/14076704986040999c8b6e5b59388e15/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 14076704986040999c8b6e5b59388e15
+run_name: grandiose-steed-101
+run_uuid: 14076704986040999c8b6e5b59388e15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041634560
+status: 1
+tags: []
+user_id: unknown

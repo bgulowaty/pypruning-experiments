@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0ac77ae56b364991be8eb7e77f96edf2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ac77ae56b364991be8eb7e77f96edf2
+run_name: funny-quail-459
+run_uuid: 0ac77ae56b364991be8eb7e77f96edf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495965
+status: 1
+tags: []
+user_id: unknown

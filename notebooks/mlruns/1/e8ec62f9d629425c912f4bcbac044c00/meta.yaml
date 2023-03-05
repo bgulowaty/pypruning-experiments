@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e8ec62f9d629425c912f4bcbac044c00/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e8ec62f9d629425c912f4bcbac044c00
+run_name: polite-fox-591
+run_uuid: e8ec62f9d629425c912f4bcbac044c00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041686083
+status: 1
+tags: []
+user_id: unknown

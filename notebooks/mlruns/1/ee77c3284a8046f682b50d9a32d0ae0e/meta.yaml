@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ee77c3284a8046f682b50d9a32d0ae0e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee77c3284a8046f682b50d9a32d0ae0e
+run_name: monumental-steed-544
+run_uuid: ee77c3284a8046f682b50d9a32d0ae0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041936050
+status: 1
+tags: []
+user_id: unknown

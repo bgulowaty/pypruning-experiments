@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/95b6ee9a9ebe4817903b6eac78a123c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95b6ee9a9ebe4817903b6eac78a123c5
+run_name: skillful-snipe-788
+run_uuid: 95b6ee9a9ebe4817903b6eac78a123c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041533668
+status: 1
+tags: []
+user_id: unknown

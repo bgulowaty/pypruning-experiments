@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5592e8ef4e3f4ea58d7fb7fae9d82ebc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5592e8ef4e3f4ea58d7fb7fae9d82ebc
+run_name: popular-toad-236
+run_uuid: 5592e8ef4e3f4ea58d7fb7fae9d82ebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041540215
+status: 1
+tags: []
+user_id: unknown

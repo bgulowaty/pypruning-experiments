@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fd9a91811fa942bda8a264349a3bf14d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fd9a91811fa942bda8a264349a3bf14d
+run_name: sincere-lark-821
+run_uuid: fd9a91811fa942bda8a264349a3bf14d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041533860
+status: 1
+tags: []
+user_id: unknown

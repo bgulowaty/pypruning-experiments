@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/122540dc734f482aa3f2913ef7b633c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 122540dc734f482aa3f2913ef7b633c7
+run_name: judicious-horse-973
+run_uuid: 122540dc734f482aa3f2913ef7b633c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041958519
+status: 1
+tags: []
+user_id: unknown

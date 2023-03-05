@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d02c199ba4ed41c9b149adc78f380568/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d02c199ba4ed41c9b149adc78f380568
+run_name: luxuriant-kite-515
+run_uuid: d02c199ba4ed41c9b149adc78f380568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041575528
+status: 1
+tags: []
+user_id: unknown

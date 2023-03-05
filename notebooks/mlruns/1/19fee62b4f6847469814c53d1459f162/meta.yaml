@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/19fee62b4f6847469814c53d1459f162/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 19fee62b4f6847469814c53d1459f162
+run_name: whimsical-ram-623
+run_uuid: 19fee62b4f6847469814c53d1459f162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041718340
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6f6029c01ff543b0aecd0d26d703f469/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6f6029c01ff543b0aecd0d26d703f469
+run_name: likeable-rat-619
+run_uuid: 6f6029c01ff543b0aecd0d26d703f469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041818523
+status: 1
+tags: []
+user_id: unknown

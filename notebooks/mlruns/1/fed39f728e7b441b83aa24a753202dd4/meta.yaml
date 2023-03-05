@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fed39f728e7b441b83aa24a753202dd4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fed39f728e7b441b83aa24a753202dd4
+run_name: agreeable-gnu-951
+run_uuid: fed39f728e7b441b83aa24a753202dd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041630650
+status: 1
+tags: []
+user_id: unknown

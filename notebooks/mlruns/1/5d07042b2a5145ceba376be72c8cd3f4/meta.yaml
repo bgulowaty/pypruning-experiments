@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5d07042b2a5145ceba376be72c8cd3f4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5d07042b2a5145ceba376be72c8cd3f4
+run_name: casual-dog-86
+run_uuid: 5d07042b2a5145ceba376be72c8cd3f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041523406
+status: 1
+tags: []
+user_id: unknown

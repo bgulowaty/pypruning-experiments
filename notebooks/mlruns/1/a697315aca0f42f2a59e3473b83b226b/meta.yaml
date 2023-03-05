@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a697315aca0f42f2a59e3473b83b226b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a697315aca0f42f2a59e3473b83b226b
+run_name: gifted-donkey-634
+run_uuid: a697315aca0f42f2a59e3473b83b226b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041503923
+status: 1
+tags: []
+user_id: unknown

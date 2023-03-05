@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/227e9b3688f0401badde647a5c5dbfaf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 227e9b3688f0401badde647a5c5dbfaf
+run_name: gifted-flea-4
+run_uuid: 227e9b3688f0401badde647a5c5dbfaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041951997
+status: 1
+tags: []
+user_id: unknown

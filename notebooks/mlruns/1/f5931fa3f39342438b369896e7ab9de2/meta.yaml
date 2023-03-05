@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f5931fa3f39342438b369896e7ab9de2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f5931fa3f39342438b369896e7ab9de2
+run_name: peaceful-fish-724
+run_uuid: f5931fa3f39342438b369896e7ab9de2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041674530
+status: 1
+tags: []
+user_id: unknown

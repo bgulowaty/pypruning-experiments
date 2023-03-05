@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c9531c19bf224d068a6c534e02c662df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c9531c19bf224d068a6c534e02c662df
+run_name: intrigued-chimp-825
+run_uuid: c9531c19bf224d068a6c534e02c662df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041504707
+status: 1
+tags: []
+user_id: unknown

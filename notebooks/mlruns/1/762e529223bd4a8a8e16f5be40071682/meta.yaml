@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/762e529223bd4a8a8e16f5be40071682/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 762e529223bd4a8a8e16f5be40071682
+run_name: funny-trout-486
+run_uuid: 762e529223bd4a8a8e16f5be40071682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041976230
+status: 1
+tags: []
+user_id: unknown

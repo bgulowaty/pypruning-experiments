@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/561841a1f7474c368589fd71a26d178d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 561841a1f7474c368589fd71a26d178d
+run_name: dazzling-pig-882
+run_uuid: 561841a1f7474c368589fd71a26d178d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041572211
+status: 1
+tags: []
+user_id: unknown

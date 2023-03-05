@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d934e58af2ac4dd6b416a773e475d878/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d934e58af2ac4dd6b416a773e475d878
+run_name: unruly-seal-863
+run_uuid: d934e58af2ac4dd6b416a773e475d878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041644340
+status: 1
+tags: []
+user_id: unknown

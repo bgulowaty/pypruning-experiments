@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3be211436c1d43c7a151e2b9c670548b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3be211436c1d43c7a151e2b9c670548b
+run_name: bedecked-horse-20
+run_uuid: 3be211436c1d43c7a151e2b9c670548b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496196
+status: 1
+tags: []
+user_id: unknown

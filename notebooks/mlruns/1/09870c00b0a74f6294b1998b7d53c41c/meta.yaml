@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/09870c00b0a74f6294b1998b7d53c41c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09870c00b0a74f6294b1998b7d53c41c
+run_name: delicate-fawn-709
+run_uuid: 09870c00b0a74f6294b1998b7d53c41c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041833493
+status: 1
+tags: []
+user_id: unknown

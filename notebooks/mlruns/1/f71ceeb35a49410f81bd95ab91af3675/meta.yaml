@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f71ceeb35a49410f81bd95ab91af3675/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f71ceeb35a49410f81bd95ab91af3675
+run_name: crawling-ox-862
+run_uuid: f71ceeb35a49410f81bd95ab91af3675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041535423
+status: 1
+tags: []
+user_id: unknown

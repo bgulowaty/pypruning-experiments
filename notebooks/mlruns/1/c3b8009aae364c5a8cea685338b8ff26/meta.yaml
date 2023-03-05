@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c3b8009aae364c5a8cea685338b8ff26/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c3b8009aae364c5a8cea685338b8ff26
+run_name: crawling-gnu-507
+run_uuid: c3b8009aae364c5a8cea685338b8ff26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041625550
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3d6a19e331f44b789f1cd164d07c16b2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3d6a19e331f44b789f1cd164d07c16b2
+run_name: glamorous-mouse-863
+run_uuid: 3d6a19e331f44b789f1cd164d07c16b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041671478
+status: 1
+tags: []
+user_id: unknown

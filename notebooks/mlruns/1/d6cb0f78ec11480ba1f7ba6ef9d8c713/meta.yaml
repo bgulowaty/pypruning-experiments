@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d6cb0f78ec11480ba1f7ba6ef9d8c713/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d6cb0f78ec11480ba1f7ba6ef9d8c713
+run_name: dashing-worm-360
+run_uuid: d6cb0f78ec11480ba1f7ba6ef9d8c713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041507095
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c90b19d3950e428d88de4f00dbeb6b09/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c90b19d3950e428d88de4f00dbeb6b09
+run_name: rebellious-midge-550
+run_uuid: c90b19d3950e428d88de4f00dbeb6b09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041629697
+status: 1
+tags: []
+user_id: unknown

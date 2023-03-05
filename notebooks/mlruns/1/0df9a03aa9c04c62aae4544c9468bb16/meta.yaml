@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0df9a03aa9c04c62aae4544c9468bb16/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0df9a03aa9c04c62aae4544c9468bb16
+run_name: mysterious-hen-289
+run_uuid: 0df9a03aa9c04c62aae4544c9468bb16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041751095
+status: 1
+tags: []
+user_id: unknown

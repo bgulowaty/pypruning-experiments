@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ca5e515aff814936b67d145742da699c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca5e515aff814936b67d145742da699c
+run_name: dazzling-wasp-190
+run_uuid: ca5e515aff814936b67d145742da699c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041750046
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6c4d8f1c78134090aab296eccb8d83ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6c4d8f1c78134090aab296eccb8d83ab
+run_name: loud-shoat-114
+run_uuid: 6c4d8f1c78134090aab296eccb8d83ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041508386
+status: 1
+tags: []
+user_id: unknown

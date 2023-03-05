@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d4726b7701194e739bc87b7c0057782b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d4726b7701194e739bc87b7c0057782b
+run_name: worried-shrimp-655
+run_uuid: d4726b7701194e739bc87b7c0057782b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502424
+status: 1
+tags: []
+user_id: unknown

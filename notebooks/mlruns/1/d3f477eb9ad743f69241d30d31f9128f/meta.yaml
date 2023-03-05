@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d3f477eb9ad743f69241d30d31f9128f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d3f477eb9ad743f69241d30d31f9128f
+run_name: receptive-duck-872
+run_uuid: d3f477eb9ad743f69241d30d31f9128f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041781634
+status: 1
+tags: []
+user_id: unknown

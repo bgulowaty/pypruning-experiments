@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/66cf96b9631349ab80fa11e524a67a6d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 66cf96b9631349ab80fa11e524a67a6d
+run_name: funny-shad-471
+run_uuid: 66cf96b9631349ab80fa11e524a67a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041649352
+status: 1
+tags: []
+user_id: unknown

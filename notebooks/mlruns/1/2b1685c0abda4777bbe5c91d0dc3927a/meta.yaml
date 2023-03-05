@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2b1685c0abda4777bbe5c91d0dc3927a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2b1685c0abda4777bbe5c91d0dc3927a
+run_name: gentle-dove-339
+run_uuid: 2b1685c0abda4777bbe5c91d0dc3927a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041755585
+status: 1
+tags: []
+user_id: unknown

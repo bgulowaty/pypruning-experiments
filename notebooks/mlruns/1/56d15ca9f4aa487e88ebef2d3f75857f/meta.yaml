@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/56d15ca9f4aa487e88ebef2d3f75857f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 56d15ca9f4aa487e88ebef2d3f75857f
+run_name: adaptable-ram-398
+run_uuid: 56d15ca9f4aa487e88ebef2d3f75857f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041977801
+status: 1
+tags: []
+user_id: unknown

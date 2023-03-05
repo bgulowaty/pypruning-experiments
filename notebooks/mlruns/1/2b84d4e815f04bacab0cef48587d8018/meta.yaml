@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2b84d4e815f04bacab0cef48587d8018/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2b84d4e815f04bacab0cef48587d8018
+run_name: placid-turtle-330
+run_uuid: 2b84d4e815f04bacab0cef48587d8018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041529563
+status: 1
+tags: []
+user_id: unknown

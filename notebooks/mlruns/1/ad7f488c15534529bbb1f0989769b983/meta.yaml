@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ad7f488c15534529bbb1f0989769b983/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad7f488c15534529bbb1f0989769b983
+run_name: resilient-fox-627
+run_uuid: ad7f488c15534529bbb1f0989769b983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041514388
+status: 1
+tags: []
+user_id: unknown

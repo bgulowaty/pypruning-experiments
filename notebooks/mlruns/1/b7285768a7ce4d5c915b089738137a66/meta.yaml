@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b7285768a7ce4d5c915b089738137a66/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b7285768a7ce4d5c915b089738137a66
+run_name: adaptable-hog-51
+run_uuid: b7285768a7ce4d5c915b089738137a66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041895657
+status: 1
+tags: []
+user_id: unknown

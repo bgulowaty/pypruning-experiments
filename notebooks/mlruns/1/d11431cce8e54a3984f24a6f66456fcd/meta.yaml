@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d11431cce8e54a3984f24a6f66456fcd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d11431cce8e54a3984f24a6f66456fcd
+run_name: carefree-hawk-386
+run_uuid: d11431cce8e54a3984f24a6f66456fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041689479
+status: 1
+tags: []
+user_id: unknown

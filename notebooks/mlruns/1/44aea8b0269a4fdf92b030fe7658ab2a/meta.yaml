@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/44aea8b0269a4fdf92b030fe7658ab2a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 44aea8b0269a4fdf92b030fe7658ab2a
+run_name: nosy-squirrel-590
+run_uuid: 44aea8b0269a4fdf92b030fe7658ab2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502974
+status: 1
+tags: []
+user_id: unknown

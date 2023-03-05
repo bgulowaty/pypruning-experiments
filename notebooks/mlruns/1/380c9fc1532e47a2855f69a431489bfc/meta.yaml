@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/380c9fc1532e47a2855f69a431489bfc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 380c9fc1532e47a2855f69a431489bfc
+run_name: enthused-turtle-440
+run_uuid: 380c9fc1532e47a2855f69a431489bfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041503163
+status: 1
+tags: []
+user_id: unknown

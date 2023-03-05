@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/02c7760970f148c6abe19017c11245ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 02c7760970f148c6abe19017c11245ec
+run_name: exultant-ox-546
+run_uuid: 02c7760970f148c6abe19017c11245ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041721884
+status: 1
+tags: []
+user_id: unknown

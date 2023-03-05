@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a65c08c572354c5ca7876e16a69ae262/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a65c08c572354c5ca7876e16a69ae262
+run_name: placid-sheep-98
+run_uuid: a65c08c572354c5ca7876e16a69ae262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041797568
+status: 1
+tags: []
+user_id: unknown

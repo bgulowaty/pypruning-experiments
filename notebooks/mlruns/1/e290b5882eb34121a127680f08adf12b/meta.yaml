@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e290b5882eb34121a127680f08adf12b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e290b5882eb34121a127680f08adf12b
+run_name: kindly-ram-253
+run_uuid: e290b5882eb34121a127680f08adf12b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041612044
+status: 1
+tags: []
+user_id: unknown

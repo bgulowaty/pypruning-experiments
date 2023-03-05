@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/da5bb80d361342e6ad85599a11436330/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da5bb80d361342e6ad85599a11436330
+run_name: blushing-smelt-475
+run_uuid: da5bb80d361342e6ad85599a11436330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041538246
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/951649b1cea54c58b0de855168b49a2b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 951649b1cea54c58b0de855168b49a2b
+run_name: thundering-snipe-523
+run_uuid: 951649b1cea54c58b0de855168b49a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041506667
+status: 1
+tags: []
+user_id: unknown

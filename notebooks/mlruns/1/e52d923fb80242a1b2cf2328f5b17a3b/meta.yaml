@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e52d923fb80242a1b2cf2328f5b17a3b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e52d923fb80242a1b2cf2328f5b17a3b
+run_name: learned-shark-924
+run_uuid: e52d923fb80242a1b2cf2328f5b17a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041862822
+status: 1
+tags: []
+user_id: unknown

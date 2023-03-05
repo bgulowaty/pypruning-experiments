@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/acff73b38bdd4a788dbdbb4179738934/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: acff73b38bdd4a788dbdbb4179738934
+run_name: unleashed-fly-13
+run_uuid: acff73b38bdd4a788dbdbb4179738934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041983512
+status: 1
+tags: []
+user_id: unknown

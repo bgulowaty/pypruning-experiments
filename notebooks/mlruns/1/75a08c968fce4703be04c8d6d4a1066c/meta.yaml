@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/75a08c968fce4703be04c8d6d4a1066c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 75a08c968fce4703be04c8d6d4a1066c
+run_name: rebellious-calf-724
+run_uuid: 75a08c968fce4703be04c8d6d4a1066c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041636396
+status: 1
+tags: []
+user_id: unknown

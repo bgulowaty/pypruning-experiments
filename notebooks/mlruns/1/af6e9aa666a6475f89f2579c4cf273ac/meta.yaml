@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/af6e9aa666a6475f89f2579c4cf273ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: af6e9aa666a6475f89f2579c4cf273ac
+run_name: wise-fox-611
+run_uuid: af6e9aa666a6475f89f2579c4cf273ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041501801
+status: 1
+tags: []
+user_id: unknown

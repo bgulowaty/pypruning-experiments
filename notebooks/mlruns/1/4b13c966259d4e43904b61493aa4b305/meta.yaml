@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4b13c966259d4e43904b61493aa4b305/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4b13c966259d4e43904b61493aa4b305
+run_name: popular-conch-334
+run_uuid: 4b13c966259d4e43904b61493aa4b305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041965079
+status: 1
+tags: []
+user_id: unknown

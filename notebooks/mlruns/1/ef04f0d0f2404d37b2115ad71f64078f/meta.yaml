@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ef04f0d0f2404d37b2115ad71f64078f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef04f0d0f2404d37b2115ad71f64078f
+run_name: amazing-dog-195
+run_uuid: ef04f0d0f2404d37b2115ad71f64078f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041969848
+status: 1
+tags: []
+user_id: unknown

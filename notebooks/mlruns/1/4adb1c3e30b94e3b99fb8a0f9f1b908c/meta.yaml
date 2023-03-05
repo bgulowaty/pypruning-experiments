@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4adb1c3e30b94e3b99fb8a0f9f1b908c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4adb1c3e30b94e3b99fb8a0f9f1b908c
+run_name: tasteful-bear-91
+run_uuid: 4adb1c3e30b94e3b99fb8a0f9f1b908c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041564582
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2e34c8bca5024a5ea4b092eb125f9fc0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2e34c8bca5024a5ea4b092eb125f9fc0
+run_name: rare-quail-229
+run_uuid: 2e34c8bca5024a5ea4b092eb125f9fc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041528976
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d43829f7e1d842308d7c14e494ffe49d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d43829f7e1d842308d7c14e494ffe49d
+run_name: casual-conch-397
+run_uuid: d43829f7e1d842308d7c14e494ffe49d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041532600
+status: 1
+tags: []
+user_id: unknown

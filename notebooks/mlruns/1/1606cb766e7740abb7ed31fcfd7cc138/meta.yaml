@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1606cb766e7740abb7ed31fcfd7cc138/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1606cb766e7740abb7ed31fcfd7cc138
+run_name: stylish-gnu-889
+run_uuid: 1606cb766e7740abb7ed31fcfd7cc138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041611518
+status: 1
+tags: []
+user_id: unknown

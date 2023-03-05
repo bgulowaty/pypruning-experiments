@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/17615dbc243b420ca45b1a07a5c62b51/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 17615dbc243b420ca45b1a07a5c62b51
+run_name: bouncy-duck-960
+run_uuid: 17615dbc243b420ca45b1a07a5c62b51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041964122
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d6d1173767ca4f669e9f1e51444f5d74/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d6d1173767ca4f669e9f1e51444f5d74
+run_name: orderly-tern-780
+run_uuid: d6d1173767ca4f669e9f1e51444f5d74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041556925
+status: 1
+tags: []
+user_id: unknown

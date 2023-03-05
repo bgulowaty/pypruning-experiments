@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ee6b6e37811b481fbe7716333c0842da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee6b6e37811b481fbe7716333c0842da
+run_name: painted-squirrel-260
+run_uuid: ee6b6e37811b481fbe7716333c0842da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041600315
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0071bbb7c26c4f2989bca9b17628fc0a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0071bbb7c26c4f2989bca9b17628fc0a
+run_name: rogue-elk-442
+run_uuid: 0071bbb7c26c4f2989bca9b17628fc0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041678388
+status: 1
+tags: []
+user_id: unknown

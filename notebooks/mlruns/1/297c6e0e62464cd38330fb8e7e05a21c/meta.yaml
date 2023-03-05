@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/297c6e0e62464cd38330fb8e7e05a21c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 297c6e0e62464cd38330fb8e7e05a21c
+run_name: bouncy-mare-580
+run_uuid: 297c6e0e62464cd38330fb8e7e05a21c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041533441
+status: 1
+tags: []
+user_id: unknown

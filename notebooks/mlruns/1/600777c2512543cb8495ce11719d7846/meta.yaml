@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/600777c2512543cb8495ce11719d7846/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 600777c2512543cb8495ce11719d7846
+run_name: crawling-skunk-656
+run_uuid: 600777c2512543cb8495ce11719d7846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041512589
+status: 1
+tags: []
+user_id: unknown

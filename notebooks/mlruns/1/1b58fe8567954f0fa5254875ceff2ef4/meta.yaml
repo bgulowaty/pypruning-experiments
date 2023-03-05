@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1b58fe8567954f0fa5254875ceff2ef4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1b58fe8567954f0fa5254875ceff2ef4
+run_name: luxuriant-dove-571
+run_uuid: 1b58fe8567954f0fa5254875ceff2ef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502896
+status: 1
+tags: []
+user_id: unknown

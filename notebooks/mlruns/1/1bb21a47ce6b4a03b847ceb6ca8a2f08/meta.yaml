@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1bb21a47ce6b4a03b847ceb6ca8a2f08/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1bb21a47ce6b4a03b847ceb6ca8a2f08
+run_name: classy-smelt-817
+run_uuid: 1bb21a47ce6b4a03b847ceb6ca8a2f08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495432
+status: 1
+tags: []
+user_id: unknown

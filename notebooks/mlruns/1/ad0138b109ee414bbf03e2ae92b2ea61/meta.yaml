@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ad0138b109ee414bbf03e2ae92b2ea61/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad0138b109ee414bbf03e2ae92b2ea61
+run_name: mysterious-hound-668
+run_uuid: ad0138b109ee414bbf03e2ae92b2ea61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041577669
+status: 1
+tags: []
+user_id: unknown

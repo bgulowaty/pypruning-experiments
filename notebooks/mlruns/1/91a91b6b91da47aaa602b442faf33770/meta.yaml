@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/91a91b6b91da47aaa602b442faf33770/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 91a91b6b91da47aaa602b442faf33770
+run_name: unleashed-panda-266
+run_uuid: 91a91b6b91da47aaa602b442faf33770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041841477
+status: 1
+tags: []
+user_id: unknown

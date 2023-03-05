@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0631c9f9bbf24d20ac278fb161892e95/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0631c9f9bbf24d20ac278fb161892e95
+run_name: nebulous-bat-650
+run_uuid: 0631c9f9bbf24d20ac278fb161892e95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041906729
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/44939d8beb4343bfb9572257b6f084ea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 44939d8beb4343bfb9572257b6f084ea
+run_name: spiffy-snake-752
+run_uuid: 44939d8beb4343bfb9572257b6f084ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041729138
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/db8e29f32187464fb504367f536582e5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db8e29f32187464fb504367f536582e5
+run_name: trusting-koi-886
+run_uuid: db8e29f32187464fb504367f536582e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041706476
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3094ba04c7aa4f0faf269e9c8fc1ba0f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3094ba04c7aa4f0faf269e9c8fc1ba0f
+run_name: rebellious-lark-213
+run_uuid: 3094ba04c7aa4f0faf269e9c8fc1ba0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041726213
+status: 1
+tags: []
+user_id: unknown

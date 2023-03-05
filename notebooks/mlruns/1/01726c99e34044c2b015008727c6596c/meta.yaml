@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/01726c99e34044c2b015008727c6596c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01726c99e34044c2b015008727c6596c
+run_name: likeable-smelt-619
+run_uuid: 01726c99e34044c2b015008727c6596c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041618240
+status: 1
+tags: []
+user_id: unknown

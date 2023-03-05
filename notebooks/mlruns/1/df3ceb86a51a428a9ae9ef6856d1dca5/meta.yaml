@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/df3ceb86a51a428a9ae9ef6856d1dca5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df3ceb86a51a428a9ae9ef6856d1dca5
+run_name: incongruous-mink-327
+run_uuid: df3ceb86a51a428a9ae9ef6856d1dca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041505692
+status: 1
+tags: []
+user_id: unknown

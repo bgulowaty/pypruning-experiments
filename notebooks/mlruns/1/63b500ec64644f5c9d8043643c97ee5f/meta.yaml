@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/63b500ec64644f5c9d8043643c97ee5f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 63b500ec64644f5c9d8043643c97ee5f
+run_name: bright-mouse-718
+run_uuid: 63b500ec64644f5c9d8043643c97ee5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041782022
+status: 1
+tags: []
+user_id: unknown

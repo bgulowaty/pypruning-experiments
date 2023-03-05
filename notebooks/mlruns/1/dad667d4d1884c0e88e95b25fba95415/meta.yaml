@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dad667d4d1884c0e88e95b25fba95415/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dad667d4d1884c0e88e95b25fba95415
+run_name: fearless-bat-494
+run_uuid: dad667d4d1884c0e88e95b25fba95415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041575456
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/934518f57bd8400288c1604257cccdfa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 934518f57bd8400288c1604257cccdfa
+run_name: mysterious-vole-857
+run_uuid: 934518f57bd8400288c1604257cccdfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041805281
+status: 1
+tags: []
+user_id: unknown

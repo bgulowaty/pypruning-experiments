@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/93911eb11b13476abf11f811b1bb98af/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 93911eb11b13476abf11f811b1bb98af
+run_name: languid-skunk-504
+run_uuid: 93911eb11b13476abf11f811b1bb98af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041666938
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5e58f83103a44b8d968be0d8c6d9c269/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e58f83103a44b8d968be0d8c6d9c269
+run_name: entertaining-auk-28
+run_uuid: 5e58f83103a44b8d968be0d8c6d9c269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041611791
+status: 1
+tags: []
+user_id: unknown

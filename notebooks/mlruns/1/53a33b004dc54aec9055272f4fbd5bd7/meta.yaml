@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/53a33b004dc54aec9055272f4fbd5bd7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 53a33b004dc54aec9055272f4fbd5bd7
+run_name: sneaky-boar-139
+run_uuid: 53a33b004dc54aec9055272f4fbd5bd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041604611
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2975ec2ebd4742bba809a10b6e2fe69f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2975ec2ebd4742bba809a10b6e2fe69f
+run_name: receptive-conch-529
+run_uuid: 2975ec2ebd4742bba809a10b6e2fe69f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041796358
+status: 1
+tags: []
+user_id: unknown

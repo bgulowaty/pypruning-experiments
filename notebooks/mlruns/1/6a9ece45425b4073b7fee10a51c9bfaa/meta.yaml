@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6a9ece45425b4073b7fee10a51c9bfaa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6a9ece45425b4073b7fee10a51c9bfaa
+run_name: ambitious-mink-336
+run_uuid: 6a9ece45425b4073b7fee10a51c9bfaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041605084
+status: 1
+tags: []
+user_id: unknown

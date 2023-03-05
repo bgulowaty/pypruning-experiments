@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/71701387ff8f475fbeec57817ba8c2fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 71701387ff8f475fbeec57817ba8c2fa
+run_name: luxuriant-calf-219
+run_uuid: 71701387ff8f475fbeec57817ba8c2fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041590846
+status: 1
+tags: []
+user_id: unknown

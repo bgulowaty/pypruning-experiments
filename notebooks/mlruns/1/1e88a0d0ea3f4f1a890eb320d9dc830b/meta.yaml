@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1e88a0d0ea3f4f1a890eb320d9dc830b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1e88a0d0ea3f4f1a890eb320d9dc830b
+run_name: caring-lark-562
+run_uuid: 1e88a0d0ea3f4f1a890eb320d9dc830b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041806446
+status: 1
+tags: []
+user_id: unknown

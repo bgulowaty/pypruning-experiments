@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4bac4d8ef3834d0ba276427449e30c99/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4bac4d8ef3834d0ba276427449e30c99
+run_name: resilient-wasp-511
+run_uuid: 4bac4d8ef3834d0ba276427449e30c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041845218
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2fc353a86bf841a881f67193a0fcdb36/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2fc353a86bf841a881f67193a0fcdb36
+run_name: nervous-crane-689
+run_uuid: 2fc353a86bf841a881f67193a0fcdb36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041789151
+status: 1
+tags: []
+user_id: unknown

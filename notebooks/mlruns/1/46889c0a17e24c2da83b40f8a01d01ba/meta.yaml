@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/46889c0a17e24c2da83b40f8a01d01ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46889c0a17e24c2da83b40f8a01d01ba
+run_name: merciful-steed-440
+run_uuid: 46889c0a17e24c2da83b40f8a01d01ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041873903
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/57cb60e31c3447a1b28704b4ee4eb8be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 57cb60e31c3447a1b28704b4ee4eb8be
+run_name: unruly-donkey-455
+run_uuid: 57cb60e31c3447a1b28704b4ee4eb8be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041968852
+status: 1
+tags: []
+user_id: unknown

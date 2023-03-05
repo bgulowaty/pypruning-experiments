@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f2b743b6e9cf4eb594aeb4f21b00f9f7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f2b743b6e9cf4eb594aeb4f21b00f9f7
+run_name: dapper-ant-835
+run_uuid: f2b743b6e9cf4eb594aeb4f21b00f9f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041774264
+status: 1
+tags: []
+user_id: unknown

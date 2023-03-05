@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6033e1c038474b09a90c5a298d5eb09b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6033e1c038474b09a90c5a298d5eb09b
+run_name: gregarious-sheep-838
+run_uuid: 6033e1c038474b09a90c5a298d5eb09b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041963110
+status: 1
+tags: []
+user_id: unknown

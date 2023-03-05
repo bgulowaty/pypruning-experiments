@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d8f18577485c49b292f7d1ffda66af68/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8f18577485c49b292f7d1ffda66af68
+run_name: selective-rook-119
+run_uuid: d8f18577485c49b292f7d1ffda66af68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041529942
+status: 1
+tags: []
+user_id: unknown

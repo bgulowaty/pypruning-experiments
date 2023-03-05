@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d9872f21fbc441f2b5bfbaf37e144a7e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d9872f21fbc441f2b5bfbaf37e144a7e
+run_name: thoughtful-flea-443
+run_uuid: d9872f21fbc441f2b5bfbaf37e144a7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041553464
+status: 1
+tags: []
+user_id: unknown

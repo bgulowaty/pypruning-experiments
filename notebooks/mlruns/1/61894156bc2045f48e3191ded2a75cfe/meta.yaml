@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/61894156bc2045f48e3191ded2a75cfe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 61894156bc2045f48e3191ded2a75cfe
+run_name: fortunate-bee-861
+run_uuid: 61894156bc2045f48e3191ded2a75cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041551575
+status: 1
+tags: []
+user_id: unknown

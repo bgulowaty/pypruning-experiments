@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bb3aded80f9e4e308e6670f398304b38/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb3aded80f9e4e308e6670f398304b38
+run_name: invincible-moose-292
+run_uuid: bb3aded80f9e4e308e6670f398304b38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041915549
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dea0c0e39a6846ef93b08c88fa2f5d63/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dea0c0e39a6846ef93b08c88fa2f5d63
+run_name: magnificent-kit-888
+run_uuid: dea0c0e39a6846ef93b08c88fa2f5d63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495682
+status: 1
+tags: []
+user_id: unknown

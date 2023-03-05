@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/da6de4c04b6c4e728ea8241129361d4a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da6de4c04b6c4e728ea8241129361d4a
+run_name: enthused-ox-384
+run_uuid: da6de4c04b6c4e728ea8241129361d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041810707
+status: 1
+tags: []
+user_id: unknown

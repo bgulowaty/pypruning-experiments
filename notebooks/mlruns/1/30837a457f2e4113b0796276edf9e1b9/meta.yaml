@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/30837a457f2e4113b0796276edf9e1b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 30837a457f2e4113b0796276edf9e1b9
+run_name: honorable-carp-897
+run_uuid: 30837a457f2e4113b0796276edf9e1b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499449
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e197113050094375b38394fffc4d9338/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e197113050094375b38394fffc4d9338
+run_name: bright-turtle-947
+run_uuid: e197113050094375b38394fffc4d9338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041897381
+status: 1
+tags: []
+user_id: unknown

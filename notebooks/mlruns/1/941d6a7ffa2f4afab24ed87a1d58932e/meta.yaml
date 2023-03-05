@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/941d6a7ffa2f4afab24ed87a1d58932e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 941d6a7ffa2f4afab24ed87a1d58932e
+run_name: enthused-kite-652
+run_uuid: 941d6a7ffa2f4afab24ed87a1d58932e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041637026
+status: 1
+tags: []
+user_id: unknown

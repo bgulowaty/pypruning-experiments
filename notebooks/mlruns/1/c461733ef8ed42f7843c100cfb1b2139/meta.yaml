@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c461733ef8ed42f7843c100cfb1b2139/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c461733ef8ed42f7843c100cfb1b2139
+run_name: melodic-lamb-72
+run_uuid: c461733ef8ed42f7843c100cfb1b2139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041526746
+status: 1
+tags: []
+user_id: unknown

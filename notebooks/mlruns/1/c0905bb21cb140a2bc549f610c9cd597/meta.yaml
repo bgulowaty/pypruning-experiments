@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c0905bb21cb140a2bc549f610c9cd597/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c0905bb21cb140a2bc549f610c9cd597
+run_name: aged-finch-358
+run_uuid: c0905bb21cb140a2bc549f610c9cd597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041955442
+status: 1
+tags: []
+user_id: unknown

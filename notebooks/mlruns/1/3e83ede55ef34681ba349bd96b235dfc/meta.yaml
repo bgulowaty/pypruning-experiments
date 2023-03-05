@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3e83ede55ef34681ba349bd96b235dfc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e83ede55ef34681ba349bd96b235dfc
+run_name: bright-wasp-285
+run_uuid: 3e83ede55ef34681ba349bd96b235dfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041946529
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bf11270b838f4f74a9f5bc7a70043f05/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bf11270b838f4f74a9f5bc7a70043f05
+run_name: righteous-owl-289
+run_uuid: bf11270b838f4f74a9f5bc7a70043f05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041591852
+status: 1
+tags: []
+user_id: unknown

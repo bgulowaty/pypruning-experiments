@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7710677cc67a4708bece5c0d7d7aac3e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7710677cc67a4708bece5c0d7d7aac3e
+run_name: agreeable-stag-813
+run_uuid: 7710677cc67a4708bece5c0d7d7aac3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502686
+status: 1
+tags: []
+user_id: unknown

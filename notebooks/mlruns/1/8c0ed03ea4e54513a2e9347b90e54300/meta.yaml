@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8c0ed03ea4e54513a2e9347b90e54300/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8c0ed03ea4e54513a2e9347b90e54300
+run_name: legendary-mole-349
+run_uuid: 8c0ed03ea4e54513a2e9347b90e54300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041944381
+status: 1
+tags: []
+user_id: unknown

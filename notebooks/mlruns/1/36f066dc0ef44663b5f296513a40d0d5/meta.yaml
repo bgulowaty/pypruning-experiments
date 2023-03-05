@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/36f066dc0ef44663b5f296513a40d0d5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 36f066dc0ef44663b5f296513a40d0d5
+run_name: dapper-shoat-266
+run_uuid: 36f066dc0ef44663b5f296513a40d0d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041816431
+status: 1
+tags: []
+user_id: unknown

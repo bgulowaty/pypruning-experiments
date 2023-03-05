@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/26d2667ebf514faca0d7f7cdafb76532/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 26d2667ebf514faca0d7f7cdafb76532
+run_name: secretive-yak-432
+run_uuid: 26d2667ebf514faca0d7f7cdafb76532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041935643
+status: 1
+tags: []
+user_id: unknown

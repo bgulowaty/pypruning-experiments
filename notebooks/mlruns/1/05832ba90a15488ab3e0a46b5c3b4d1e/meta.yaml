@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/05832ba90a15488ab3e0a46b5c3b4d1e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 05832ba90a15488ab3e0a46b5c3b4d1e
+run_name: rare-colt-569
+run_uuid: 05832ba90a15488ab3e0a46b5c3b4d1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496269
+status: 1
+tags: []
+user_id: unknown

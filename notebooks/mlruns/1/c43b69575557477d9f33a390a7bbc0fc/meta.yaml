@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c43b69575557477d9f33a390a7bbc0fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c43b69575557477d9f33a390a7bbc0fc
+run_name: traveling-mouse-751
+run_uuid: c43b69575557477d9f33a390a7bbc0fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041554789
+status: 1
+tags: []
+user_id: unknown

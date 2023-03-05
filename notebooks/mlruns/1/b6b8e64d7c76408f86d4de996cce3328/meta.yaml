@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b6b8e64d7c76408f86d4de996cce3328/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b6b8e64d7c76408f86d4de996cce3328
+run_name: languid-zebra-22
+run_uuid: b6b8e64d7c76408f86d4de996cce3328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041507229
+status: 1
+tags: []
+user_id: unknown

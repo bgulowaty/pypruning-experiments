@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/618ca7778ac1468d9ba27cc77819ccc8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 618ca7778ac1468d9ba27cc77819ccc8
+run_name: righteous-squid-121
+run_uuid: 618ca7778ac1468d9ba27cc77819ccc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041936329
+status: 1
+tags: []
+user_id: unknown

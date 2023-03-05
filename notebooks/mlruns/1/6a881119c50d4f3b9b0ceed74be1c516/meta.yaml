@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6a881119c50d4f3b9b0ceed74be1c516/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6a881119c50d4f3b9b0ceed74be1c516
+run_name: powerful-hawk-970
+run_uuid: 6a881119c50d4f3b9b0ceed74be1c516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041740565
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5a4baa685e784bcd959700e6eb9d986b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5a4baa685e784bcd959700e6eb9d986b
+run_name: skillful-frog-846
+run_uuid: 5a4baa685e784bcd959700e6eb9d986b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041838427
+status: 1
+tags: []
+user_id: unknown

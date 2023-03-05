@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ea416367d340473698ccbff0a2a2ba28/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ea416367d340473698ccbff0a2a2ba28
+run_name: nebulous-swan-81
+run_uuid: ea416367d340473698ccbff0a2a2ba28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041829776
+status: 1
+tags: []
+user_id: unknown

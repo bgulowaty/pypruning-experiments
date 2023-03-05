@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/aa96f371abc04fb982a4d296b178b896/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aa96f371abc04fb982a4d296b178b896
+run_name: zealous-zebra-30
+run_uuid: aa96f371abc04fb982a4d296b178b896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041544599
+status: 1
+tags: []
+user_id: unknown

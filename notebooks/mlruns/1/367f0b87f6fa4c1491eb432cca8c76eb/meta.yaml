@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/367f0b87f6fa4c1491eb432cca8c76eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 367f0b87f6fa4c1491eb432cca8c76eb
+run_name: popular-cow-725
+run_uuid: 367f0b87f6fa4c1491eb432cca8c76eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041808191
+status: 1
+tags: []
+user_id: unknown

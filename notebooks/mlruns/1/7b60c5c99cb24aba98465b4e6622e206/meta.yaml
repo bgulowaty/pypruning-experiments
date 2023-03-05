@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7b60c5c99cb24aba98465b4e6622e206/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7b60c5c99cb24aba98465b4e6622e206
+run_name: merciful-roo-591
+run_uuid: 7b60c5c99cb24aba98465b4e6622e206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041519063
+status: 1
+tags: []
+user_id: unknown

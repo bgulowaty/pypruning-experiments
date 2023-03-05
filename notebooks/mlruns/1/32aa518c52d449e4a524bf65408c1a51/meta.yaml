@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/32aa518c52d449e4a524bf65408c1a51/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 32aa518c52d449e4a524bf65408c1a51
+run_name: auspicious-cod-879
+run_uuid: 32aa518c52d449e4a524bf65408c1a51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041624539
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/999de49f048a4bfb924d3371dbb5c10c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 999de49f048a4bfb924d3371dbb5c10c
+run_name: rumbling-newt-728
+run_uuid: 999de49f048a4bfb924d3371dbb5c10c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041546951
+status: 1
+tags: []
+user_id: unknown

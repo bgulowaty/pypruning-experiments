@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/63cc92357ea44644819afdcde8b77fab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 63cc92357ea44644819afdcde8b77fab
+run_name: selective-carp-75
+run_uuid: 63cc92357ea44644819afdcde8b77fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041838538
+status: 1
+tags: []
+user_id: unknown

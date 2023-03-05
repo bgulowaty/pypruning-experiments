@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/59c6a7699b7a48e08f4953d89d6fee71/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 59c6a7699b7a48e08f4953d89d6fee71
+run_name: marvelous-shrimp-981
+run_uuid: 59c6a7699b7a48e08f4953d89d6fee71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041672264
+status: 1
+tags: []
+user_id: unknown

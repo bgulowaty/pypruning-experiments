@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b4c2409447f84d8896a30116dbd72fdd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b4c2409447f84d8896a30116dbd72fdd
+run_name: intrigued-mouse-495
+run_uuid: b4c2409447f84d8896a30116dbd72fdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041558680
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9f7b5f9cd16b423395c01caf637b6759/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9f7b5f9cd16b423395c01caf637b6759
+run_name: adventurous-tern-207
+run_uuid: 9f7b5f9cd16b423395c01caf637b6759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041982085
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e70e5d2228ab4cdfaa27acf344ae967d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e70e5d2228ab4cdfaa27acf344ae967d
+run_name: classy-bass-508
+run_uuid: e70e5d2228ab4cdfaa27acf344ae967d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041581162
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8494d4112f6748399c5acf2d8457358a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8494d4112f6748399c5acf2d8457358a
+run_name: nervous-pug-775
+run_uuid: 8494d4112f6748399c5acf2d8457358a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041869837
+status: 1
+tags: []
+user_id: unknown

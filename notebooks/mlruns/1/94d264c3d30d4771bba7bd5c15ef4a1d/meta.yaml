@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/94d264c3d30d4771bba7bd5c15ef4a1d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 94d264c3d30d4771bba7bd5c15ef4a1d
+run_name: bemused-hare-223
+run_uuid: 94d264c3d30d4771bba7bd5c15ef4a1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041640084
+status: 1
+tags: []
+user_id: unknown

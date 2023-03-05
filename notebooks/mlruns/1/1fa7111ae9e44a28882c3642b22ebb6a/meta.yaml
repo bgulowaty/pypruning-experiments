@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1fa7111ae9e44a28882c3642b22ebb6a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1fa7111ae9e44a28882c3642b22ebb6a
+run_name: bedecked-cat-536
+run_uuid: 1fa7111ae9e44a28882c3642b22ebb6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041874226
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bf2f91c0c5074a16bc96a211158a367b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bf2f91c0c5074a16bc96a211158a367b
+run_name: peaceful-sloth-365
+run_uuid: bf2f91c0c5074a16bc96a211158a367b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499971
+status: 1
+tags: []
+user_id: unknown

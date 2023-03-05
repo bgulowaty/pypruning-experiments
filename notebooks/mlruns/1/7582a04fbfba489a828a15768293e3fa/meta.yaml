@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7582a04fbfba489a828a15768293e3fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7582a04fbfba489a828a15768293e3fa
+run_name: unleashed-ape-376
+run_uuid: 7582a04fbfba489a828a15768293e3fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041504645
+status: 1
+tags: []
+user_id: unknown

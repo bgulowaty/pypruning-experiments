@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b4fe00326f824f5db7279fc6bcdca265/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b4fe00326f824f5db7279fc6bcdca265
+run_name: carefree-fawn-227
+run_uuid: b4fe00326f824f5db7279fc6bcdca265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041812174
+status: 1
+tags: []
+user_id: unknown

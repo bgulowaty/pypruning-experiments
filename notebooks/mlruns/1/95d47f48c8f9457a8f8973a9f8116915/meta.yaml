@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/95d47f48c8f9457a8f8973a9f8116915/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95d47f48c8f9457a8f8973a9f8116915
+run_name: ambitious-crab-607
+run_uuid: 95d47f48c8f9457a8f8973a9f8116915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041669113
+status: 1
+tags: []
+user_id: unknown

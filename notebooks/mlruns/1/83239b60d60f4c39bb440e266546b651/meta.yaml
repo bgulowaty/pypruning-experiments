@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/83239b60d60f4c39bb440e266546b651/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 83239b60d60f4c39bb440e266546b651
+run_name: defiant-vole-769
+run_uuid: 83239b60d60f4c39bb440e266546b651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041622948
+status: 1
+tags: []
+user_id: unknown

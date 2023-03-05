@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/daffd6be1c48444387f8ec3aa053cdff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: daffd6be1c48444387f8ec3aa053cdff
+run_name: peaceful-midge-594
+run_uuid: daffd6be1c48444387f8ec3aa053cdff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041752591
+status: 1
+tags: []
+user_id: unknown

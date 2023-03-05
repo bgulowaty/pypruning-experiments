@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c2c5e41a6aaa425491f18009e1b37e85/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c2c5e41a6aaa425491f18009e1b37e85
+run_name: bold-squirrel-655
+run_uuid: c2c5e41a6aaa425491f18009e1b37e85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041961101
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fd493b68ff1d4a8ca578582ca1a4c88a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fd493b68ff1d4a8ca578582ca1a4c88a
+run_name: luminous-fly-435
+run_uuid: fd493b68ff1d4a8ca578582ca1a4c88a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041581242
+status: 1
+tags: []
+user_id: unknown

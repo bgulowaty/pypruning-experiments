@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ff0820eb10814934ae9f0b569c14e888/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff0820eb10814934ae9f0b569c14e888
+run_name: capable-sloth-781
+run_uuid: ff0820eb10814934ae9f0b569c14e888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041540404
+status: 1
+tags: []
+user_id: unknown

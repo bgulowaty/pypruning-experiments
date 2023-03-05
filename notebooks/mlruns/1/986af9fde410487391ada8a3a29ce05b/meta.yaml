@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/986af9fde410487391ada8a3a29ce05b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 986af9fde410487391ada8a3a29ce05b
+run_name: stately-skink-883
+run_uuid: 986af9fde410487391ada8a3a29ce05b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041563113
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/218018aea0ac4643bf302e61a7660388/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 218018aea0ac4643bf302e61a7660388
+run_name: popular-goose-662
+run_uuid: 218018aea0ac4643bf302e61a7660388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497167
+status: 1
+tags: []
+user_id: unknown

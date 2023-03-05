@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6f557ae2f63d4c339652c2f9e9805294/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6f557ae2f63d4c339652c2f9e9805294
+run_name: mercurial-loon-131
+run_uuid: 6f557ae2f63d4c339652c2f9e9805294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041739300
+status: 1
+tags: []
+user_id: unknown

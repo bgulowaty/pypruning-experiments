@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fcbcc1bbe6e642ca97ebaa5258fc017d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fcbcc1bbe6e642ca97ebaa5258fc017d
+run_name: intelligent-kit-884
+run_uuid: fcbcc1bbe6e642ca97ebaa5258fc017d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041859144
+status: 1
+tags: []
+user_id: unknown

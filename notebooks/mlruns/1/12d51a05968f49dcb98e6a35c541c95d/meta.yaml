@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/12d51a05968f49dcb98e6a35c541c95d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 12d51a05968f49dcb98e6a35c541c95d
+run_name: tasteful-quail-2
+run_uuid: 12d51a05968f49dcb98e6a35c541c95d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041546383
+status: 1
+tags: []
+user_id: unknown

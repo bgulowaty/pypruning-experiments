@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/302fbddb02b54cd88ced724c0f8a1782/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 302fbddb02b54cd88ced724c0f8a1782
+run_name: amazing-zebra-207
+run_uuid: 302fbddb02b54cd88ced724c0f8a1782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041748918
+status: 1
+tags: []
+user_id: unknown

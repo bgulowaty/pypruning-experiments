@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c526ad016a304862aa0a51411717610d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c526ad016a304862aa0a51411717610d
+run_name: chill-grouse-834
+run_uuid: c526ad016a304862aa0a51411717610d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041562527
+status: 1
+tags: []
+user_id: unknown

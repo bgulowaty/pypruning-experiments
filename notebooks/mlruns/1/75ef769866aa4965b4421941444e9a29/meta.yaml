@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/75ef769866aa4965b4421941444e9a29/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 75ef769866aa4965b4421941444e9a29
+run_name: orderly-wasp-50
+run_uuid: 75ef769866aa4965b4421941444e9a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041969452
+status: 1
+tags: []
+user_id: unknown

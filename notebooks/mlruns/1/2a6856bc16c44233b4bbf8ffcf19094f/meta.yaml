@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2a6856bc16c44233b4bbf8ffcf19094f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2a6856bc16c44233b4bbf8ffcf19094f
+run_name: redolent-hound-489
+run_uuid: 2a6856bc16c44233b4bbf8ffcf19094f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041653500
+status: 1
+tags: []
+user_id: unknown

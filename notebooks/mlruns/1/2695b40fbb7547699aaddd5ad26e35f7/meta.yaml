@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2695b40fbb7547699aaddd5ad26e35f7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2695b40fbb7547699aaddd5ad26e35f7
+run_name: delicate-owl-247
+run_uuid: 2695b40fbb7547699aaddd5ad26e35f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041598768
+status: 1
+tags: []
+user_id: unknown

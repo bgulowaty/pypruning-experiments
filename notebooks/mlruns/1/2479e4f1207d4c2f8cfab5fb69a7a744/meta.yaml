@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2479e4f1207d4c2f8cfab5fb69a7a744/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2479e4f1207d4c2f8cfab5fb69a7a744
+run_name: delightful-asp-503
+run_uuid: 2479e4f1207d4c2f8cfab5fb69a7a744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041757165
+status: 1
+tags: []
+user_id: unknown

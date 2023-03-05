@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/06d26af86e7d4a43a9583d6a034ef27b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 06d26af86e7d4a43a9583d6a034ef27b
+run_name: smiling-horse-502
+run_uuid: 06d26af86e7d4a43a9583d6a034ef27b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494619
+status: 1
+tags: []
+user_id: unknown

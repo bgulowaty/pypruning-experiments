@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3df5f626bdd7403588fcc58ea4c9d9af/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3df5f626bdd7403588fcc58ea4c9d9af
+run_name: smiling-koi-389
+run_uuid: 3df5f626bdd7403588fcc58ea4c9d9af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041773855
+status: 1
+tags: []
+user_id: unknown

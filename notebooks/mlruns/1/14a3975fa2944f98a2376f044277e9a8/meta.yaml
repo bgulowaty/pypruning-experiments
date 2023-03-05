@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/14a3975fa2944f98a2376f044277e9a8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 14a3975fa2944f98a2376f044277e9a8
+run_name: stately-bird-559
+run_uuid: 14a3975fa2944f98a2376f044277e9a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041678133
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5ac68c80defa4d609cbb70f9774ba410/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ac68c80defa4d609cbb70f9774ba410
+run_name: auspicious-mule-333
+run_uuid: 5ac68c80defa4d609cbb70f9774ba410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041660558
+status: 1
+tags: []
+user_id: unknown

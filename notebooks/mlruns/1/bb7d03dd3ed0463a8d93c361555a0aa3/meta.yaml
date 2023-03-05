@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bb7d03dd3ed0463a8d93c361555a0aa3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb7d03dd3ed0463a8d93c361555a0aa3
+run_name: treasured-hen-6
+run_uuid: bb7d03dd3ed0463a8d93c361555a0aa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041570022
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/82354542be0244ebb6f724035c0f355f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 82354542be0244ebb6f724035c0f355f
+run_name: lyrical-mole-34
+run_uuid: 82354542be0244ebb6f724035c0f355f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041942069
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ae53e842e79c4f0bbe01d67f105a55fe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ae53e842e79c4f0bbe01d67f105a55fe
+run_name: useful-chimp-767
+run_uuid: ae53e842e79c4f0bbe01d67f105a55fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041796447
+status: 1
+tags: []
+user_id: unknown

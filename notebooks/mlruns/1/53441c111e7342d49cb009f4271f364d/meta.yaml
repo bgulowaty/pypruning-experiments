@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/53441c111e7342d49cb009f4271f364d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 53441c111e7342d49cb009f4271f364d
+run_name: redolent-perch-557
+run_uuid: 53441c111e7342d49cb009f4271f364d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041771195
+status: 1
+tags: []
+user_id: unknown

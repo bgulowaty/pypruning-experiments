@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ee29d87f6cdd4be2b807ce6bfb3e5a6f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee29d87f6cdd4be2b807ce6bfb3e5a6f
+run_name: crawling-perch-180
+run_uuid: ee29d87f6cdd4be2b807ce6bfb3e5a6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041801030
+status: 1
+tags: []
+user_id: unknown

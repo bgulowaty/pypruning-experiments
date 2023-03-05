@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/547b63a5e6604f058807c5f6b851fd27/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 547b63a5e6604f058807c5f6b851fd27
+run_name: stylish-trout-459
+run_uuid: 547b63a5e6604f058807c5f6b851fd27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499267
+status: 1
+tags: []
+user_id: unknown

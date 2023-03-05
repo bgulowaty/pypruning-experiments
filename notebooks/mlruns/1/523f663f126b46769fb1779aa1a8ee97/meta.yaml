@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/523f663f126b46769fb1779aa1a8ee97/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 523f663f126b46769fb1779aa1a8ee97
+run_name: bedecked-slug-339
+run_uuid: 523f663f126b46769fb1779aa1a8ee97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041613083
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5b2e8498b24e417f88e9d32d42fe9072/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5b2e8498b24e417f88e9d32d42fe9072
+run_name: monumental-cow-924
+run_uuid: 5b2e8498b24e417f88e9d32d42fe9072
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041537330
+status: 1
+tags: []
+user_id: unknown

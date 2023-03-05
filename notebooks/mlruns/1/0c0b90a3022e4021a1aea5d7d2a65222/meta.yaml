@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0c0b90a3022e4021a1aea5d7d2a65222/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0c0b90a3022e4021a1aea5d7d2a65222
+run_name: powerful-cow-236
+run_uuid: 0c0b90a3022e4021a1aea5d7d2a65222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041948618
+status: 1
+tags: []
+user_id: unknown

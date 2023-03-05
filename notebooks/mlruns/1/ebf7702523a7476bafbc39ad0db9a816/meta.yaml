@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ebf7702523a7476bafbc39ad0db9a816/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ebf7702523a7476bafbc39ad0db9a816
+run_name: exultant-hare-587
+run_uuid: ebf7702523a7476bafbc39ad0db9a816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041523281
+status: 1
+tags: []
+user_id: unknown

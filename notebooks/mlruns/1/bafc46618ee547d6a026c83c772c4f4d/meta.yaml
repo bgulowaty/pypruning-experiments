@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bafc46618ee547d6a026c83c772c4f4d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bafc46618ee547d6a026c83c772c4f4d
+run_name: wistful-cod-664
+run_uuid: bafc46618ee547d6a026c83c772c4f4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495130
+status: 1
+tags: []
+user_id: unknown

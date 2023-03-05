@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2050275b302a4ae1998c2b2bc46a49e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2050275b302a4ae1998c2b2bc46a49e7
+run_name: unleashed-dolphin-92
+run_uuid: 2050275b302a4ae1998c2b2bc46a49e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041963011
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4cb781c302fe4075881abbbe928cd7ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4cb781c302fe4075881abbbe928cd7ee
+run_name: handsome-trout-119
+run_uuid: 4cb781c302fe4075881abbbe928cd7ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041868213
+status: 1
+tags: []
+user_id: unknown

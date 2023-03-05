@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/15378b8af3a447d799b7c9391c615356/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 15378b8af3a447d799b7c9391c615356
+run_name: learned-toad-564
+run_uuid: 15378b8af3a447d799b7c9391c615356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041579377
+status: 1
+tags: []
+user_id: unknown

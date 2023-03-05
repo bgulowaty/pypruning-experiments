@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/720c98f687654193bf78cbb196a08c95/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 720c98f687654193bf78cbb196a08c95
+run_name: skillful-bird-707
+run_uuid: 720c98f687654193bf78cbb196a08c95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041525728
+status: 1
+tags: []
+user_id: unknown

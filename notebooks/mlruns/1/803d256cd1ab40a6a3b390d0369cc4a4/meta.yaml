@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/803d256cd1ab40a6a3b390d0369cc4a4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 803d256cd1ab40a6a3b390d0369cc4a4
+run_name: carefree-owl-151
+run_uuid: 803d256cd1ab40a6a3b390d0369cc4a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041526823
+status: 1
+tags: []
+user_id: unknown

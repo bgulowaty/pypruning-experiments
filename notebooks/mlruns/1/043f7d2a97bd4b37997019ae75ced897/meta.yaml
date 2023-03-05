@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/043f7d2a97bd4b37997019ae75ced897/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 043f7d2a97bd4b37997019ae75ced897
+run_name: incongruous-cod-555
+run_uuid: 043f7d2a97bd4b37997019ae75ced897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041842132
+status: 1
+tags: []
+user_id: unknown

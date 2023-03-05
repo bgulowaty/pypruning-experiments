@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c8ef170bfbf0407d8289f571f16d8c8e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c8ef170bfbf0407d8289f571f16d8c8e
+run_name: ambitious-carp-334
+run_uuid: c8ef170bfbf0407d8289f571f16d8c8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495585
+status: 1
+tags: []
+user_id: unknown

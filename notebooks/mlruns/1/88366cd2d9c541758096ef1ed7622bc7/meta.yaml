@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/88366cd2d9c541758096ef1ed7622bc7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 88366cd2d9c541758096ef1ed7622bc7
+run_name: burly-quail-152
+run_uuid: 88366cd2d9c541758096ef1ed7622bc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041772476
+status: 1
+tags: []
+user_id: unknown

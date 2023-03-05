@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/66174bb6a8324caaa01835f0dfd31818/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 66174bb6a8324caaa01835f0dfd31818
+run_name: orderly-whale-496
+run_uuid: 66174bb6a8324caaa01835f0dfd31818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041583645
+status: 1
+tags: []
+user_id: unknown

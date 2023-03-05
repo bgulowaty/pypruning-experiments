@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b5e4e31d0cf74fe3b034f88b5dd0ba42/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b5e4e31d0cf74fe3b034f88b5dd0ba42
+run_name: puzzled-mink-572
+run_uuid: b5e4e31d0cf74fe3b034f88b5dd0ba42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041518125
+status: 1
+tags: []
+user_id: unknown

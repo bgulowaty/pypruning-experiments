@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f5e652858b8443ec839dca7e95ff2e5e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f5e652858b8443ec839dca7e95ff2e5e
+run_name: righteous-vole-506
+run_uuid: f5e652858b8443ec839dca7e95ff2e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041546820
+status: 1
+tags: []
+user_id: unknown

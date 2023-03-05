@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/57362e1c735d481ab14e385904eb99f0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 57362e1c735d481ab14e385904eb99f0
+run_name: chill-gnu-738
+run_uuid: 57362e1c735d481ab14e385904eb99f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041703023
+status: 1
+tags: []
+user_id: unknown

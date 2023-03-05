@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ec405f9353b24d82ad43f6594b7ce347/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec405f9353b24d82ad43f6594b7ce347
+run_name: unequaled-steed-35
+run_uuid: ec405f9353b24d82ad43f6594b7ce347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041541677
+status: 1
+tags: []
+user_id: unknown

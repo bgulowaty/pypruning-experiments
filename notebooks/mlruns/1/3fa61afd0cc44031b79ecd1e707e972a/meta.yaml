@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3fa61afd0cc44031b79ecd1e707e972a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3fa61afd0cc44031b79ecd1e707e972a
+run_name: orderly-fox-926
+run_uuid: 3fa61afd0cc44031b79ecd1e707e972a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041527036
+status: 1
+tags: []
+user_id: unknown

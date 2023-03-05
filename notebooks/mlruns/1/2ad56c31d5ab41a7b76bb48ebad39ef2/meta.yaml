@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2ad56c31d5ab41a7b76bb48ebad39ef2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ad56c31d5ab41a7b76bb48ebad39ef2
+run_name: respected-fox-321
+run_uuid: 2ad56c31d5ab41a7b76bb48ebad39ef2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041618356
+status: 1
+tags: []
+user_id: unknown

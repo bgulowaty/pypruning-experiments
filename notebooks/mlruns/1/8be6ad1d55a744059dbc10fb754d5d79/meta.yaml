@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8be6ad1d55a744059dbc10fb754d5d79/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8be6ad1d55a744059dbc10fb754d5d79
+run_name: tasteful-wren-36
+run_uuid: 8be6ad1d55a744059dbc10fb754d5d79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041710538
+status: 1
+tags: []
+user_id: unknown

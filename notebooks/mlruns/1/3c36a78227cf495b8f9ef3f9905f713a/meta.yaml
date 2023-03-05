@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3c36a78227cf495b8f9ef3f9905f713a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c36a78227cf495b8f9ef3f9905f713a
+run_name: aged-hog-486
+run_uuid: 3c36a78227cf495b8f9ef3f9905f713a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041811292
+status: 1
+tags: []
+user_id: unknown

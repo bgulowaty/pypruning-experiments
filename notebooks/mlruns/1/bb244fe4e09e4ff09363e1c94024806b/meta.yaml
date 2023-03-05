@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bb244fe4e09e4ff09363e1c94024806b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb244fe4e09e4ff09363e1c94024806b
+run_name: painted-quail-715
+run_uuid: bb244fe4e09e4ff09363e1c94024806b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041500083
+status: 1
+tags: []
+user_id: unknown

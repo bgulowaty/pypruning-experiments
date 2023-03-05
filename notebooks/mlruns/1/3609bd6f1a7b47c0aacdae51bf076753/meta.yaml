@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3609bd6f1a7b47c0aacdae51bf076753/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3609bd6f1a7b47c0aacdae51bf076753
+run_name: mercurial-moose-958
+run_uuid: 3609bd6f1a7b47c0aacdae51bf076753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041532374
+status: 1
+tags: []
+user_id: unknown

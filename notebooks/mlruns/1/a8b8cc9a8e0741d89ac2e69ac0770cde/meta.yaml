@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a8b8cc9a8e0741d89ac2e69ac0770cde/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8b8cc9a8e0741d89ac2e69ac0770cde
+run_name: bald-goat-816
+run_uuid: a8b8cc9a8e0741d89ac2e69ac0770cde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041569008
+status: 1
+tags: []
+user_id: unknown

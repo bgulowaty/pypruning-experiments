@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e7bf63157a944a268d8813580c90c2eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7bf63157a944a268d8813580c90c2eb
+run_name: agreeable-skink-64
+run_uuid: e7bf63157a944a268d8813580c90c2eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041924534
+status: 1
+tags: []
+user_id: unknown

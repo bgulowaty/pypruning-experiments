@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/404e81350b604515a44974d29ff0f780/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 404e81350b604515a44974d29ff0f780
+run_name: trusting-foal-129
+run_uuid: 404e81350b604515a44974d29ff0f780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041690337
+status: 1
+tags: []
+user_id: unknown

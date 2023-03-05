@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ff52d3e4eedf442aa92d0c5e3c5de200/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff52d3e4eedf442aa92d0c5e3c5de200
+run_name: polite-shrike-663
+run_uuid: ff52d3e4eedf442aa92d0c5e3c5de200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041810790
+status: 1
+tags: []
+user_id: unknown

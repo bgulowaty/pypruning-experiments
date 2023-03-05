@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/15e70fc93a7041f59e20fe51a6df90bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 15e70fc93a7041f59e20fe51a6df90bd
+run_name: nosy-hog-632
+run_uuid: 15e70fc93a7041f59e20fe51a6df90bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041776485
+status: 1
+tags: []
+user_id: unknown

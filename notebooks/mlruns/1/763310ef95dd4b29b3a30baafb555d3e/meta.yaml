@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/763310ef95dd4b29b3a30baafb555d3e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 763310ef95dd4b29b3a30baafb555d3e
+run_name: melodic-gnat-578
+run_uuid: 763310ef95dd4b29b3a30baafb555d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041971722
+status: 1
+tags: []
+user_id: unknown

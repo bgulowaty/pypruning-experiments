@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/102c6077852a409f80c0adec854314a5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 102c6077852a409f80c0adec854314a5
+run_name: tasteful-snake-681
+run_uuid: 102c6077852a409f80c0adec854314a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041911446
+status: 1
+tags: []
+user_id: unknown

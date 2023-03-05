@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/35ddf51afc23440fbe9d2ba0a1a1f7d2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 35ddf51afc23440fbe9d2ba0a1a1f7d2
+run_name: adorable-vole-947
+run_uuid: 35ddf51afc23440fbe9d2ba0a1a1f7d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041802698
+status: 1
+tags: []
+user_id: unknown

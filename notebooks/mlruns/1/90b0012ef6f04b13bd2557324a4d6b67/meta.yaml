@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/90b0012ef6f04b13bd2557324a4d6b67/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 90b0012ef6f04b13bd2557324a4d6b67
+run_name: dazzling-hare-856
+run_uuid: 90b0012ef6f04b13bd2557324a4d6b67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041818128
+status: 1
+tags: []
+user_id: unknown

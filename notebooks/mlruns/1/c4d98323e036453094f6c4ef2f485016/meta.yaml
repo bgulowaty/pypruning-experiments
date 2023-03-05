@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c4d98323e036453094f6c4ef2f485016/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c4d98323e036453094f6c4ef2f485016
+run_name: colorful-toad-331
+run_uuid: c4d98323e036453094f6c4ef2f485016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041498627
+status: 1
+tags: []
+user_id: unknown

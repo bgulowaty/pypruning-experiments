@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e76161f69ba248e18ef0fd401a8b87d5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e76161f69ba248e18ef0fd401a8b87d5
+run_name: loud-horse-977
+run_uuid: e76161f69ba248e18ef0fd401a8b87d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041711832
+status: 1
+tags: []
+user_id: unknown

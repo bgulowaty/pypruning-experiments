@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/60de318ab1c74f07925f484a9e7a4dbc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 60de318ab1c74f07925f484a9e7a4dbc
+run_name: mysterious-yak-793
+run_uuid: 60de318ab1c74f07925f484a9e7a4dbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041833119
+status: 1
+tags: []
+user_id: unknown

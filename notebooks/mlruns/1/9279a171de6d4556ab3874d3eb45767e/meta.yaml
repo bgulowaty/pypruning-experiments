@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9279a171de6d4556ab3874d3eb45767e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9279a171de6d4556ab3874d3eb45767e
+run_name: wise-flea-920
+run_uuid: 9279a171de6d4556ab3874d3eb45767e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041533408
+status: 1
+tags: []
+user_id: unknown

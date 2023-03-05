@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/acb1d88077ff461cb1a53e5163777abd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: acb1d88077ff461cb1a53e5163777abd
+run_name: legendary-quail-477
+run_uuid: acb1d88077ff461cb1a53e5163777abd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041526222
+status: 1
+tags: []
+user_id: unknown

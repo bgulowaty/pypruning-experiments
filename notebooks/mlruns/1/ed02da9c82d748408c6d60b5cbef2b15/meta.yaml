@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ed02da9c82d748408c6d60b5cbef2b15/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed02da9c82d748408c6d60b5cbef2b15
+run_name: zealous-croc-121
+run_uuid: ed02da9c82d748408c6d60b5cbef2b15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041570192
+status: 1
+tags: []
+user_id: unknown

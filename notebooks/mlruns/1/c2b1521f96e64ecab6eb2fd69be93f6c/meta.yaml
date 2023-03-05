@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c2b1521f96e64ecab6eb2fd69be93f6c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c2b1521f96e64ecab6eb2fd69be93f6c
+run_name: awesome-robin-914
+run_uuid: c2b1521f96e64ecab6eb2fd69be93f6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041501346
+status: 1
+tags: []
+user_id: unknown

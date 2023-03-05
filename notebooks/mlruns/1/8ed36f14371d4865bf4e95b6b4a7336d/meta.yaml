@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8ed36f14371d4865bf4e95b6b4a7336d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8ed36f14371d4865bf4e95b6b4a7336d
+run_name: luxuriant-mule-938
+run_uuid: 8ed36f14371d4865bf4e95b6b4a7336d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041648870
+status: 1
+tags: []
+user_id: unknown

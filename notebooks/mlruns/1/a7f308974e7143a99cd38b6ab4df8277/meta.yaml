@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a7f308974e7143a99cd38b6ab4df8277/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a7f308974e7143a99cd38b6ab4df8277
+run_name: gregarious-roo-905
+run_uuid: a7f308974e7143a99cd38b6ab4df8277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041572427
+status: 1
+tags: []
+user_id: unknown

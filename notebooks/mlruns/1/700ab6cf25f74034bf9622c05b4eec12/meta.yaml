@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/700ab6cf25f74034bf9622c05b4eec12/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 700ab6cf25f74034bf9622c05b4eec12
+run_name: sedate-goose-324
+run_uuid: 700ab6cf25f74034bf9622c05b4eec12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041724936
+status: 1
+tags: []
+user_id: unknown

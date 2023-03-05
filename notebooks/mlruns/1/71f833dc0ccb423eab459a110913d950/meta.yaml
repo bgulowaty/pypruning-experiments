@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/71f833dc0ccb423eab459a110913d950/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 71f833dc0ccb423eab459a110913d950
+run_name: peaceful-turtle-33
+run_uuid: 71f833dc0ccb423eab459a110913d950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041850957
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fe9fca1c0b0b416aa9892a925ce56413/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe9fca1c0b0b416aa9892a925ce56413
+run_name: funny-sow-859
+run_uuid: fe9fca1c0b0b416aa9892a925ce56413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041659430
+status: 1
+tags: []
+user_id: unknown

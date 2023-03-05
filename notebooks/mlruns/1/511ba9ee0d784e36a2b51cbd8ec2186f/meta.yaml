@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/511ba9ee0d784e36a2b51cbd8ec2186f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 511ba9ee0d784e36a2b51cbd8ec2186f
+run_name: legendary-stag-790
+run_uuid: 511ba9ee0d784e36a2b51cbd8ec2186f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041934904
+status: 1
+tags: []
+user_id: unknown

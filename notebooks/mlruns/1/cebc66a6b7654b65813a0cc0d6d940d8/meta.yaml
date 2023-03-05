@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cebc66a6b7654b65813a0cc0d6d940d8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cebc66a6b7654b65813a0cc0d6d940d8
+run_name: thoughtful-pig-689
+run_uuid: cebc66a6b7654b65813a0cc0d6d940d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041582768
+status: 1
+tags: []
+user_id: unknown

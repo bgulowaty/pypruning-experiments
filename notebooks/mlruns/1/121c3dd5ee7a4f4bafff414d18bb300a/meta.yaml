@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/121c3dd5ee7a4f4bafff414d18bb300a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 121c3dd5ee7a4f4bafff414d18bb300a
+run_name: monumental-mink-856
+run_uuid: 121c3dd5ee7a4f4bafff414d18bb300a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041650895
+status: 1
+tags: []
+user_id: unknown

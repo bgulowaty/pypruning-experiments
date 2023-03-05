@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bfbb48bb93ed4ff3bda6f4e6bce507df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bfbb48bb93ed4ff3bda6f4e6bce507df
+run_name: gaudy-ox-620
+run_uuid: bfbb48bb93ed4ff3bda6f4e6bce507df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041776367
+status: 1
+tags: []
+user_id: unknown

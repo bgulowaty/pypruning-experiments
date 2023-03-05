@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/950906202c1644d7ad2fa89cff3baf2b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 950906202c1644d7ad2fa89cff3baf2b
+run_name: sincere-conch-440
+run_uuid: 950906202c1644d7ad2fa89cff3baf2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041550901
+status: 1
+tags: []
+user_id: unknown

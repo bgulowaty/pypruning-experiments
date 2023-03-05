@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/90d4451d8c4f48b98dca5f2f9fbb91a1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 90d4451d8c4f48b98dca5f2f9fbb91a1
+run_name: honorable-koi-795
+run_uuid: 90d4451d8c4f48b98dca5f2f9fbb91a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041779959
+status: 1
+tags: []
+user_id: unknown

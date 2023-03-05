@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/86e1dc8f9b3445a38785ebba38e1a65c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86e1dc8f9b3445a38785ebba38e1a65c
+run_name: legendary-calf-176
+run_uuid: 86e1dc8f9b3445a38785ebba38e1a65c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041829451
+status: 1
+tags: []
+user_id: unknown

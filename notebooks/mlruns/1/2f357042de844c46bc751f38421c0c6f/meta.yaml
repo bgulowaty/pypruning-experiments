@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2f357042de844c46bc751f38421c0c6f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2f357042de844c46bc751f38421c0c6f
+run_name: nervous-shrew-317
+run_uuid: 2f357042de844c46bc751f38421c0c6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041566504
+status: 1
+tags: []
+user_id: unknown

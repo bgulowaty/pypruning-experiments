@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/afa93ada86c1441484c2df6666e4ec5f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: afa93ada86c1441484c2df6666e4ec5f
+run_name: treasured-hawk-57
+run_uuid: afa93ada86c1441484c2df6666e4ec5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041779165
+status: 1
+tags: []
+user_id: unknown

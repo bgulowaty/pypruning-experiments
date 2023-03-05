@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/956c3588160f4899a02e6b1f3e7aa3c1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 956c3588160f4899a02e6b1f3e7aa3c1
+run_name: upbeat-crow-162
+run_uuid: 956c3588160f4899a02e6b1f3e7aa3c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041787333
+status: 1
+tags: []
+user_id: unknown

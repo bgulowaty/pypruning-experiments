@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ab7c8f604d4c4e48afc42a445f1af99a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab7c8f604d4c4e48afc42a445f1af99a
+run_name: intrigued-stork-844
+run_uuid: ab7c8f604d4c4e48afc42a445f1af99a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041795664
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b1b8d8ce1c6e4a37823fc711b9c3587c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b1b8d8ce1c6e4a37823fc711b9c3587c
+run_name: spiffy-cow-201
+run_uuid: b1b8d8ce1c6e4a37823fc711b9c3587c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041503949
+status: 1
+tags: []
+user_id: unknown

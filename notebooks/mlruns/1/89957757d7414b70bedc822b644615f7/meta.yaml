@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/89957757d7414b70bedc822b644615f7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89957757d7414b70bedc822b644615f7
+run_name: honorable-doe-776
+run_uuid: 89957757d7414b70bedc822b644615f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041507562
+status: 1
+tags: []
+user_id: unknown

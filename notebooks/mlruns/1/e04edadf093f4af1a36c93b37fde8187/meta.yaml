@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e04edadf093f4af1a36c93b37fde8187/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e04edadf093f4af1a36c93b37fde8187
+run_name: suave-squid-863
+run_uuid: e04edadf093f4af1a36c93b37fde8187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041582649
+status: 1
+tags: []
+user_id: unknown

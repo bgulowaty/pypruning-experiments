@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/021eef833d514c2f9ab6f2f975a32564/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 021eef833d514c2f9ab6f2f975a32564
+run_name: charming-turtle-359
+run_uuid: 021eef833d514c2f9ab6f2f975a32564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041504462
+status: 1
+tags: []
+user_id: unknown

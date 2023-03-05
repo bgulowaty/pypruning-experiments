@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fe4b6a6923014778a88f00ba24cc6ce0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe4b6a6923014778a88f00ba24cc6ce0
+run_name: chill-dolphin-650
+run_uuid: fe4b6a6923014778a88f00ba24cc6ce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041695740
+status: 1
+tags: []
+user_id: unknown

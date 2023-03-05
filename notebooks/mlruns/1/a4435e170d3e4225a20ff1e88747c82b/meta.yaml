@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a4435e170d3e4225a20ff1e88747c82b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a4435e170d3e4225a20ff1e88747c82b
+run_name: bald-robin-587
+run_uuid: a4435e170d3e4225a20ff1e88747c82b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041539392
+status: 1
+tags: []
+user_id: unknown

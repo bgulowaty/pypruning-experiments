@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/682d41d44bbd45f9895cc6f037c7f21f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 682d41d44bbd45f9895cc6f037c7f21f
+run_name: polite-smelt-78
+run_uuid: 682d41d44bbd45f9895cc6f037c7f21f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041538914
+status: 1
+tags: []
+user_id: unknown

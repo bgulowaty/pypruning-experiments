@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b1dc4a17328e4a87b0d5bf9683b2dc6d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b1dc4a17328e4a87b0d5bf9683b2dc6d
+run_name: bustling-stoat-286
+run_uuid: b1dc4a17328e4a87b0d5bf9683b2dc6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041785617
+status: 1
+tags: []
+user_id: unknown

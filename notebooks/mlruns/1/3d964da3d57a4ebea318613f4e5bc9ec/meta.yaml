@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3d964da3d57a4ebea318613f4e5bc9ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3d964da3d57a4ebea318613f4e5bc9ec
+run_name: bedecked-carp-660
+run_uuid: 3d964da3d57a4ebea318613f4e5bc9ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041578435
+status: 1
+tags: []
+user_id: unknown

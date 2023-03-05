@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/032faf88e76748e4afa0e307a05edf01/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 032faf88e76748e4afa0e307a05edf01
+run_name: persistent-moth-56
+run_uuid: 032faf88e76748e4afa0e307a05edf01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041795374
+status: 1
+tags: []
+user_id: unknown

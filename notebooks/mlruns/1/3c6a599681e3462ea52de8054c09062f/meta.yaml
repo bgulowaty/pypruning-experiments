@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3c6a599681e3462ea52de8054c09062f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c6a599681e3462ea52de8054c09062f
+run_name: dashing-tern-828
+run_uuid: 3c6a599681e3462ea52de8054c09062f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041923672
+status: 1
+tags: []
+user_id: unknown

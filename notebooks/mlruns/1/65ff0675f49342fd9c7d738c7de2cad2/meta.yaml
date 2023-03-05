@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/65ff0675f49342fd9c7d738c7de2cad2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65ff0675f49342fd9c7d738c7de2cad2
+run_name: angry-wren-73
+run_uuid: 65ff0675f49342fd9c7d738c7de2cad2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041851229
+status: 1
+tags: []
+user_id: unknown

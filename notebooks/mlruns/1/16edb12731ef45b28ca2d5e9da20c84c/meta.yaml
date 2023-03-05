@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/16edb12731ef45b28ca2d5e9da20c84c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 16edb12731ef45b28ca2d5e9da20c84c
+run_name: angry-smelt-188
+run_uuid: 16edb12731ef45b28ca2d5e9da20c84c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041606845
+status: 1
+tags: []
+user_id: unknown

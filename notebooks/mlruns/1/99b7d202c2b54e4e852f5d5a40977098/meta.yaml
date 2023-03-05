@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/99b7d202c2b54e4e852f5d5a40977098/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99b7d202c2b54e4e852f5d5a40977098
+run_name: dapper-elk-756
+run_uuid: 99b7d202c2b54e4e852f5d5a40977098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041619098
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2ac67b14564947ed9f561e694944d732/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ac67b14564947ed9f561e694944d732
+run_name: skittish-turtle-112
+run_uuid: 2ac67b14564947ed9f561e694944d732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495746
+status: 1
+tags: []
+user_id: unknown

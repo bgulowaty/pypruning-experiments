@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/00453e0807c043edb60fcd8b84cbcbdd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 00453e0807c043edb60fcd8b84cbcbdd
+run_name: likeable-donkey-763
+run_uuid: 00453e0807c043edb60fcd8b84cbcbdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041802513
+status: 1
+tags: []
+user_id: unknown

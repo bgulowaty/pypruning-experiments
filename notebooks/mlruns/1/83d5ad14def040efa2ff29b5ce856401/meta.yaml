@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/83d5ad14def040efa2ff29b5ce856401/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 83d5ad14def040efa2ff29b5ce856401
+run_name: upset-wren-574
+run_uuid: 83d5ad14def040efa2ff29b5ce856401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041704990
+status: 1
+tags: []
+user_id: unknown

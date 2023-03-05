@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/120bf4d4ddec49c6a3b8b630fabb8f71/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 120bf4d4ddec49c6a3b8b630fabb8f71
+run_name: unleashed-quail-86
+run_uuid: 120bf4d4ddec49c6a3b8b630fabb8f71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041644960
+status: 1
+tags: []
+user_id: unknown

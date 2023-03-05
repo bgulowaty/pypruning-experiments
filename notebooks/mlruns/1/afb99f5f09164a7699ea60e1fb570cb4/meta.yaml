@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/afb99f5f09164a7699ea60e1fb570cb4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: afb99f5f09164a7699ea60e1fb570cb4
+run_name: wise-crane-612
+run_uuid: afb99f5f09164a7699ea60e1fb570cb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041728384
+status: 1
+tags: []
+user_id: unknown

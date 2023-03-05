@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/35a0e3960615498da739998e1c93194b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 35a0e3960615498da739998e1c93194b
+run_name: rumbling-wolf-36
+run_uuid: 35a0e3960615498da739998e1c93194b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041716466
+status: 1
+tags: []
+user_id: unknown

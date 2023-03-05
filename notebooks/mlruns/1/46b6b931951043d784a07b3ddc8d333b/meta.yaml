@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/46b6b931951043d784a07b3ddc8d333b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46b6b931951043d784a07b3ddc8d333b
+run_name: luminous-mule-198
+run_uuid: 46b6b931951043d784a07b3ddc8d333b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041929931
+status: 1
+tags: []
+user_id: unknown

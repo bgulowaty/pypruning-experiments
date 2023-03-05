@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/50ce493325bc42cbba9085cedaa9b179/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 50ce493325bc42cbba9085cedaa9b179
+run_name: adaptable-grub-150
+run_uuid: 50ce493325bc42cbba9085cedaa9b179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041955058
+status: 1
+tags: []
+user_id: unknown

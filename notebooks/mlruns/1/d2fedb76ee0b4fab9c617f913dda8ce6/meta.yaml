@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d2fedb76ee0b4fab9c617f913dda8ce6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2fedb76ee0b4fab9c617f913dda8ce6
+run_name: masked-colt-408
+run_uuid: d2fedb76ee0b4fab9c617f913dda8ce6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041695046
+status: 1
+tags: []
+user_id: unknown

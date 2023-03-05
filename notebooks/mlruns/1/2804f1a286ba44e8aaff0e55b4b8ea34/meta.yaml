@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2804f1a286ba44e8aaff0e55b4b8ea34/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2804f1a286ba44e8aaff0e55b4b8ea34
+run_name: enchanting-trout-308
+run_uuid: 2804f1a286ba44e8aaff0e55b4b8ea34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041788618
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3b2e335787a545e5bf1afa2cbf033d55/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3b2e335787a545e5bf1afa2cbf033d55
+run_name: illustrious-koi-131
+run_uuid: 3b2e335787a545e5bf1afa2cbf033d55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497098
+status: 1
+tags: []
+user_id: unknown

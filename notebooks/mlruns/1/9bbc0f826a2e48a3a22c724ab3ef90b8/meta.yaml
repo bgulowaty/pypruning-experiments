@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9bbc0f826a2e48a3a22c724ab3ef90b8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9bbc0f826a2e48a3a22c724ab3ef90b8
+run_name: bold-lynx-144
+run_uuid: 9bbc0f826a2e48a3a22c724ab3ef90b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041952350
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2cec5fdd0f204b2cbdf61348d73aef5c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2cec5fdd0f204b2cbdf61348d73aef5c
+run_name: sassy-squid-739
+run_uuid: 2cec5fdd0f204b2cbdf61348d73aef5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041513914
+status: 1
+tags: []
+user_id: unknown

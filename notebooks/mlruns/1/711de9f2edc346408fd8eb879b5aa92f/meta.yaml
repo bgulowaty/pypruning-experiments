@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/711de9f2edc346408fd8eb879b5aa92f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 711de9f2edc346408fd8eb879b5aa92f
+run_name: charming-mouse-780
+run_uuid: 711de9f2edc346408fd8eb879b5aa92f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041689127
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c4fa5902165d40dca6d0750ef249e017/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c4fa5902165d40dca6d0750ef249e017
+run_name: brawny-sponge-220
+run_uuid: c4fa5902165d40dca6d0750ef249e017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041806611
+status: 1
+tags: []
+user_id: unknown

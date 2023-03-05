@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/03404be293c747839a58ed7bb47680ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 03404be293c747839a58ed7bb47680ef
+run_name: honorable-stoat-563
+run_uuid: 03404be293c747839a58ed7bb47680ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041583932
+status: 1
+tags: []
+user_id: unknown

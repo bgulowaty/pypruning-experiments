@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/216d9ff3a3ec4dde93d96e736c7c7c72/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 216d9ff3a3ec4dde93d96e736c7c7c72
+run_name: unleashed-stag-872
+run_uuid: 216d9ff3a3ec4dde93d96e736c7c7c72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041976816
+status: 1
+tags: []
+user_id: unknown

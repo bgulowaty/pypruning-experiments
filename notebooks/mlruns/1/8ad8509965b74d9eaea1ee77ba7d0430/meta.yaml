@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8ad8509965b74d9eaea1ee77ba7d0430/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8ad8509965b74d9eaea1ee77ba7d0430
+run_name: stately-horse-696
+run_uuid: 8ad8509965b74d9eaea1ee77ba7d0430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041562378
+status: 1
+tags: []
+user_id: unknown

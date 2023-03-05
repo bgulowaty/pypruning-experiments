@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/aa295d0bd6f2481f8983671de6e9468b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aa295d0bd6f2481f8983671de6e9468b
+run_name: serious-whale-349
+run_uuid: aa295d0bd6f2481f8983671de6e9468b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041757075
+status: 1
+tags: []
+user_id: unknown

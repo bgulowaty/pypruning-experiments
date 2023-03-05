@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/963d3118160b486183213096e71dbb77/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 963d3118160b486183213096e71dbb77
+run_name: traveling-whale-820
+run_uuid: 963d3118160b486183213096e71dbb77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497072
+status: 1
+tags: []
+user_id: unknown

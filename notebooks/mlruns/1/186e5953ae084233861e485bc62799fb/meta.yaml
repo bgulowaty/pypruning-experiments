@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/186e5953ae084233861e485bc62799fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 186e5953ae084233861e485bc62799fb
+run_name: auspicious-crab-513
+run_uuid: 186e5953ae084233861e485bc62799fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041530405
+status: 1
+tags: []
+user_id: unknown

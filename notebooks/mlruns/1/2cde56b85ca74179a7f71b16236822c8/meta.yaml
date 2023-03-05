@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2cde56b85ca74179a7f71b16236822c8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2cde56b85ca74179a7f71b16236822c8
+run_name: upset-bat-457
+run_uuid: 2cde56b85ca74179a7f71b16236822c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496698
+status: 1
+tags: []
+user_id: unknown

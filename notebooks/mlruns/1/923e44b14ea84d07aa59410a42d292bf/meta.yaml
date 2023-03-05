@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/923e44b14ea84d07aa59410a42d292bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 923e44b14ea84d07aa59410a42d292bf
+run_name: merciful-ram-515
+run_uuid: 923e44b14ea84d07aa59410a42d292bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041965565
+status: 1
+tags: []
+user_id: unknown

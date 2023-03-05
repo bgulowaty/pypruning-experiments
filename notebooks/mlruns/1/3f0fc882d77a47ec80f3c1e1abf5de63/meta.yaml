@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3f0fc882d77a47ec80f3c1e1abf5de63/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3f0fc882d77a47ec80f3c1e1abf5de63
+run_name: bustling-bird-514
+run_uuid: 3f0fc882d77a47ec80f3c1e1abf5de63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041730809
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/86f99cc42c7d4366b0808025ab01d7ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86f99cc42c7d4366b0808025ab01d7ca
+run_name: bald-cow-52
+run_uuid: 86f99cc42c7d4366b0808025ab01d7ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041840872
+status: 1
+tags: []
+user_id: unknown

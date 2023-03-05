@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2473c6917e4544ddb58ca3b1c2c171f8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2473c6917e4544ddb58ca3b1c2c171f8
+run_name: valuable-hawk-388
+run_uuid: 2473c6917e4544ddb58ca3b1c2c171f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041848899
+status: 1
+tags: []
+user_id: unknown

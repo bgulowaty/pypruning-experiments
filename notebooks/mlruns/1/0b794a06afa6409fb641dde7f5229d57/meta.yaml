@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0b794a06afa6409fb641dde7f5229d57/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b794a06afa6409fb641dde7f5229d57
+run_name: gregarious-bear-251
+run_uuid: 0b794a06afa6409fb641dde7f5229d57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041591799
+status: 1
+tags: []
+user_id: unknown

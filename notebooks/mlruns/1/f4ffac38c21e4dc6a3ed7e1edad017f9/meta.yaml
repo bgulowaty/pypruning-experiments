@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f4ffac38c21e4dc6a3ed7e1edad017f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f4ffac38c21e4dc6a3ed7e1edad017f9
+run_name: youthful-snake-377
+run_uuid: f4ffac38c21e4dc6a3ed7e1edad017f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041643561
+status: 1
+tags: []
+user_id: unknown

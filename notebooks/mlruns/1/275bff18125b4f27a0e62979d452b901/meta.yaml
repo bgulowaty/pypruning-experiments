@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/275bff18125b4f27a0e62979d452b901/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 275bff18125b4f27a0e62979d452b901
+run_name: glamorous-bat-971
+run_uuid: 275bff18125b4f27a0e62979d452b901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041671301
+status: 1
+tags: []
+user_id: unknown

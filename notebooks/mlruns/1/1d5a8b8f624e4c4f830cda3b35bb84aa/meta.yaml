@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1d5a8b8f624e4c4f830cda3b35bb84aa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1d5a8b8f624e4c4f830cda3b35bb84aa
+run_name: judicious-quail-16
+run_uuid: 1d5a8b8f624e4c4f830cda3b35bb84aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041647237
+status: 1
+tags: []
+user_id: unknown

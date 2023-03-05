@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/074f5bf0c05644eca90bd2e9da7c6048/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 074f5bf0c05644eca90bd2e9da7c6048
+run_name: exultant-sheep-891
+run_uuid: 074f5bf0c05644eca90bd2e9da7c6048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041643464
+status: 1
+tags: []
+user_id: unknown

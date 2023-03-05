@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bca34af013d449eeb9c08a9f38771a95/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bca34af013d449eeb9c08a9f38771a95
+run_name: charming-sheep-197
+run_uuid: bca34af013d449eeb9c08a9f38771a95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041549225
+status: 1
+tags: []
+user_id: unknown

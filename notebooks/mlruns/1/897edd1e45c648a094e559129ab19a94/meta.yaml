@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/897edd1e45c648a094e559129ab19a94/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 897edd1e45c648a094e559129ab19a94
+run_name: wistful-penguin-582
+run_uuid: 897edd1e45c648a094e559129ab19a94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041935441
+status: 1
+tags: []
+user_id: unknown

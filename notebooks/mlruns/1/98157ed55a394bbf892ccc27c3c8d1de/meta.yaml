@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/98157ed55a394bbf892ccc27c3c8d1de/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98157ed55a394bbf892ccc27c3c8d1de
+run_name: debonair-newt-282
+run_uuid: 98157ed55a394bbf892ccc27c3c8d1de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041592650
+status: 1
+tags: []
+user_id: unknown

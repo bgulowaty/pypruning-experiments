@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fa9756af21de44df87fdc14cb4de5b9b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa9756af21de44df87fdc14cb4de5b9b
+run_name: lyrical-ray-866
+run_uuid: fa9756af21de44df87fdc14cb4de5b9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041638361
+status: 1
+tags: []
+user_id: unknown

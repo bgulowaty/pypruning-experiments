@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5581569ea686445689ea6a5d434bcd1c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5581569ea686445689ea6a5d434bcd1c
+run_name: amazing-snail-249
+run_uuid: 5581569ea686445689ea6a5d434bcd1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041531515
+status: 1
+tags: []
+user_id: unknown

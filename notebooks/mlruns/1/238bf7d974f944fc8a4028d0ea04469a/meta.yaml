@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/238bf7d974f944fc8a4028d0ea04469a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 238bf7d974f944fc8a4028d0ea04469a
+run_name: zealous-eel-114
+run_uuid: 238bf7d974f944fc8a4028d0ea04469a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041811925
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/70bd37834fcd4b18b1daf1f48ffc5757/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 70bd37834fcd4b18b1daf1f48ffc5757
+run_name: nervous-auk-192
+run_uuid: 70bd37834fcd4b18b1daf1f48ffc5757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041534159
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/63d8f71c60b14eea9621f6114d1e9bac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 63d8f71c60b14eea9621f6114d1e9bac
+run_name: casual-fowl-792
+run_uuid: 63d8f71c60b14eea9621f6114d1e9bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041608755
+status: 1
+tags: []
+user_id: unknown

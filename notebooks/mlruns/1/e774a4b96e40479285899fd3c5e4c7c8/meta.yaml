@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e774a4b96e40479285899fd3c5e4c7c8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e774a4b96e40479285899fd3c5e4c7c8
+run_name: popular-calf-182
+run_uuid: e774a4b96e40479285899fd3c5e4c7c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041971429
+status: 1
+tags: []
+user_id: unknown

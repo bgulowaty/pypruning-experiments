@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b03826900cc148dc96e0f443e6d2ef2d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b03826900cc148dc96e0f443e6d2ef2d
+run_name: spiffy-kit-666
+run_uuid: b03826900cc148dc96e0f443e6d2ef2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041604459
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b8265090e66c4471b0137389ce17d4ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b8265090e66c4471b0137389ce17d4ee
+run_name: skillful-bear-327
+run_uuid: b8265090e66c4471b0137389ce17d4ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041550862
+status: 1
+tags: []
+user_id: unknown

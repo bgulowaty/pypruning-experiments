@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/381232e4bca247c2822fb07349173846/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 381232e4bca247c2822fb07349173846
+run_name: sneaky-wren-661
+run_uuid: 381232e4bca247c2822fb07349173846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041970546
+status: 1
+tags: []
+user_id: unknown

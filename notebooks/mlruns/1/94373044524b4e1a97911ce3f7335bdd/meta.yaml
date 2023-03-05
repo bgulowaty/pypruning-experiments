@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/94373044524b4e1a97911ce3f7335bdd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 94373044524b4e1a97911ce3f7335bdd
+run_name: bold-yak-660
+run_uuid: 94373044524b4e1a97911ce3f7335bdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041651119
+status: 1
+tags: []
+user_id: unknown

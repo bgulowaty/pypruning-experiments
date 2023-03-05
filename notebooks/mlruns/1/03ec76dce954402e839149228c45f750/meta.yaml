@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/03ec76dce954402e839149228c45f750/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 03ec76dce954402e839149228c45f750
+run_name: salty-finch-475
+run_uuid: 03ec76dce954402e839149228c45f750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041846888
+status: 1
+tags: []
+user_id: unknown

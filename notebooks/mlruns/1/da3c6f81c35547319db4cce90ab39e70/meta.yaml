@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/da3c6f81c35547319db4cce90ab39e70/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da3c6f81c35547319db4cce90ab39e70
+run_name: merciful-whale-896
+run_uuid: da3c6f81c35547319db4cce90ab39e70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041954475
+status: 1
+tags: []
+user_id: unknown

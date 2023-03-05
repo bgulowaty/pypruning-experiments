@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c60b57da23054d919357b85e3d75677d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c60b57da23054d919357b85e3d75677d
+run_name: secretive-gnu-953
+run_uuid: c60b57da23054d919357b85e3d75677d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041764886
+status: 1
+tags: []
+user_id: unknown

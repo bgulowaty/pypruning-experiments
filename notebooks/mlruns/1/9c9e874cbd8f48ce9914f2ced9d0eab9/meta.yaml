@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9c9e874cbd8f48ce9914f2ced9d0eab9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9c9e874cbd8f48ce9914f2ced9d0eab9
+run_name: gaudy-penguin-216
+run_uuid: 9c9e874cbd8f48ce9914f2ced9d0eab9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041689044
+status: 1
+tags: []
+user_id: unknown

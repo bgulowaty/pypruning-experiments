@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ebddd79ad5d14d84ac05dffbdbd1a3b2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ebddd79ad5d14d84ac05dffbdbd1a3b2
+run_name: suave-shad-618
+run_uuid: ebddd79ad5d14d84ac05dffbdbd1a3b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041881517
+status: 1
+tags: []
+user_id: unknown

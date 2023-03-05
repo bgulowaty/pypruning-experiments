@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c2d0caf3144343b6a56c35da7f85fff8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c2d0caf3144343b6a56c35da7f85fff8
+run_name: fortunate-shoat-758
+run_uuid: c2d0caf3144343b6a56c35da7f85fff8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041936152
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c95cd262d617413dae77d82db1800933/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c95cd262d617413dae77d82db1800933
+run_name: adventurous-croc-389
+run_uuid: c95cd262d617413dae77d82db1800933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041949813
+status: 1
+tags: []
+user_id: unknown

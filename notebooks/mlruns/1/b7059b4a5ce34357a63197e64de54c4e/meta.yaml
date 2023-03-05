@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b7059b4a5ce34357a63197e64de54c4e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b7059b4a5ce34357a63197e64de54c4e
+run_name: fearless-grouse-371
+run_uuid: b7059b4a5ce34357a63197e64de54c4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041740480
+status: 1
+tags: []
+user_id: unknown

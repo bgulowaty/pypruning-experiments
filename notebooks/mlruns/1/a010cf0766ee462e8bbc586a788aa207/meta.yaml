@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a010cf0766ee462e8bbc586a788aa207/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a010cf0766ee462e8bbc586a788aa207
+run_name: resilient-steed-604
+run_uuid: a010cf0766ee462e8bbc586a788aa207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041584543
+status: 1
+tags: []
+user_id: unknown

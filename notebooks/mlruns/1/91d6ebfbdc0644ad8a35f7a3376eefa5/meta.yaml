@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/91d6ebfbdc0644ad8a35f7a3376eefa5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 91d6ebfbdc0644ad8a35f7a3376eefa5
+run_name: delightful-boar-608
+run_uuid: 91d6ebfbdc0644ad8a35f7a3376eefa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041811038
+status: 1
+tags: []
+user_id: unknown

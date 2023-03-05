@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7a6eb4852b9d42398bb9e864c0aeb524/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7a6eb4852b9d42398bb9e864c0aeb524
+run_name: sassy-fowl-452
+run_uuid: 7a6eb4852b9d42398bb9e864c0aeb524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041501818
+status: 1
+tags: []
+user_id: unknown

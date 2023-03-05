@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d506eb5c02e5432f96cc0fcbc71c62dc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d506eb5c02e5432f96cc0fcbc71c62dc
+run_name: melodic-bug-495
+run_uuid: d506eb5c02e5432f96cc0fcbc71c62dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041511568
+status: 1
+tags: []
+user_id: unknown

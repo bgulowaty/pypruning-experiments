@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/464a585c2e1f4416843a5e681880b928/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 464a585c2e1f4416843a5e681880b928
+run_name: capable-gull-983
+run_uuid: 464a585c2e1f4416843a5e681880b928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041525586
+status: 1
+tags: []
+user_id: unknown

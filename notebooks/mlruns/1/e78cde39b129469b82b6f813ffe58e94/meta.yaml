@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e78cde39b129469b82b6f813ffe58e94/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e78cde39b129469b82b6f813ffe58e94
+run_name: languid-perch-237
+run_uuid: e78cde39b129469b82b6f813ffe58e94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041810203
+status: 1
+tags: []
+user_id: unknown

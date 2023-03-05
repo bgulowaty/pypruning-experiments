@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f11abf1692d34b2dbc978aaa9a234082/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f11abf1692d34b2dbc978aaa9a234082
+run_name: dazzling-fox-10
+run_uuid: f11abf1692d34b2dbc978aaa9a234082
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041690210
+status: 1
+tags: []
+user_id: unknown

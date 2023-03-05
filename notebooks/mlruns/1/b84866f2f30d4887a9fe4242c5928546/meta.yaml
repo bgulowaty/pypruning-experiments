@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b84866f2f30d4887a9fe4242c5928546/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b84866f2f30d4887a9fe4242c5928546
+run_name: big-pug-759
+run_uuid: b84866f2f30d4887a9fe4242c5928546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497817
+status: 1
+tags: []
+user_id: unknown

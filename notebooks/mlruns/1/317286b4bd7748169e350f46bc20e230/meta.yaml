@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/317286b4bd7748169e350f46bc20e230/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 317286b4bd7748169e350f46bc20e230
+run_name: kindly-pig-714
+run_uuid: 317286b4bd7748169e350f46bc20e230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041897993
+status: 1
+tags: []
+user_id: unknown

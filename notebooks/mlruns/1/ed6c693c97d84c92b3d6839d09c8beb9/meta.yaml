@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ed6c693c97d84c92b3d6839d09c8beb9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed6c693c97d84c92b3d6839d09c8beb9
+run_name: bold-ape-895
+run_uuid: ed6c693c97d84c92b3d6839d09c8beb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041560951
+status: 1
+tags: []
+user_id: unknown

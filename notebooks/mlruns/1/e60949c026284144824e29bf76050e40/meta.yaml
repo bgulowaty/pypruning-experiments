@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e60949c026284144824e29bf76050e40/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e60949c026284144824e29bf76050e40
+run_name: upset-hen-506
+run_uuid: e60949c026284144824e29bf76050e40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041751832
+status: 1
+tags: []
+user_id: unknown

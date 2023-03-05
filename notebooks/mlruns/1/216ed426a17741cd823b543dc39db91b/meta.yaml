@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/216ed426a17741cd823b543dc39db91b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 216ed426a17741cd823b543dc39db91b
+run_name: big-conch-249
+run_uuid: 216ed426a17741cd823b543dc39db91b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041828060
+status: 1
+tags: []
+user_id: unknown

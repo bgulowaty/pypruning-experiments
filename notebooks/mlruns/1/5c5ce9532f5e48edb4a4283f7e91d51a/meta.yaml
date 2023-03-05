@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5c5ce9532f5e48edb4a4283f7e91d51a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5c5ce9532f5e48edb4a4283f7e91d51a
+run_name: mysterious-wasp-303
+run_uuid: 5c5ce9532f5e48edb4a4283f7e91d51a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041680477
+status: 1
+tags: []
+user_id: unknown

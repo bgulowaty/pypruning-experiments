@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d3e64688dc334dceaae744a69bb9731c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d3e64688dc334dceaae744a69bb9731c
+run_name: able-crab-846
+run_uuid: d3e64688dc334dceaae744a69bb9731c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041926706
+status: 1
+tags: []
+user_id: unknown

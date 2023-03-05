@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cd210d276fac44bfb32ba105a83aa0d0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cd210d276fac44bfb32ba105a83aa0d0
+run_name: bald-shrike-554
+run_uuid: cd210d276fac44bfb32ba105a83aa0d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041901078
+status: 1
+tags: []
+user_id: unknown

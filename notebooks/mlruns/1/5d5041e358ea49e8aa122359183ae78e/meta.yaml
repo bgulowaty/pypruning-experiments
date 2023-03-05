@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5d5041e358ea49e8aa122359183ae78e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5d5041e358ea49e8aa122359183ae78e
+run_name: traveling-swan-524
+run_uuid: 5d5041e358ea49e8aa122359183ae78e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041583257
+status: 1
+tags: []
+user_id: unknown

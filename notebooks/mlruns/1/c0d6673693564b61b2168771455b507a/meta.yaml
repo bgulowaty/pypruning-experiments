@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c0d6673693564b61b2168771455b507a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c0d6673693564b61b2168771455b507a
+run_name: secretive-trout-78
+run_uuid: c0d6673693564b61b2168771455b507a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041638751
+status: 1
+tags: []
+user_id: unknown

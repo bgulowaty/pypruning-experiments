@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a908f45090a94aca9cc51a3929a10ada/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a908f45090a94aca9cc51a3929a10ada
+run_name: thundering-pig-605
+run_uuid: a908f45090a94aca9cc51a3929a10ada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041946261
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ec35f686877c4f6f88ed97e357082ea1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec35f686877c4f6f88ed97e357082ea1
+run_name: fearless-ant-19
+run_uuid: ec35f686877c4f6f88ed97e357082ea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041612167
+status: 1
+tags: []
+user_id: unknown

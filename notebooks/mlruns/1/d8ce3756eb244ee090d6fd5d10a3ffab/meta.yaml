@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d8ce3756eb244ee090d6fd5d10a3ffab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8ce3756eb244ee090d6fd5d10a3ffab
+run_name: brawny-shoat-25
+run_uuid: d8ce3756eb244ee090d6fd5d10a3ffab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502000
+status: 1
+tags: []
+user_id: unknown

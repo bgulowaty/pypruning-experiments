@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6770c07f79304542b62e51d1082bf047/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6770c07f79304542b62e51d1082bf047
+run_name: wistful-owl-902
+run_uuid: 6770c07f79304542b62e51d1082bf047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041566847
+status: 1
+tags: []
+user_id: unknown

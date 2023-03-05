@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/42c89cc7253145a7b6dcb488915e7126/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 42c89cc7253145a7b6dcb488915e7126
+run_name: rare-squid-393
+run_uuid: 42c89cc7253145a7b6dcb488915e7126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041684289
+status: 1
+tags: []
+user_id: unknown

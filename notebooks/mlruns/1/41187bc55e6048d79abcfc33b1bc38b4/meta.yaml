@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/41187bc55e6048d79abcfc33b1bc38b4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 41187bc55e6048d79abcfc33b1bc38b4
+run_name: bold-quail-675
+run_uuid: 41187bc55e6048d79abcfc33b1bc38b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041612596
+status: 1
+tags: []
+user_id: unknown

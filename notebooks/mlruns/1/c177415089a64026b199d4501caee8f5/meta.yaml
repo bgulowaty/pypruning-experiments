@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c177415089a64026b199d4501caee8f5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c177415089a64026b199d4501caee8f5
+run_name: salty-asp-88
+run_uuid: c177415089a64026b199d4501caee8f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041697868
+status: 1
+tags: []
+user_id: unknown

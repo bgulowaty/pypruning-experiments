@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e5c43e9f24e548de866130ce9a06f76d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e5c43e9f24e548de866130ce9a06f76d
+run_name: peaceful-rat-300
+run_uuid: e5c43e9f24e548de866130ce9a06f76d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041604684
+status: 1
+tags: []
+user_id: unknown

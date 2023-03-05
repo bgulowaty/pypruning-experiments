@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/be9b10fd650648479d2b98d02702a245/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: be9b10fd650648479d2b98d02702a245
+run_name: victorious-snail-814
+run_uuid: be9b10fd650648479d2b98d02702a245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041505319
+status: 1
+tags: []
+user_id: unknown

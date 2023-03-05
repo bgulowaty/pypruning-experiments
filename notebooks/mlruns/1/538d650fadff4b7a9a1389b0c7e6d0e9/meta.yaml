@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/538d650fadff4b7a9a1389b0c7e6d0e9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 538d650fadff4b7a9a1389b0c7e6d0e9
+run_name: upset-grouse-877
+run_uuid: 538d650fadff4b7a9a1389b0c7e6d0e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041807571
+status: 1
+tags: []
+user_id: unknown

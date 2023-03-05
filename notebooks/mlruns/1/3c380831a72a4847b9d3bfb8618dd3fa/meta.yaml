@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3c380831a72a4847b9d3bfb8618dd3fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c380831a72a4847b9d3bfb8618dd3fa
+run_name: dashing-kite-286
+run_uuid: 3c380831a72a4847b9d3bfb8618dd3fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041545628
+status: 1
+tags: []
+user_id: unknown

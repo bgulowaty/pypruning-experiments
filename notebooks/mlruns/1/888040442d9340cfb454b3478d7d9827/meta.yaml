@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/888040442d9340cfb454b3478d7d9827/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 888040442d9340cfb454b3478d7d9827
+run_name: redolent-wren-950
+run_uuid: 888040442d9340cfb454b3478d7d9827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041726600
+status: 1
+tags: []
+user_id: unknown

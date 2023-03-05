@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9c75b490fec44da69d953a778c86962c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9c75b490fec44da69d953a778c86962c
+run_name: adorable-mole-522
+run_uuid: 9c75b490fec44da69d953a778c86962c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041566393
+status: 1
+tags: []
+user_id: unknown

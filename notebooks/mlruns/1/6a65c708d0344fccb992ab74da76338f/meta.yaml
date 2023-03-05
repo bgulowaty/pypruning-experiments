@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6a65c708d0344fccb992ab74da76338f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6a65c708d0344fccb992ab74da76338f
+run_name: burly-gnat-616
+run_uuid: 6a65c708d0344fccb992ab74da76338f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502157
+status: 1
+tags: []
+user_id: unknown

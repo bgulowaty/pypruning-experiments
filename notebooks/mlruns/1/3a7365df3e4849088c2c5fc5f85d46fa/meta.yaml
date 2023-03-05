@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3a7365df3e4849088c2c5fc5f85d46fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3a7365df3e4849088c2c5fc5f85d46fa
+run_name: rumbling-cat-880
+run_uuid: 3a7365df3e4849088c2c5fc5f85d46fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041586732
+status: 1
+tags: []
+user_id: unknown

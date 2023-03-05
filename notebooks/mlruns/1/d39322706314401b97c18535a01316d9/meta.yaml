@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d39322706314401b97c18535a01316d9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d39322706314401b97c18535a01316d9
+run_name: magnificent-moth-943
+run_uuid: d39322706314401b97c18535a01316d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041582949
+status: 1
+tags: []
+user_id: unknown

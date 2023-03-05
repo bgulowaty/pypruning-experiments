@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/04aea0b9caf84f61979705f15deae87b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 04aea0b9caf84f61979705f15deae87b
+run_name: skittish-squid-586
+run_uuid: 04aea0b9caf84f61979705f15deae87b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041541384
+status: 1
+tags: []
+user_id: unknown

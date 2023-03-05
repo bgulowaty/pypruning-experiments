@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/14382bb551da4641a8d60493ba283226/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 14382bb551da4641a8d60493ba283226
+run_name: kindly-sheep-478
+run_uuid: 14382bb551da4641a8d60493ba283226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041938817
+status: 1
+tags: []
+user_id: unknown

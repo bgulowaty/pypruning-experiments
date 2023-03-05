@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a8a781ae99af46b783336d9f96347bbb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8a781ae99af46b783336d9f96347bbb
+run_name: funny-goat-51
+run_uuid: a8a781ae99af46b783336d9f96347bbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496251
+status: 1
+tags: []
+user_id: unknown

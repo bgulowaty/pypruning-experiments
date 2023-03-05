@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7e945b4012bb4b0abbf40b120f5b6c5a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7e945b4012bb4b0abbf40b120f5b6c5a
+run_name: intelligent-dove-424
+run_uuid: 7e945b4012bb4b0abbf40b120f5b6c5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041503428
+status: 1
+tags: []
+user_id: unknown

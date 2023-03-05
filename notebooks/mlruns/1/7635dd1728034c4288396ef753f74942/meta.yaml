@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7635dd1728034c4288396ef753f74942/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7635dd1728034c4288396ef753f74942
+run_name: unequaled-seal-156
+run_uuid: 7635dd1728034c4288396ef753f74942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041839250
+status: 1
+tags: []
+user_id: unknown

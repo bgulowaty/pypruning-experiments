@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/49c69c0915d64dd383337cdbbba10400/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 49c69c0915d64dd383337cdbbba10400
+run_name: stately-toad-47
+run_uuid: 49c69c0915d64dd383337cdbbba10400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041649415
+status: 1
+tags: []
+user_id: unknown

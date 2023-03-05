@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/65072ef2151542b7b79eff1834841172/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65072ef2151542b7b79eff1834841172
+run_name: burly-cod-253
+run_uuid: 65072ef2151542b7b79eff1834841172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041528203
+status: 1
+tags: []
+user_id: unknown

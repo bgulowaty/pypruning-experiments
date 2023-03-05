@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4642a972c9fb45b4ab3b1988eba0406e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4642a972c9fb45b4ab3b1988eba0406e
+run_name: agreeable-ant-947
+run_uuid: 4642a972c9fb45b4ab3b1988eba0406e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041796093
+status: 1
+tags: []
+user_id: unknown

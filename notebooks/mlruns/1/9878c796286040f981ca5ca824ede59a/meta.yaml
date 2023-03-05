@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9878c796286040f981ca5ca824ede59a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9878c796286040f981ca5ca824ede59a
+run_name: omniscient-dog-929
+run_uuid: 9878c796286040f981ca5ca824ede59a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041962586
+status: 1
+tags: []
+user_id: unknown

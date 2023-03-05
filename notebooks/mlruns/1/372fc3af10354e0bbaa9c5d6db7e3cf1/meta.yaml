@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/372fc3af10354e0bbaa9c5d6db7e3cf1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 372fc3af10354e0bbaa9c5d6db7e3cf1
+run_name: dapper-quail-391
+run_uuid: 372fc3af10354e0bbaa9c5d6db7e3cf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496344
+status: 1
+tags: []
+user_id: unknown

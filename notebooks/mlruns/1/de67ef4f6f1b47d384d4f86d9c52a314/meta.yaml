@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/de67ef4f6f1b47d384d4f86d9c52a314/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de67ef4f6f1b47d384d4f86d9c52a314
+run_name: traveling-sow-716
+run_uuid: de67ef4f6f1b47d384d4f86d9c52a314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041878748
+status: 1
+tags: []
+user_id: unknown

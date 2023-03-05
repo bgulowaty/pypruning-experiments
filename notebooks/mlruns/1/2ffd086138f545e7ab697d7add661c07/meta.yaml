@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2ffd086138f545e7ab697d7add661c07/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ffd086138f545e7ab697d7add661c07
+run_name: skillful-robin-280
+run_uuid: 2ffd086138f545e7ab697d7add661c07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041631711
+status: 1
+tags: []
+user_id: unknown

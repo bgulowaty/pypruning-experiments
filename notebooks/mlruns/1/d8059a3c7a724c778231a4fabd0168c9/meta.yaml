@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d8059a3c7a724c778231a4fabd0168c9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8059a3c7a724c778231a4fabd0168c9
+run_name: mercurial-sow-949
+run_uuid: d8059a3c7a724c778231a4fabd0168c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041622470
+status: 1
+tags: []
+user_id: unknown

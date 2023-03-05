@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cc53720799f7482ca4899011b95e6e5d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc53720799f7482ca4899011b95e6e5d
+run_name: wistful-hare-364
+run_uuid: cc53720799f7482ca4899011b95e6e5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041576340
+status: 1
+tags: []
+user_id: unknown

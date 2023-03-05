@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9daeafc26e9948798e05ed845e08910a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9daeafc26e9948798e05ed845e08910a
+run_name: nervous-tern-281
+run_uuid: 9daeafc26e9948798e05ed845e08910a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041593416
+status: 1
+tags: []
+user_id: unknown

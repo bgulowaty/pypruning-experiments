@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0503db25192f43f3a97fec32be01702b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0503db25192f43f3a97fec32be01702b
+run_name: omniscient-cat-747
+run_uuid: 0503db25192f43f3a97fec32be01702b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041563966
+status: 1
+tags: []
+user_id: unknown

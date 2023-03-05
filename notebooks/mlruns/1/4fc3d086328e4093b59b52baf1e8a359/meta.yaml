@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4fc3d086328e4093b59b52baf1e8a359/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4fc3d086328e4093b59b52baf1e8a359
+run_name: monumental-worm-5
+run_uuid: 4fc3d086328e4093b59b52baf1e8a359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041833580
+status: 1
+tags: []
+user_id: unknown

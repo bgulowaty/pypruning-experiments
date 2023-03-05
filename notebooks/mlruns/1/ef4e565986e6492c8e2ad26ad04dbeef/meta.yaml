@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ef4e565986e6492c8e2ad26ad04dbeef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef4e565986e6492c8e2ad26ad04dbeef
+run_name: stylish-moth-306
+run_uuid: ef4e565986e6492c8e2ad26ad04dbeef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041503792
+status: 1
+tags: []
+user_id: unknown

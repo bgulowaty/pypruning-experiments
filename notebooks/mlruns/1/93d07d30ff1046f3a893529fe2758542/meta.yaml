@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/93d07d30ff1046f3a893529fe2758542/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 93d07d30ff1046f3a893529fe2758542
+run_name: stylish-kit-30
+run_uuid: 93d07d30ff1046f3a893529fe2758542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041551233
+status: 1
+tags: []
+user_id: unknown

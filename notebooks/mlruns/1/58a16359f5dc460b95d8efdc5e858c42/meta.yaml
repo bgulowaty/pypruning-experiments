@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/58a16359f5dc460b95d8efdc5e858c42/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 58a16359f5dc460b95d8efdc5e858c42
+run_name: delightful-fowl-189
+run_uuid: 58a16359f5dc460b95d8efdc5e858c42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041666274
+status: 1
+tags: []
+user_id: unknown

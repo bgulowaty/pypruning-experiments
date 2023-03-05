@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/604c0f8e3bc44be4a284f1e41234e1bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 604c0f8e3bc44be4a284f1e41234e1bb
+run_name: hilarious-toad-676
+run_uuid: 604c0f8e3bc44be4a284f1e41234e1bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041535086
+status: 1
+tags: []
+user_id: unknown

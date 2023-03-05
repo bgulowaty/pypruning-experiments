@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d376ca2c356946d1b1b6e7a5086b8340/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d376ca2c356946d1b1b6e7a5086b8340
+run_name: nebulous-shrike-907
+run_uuid: d376ca2c356946d1b1b6e7a5086b8340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041782890
+status: 1
+tags: []
+user_id: unknown

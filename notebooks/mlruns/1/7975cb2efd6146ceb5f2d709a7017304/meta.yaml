@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7975cb2efd6146ceb5f2d709a7017304/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7975cb2efd6146ceb5f2d709a7017304
+run_name: monumental-bee-737
+run_uuid: 7975cb2efd6146ceb5f2d709a7017304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041921640
+status: 1
+tags: []
+user_id: unknown

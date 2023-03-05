@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ab0bce46d1de47c5b6da242acd7fb196/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab0bce46d1de47c5b6da242acd7fb196
+run_name: serious-skink-678
+run_uuid: ab0bce46d1de47c5b6da242acd7fb196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041916178
+status: 1
+tags: []
+user_id: unknown

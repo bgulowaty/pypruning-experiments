@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0d16998369834c21854e1d3036c9254d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0d16998369834c21854e1d3036c9254d
+run_name: burly-stoat-704
+run_uuid: 0d16998369834c21854e1d3036c9254d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494825
+status: 1
+tags: []
+user_id: unknown

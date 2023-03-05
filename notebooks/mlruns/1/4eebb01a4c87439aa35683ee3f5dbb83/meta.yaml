@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4eebb01a4c87439aa35683ee3f5dbb83/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4eebb01a4c87439aa35683ee3f5dbb83
+run_name: enchanting-loon-761
+run_uuid: 4eebb01a4c87439aa35683ee3f5dbb83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497264
+status: 1
+tags: []
+user_id: unknown

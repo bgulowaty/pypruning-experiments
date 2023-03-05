@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6f788482d5b44894a814078fcc858a0d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6f788482d5b44894a814078fcc858a0d
+run_name: upbeat-yak-826
+run_uuid: 6f788482d5b44894a814078fcc858a0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041518161
+status: 1
+tags: []
+user_id: unknown

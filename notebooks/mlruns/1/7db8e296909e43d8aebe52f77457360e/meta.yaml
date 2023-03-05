@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7db8e296909e43d8aebe52f77457360e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7db8e296909e43d8aebe52f77457360e
+run_name: puzzled-jay-375
+run_uuid: 7db8e296909e43d8aebe52f77457360e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041714359
+status: 1
+tags: []
+user_id: unknown

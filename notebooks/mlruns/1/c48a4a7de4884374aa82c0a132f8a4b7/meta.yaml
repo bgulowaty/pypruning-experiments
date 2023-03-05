@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c48a4a7de4884374aa82c0a132f8a4b7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c48a4a7de4884374aa82c0a132f8a4b7
+run_name: fearless-ape-884
+run_uuid: c48a4a7de4884374aa82c0a132f8a4b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041778941
+status: 1
+tags: []
+user_id: unknown

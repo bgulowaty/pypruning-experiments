@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e6d4ae9cb08c4f53a66c81ecb327a358/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e6d4ae9cb08c4f53a66c81ecb327a358
+run_name: unique-wren-318
+run_uuid: e6d4ae9cb08c4f53a66c81ecb327a358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041977899
+status: 1
+tags: []
+user_id: unknown

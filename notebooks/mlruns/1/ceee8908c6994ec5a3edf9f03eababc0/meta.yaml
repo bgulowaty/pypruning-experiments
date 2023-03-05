@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ceee8908c6994ec5a3edf9f03eababc0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ceee8908c6994ec5a3edf9f03eababc0
+run_name: delicate-ant-81
+run_uuid: ceee8908c6994ec5a3edf9f03eababc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041939918
+status: 1
+tags: []
+user_id: unknown

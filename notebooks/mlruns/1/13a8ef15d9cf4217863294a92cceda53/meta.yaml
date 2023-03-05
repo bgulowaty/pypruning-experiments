@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/13a8ef15d9cf4217863294a92cceda53/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 13a8ef15d9cf4217863294a92cceda53
+run_name: grandiose-shoat-98
+run_uuid: 13a8ef15d9cf4217863294a92cceda53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495369
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/34f38831f37b47acb40b96ea1cba1695/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 34f38831f37b47acb40b96ea1cba1695
+run_name: blushing-ape-509
+run_uuid: 34f38831f37b47acb40b96ea1cba1695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041938002
+status: 1
+tags: []
+user_id: unknown

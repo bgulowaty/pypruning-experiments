@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/27d0af66a402433d9618ef1b530014b0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 27d0af66a402433d9618ef1b530014b0
+run_name: victorious-yak-715
+run_uuid: 27d0af66a402433d9618ef1b530014b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041569625
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0d80b16333184be38e0c8eebb036fa90/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0d80b16333184be38e0c8eebb036fa90
+run_name: orderly-eel-298
+run_uuid: 0d80b16333184be38e0c8eebb036fa90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041876408
+status: 1
+tags: []
+user_id: unknown

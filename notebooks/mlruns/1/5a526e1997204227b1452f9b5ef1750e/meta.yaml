@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5a526e1997204227b1452f9b5ef1750e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5a526e1997204227b1452f9b5ef1750e
+run_name: bouncy-flea-623
+run_uuid: 5a526e1997204227b1452f9b5ef1750e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041919842
+status: 1
+tags: []
+user_id: unknown

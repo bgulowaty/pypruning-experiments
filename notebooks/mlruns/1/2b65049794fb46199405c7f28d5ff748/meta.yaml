@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2b65049794fb46199405c7f28d5ff748/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2b65049794fb46199405c7f28d5ff748
+run_name: clean-snail-690
+run_uuid: 2b65049794fb46199405c7f28d5ff748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041614022
+status: 1
+tags: []
+user_id: unknown

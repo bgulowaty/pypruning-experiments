@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/833b4a808ace432896ddd7cd6dac2915/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 833b4a808ace432896ddd7cd6dac2915
+run_name: kindly-squirrel-551
+run_uuid: 833b4a808ace432896ddd7cd6dac2915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041536883
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/361a38a063bd4922a695ccb1ba04bb52/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 361a38a063bd4922a695ccb1ba04bb52
+run_name: burly-mouse-805
+run_uuid: 361a38a063bd4922a695ccb1ba04bb52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041529350
+status: 1
+tags: []
+user_id: unknown

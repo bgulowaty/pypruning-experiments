@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/247ac8f7c37046a28f14b33ea3a1d72d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 247ac8f7c37046a28f14b33ea3a1d72d
+run_name: fun-conch-398
+run_uuid: 247ac8f7c37046a28f14b33ea3a1d72d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041501312
+status: 1
+tags: []
+user_id: unknown

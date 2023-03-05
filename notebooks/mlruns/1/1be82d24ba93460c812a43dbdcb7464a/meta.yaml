@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1be82d24ba93460c812a43dbdcb7464a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1be82d24ba93460c812a43dbdcb7464a
+run_name: clumsy-loon-704
+run_uuid: 1be82d24ba93460c812a43dbdcb7464a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041542399
+status: 1
+tags: []
+user_id: unknown

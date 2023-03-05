@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d72b6ea4e6b64da19b2a9f030c528429/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d72b6ea4e6b64da19b2a9f030c528429
+run_name: stately-snipe-48
+run_uuid: d72b6ea4e6b64da19b2a9f030c528429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041615578
+status: 1
+tags: []
+user_id: unknown

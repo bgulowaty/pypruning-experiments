@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1d0c6908933e4daf80482b63117aed43/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1d0c6908933e4daf80482b63117aed43
+run_name: agreeable-pug-793
+run_uuid: 1d0c6908933e4daf80482b63117aed43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041955348
+status: 1
+tags: []
+user_id: unknown

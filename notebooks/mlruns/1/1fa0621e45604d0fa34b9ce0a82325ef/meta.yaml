@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1fa0621e45604d0fa34b9ce0a82325ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1fa0621e45604d0fa34b9ce0a82325ef
+run_name: burly-loon-859
+run_uuid: 1fa0621e45604d0fa34b9ce0a82325ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499415
+status: 1
+tags: []
+user_id: unknown

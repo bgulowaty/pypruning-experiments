@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fa5d1b8f3d6a430282d5c1fd9a8bde44/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa5d1b8f3d6a430282d5c1fd9a8bde44
+run_name: agreeable-gnat-226
+run_uuid: fa5d1b8f3d6a430282d5c1fd9a8bde44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041651313
+status: 1
+tags: []
+user_id: unknown

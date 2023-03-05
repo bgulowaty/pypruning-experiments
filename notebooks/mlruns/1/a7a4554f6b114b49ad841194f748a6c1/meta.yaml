@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a7a4554f6b114b49ad841194f748a6c1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a7a4554f6b114b49ad841194f748a6c1
+run_name: gregarious-chimp-307
+run_uuid: a7a4554f6b114b49ad841194f748a6c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041777384
+status: 1
+tags: []
+user_id: unknown

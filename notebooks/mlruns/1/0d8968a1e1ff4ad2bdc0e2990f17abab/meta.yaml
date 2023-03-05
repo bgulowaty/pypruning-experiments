@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0d8968a1e1ff4ad2bdc0e2990f17abab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0d8968a1e1ff4ad2bdc0e2990f17abab
+run_name: melodic-dolphin-645
+run_uuid: 0d8968a1e1ff4ad2bdc0e2990f17abab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041772853
+status: 1
+tags: []
+user_id: unknown

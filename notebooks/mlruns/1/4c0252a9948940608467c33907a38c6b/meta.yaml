@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4c0252a9948940608467c33907a38c6b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4c0252a9948940608467c33907a38c6b
+run_name: sneaky-roo-799
+run_uuid: 4c0252a9948940608467c33907a38c6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041905656
+status: 1
+tags: []
+user_id: unknown

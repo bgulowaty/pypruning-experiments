@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/12c184f2652645f492eb17203316bacd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 12c184f2652645f492eb17203316bacd
+run_name: bustling-squid-942
+run_uuid: 12c184f2652645f492eb17203316bacd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041521733
+status: 1
+tags: []
+user_id: unknown

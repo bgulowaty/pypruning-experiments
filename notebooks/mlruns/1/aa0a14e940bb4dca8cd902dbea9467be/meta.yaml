@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/aa0a14e940bb4dca8cd902dbea9467be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aa0a14e940bb4dca8cd902dbea9467be
+run_name: redolent-squid-883
+run_uuid: aa0a14e940bb4dca8cd902dbea9467be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041632970
+status: 1
+tags: []
+user_id: unknown

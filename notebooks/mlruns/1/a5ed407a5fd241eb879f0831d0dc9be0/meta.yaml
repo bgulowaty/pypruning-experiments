@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a5ed407a5fd241eb879f0831d0dc9be0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a5ed407a5fd241eb879f0831d0dc9be0
+run_name: fun-sheep-508
+run_uuid: a5ed407a5fd241eb879f0831d0dc9be0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041963703
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/087f1189935e447480add81cdaceba41/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 087f1189935e447480add81cdaceba41
+run_name: redolent-carp-154
+run_uuid: 087f1189935e447480add81cdaceba41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041859512
+status: 1
+tags: []
+user_id: unknown

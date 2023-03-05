@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0b26dea6b17d440ea64e2040aa749f6f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b26dea6b17d440ea64e2040aa749f6f
+run_name: beautiful-shark-400
+run_uuid: 0b26dea6b17d440ea64e2040aa749f6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041655570
+status: 1
+tags: []
+user_id: unknown

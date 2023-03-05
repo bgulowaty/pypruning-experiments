@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e0bfa8d8798f48308b7e18de55efacec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e0bfa8d8798f48308b7e18de55efacec
+run_name: monumental-colt-19
+run_uuid: e0bfa8d8798f48308b7e18de55efacec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041536704
+status: 1
+tags: []
+user_id: unknown

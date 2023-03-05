@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9dfda9df50b14fe0be942715143c9ec9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9dfda9df50b14fe0be942715143c9ec9
+run_name: sedate-toad-28
+run_uuid: 9dfda9df50b14fe0be942715143c9ec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041682887
+status: 1
+tags: []
+user_id: unknown

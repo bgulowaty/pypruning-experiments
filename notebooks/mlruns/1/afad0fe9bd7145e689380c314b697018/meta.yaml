@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/afad0fe9bd7145e689380c314b697018/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: afad0fe9bd7145e689380c314b697018
+run_name: funny-skunk-975
+run_uuid: afad0fe9bd7145e689380c314b697018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041574922
+status: 1
+tags: []
+user_id: unknown

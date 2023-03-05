@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e9caca18c7734f58ae8f9ccc291dd312/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e9caca18c7734f58ae8f9ccc291dd312
+run_name: able-stork-245
+run_uuid: e9caca18c7734f58ae8f9ccc291dd312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041591222
+status: 1
+tags: []
+user_id: unknown

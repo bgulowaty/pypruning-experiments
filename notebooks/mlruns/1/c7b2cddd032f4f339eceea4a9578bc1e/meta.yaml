@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c7b2cddd032f4f339eceea4a9578bc1e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7b2cddd032f4f339eceea4a9578bc1e
+run_name: likeable-owl-407
+run_uuid: c7b2cddd032f4f339eceea4a9578bc1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041963410
+status: 1
+tags: []
+user_id: unknown

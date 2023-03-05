@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/68e57d8619b6491b989931d6a3929c2f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 68e57d8619b6491b989931d6a3929c2f
+run_name: welcoming-calf-90
+run_uuid: 68e57d8619b6491b989931d6a3929c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041501429
+status: 1
+tags: []
+user_id: unknown

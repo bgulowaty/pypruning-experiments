@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5f1b478751a74a1f824df3c5e44f5b4c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5f1b478751a74a1f824df3c5e44f5b4c
+run_name: abrasive-quail-644
+run_uuid: 5f1b478751a74a1f824df3c5e44f5b4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041584482
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c11fa34033984d4bb8ecf6fbb1f392fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c11fa34033984d4bb8ecf6fbb1f392fd
+run_name: abundant-robin-558
+run_uuid: c11fa34033984d4bb8ecf6fbb1f392fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041601538
+status: 1
+tags: []
+user_id: unknown

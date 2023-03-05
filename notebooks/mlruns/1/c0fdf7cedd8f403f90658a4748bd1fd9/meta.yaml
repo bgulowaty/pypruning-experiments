@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c0fdf7cedd8f403f90658a4748bd1fd9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c0fdf7cedd8f403f90658a4748bd1fd9
+run_name: wise-elk-645
+run_uuid: c0fdf7cedd8f403f90658a4748bd1fd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041721282
+status: 1
+tags: []
+user_id: unknown

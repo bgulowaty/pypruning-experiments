@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/df3afa9f9d3e47cbab96934f6c7ad96c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df3afa9f9d3e47cbab96934f6c7ad96c
+run_name: masked-conch-308
+run_uuid: df3afa9f9d3e47cbab96934f6c7ad96c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041893826
+status: 1
+tags: []
+user_id: unknown

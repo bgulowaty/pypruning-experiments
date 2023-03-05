@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ff96756a373e4f048a68b0fe18b5f68b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff96756a373e4f048a68b0fe18b5f68b
+run_name: merciful-sponge-985
+run_uuid: ff96756a373e4f048a68b0fe18b5f68b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041727806
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7fb131468c4c4cadb4da31a773efd419/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7fb131468c4c4cadb4da31a773efd419
+run_name: rebellious-mouse-66
+run_uuid: 7fb131468c4c4cadb4da31a773efd419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041551839
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d7d33680b7dd4c9194edc54a187ededb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7d33680b7dd4c9194edc54a187ededb
+run_name: adventurous-stork-98
+run_uuid: d7d33680b7dd4c9194edc54a187ededb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041837117
+status: 1
+tags: []
+user_id: unknown

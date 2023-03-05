@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/413cbef1603e48b4b129aa7ac5c5b990/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 413cbef1603e48b4b129aa7ac5c5b990
+run_name: stately-foal-910
+run_uuid: 413cbef1603e48b4b129aa7ac5c5b990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041861204
+status: 1
+tags: []
+user_id: unknown

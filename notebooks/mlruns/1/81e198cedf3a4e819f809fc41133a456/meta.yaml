@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/81e198cedf3a4e819f809fc41133a456/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 81e198cedf3a4e819f809fc41133a456
+run_name: loud-hog-389
+run_uuid: 81e198cedf3a4e819f809fc41133a456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041498576
+status: 1
+tags: []
+user_id: unknown

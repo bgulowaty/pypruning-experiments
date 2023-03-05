@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fffcbde31a814fa993452a740e093989/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fffcbde31a814fa993452a740e093989
+run_name: charming-grub-577
+run_uuid: fffcbde31a814fa993452a740e093989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041650712
+status: 1
+tags: []
+user_id: unknown

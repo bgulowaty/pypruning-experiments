@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/60924d41ca8c4871935937ad3a42e6bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 60924d41ca8c4871935937ad3a42e6bc
+run_name: luminous-mare-814
+run_uuid: 60924d41ca8c4871935937ad3a42e6bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496577
+status: 1
+tags: []
+user_id: unknown

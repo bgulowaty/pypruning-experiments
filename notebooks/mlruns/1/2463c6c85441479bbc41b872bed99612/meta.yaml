@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2463c6c85441479bbc41b872bed99612/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2463c6c85441479bbc41b872bed99612
+run_name: useful-hen-600
+run_uuid: 2463c6c85441479bbc41b872bed99612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041875468
+status: 1
+tags: []
+user_id: unknown

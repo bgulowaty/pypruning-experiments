@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/feb724e59ec84b9aacaefed17960012f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: feb724e59ec84b9aacaefed17960012f
+run_name: dapper-squid-285
+run_uuid: feb724e59ec84b9aacaefed17960012f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041532466
+status: 1
+tags: []
+user_id: unknown

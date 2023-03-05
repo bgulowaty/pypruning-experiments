@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/17a1ea7dcce7462fb7ba51fa9ad0992d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 17a1ea7dcce7462fb7ba51fa9ad0992d
+run_name: clumsy-elk-835
+run_uuid: 17a1ea7dcce7462fb7ba51fa9ad0992d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041510832
+status: 1
+tags: []
+user_id: unknown

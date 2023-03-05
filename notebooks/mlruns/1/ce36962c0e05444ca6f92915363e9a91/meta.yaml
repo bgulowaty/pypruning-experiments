@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ce36962c0e05444ca6f92915363e9a91/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce36962c0e05444ca6f92915363e9a91
+run_name: suave-turtle-682
+run_uuid: ce36962c0e05444ca6f92915363e9a91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041931951
+status: 1
+tags: []
+user_id: unknown

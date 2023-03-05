@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2cb94c6b94a6491b9e1e4f1202b588d3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2cb94c6b94a6491b9e1e4f1202b588d3
+run_name: abundant-penguin-600
+run_uuid: 2cb94c6b94a6491b9e1e4f1202b588d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041897869
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2e687a2feb7541049bdd9b5eb010d0e1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2e687a2feb7541049bdd9b5eb010d0e1
+run_name: resilient-koi-787
+run_uuid: 2e687a2feb7541049bdd9b5eb010d0e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497185
+status: 1
+tags: []
+user_id: unknown

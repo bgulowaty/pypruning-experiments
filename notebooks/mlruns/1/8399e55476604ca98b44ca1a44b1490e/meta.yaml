@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8399e55476604ca98b44ca1a44b1490e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8399e55476604ca98b44ca1a44b1490e
+run_name: upbeat-duck-154
+run_uuid: 8399e55476604ca98b44ca1a44b1490e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041822882
+status: 1
+tags: []
+user_id: unknown

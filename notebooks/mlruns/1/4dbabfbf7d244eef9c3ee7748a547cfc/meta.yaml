@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4dbabfbf7d244eef9c3ee7748a547cfc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4dbabfbf7d244eef9c3ee7748a547cfc
+run_name: secretive-foal-675
+run_uuid: 4dbabfbf7d244eef9c3ee7748a547cfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041523168
+status: 1
+tags: []
+user_id: unknown

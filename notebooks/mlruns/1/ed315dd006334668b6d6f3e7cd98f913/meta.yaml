@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ed315dd006334668b6d6f3e7cd98f913/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed315dd006334668b6d6f3e7cd98f913
+run_name: vaunted-skunk-544
+run_uuid: ed315dd006334668b6d6f3e7cd98f913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041943853
+status: 1
+tags: []
+user_id: unknown

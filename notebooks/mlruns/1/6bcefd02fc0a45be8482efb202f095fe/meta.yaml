@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6bcefd02fc0a45be8482efb202f095fe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6bcefd02fc0a45be8482efb202f095fe
+run_name: bold-rook-975
+run_uuid: 6bcefd02fc0a45be8482efb202f095fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041534347
+status: 1
+tags: []
+user_id: unknown

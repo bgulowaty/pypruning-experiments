@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/952c07a4c4894b54b42ce6119aa520f7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 952c07a4c4894b54b42ce6119aa520f7
+run_name: polite-snail-453
+run_uuid: 952c07a4c4894b54b42ce6119aa520f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041587442
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/28c71d0ddf5f4c7c86f12c9ade25c4db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 28c71d0ddf5f4c7c86f12c9ade25c4db
+run_name: incongruous-elk-254
+run_uuid: 28c71d0ddf5f4c7c86f12c9ade25c4db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041682098
+status: 1
+tags: []
+user_id: unknown

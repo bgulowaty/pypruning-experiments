@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ae21d7147a5c434fbf706131648f40af/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ae21d7147a5c434fbf706131648f40af
+run_name: carefree-finch-135
+run_uuid: ae21d7147a5c434fbf706131648f40af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041972895
+status: 1
+tags: []
+user_id: unknown

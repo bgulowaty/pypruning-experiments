@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4bb7a19637c04ad78716d3193e5e9119/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4bb7a19637c04ad78716d3193e5e9119
+run_name: dapper-shrew-640
+run_uuid: 4bb7a19637c04ad78716d3193e5e9119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041520707
+status: 1
+tags: []
+user_id: unknown

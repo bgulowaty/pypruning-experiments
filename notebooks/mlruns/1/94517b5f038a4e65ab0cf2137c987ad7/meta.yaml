@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/94517b5f038a4e65ab0cf2137c987ad7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 94517b5f038a4e65ab0cf2137c987ad7
+run_name: melodic-grouse-859
+run_uuid: 94517b5f038a4e65ab0cf2137c987ad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041526997
+status: 1
+tags: []
+user_id: unknown

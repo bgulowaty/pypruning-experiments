@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/191ee23879ab453297eae00799220849/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 191ee23879ab453297eae00799220849
+run_name: victorious-mink-981
+run_uuid: 191ee23879ab453297eae00799220849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041559117
+status: 1
+tags: []
+user_id: unknown

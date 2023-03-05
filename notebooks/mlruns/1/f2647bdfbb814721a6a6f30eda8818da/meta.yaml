@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f2647bdfbb814721a6a6f30eda8818da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f2647bdfbb814721a6a6f30eda8818da
+run_name: puzzled-ram-573
+run_uuid: f2647bdfbb814721a6a6f30eda8818da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041670742
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a2cb2d60f9ea4cfa8074db4e82b82884/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2cb2d60f9ea4cfa8074db4e82b82884
+run_name: persistent-sloth-251
+run_uuid: a2cb2d60f9ea4cfa8074db4e82b82884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041760633
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3a69e2537bea4448ab5d927a4fe3d8a5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3a69e2537bea4448ab5d927a4fe3d8a5
+run_name: hilarious-stoat-364
+run_uuid: 3a69e2537bea4448ab5d927a4fe3d8a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041953008
+status: 1
+tags: []
+user_id: unknown

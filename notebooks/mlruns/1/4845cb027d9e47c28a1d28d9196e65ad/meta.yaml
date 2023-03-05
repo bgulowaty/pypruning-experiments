@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4845cb027d9e47c28a1d28d9196e65ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4845cb027d9e47c28a1d28d9196e65ad
+run_name: popular-steed-571
+run_uuid: 4845cb027d9e47c28a1d28d9196e65ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041916599
+status: 1
+tags: []
+user_id: unknown

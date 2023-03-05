@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/34a644448d63432d8b448b5f75961c97/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 34a644448d63432d8b448b5f75961c97
+run_name: smiling-dove-85
+run_uuid: 34a644448d63432d8b448b5f75961c97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041561785
+status: 1
+tags: []
+user_id: unknown

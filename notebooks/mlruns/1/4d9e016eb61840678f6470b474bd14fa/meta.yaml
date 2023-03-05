@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4d9e016eb61840678f6470b474bd14fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d9e016eb61840678f6470b474bd14fa
+run_name: clumsy-finch-64
+run_uuid: 4d9e016eb61840678f6470b474bd14fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041662491
+status: 1
+tags: []
+user_id: unknown

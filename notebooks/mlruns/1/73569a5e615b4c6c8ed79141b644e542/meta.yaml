@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/73569a5e615b4c6c8ed79141b644e542/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 73569a5e615b4c6c8ed79141b644e542
+run_name: selective-lark-596
+run_uuid: 73569a5e615b4c6c8ed79141b644e542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041719422
+status: 1
+tags: []
+user_id: unknown

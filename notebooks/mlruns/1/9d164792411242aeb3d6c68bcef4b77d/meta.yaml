@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9d164792411242aeb3d6c68bcef4b77d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9d164792411242aeb3d6c68bcef4b77d
+run_name: rogue-shrike-18
+run_uuid: 9d164792411242aeb3d6c68bcef4b77d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041500456
+status: 1
+tags: []
+user_id: unknown

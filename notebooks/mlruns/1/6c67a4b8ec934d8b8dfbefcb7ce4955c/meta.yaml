@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6c67a4b8ec934d8b8dfbefcb7ce4955c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6c67a4b8ec934d8b8dfbefcb7ce4955c
+run_name: amusing-ray-283
+run_uuid: 6c67a4b8ec934d8b8dfbefcb7ce4955c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041547973
+status: 1
+tags: []
+user_id: unknown

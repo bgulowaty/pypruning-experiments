@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c026212230564ac5889234f11e67ffbd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c026212230564ac5889234f11e67ffbd
+run_name: peaceful-finch-405
+run_uuid: c026212230564ac5889234f11e67ffbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041868415
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e121b715aaa647a9b53a28a07d0d7fc0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e121b715aaa647a9b53a28a07d0d7fc0
+run_name: rebellious-finch-300
+run_uuid: e121b715aaa647a9b53a28a07d0d7fc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041914057
+status: 1
+tags: []
+user_id: unknown

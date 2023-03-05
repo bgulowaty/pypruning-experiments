@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cc00a251276b4a80920c5ffc617a9cce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc00a251276b4a80920c5ffc617a9cce
+run_name: sincere-elk-334
+run_uuid: cc00a251276b4a80920c5ffc617a9cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041952084
+status: 1
+tags: []
+user_id: unknown

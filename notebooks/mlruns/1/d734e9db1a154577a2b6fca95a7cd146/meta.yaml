@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d734e9db1a154577a2b6fca95a7cd146/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d734e9db1a154577a2b6fca95a7cd146
+run_name: powerful-ox-350
+run_uuid: d734e9db1a154577a2b6fca95a7cd146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041929488
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bb34ae85d3b140a7b3937a29a9a0d497/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb34ae85d3b140a7b3937a29a9a0d497
+run_name: skillful-seal-21
+run_uuid: bb34ae85d3b140a7b3937a29a9a0d497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497712
+status: 1
+tags: []
+user_id: unknown

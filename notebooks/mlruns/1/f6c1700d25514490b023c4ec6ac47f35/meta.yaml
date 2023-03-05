@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f6c1700d25514490b023c4ec6ac47f35/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f6c1700d25514490b023c4ec6ac47f35
+run_name: marvelous-bat-252
+run_uuid: f6c1700d25514490b023c4ec6ac47f35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041841183
+status: 1
+tags: []
+user_id: unknown

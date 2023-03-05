@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a1884d7a71e74f8c94572db237cb56c8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a1884d7a71e74f8c94572db237cb56c8
+run_name: orderly-boar-259
+run_uuid: a1884d7a71e74f8c94572db237cb56c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041505215
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c5527ac79ca7453593a814ac4681f27b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c5527ac79ca7453593a814ac4681f27b
+run_name: nimble-whale-269
+run_uuid: c5527ac79ca7453593a814ac4681f27b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496766
+status: 1
+tags: []
+user_id: unknown

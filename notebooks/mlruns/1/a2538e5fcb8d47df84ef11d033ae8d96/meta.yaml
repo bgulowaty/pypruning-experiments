@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a2538e5fcb8d47df84ef11d033ae8d96/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2538e5fcb8d47df84ef11d033ae8d96
+run_name: angry-sow-565
+run_uuid: a2538e5fcb8d47df84ef11d033ae8d96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494604
+status: 1
+tags: []
+user_id: unknown

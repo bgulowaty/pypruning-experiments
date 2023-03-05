@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/614dd2a7a9f840a8a18bf5a23d1bf8b2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 614dd2a7a9f840a8a18bf5a23d1bf8b2
+run_name: adaptable-wolf-407
+run_uuid: 614dd2a7a9f840a8a18bf5a23d1bf8b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041950823
+status: 1
+tags: []
+user_id: unknown

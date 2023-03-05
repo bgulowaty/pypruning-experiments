@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/998428819e084703b20e999415305a63/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 998428819e084703b20e999415305a63
+run_name: marvelous-fox-442
+run_uuid: 998428819e084703b20e999415305a63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041953654
+status: 1
+tags: []
+user_id: unknown

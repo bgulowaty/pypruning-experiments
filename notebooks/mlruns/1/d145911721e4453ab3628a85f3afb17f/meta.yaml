@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d145911721e4453ab3628a85f3afb17f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d145911721e4453ab3628a85f3afb17f
+run_name: nosy-ape-613
+run_uuid: d145911721e4453ab3628a85f3afb17f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494488
+status: 1
+tags: []
+user_id: unknown

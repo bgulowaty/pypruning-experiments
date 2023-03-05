@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d49755d1d64e492eb15957f60e3cab6c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d49755d1d64e492eb15957f60e3cab6c
+run_name: exultant-pig-831
+run_uuid: d49755d1d64e492eb15957f60e3cab6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041645790
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a666fccb8628477589072cfadfb3c40f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a666fccb8628477589072cfadfb3c40f
+run_name: burly-goat-932
+run_uuid: a666fccb8628477589072cfadfb3c40f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041680399
+status: 1
+tags: []
+user_id: unknown

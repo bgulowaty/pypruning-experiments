@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/acf65b0dd79840b1b37113d2a620911d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: acf65b0dd79840b1b37113d2a620911d
+run_name: luminous-stag-395
+run_uuid: acf65b0dd79840b1b37113d2a620911d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041597627
+status: 1
+tags: []
+user_id: unknown

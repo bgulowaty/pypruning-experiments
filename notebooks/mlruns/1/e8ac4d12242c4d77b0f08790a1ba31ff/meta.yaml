@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e8ac4d12242c4d77b0f08790a1ba31ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e8ac4d12242c4d77b0f08790a1ba31ff
+run_name: mysterious-mare-334
+run_uuid: e8ac4d12242c4d77b0f08790a1ba31ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041796267
+status: 1
+tags: []
+user_id: unknown

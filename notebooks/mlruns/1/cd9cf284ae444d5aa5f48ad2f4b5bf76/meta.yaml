@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cd9cf284ae444d5aa5f48ad2f4b5bf76/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cd9cf284ae444d5aa5f48ad2f4b5bf76
+run_name: defiant-ant-384
+run_uuid: cd9cf284ae444d5aa5f48ad2f4b5bf76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041601157
+status: 1
+tags: []
+user_id: unknown

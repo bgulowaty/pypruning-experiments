@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a0c3de0236ef4f9a978bae35b270aabc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0c3de0236ef4f9a978bae35b270aabc
+run_name: nebulous-fawn-452
+run_uuid: a0c3de0236ef4f9a978bae35b270aabc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041566251
+status: 1
+tags: []
+user_id: unknown

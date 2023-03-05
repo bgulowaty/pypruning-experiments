@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b7fddc97dc1f4f4b8cbfbf04d0ca1447/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b7fddc97dc1f4f4b8cbfbf04d0ca1447
+run_name: thoughtful-dove-386
+run_uuid: b7fddc97dc1f4f4b8cbfbf04d0ca1447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041677911
+status: 1
+tags: []
+user_id: unknown

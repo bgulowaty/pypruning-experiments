@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b6f5a9520da849dba16eed437247a6e8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b6f5a9520da849dba16eed437247a6e8
+run_name: honorable-steed-153
+run_uuid: b6f5a9520da849dba16eed437247a6e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041507730
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/04953cd5844a4eaabb72e0728ec80d23/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 04953cd5844a4eaabb72e0728ec80d23
+run_name: selective-bee-913
+run_uuid: 04953cd5844a4eaabb72e0728ec80d23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041686455
+status: 1
+tags: []
+user_id: unknown

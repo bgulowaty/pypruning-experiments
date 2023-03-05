@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e74ea60d68b741f5b609cb390bf3f496/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e74ea60d68b741f5b609cb390bf3f496
+run_name: dazzling-bass-521
+run_uuid: e74ea60d68b741f5b609cb390bf3f496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041564295
+status: 1
+tags: []
+user_id: unknown

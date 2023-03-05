@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5d32019683fe4c34b97eb17f0dfaeb1c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5d32019683fe4c34b97eb17f0dfaeb1c
+run_name: gregarious-bird-211
+run_uuid: 5d32019683fe4c34b97eb17f0dfaeb1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041543431
+status: 1
+tags: []
+user_id: unknown

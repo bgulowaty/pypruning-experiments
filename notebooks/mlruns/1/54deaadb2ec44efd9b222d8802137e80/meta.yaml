@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/54deaadb2ec44efd9b222d8802137e80/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 54deaadb2ec44efd9b222d8802137e80
+run_name: receptive-jay-642
+run_uuid: 54deaadb2ec44efd9b222d8802137e80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041585458
+status: 1
+tags: []
+user_id: unknown

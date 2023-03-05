@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7d61829a6a4f46718bed3af85019f8e5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d61829a6a4f46718bed3af85019f8e5
+run_name: resilient-pug-723
+run_uuid: 7d61829a6a4f46718bed3af85019f8e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041644671
+status: 1
+tags: []
+user_id: unknown

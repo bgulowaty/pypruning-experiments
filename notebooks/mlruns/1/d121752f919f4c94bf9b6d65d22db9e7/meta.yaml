@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d121752f919f4c94bf9b6d65d22db9e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d121752f919f4c94bf9b6d65d22db9e7
+run_name: delicate-skink-459
+run_uuid: d121752f919f4c94bf9b6d65d22db9e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041869613
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/74cff552128946c098250684b6d099d8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74cff552128946c098250684b6d099d8
+run_name: masked-fox-340
+run_uuid: 74cff552128946c098250684b6d099d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041542448
+status: 1
+tags: []
+user_id: unknown

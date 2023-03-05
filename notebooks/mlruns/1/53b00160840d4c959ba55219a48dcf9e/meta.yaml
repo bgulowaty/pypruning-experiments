@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/53b00160840d4c959ba55219a48dcf9e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 53b00160840d4c959ba55219a48dcf9e
+run_name: gregarious-ape-657
+run_uuid: 53b00160840d4c959ba55219a48dcf9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041831329
+status: 1
+tags: []
+user_id: unknown

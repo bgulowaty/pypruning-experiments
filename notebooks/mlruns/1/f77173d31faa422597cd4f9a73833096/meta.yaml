@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f77173d31faa422597cd4f9a73833096/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f77173d31faa422597cd4f9a73833096
+run_name: bustling-whale-271
+run_uuid: f77173d31faa422597cd4f9a73833096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041626602
+status: 1
+tags: []
+user_id: unknown

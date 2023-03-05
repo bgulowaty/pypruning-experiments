@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/987ddbfe470940c1970fdb447f3f3e5c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 987ddbfe470940c1970fdb447f3f3e5c
+run_name: masked-auk-567
+run_uuid: 987ddbfe470940c1970fdb447f3f3e5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041751293
+status: 1
+tags: []
+user_id: unknown

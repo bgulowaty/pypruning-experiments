@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/56deb2f728454bfc8ef549dc3105a15a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 56deb2f728454bfc8ef549dc3105a15a
+run_name: clean-fish-116
+run_uuid: 56deb2f728454bfc8ef549dc3105a15a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041765993
+status: 1
+tags: []
+user_id: unknown

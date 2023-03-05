@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/76adb297ad5e4b91ba9de6ffcff2fff0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 76adb297ad5e4b91ba9de6ffcff2fff0
+run_name: mysterious-koi-618
+run_uuid: 76adb297ad5e4b91ba9de6ffcff2fff0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041857105
+status: 1
+tags: []
+user_id: unknown

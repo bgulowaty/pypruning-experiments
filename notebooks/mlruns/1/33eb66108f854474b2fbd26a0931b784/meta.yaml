@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/33eb66108f854474b2fbd26a0931b784/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 33eb66108f854474b2fbd26a0931b784
+run_name: overjoyed-doe-606
+run_uuid: 33eb66108f854474b2fbd26a0931b784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041767908
+status: 1
+tags: []
+user_id: unknown

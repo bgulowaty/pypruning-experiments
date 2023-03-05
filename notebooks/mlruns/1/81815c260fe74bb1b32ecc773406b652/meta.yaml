@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/81815c260fe74bb1b32ecc773406b652/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 81815c260fe74bb1b32ecc773406b652
+run_name: chill-flea-935
+run_uuid: 81815c260fe74bb1b32ecc773406b652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041558864
+status: 1
+tags: []
+user_id: unknown

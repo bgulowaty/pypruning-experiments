@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4119917e3dcf4852a1f17037928dcd37/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4119917e3dcf4852a1f17037928dcd37
+run_name: luxuriant-vole-700
+run_uuid: 4119917e3dcf4852a1f17037928dcd37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041972794
+status: 1
+tags: []
+user_id: unknown

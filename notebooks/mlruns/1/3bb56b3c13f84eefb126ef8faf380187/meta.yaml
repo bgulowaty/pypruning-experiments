@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3bb56b3c13f84eefb126ef8faf380187/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3bb56b3c13f84eefb126ef8faf380187
+run_name: resilient-ant-605
+run_uuid: 3bb56b3c13f84eefb126ef8faf380187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041817304
+status: 1
+tags: []
+user_id: unknown

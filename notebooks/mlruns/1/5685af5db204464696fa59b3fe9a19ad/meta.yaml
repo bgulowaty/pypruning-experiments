@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5685af5db204464696fa59b3fe9a19ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5685af5db204464696fa59b3fe9a19ad
+run_name: enchanting-bat-908
+run_uuid: 5685af5db204464696fa59b3fe9a19ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494516
+status: 1
+tags: []
+user_id: unknown

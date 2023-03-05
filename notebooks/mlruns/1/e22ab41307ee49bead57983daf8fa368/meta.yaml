@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e22ab41307ee49bead57983daf8fa368/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e22ab41307ee49bead57983daf8fa368
+run_name: rogue-jay-301
+run_uuid: e22ab41307ee49bead57983daf8fa368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041505432
+status: 1
+tags: []
+user_id: unknown

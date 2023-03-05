@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9c2e9b7777734bbaa4e9a3b4858699a3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9c2e9b7777734bbaa4e9a3b4858699a3
+run_name: bright-hen-28
+run_uuid: 9c2e9b7777734bbaa4e9a3b4858699a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041707035
+status: 1
+tags: []
+user_id: unknown

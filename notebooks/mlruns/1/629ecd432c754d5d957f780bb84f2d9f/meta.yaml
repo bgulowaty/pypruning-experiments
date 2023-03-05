@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/629ecd432c754d5d957f780bb84f2d9f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 629ecd432c754d5d957f780bb84f2d9f
+run_name: zealous-lynx-699
+run_uuid: 629ecd432c754d5d957f780bb84f2d9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041950913
+status: 1
+tags: []
+user_id: unknown

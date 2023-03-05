@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e7d0e395ee1e46fc8dee0656a2bb2676/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7d0e395ee1e46fc8dee0656a2bb2676
+run_name: bright-midge-329
+run_uuid: e7d0e395ee1e46fc8dee0656a2bb2676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041646524
+status: 1
+tags: []
+user_id: unknown

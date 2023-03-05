@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0ea8d31bb13a450f9f3e4a8992c8531f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ea8d31bb13a450f9f3e4a8992c8531f
+run_name: puzzled-wasp-550
+run_uuid: 0ea8d31bb13a450f9f3e4a8992c8531f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041544011
+status: 1
+tags: []
+user_id: unknown

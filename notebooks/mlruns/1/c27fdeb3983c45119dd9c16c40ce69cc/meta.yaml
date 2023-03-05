@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c27fdeb3983c45119dd9c16c40ce69cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c27fdeb3983c45119dd9c16c40ce69cc
+run_name: invincible-auk-443
+run_uuid: c27fdeb3983c45119dd9c16c40ce69cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041827734
+status: 1
+tags: []
+user_id: unknown

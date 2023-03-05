@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/58c66d7341de4b83a1d7624121408298/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 58c66d7341de4b83a1d7624121408298
+run_name: merciful-ant-466
+run_uuid: 58c66d7341de4b83a1d7624121408298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041644061
+status: 1
+tags: []
+user_id: unknown

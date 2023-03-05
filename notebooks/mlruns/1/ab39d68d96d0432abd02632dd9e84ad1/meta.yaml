@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ab39d68d96d0432abd02632dd9e84ad1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab39d68d96d0432abd02632dd9e84ad1
+run_name: upset-deer-412
+run_uuid: ab39d68d96d0432abd02632dd9e84ad1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041841891
+status: 1
+tags: []
+user_id: unknown

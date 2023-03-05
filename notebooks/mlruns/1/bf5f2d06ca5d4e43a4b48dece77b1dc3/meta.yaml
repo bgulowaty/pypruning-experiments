@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bf5f2d06ca5d4e43a4b48dece77b1dc3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bf5f2d06ca5d4e43a4b48dece77b1dc3
+run_name: salty-hare-339
+run_uuid: bf5f2d06ca5d4e43a4b48dece77b1dc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041501178
+status: 1
+tags: []
+user_id: unknown

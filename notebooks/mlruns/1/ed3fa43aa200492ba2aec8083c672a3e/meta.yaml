@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ed3fa43aa200492ba2aec8083c672a3e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed3fa43aa200492ba2aec8083c672a3e
+run_name: legendary-hound-46
+run_uuid: ed3fa43aa200492ba2aec8083c672a3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041508464
+status: 1
+tags: []
+user_id: unknown

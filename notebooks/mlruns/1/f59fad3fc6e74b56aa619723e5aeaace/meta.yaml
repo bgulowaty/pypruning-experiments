@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f59fad3fc6e74b56aa619723e5aeaace/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f59fad3fc6e74b56aa619723e5aeaace
+run_name: fun-mole-957
+run_uuid: f59fad3fc6e74b56aa619723e5aeaace
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041570364
+status: 1
+tags: []
+user_id: unknown

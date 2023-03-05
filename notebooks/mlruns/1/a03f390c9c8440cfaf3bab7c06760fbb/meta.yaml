@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a03f390c9c8440cfaf3bab7c06760fbb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a03f390c9c8440cfaf3bab7c06760fbb
+run_name: blushing-duck-568
+run_uuid: a03f390c9c8440cfaf3bab7c06760fbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041516591
+status: 1
+tags: []
+user_id: unknown

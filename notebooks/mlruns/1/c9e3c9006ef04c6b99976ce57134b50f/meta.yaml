@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c9e3c9006ef04c6b99976ce57134b50f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c9e3c9006ef04c6b99976ce57134b50f
+run_name: angry-wasp-815
+run_uuid: c9e3c9006ef04c6b99976ce57134b50f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041955962
+status: 1
+tags: []
+user_id: unknown

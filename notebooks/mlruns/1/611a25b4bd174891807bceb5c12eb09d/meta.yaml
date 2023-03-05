@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/611a25b4bd174891807bceb5c12eb09d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 611a25b4bd174891807bceb5c12eb09d
+run_name: rare-shrimp-581
+run_uuid: 611a25b4bd174891807bceb5c12eb09d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041755510
+status: 1
+tags: []
+user_id: unknown

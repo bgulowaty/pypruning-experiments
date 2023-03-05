@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/356d8fd9ef0c491d8c4d8ed45e067890/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 356d8fd9ef0c491d8c4d8ed45e067890
+run_name: dashing-shrimp-556
+run_uuid: 356d8fd9ef0c491d8c4d8ed45e067890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041659561
+status: 1
+tags: []
+user_id: unknown

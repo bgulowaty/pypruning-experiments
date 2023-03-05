@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f2cc9b29522440eeb56bbeb6154dde18/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f2cc9b29522440eeb56bbeb6154dde18
+run_name: righteous-cod-755
+run_uuid: f2cc9b29522440eeb56bbeb6154dde18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041720970
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/96630366cca2443ab5c85e58db04bac2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 96630366cca2443ab5c85e58db04bac2
+run_name: dazzling-snake-732
+run_uuid: 96630366cca2443ab5c85e58db04bac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041935343
+status: 1
+tags: []
+user_id: unknown

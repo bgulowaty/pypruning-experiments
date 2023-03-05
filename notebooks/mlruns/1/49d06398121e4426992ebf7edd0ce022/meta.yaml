@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/49d06398121e4426992ebf7edd0ce022/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 49d06398121e4426992ebf7edd0ce022
+run_name: bald-gnu-595
+run_uuid: 49d06398121e4426992ebf7edd0ce022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041642353
+status: 1
+tags: []
+user_id: unknown

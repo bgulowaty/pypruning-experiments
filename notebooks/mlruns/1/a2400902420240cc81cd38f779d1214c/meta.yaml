@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a2400902420240cc81cd38f779d1214c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2400902420240cc81cd38f779d1214c
+run_name: clumsy-sow-890
+run_uuid: a2400902420240cc81cd38f779d1214c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041758831
+status: 1
+tags: []
+user_id: unknown

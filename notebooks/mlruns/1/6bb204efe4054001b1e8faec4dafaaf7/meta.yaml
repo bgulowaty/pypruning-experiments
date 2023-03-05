@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6bb204efe4054001b1e8faec4dafaaf7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6bb204efe4054001b1e8faec4dafaaf7
+run_name: capricious-roo-419
+run_uuid: 6bb204efe4054001b1e8faec4dafaaf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041530511
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/28cd9721918d4b5dbf2cd29e8a987053/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 28cd9721918d4b5dbf2cd29e8a987053
+run_name: delightful-eel-284
+run_uuid: 28cd9721918d4b5dbf2cd29e8a987053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041687164
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/301b85e84ee1480f92a5cfe35c2bad47/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 301b85e84ee1480f92a5cfe35c2bad47
+run_name: powerful-kit-868
+run_uuid: 301b85e84ee1480f92a5cfe35c2bad47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041795108
+status: 1
+tags: []
+user_id: unknown

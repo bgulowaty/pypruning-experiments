@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/60dcfc896c4942ae947bea78f3f1033d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 60dcfc896c4942ae947bea78f3f1033d
+run_name: glamorous-shrew-173
+run_uuid: 60dcfc896c4942ae947bea78f3f1033d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041600697
+status: 1
+tags: []
+user_id: unknown

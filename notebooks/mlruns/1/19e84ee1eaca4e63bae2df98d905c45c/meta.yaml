@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/19e84ee1eaca4e63bae2df98d905c45c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 19e84ee1eaca4e63bae2df98d905c45c
+run_name: treasured-bird-921
+run_uuid: 19e84ee1eaca4e63bae2df98d905c45c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041637104
+status: 1
+tags: []
+user_id: unknown

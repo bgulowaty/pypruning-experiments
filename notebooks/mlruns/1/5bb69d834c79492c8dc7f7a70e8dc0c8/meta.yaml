@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5bb69d834c79492c8dc7f7a70e8dc0c8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5bb69d834c79492c8dc7f7a70e8dc0c8
+run_name: glamorous-cow-389
+run_uuid: 5bb69d834c79492c8dc7f7a70e8dc0c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041609390
+status: 1
+tags: []
+user_id: unknown

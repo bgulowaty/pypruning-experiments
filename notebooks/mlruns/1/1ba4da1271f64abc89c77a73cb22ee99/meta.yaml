@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1ba4da1271f64abc89c77a73cb22ee99/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ba4da1271f64abc89c77a73cb22ee99
+run_name: adventurous-gnu-170
+run_uuid: 1ba4da1271f64abc89c77a73cb22ee99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041868017
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/17bcdc75f9be4460a3d6d17907ab692a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 17bcdc75f9be4460a3d6d17907ab692a
+run_name: industrious-wolf-159
+run_uuid: 17bcdc75f9be4460a3d6d17907ab692a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041844552
+status: 1
+tags: []
+user_id: unknown

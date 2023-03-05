@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f4014d65e95c4813b6663a3a7f613488/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f4014d65e95c4813b6663a3a7f613488
+run_name: nervous-squirrel-390
+run_uuid: f4014d65e95c4813b6663a3a7f613488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041723114
+status: 1
+tags: []
+user_id: unknown

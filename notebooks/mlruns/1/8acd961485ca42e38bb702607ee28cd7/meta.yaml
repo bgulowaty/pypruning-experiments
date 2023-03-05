@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8acd961485ca42e38bb702607ee28cd7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8acd961485ca42e38bb702607ee28cd7
+run_name: efficient-grouse-570
+run_uuid: 8acd961485ca42e38bb702607ee28cd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041500408
+status: 1
+tags: []
+user_id: unknown

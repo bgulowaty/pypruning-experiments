@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fb71caaf6edd4e70959e0c2924b88cf4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb71caaf6edd4e70959e0c2924b88cf4
+run_name: luxuriant-turtle-155
+run_uuid: fb71caaf6edd4e70959e0c2924b88cf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041956974
+status: 1
+tags: []
+user_id: unknown

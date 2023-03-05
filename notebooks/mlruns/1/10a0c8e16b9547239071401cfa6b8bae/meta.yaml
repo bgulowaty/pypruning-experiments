@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/10a0c8e16b9547239071401cfa6b8bae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 10a0c8e16b9547239071401cfa6b8bae
+run_name: abundant-ape-801
+run_uuid: 10a0c8e16b9547239071401cfa6b8bae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041775482
+status: 1
+tags: []
+user_id: unknown

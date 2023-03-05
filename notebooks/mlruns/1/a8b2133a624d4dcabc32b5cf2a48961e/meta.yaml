@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a8b2133a624d4dcabc32b5cf2a48961e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8b2133a624d4dcabc32b5cf2a48961e
+run_name: overjoyed-pig-328
+run_uuid: a8b2133a624d4dcabc32b5cf2a48961e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041805787
+status: 1
+tags: []
+user_id: unknown

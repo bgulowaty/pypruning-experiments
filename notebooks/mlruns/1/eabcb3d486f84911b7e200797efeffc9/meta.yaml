@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eabcb3d486f84911b7e200797efeffc9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eabcb3d486f84911b7e200797efeffc9
+run_name: rare-dove-204
+run_uuid: eabcb3d486f84911b7e200797efeffc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041793675
+status: 1
+tags: []
+user_id: unknown

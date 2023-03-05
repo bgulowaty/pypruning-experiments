@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eccc5afbf859485597bccf9b0a66159f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eccc5afbf859485597bccf9b0a66159f
+run_name: whimsical-zebra-639
+run_uuid: eccc5afbf859485597bccf9b0a66159f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041540805
+status: 1
+tags: []
+user_id: unknown

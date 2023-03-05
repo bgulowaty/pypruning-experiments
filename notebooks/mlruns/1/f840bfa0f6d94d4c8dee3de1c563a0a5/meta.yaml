@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f840bfa0f6d94d4c8dee3de1c563a0a5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f840bfa0f6d94d4c8dee3de1c563a0a5
+run_name: angry-worm-792
+run_uuid: f840bfa0f6d94d4c8dee3de1c563a0a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041979766
+status: 1
+tags: []
+user_id: unknown

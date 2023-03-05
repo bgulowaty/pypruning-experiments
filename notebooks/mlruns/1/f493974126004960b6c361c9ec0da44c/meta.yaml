@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f493974126004960b6c361c9ec0da44c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f493974126004960b6c361c9ec0da44c
+run_name: debonair-loon-487
+run_uuid: f493974126004960b6c361c9ec0da44c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041890843
+status: 1
+tags: []
+user_id: unknown

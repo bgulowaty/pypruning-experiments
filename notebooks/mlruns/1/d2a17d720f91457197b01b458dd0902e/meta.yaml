@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d2a17d720f91457197b01b458dd0902e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2a17d720f91457197b01b458dd0902e
+run_name: polite-conch-466
+run_uuid: d2a17d720f91457197b01b458dd0902e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041867614
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7b074676da4d4dab88b7cf1b1afc0680/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7b074676da4d4dab88b7cf1b1afc0680
+run_name: colorful-conch-339
+run_uuid: 7b074676da4d4dab88b7cf1b1afc0680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041535994
+status: 1
+tags: []
+user_id: unknown

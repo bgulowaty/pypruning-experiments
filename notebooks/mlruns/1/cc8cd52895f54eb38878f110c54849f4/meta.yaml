@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cc8cd52895f54eb38878f110c54849f4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc8cd52895f54eb38878f110c54849f4
+run_name: honorable-shrimp-756
+run_uuid: cc8cd52895f54eb38878f110c54849f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041551145
+status: 1
+tags: []
+user_id: unknown

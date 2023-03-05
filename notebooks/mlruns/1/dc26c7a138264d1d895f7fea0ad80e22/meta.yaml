@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dc26c7a138264d1d895f7fea0ad80e22/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc26c7a138264d1d895f7fea0ad80e22
+run_name: awesome-stoat-661
+run_uuid: dc26c7a138264d1d895f7fea0ad80e22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041816812
+status: 1
+tags: []
+user_id: unknown

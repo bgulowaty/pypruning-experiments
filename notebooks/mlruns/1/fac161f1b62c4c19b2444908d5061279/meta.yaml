@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fac161f1b62c4c19b2444908d5061279/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fac161f1b62c4c19b2444908d5061279
+run_name: indecisive-seal-591
+run_uuid: fac161f1b62c4c19b2444908d5061279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041958099
+status: 1
+tags: []
+user_id: unknown

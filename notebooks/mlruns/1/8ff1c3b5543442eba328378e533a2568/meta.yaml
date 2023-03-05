@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8ff1c3b5543442eba328378e533a2568/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8ff1c3b5543442eba328378e533a2568
+run_name: upset-lamb-220
+run_uuid: 8ff1c3b5543442eba328378e533a2568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041773608
+status: 1
+tags: []
+user_id: unknown

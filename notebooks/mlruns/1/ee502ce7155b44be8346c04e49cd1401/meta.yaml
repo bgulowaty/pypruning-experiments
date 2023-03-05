@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ee502ce7155b44be8346c04e49cd1401/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee502ce7155b44be8346c04e49cd1401
+run_name: luminous-calf-5
+run_uuid: ee502ce7155b44be8346c04e49cd1401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041949178
+status: 1
+tags: []
+user_id: unknown

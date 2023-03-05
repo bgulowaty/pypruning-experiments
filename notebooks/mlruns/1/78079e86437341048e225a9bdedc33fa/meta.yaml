@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/78079e86437341048e225a9bdedc33fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 78079e86437341048e225a9bdedc33fa
+run_name: trusting-frog-374
+run_uuid: 78079e86437341048e225a9bdedc33fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041614575
+status: 1
+tags: []
+user_id: unknown

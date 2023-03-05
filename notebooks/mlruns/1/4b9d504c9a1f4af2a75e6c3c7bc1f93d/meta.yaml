@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4b9d504c9a1f4af2a75e6c3c7bc1f93d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4b9d504c9a1f4af2a75e6c3c7bc1f93d
+run_name: stately-crow-652
+run_uuid: 4b9d504c9a1f4af2a75e6c3c7bc1f93d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041669013
+status: 1
+tags: []
+user_id: unknown

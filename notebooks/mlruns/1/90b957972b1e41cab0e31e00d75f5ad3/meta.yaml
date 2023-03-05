@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/90b957972b1e41cab0e31e00d75f5ad3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 90b957972b1e41cab0e31e00d75f5ad3
+run_name: respected-gnat-70
+run_uuid: 90b957972b1e41cab0e31e00d75f5ad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041809613
+status: 1
+tags: []
+user_id: unknown

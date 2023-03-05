@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c57169ca77944cf7b9c11f14ee6728f4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c57169ca77944cf7b9c11f14ee6728f4
+run_name: flawless-steed-159
+run_uuid: c57169ca77944cf7b9c11f14ee6728f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041500242
+status: 1
+tags: []
+user_id: unknown

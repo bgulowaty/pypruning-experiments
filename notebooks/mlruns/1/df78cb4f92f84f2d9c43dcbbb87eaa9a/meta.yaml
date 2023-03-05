@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/df78cb4f92f84f2d9c43dcbbb87eaa9a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df78cb4f92f84f2d9c43dcbbb87eaa9a
+run_name: dapper-goose-411
+run_uuid: df78cb4f92f84f2d9c43dcbbb87eaa9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041564350
+status: 1
+tags: []
+user_id: unknown

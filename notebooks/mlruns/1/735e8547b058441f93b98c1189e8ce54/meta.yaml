@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/735e8547b058441f93b98c1189e8ce54/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 735e8547b058441f93b98c1189e8ce54
+run_name: worried-rat-729
+run_uuid: 735e8547b058441f93b98c1189e8ce54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041804219
+status: 1
+tags: []
+user_id: unknown

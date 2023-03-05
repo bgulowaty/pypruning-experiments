@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/201d62e909a14bab8102bc41de4a7c4f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 201d62e909a14bab8102bc41de4a7c4f
+run_name: useful-fox-167
+run_uuid: 201d62e909a14bab8102bc41de4a7c4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041665218
+status: 1
+tags: []
+user_id: unknown

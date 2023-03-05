@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3be8ed8e02784e67a918456d1b5f6ce3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3be8ed8e02784e67a918456d1b5f6ce3
+run_name: sassy-hawk-828
+run_uuid: 3be8ed8e02784e67a918456d1b5f6ce3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041758529
+status: 1
+tags: []
+user_id: unknown

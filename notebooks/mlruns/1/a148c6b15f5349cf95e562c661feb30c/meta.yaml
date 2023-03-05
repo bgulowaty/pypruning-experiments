@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a148c6b15f5349cf95e562c661feb30c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a148c6b15f5349cf95e562c661feb30c
+run_name: smiling-snail-555
+run_uuid: a148c6b15f5349cf95e562c661feb30c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041958200
+status: 1
+tags: []
+user_id: unknown

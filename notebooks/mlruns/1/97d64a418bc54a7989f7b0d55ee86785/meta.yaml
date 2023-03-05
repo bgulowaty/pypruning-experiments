@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/97d64a418bc54a7989f7b0d55ee86785/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 97d64a418bc54a7989f7b0d55ee86785
+run_name: nosy-mule-92
+run_uuid: 97d64a418bc54a7989f7b0d55ee86785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041574152
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/74d8375a2fe242e5991cf9c1ca4d0d6a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74d8375a2fe242e5991cf9c1ca4d0d6a
+run_name: casual-robin-389
+run_uuid: 74d8375a2fe242e5991cf9c1ca4d0d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041966594
+status: 1
+tags: []
+user_id: unknown

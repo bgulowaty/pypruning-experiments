@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9c0948873d604e7ca58178b482fd6d21/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9c0948873d604e7ca58178b482fd6d21
+run_name: whimsical-shoat-47
+run_uuid: 9c0948873d604e7ca58178b482fd6d21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041559338
+status: 1
+tags: []
+user_id: unknown

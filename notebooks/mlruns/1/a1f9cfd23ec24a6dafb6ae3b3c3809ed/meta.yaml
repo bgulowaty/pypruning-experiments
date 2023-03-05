@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a1f9cfd23ec24a6dafb6ae3b3c3809ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a1f9cfd23ec24a6dafb6ae3b3c3809ed
+run_name: bustling-trout-329
+run_uuid: a1f9cfd23ec24a6dafb6ae3b3c3809ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041680007
+status: 1
+tags: []
+user_id: unknown

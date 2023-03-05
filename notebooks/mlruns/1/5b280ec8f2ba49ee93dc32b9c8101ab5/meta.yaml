@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5b280ec8f2ba49ee93dc32b9c8101ab5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5b280ec8f2ba49ee93dc32b9c8101ab5
+run_name: loud-snipe-997
+run_uuid: 5b280ec8f2ba49ee93dc32b9c8101ab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041665922
+status: 1
+tags: []
+user_id: unknown

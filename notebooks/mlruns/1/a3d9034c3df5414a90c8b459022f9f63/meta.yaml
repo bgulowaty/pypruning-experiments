@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a3d9034c3df5414a90c8b459022f9f63/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a3d9034c3df5414a90c8b459022f9f63
+run_name: charming-skunk-507
+run_uuid: a3d9034c3df5414a90c8b459022f9f63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041803133
+status: 1
+tags: []
+user_id: unknown

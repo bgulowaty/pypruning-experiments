@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/90e60a37d74c4162abd800054bf3e880/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 90e60a37d74c4162abd800054bf3e880
+run_name: victorious-auk-883
+run_uuid: 90e60a37d74c4162abd800054bf3e880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041583999
+status: 1
+tags: []
+user_id: unknown

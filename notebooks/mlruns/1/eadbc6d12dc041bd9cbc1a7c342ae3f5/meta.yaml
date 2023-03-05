@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eadbc6d12dc041bd9cbc1a7c342ae3f5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eadbc6d12dc041bd9cbc1a7c342ae3f5
+run_name: rambunctious-fox-619
+run_uuid: eadbc6d12dc041bd9cbc1a7c342ae3f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041522371
+status: 1
+tags: []
+user_id: unknown

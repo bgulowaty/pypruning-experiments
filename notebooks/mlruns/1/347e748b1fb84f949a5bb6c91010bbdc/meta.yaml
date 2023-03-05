@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/347e748b1fb84f949a5bb6c91010bbdc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 347e748b1fb84f949a5bb6c91010bbdc
+run_name: amusing-finch-76
+run_uuid: 347e748b1fb84f949a5bb6c91010bbdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041512388
+status: 1
+tags: []
+user_id: unknown

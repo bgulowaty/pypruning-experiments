@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4f41e8c04b5545c78c28fd4435157e8e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4f41e8c04b5545c78c28fd4435157e8e
+run_name: orderly-kite-717
+run_uuid: 4f41e8c04b5545c78c28fd4435157e8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041582403
+status: 1
+tags: []
+user_id: unknown

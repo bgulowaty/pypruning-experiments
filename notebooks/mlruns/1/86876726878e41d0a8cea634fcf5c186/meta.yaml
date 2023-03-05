@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/86876726878e41d0a8cea634fcf5c186/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86876726878e41d0a8cea634fcf5c186
+run_name: smiling-ant-148
+run_uuid: 86876726878e41d0a8cea634fcf5c186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041983227
+status: 1
+tags: []
+user_id: unknown

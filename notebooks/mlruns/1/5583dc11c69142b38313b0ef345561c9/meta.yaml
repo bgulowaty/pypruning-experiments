@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5583dc11c69142b38313b0ef345561c9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5583dc11c69142b38313b0ef345561c9
+run_name: illustrious-crow-272
+run_uuid: 5583dc11c69142b38313b0ef345561c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041650258
+status: 1
+tags: []
+user_id: unknown

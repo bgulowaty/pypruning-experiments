@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ad71399c60c44fcfb792a184a8a890dd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad71399c60c44fcfb792a184a8a890dd
+run_name: upset-crab-890
+run_uuid: ad71399c60c44fcfb792a184a8a890dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041970144
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dd75219e95534906a535e5d80e7e586e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd75219e95534906a535e5d80e7e586e
+run_name: gaudy-wren-577
+run_uuid: dd75219e95534906a535e5d80e7e586e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041530649
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ec5cb84525724937abc6e40f2035a0e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec5cb84525724937abc6e40f2035a0e7
+run_name: overjoyed-mouse-249
+run_uuid: ec5cb84525724937abc6e40f2035a0e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041557619
+status: 1
+tags: []
+user_id: unknown

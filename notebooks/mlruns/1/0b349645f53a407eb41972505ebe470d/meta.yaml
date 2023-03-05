@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0b349645f53a407eb41972505ebe470d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b349645f53a407eb41972505ebe470d
+run_name: languid-squid-675
+run_uuid: 0b349645f53a407eb41972505ebe470d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041980918
+status: 1
+tags: []
+user_id: unknown

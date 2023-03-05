@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/abcdcd2d9ecc42ebb6f3b8a617130310/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: abcdcd2d9ecc42ebb6f3b8a617130310
+run_name: rare-toad-895
+run_uuid: abcdcd2d9ecc42ebb6f3b8a617130310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041674271
+status: 1
+tags: []
+user_id: unknown

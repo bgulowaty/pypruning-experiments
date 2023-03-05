@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c5fe0006beb145a7b44cdb20222c04bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c5fe0006beb145a7b44cdb20222c04bc
+run_name: delightful-robin-361
+run_uuid: c5fe0006beb145a7b44cdb20222c04bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041728303
+status: 1
+tags: []
+user_id: unknown

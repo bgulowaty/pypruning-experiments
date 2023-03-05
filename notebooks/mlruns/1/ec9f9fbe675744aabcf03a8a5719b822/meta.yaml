@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ec9f9fbe675744aabcf03a8a5719b822/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec9f9fbe675744aabcf03a8a5719b822
+run_name: skittish-doe-927
+run_uuid: ec9f9fbe675744aabcf03a8a5719b822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041833833
+status: 1
+tags: []
+user_id: unknown

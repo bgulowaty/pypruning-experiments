@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/310d23efc5cf429bbe0a84516b3b6f17/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 310d23efc5cf429bbe0a84516b3b6f17
+run_name: overjoyed-bug-351
+run_uuid: 310d23efc5cf429bbe0a84516b3b6f17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041750707
+status: 1
+tags: []
+user_id: unknown

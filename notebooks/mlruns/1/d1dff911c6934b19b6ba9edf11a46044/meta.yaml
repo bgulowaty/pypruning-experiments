@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d1dff911c6934b19b6ba9edf11a46044/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d1dff911c6934b19b6ba9edf11a46044
+run_name: bright-skunk-473
+run_uuid: d1dff911c6934b19b6ba9edf11a46044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041528852
+status: 1
+tags: []
+user_id: unknown

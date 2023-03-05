@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6dc60568e2bf4b7780116f7ac2a96989/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6dc60568e2bf4b7780116f7ac2a96989
+run_name: legendary-gnat-235
+run_uuid: 6dc60568e2bf4b7780116f7ac2a96989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041575251
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/98d4673e320d448c8c10a38993e605f8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98d4673e320d448c8c10a38993e605f8
+run_name: judicious-stoat-380
+run_uuid: 98d4673e320d448c8c10a38993e605f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041770208
+status: 1
+tags: []
+user_id: unknown

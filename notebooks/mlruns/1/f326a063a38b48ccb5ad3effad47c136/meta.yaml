@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f326a063a38b48ccb5ad3effad47c136/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f326a063a38b48ccb5ad3effad47c136
+run_name: caring-mink-109
+run_uuid: f326a063a38b48ccb5ad3effad47c136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041630491
+status: 1
+tags: []
+user_id: unknown

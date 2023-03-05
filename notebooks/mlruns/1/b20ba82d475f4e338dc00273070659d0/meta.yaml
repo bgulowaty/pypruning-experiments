@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b20ba82d475f4e338dc00273070659d0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b20ba82d475f4e338dc00273070659d0
+run_name: awesome-toad-402
+run_uuid: b20ba82d475f4e338dc00273070659d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041506847
+status: 1
+tags: []
+user_id: unknown

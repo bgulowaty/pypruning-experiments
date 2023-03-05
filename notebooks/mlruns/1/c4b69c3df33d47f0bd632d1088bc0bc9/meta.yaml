@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c4b69c3df33d47f0bd632d1088bc0bc9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c4b69c3df33d47f0bd632d1088bc0bc9
+run_name: gregarious-sloth-549
+run_uuid: c4b69c3df33d47f0bd632d1088bc0bc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041618806
+status: 1
+tags: []
+user_id: unknown

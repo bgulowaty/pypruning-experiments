@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a560eb62c8544b4a8c5ca5433996fe78/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a560eb62c8544b4a8c5ca5433996fe78
+run_name: zealous-lark-68
+run_uuid: a560eb62c8544b4a8c5ca5433996fe78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041532282
+status: 1
+tags: []
+user_id: unknown

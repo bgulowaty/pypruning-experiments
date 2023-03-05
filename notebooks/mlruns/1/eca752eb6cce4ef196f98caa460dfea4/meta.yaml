@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eca752eb6cce4ef196f98caa460dfea4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eca752eb6cce4ef196f98caa460dfea4
+run_name: enthused-conch-634
+run_uuid: eca752eb6cce4ef196f98caa460dfea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041960293
+status: 1
+tags: []
+user_id: unknown

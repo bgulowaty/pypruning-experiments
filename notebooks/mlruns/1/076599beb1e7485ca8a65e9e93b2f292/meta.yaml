@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/076599beb1e7485ca8a65e9e93b2f292/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 076599beb1e7485ca8a65e9e93b2f292
+run_name: puzzled-toad-324
+run_uuid: 076599beb1e7485ca8a65e9e93b2f292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041532111
+status: 1
+tags: []
+user_id: unknown

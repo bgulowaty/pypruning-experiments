@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f211d1f25f334052acc0d2f3a320ee81/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f211d1f25f334052acc0d2f3a320ee81
+run_name: bouncy-gnu-705
+run_uuid: f211d1f25f334052acc0d2f3a320ee81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041974468
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c8953e80931b49e08cf2f63b52b4f66c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c8953e80931b49e08cf2f63b52b4f66c
+run_name: funny-mare-276
+run_uuid: c8953e80931b49e08cf2f63b52b4f66c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041913167
+status: 1
+tags: []
+user_id: unknown

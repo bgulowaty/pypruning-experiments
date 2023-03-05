@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f6024ee7981f4803b96b3718f0e95a9a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f6024ee7981f4803b96b3718f0e95a9a
+run_name: rumbling-shark-709
+run_uuid: f6024ee7981f4803b96b3718f0e95a9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502257
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/913b2e9ce9a84325a53ec0ae33d7bc4a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 913b2e9ce9a84325a53ec0ae33d7bc4a
+run_name: intelligent-mule-726
+run_uuid: 913b2e9ce9a84325a53ec0ae33d7bc4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041831812
+status: 1
+tags: []
+user_id: unknown

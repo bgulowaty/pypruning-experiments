@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/02cd8ed4e3e945b4a5d7dc0e18d03e05/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 02cd8ed4e3e945b4a5d7dc0e18d03e05
+run_name: caring-shoat-162
+run_uuid: 02cd8ed4e3e945b4a5d7dc0e18d03e05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041979068
+status: 1
+tags: []
+user_id: unknown

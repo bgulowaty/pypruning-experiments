@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6f3ea0ee09694347851d093e3b374a29/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6f3ea0ee09694347851d093e3b374a29
+run_name: spiffy-donkey-561
+run_uuid: 6f3ea0ee09694347851d093e3b374a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041928409
+status: 1
+tags: []
+user_id: unknown

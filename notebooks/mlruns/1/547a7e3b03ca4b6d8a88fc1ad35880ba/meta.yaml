@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/547a7e3b03ca4b6d8a88fc1ad35880ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 547a7e3b03ca4b6d8a88fc1ad35880ba
+run_name: awesome-bass-575
+run_uuid: 547a7e3b03ca4b6d8a88fc1ad35880ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041617659
+status: 1
+tags: []
+user_id: unknown

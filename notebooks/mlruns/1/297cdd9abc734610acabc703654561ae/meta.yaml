@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/297cdd9abc734610acabc703654561ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 297cdd9abc734610acabc703654561ae
+run_name: mysterious-perch-296
+run_uuid: 297cdd9abc734610acabc703654561ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041530557
+status: 1
+tags: []
+user_id: unknown

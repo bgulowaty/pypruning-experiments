@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/171c4c4ceced4f3081d52b2c0d2bb0c1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 171c4c4ceced4f3081d52b2c0d2bb0c1
+run_name: marvelous-sloth-60
+run_uuid: 171c4c4ceced4f3081d52b2c0d2bb0c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041522551
+status: 1
+tags: []
+user_id: unknown

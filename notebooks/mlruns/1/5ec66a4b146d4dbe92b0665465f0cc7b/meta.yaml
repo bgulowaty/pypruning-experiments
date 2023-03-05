@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5ec66a4b146d4dbe92b0665465f0cc7b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ec66a4b146d4dbe92b0665465f0cc7b
+run_name: fearless-bird-829
+run_uuid: 5ec66a4b146d4dbe92b0665465f0cc7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495483
+status: 1
+tags: []
+user_id: unknown

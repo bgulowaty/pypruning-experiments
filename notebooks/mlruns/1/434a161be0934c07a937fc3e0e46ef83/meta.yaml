@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/434a161be0934c07a937fc3e0e46ef83/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 434a161be0934c07a937fc3e0e46ef83
+run_name: illustrious-yak-525
+run_uuid: 434a161be0934c07a937fc3e0e46ef83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041806949
+status: 1
+tags: []
+user_id: unknown

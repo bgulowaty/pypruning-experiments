@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eb5b0f607e5f42fc92f09e1fc76b2c81/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb5b0f607e5f42fc92f09e1fc76b2c81
+run_name: fun-lamb-218
+run_uuid: eb5b0f607e5f42fc92f09e1fc76b2c81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041890010
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d51727ef344c45fea961a8cc0deb1646/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d51727ef344c45fea961a8cc0deb1646
+run_name: rogue-sheep-490
+run_uuid: d51727ef344c45fea961a8cc0deb1646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041693893
+status: 1
+tags: []
+user_id: unknown

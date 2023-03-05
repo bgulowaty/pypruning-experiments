@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/695d1af4afdd49b2a63f80c0e0ecd06a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 695d1af4afdd49b2a63f80c0e0ecd06a
+run_name: amusing-horse-531
+run_uuid: 695d1af4afdd49b2a63f80c0e0ecd06a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041742993
+status: 1
+tags: []
+user_id: unknown

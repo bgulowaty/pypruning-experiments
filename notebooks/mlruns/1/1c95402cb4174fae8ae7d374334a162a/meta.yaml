@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1c95402cb4174fae8ae7d374334a162a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c95402cb4174fae8ae7d374334a162a
+run_name: useful-frog-600
+run_uuid: 1c95402cb4174fae8ae7d374334a162a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499250
+status: 1
+tags: []
+user_id: unknown

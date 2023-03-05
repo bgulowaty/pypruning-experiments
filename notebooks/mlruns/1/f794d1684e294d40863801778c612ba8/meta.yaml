@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f794d1684e294d40863801778c612ba8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f794d1684e294d40863801778c612ba8
+run_name: mercurial-tern-248
+run_uuid: f794d1684e294d40863801778c612ba8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041508495
+status: 1
+tags: []
+user_id: unknown

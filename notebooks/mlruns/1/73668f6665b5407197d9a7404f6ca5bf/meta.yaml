@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/73668f6665b5407197d9a7404f6ca5bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 73668f6665b5407197d9a7404f6ca5bf
+run_name: sincere-wasp-146
+run_uuid: 73668f6665b5407197d9a7404f6ca5bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041676509
+status: 1
+tags: []
+user_id: unknown

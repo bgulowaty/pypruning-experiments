@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d694b0bb0763494d85a2edff2c89434e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d694b0bb0763494d85a2edff2c89434e
+run_name: defiant-lynx-138
+run_uuid: d694b0bb0763494d85a2edff2c89434e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041612313
+status: 1
+tags: []
+user_id: unknown

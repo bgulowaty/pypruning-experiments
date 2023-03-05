@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9c7d499aba624d02a715a4b18f25c0be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9c7d499aba624d02a715a4b18f25c0be
+run_name: luminous-bug-920
+run_uuid: 9c7d499aba624d02a715a4b18f25c0be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041540852
+status: 1
+tags: []
+user_id: unknown

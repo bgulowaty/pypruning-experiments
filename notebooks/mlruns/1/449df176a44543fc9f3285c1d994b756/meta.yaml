@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/449df176a44543fc9f3285c1d994b756/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 449df176a44543fc9f3285c1d994b756
+run_name: likeable-skunk-77
+run_uuid: 449df176a44543fc9f3285c1d994b756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041678885
+status: 1
+tags: []
+user_id: unknown

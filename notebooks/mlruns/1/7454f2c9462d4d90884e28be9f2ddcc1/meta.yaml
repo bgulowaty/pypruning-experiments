@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7454f2c9462d4d90884e28be9f2ddcc1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7454f2c9462d4d90884e28be9f2ddcc1
+run_name: clean-horse-36
+run_uuid: 7454f2c9462d4d90884e28be9f2ddcc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041637350
+status: 1
+tags: []
+user_id: unknown

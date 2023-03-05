@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/db2a522bdd7a468085109c8dc433a534/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db2a522bdd7a468085109c8dc433a534
+run_name: sassy-rat-728
+run_uuid: db2a522bdd7a468085109c8dc433a534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041933869
+status: 1
+tags: []
+user_id: unknown

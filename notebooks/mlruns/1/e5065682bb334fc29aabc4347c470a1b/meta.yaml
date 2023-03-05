@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e5065682bb334fc29aabc4347c470a1b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e5065682bb334fc29aabc4347c470a1b
+run_name: monumental-foal-716
+run_uuid: e5065682bb334fc29aabc4347c470a1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495294
+status: 1
+tags: []
+user_id: unknown

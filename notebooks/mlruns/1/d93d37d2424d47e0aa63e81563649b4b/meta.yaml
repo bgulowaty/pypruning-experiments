@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d93d37d2424d47e0aa63e81563649b4b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d93d37d2424d47e0aa63e81563649b4b
+run_name: clean-jay-692
+run_uuid: d93d37d2424d47e0aa63e81563649b4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041506551
+status: 1
+tags: []
+user_id: unknown

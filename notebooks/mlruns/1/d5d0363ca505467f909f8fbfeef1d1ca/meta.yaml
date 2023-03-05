@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d5d0363ca505467f909f8fbfeef1d1ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d5d0363ca505467f909f8fbfeef1d1ca
+run_name: capricious-duck-393
+run_uuid: d5d0363ca505467f909f8fbfeef1d1ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041914164
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bec32e1d5c064fbea63cedb58e7841ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bec32e1d5c064fbea63cedb58e7841ff
+run_name: agreeable-colt-866
+run_uuid: bec32e1d5c064fbea63cedb58e7841ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041509852
+status: 1
+tags: []
+user_id: unknown

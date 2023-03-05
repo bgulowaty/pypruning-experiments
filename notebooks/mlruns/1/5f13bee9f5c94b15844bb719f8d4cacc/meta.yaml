@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5f13bee9f5c94b15844bb719f8d4cacc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5f13bee9f5c94b15844bb719f8d4cacc
+run_name: honorable-ox-301
+run_uuid: 5f13bee9f5c94b15844bb719f8d4cacc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041524673
+status: 1
+tags: []
+user_id: unknown

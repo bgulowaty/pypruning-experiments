@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/58b8338f605142b7a5142da5f6b070eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 58b8338f605142b7a5142da5f6b070eb
+run_name: thoughtful-bass-168
+run_uuid: 58b8338f605142b7a5142da5f6b070eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041694541
+status: 1
+tags: []
+user_id: unknown

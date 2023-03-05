@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ce82f87c36aa4a769f5ef303e75fab94/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce82f87c36aa4a769f5ef303e75fab94
+run_name: illustrious-fowl-615
+run_uuid: ce82f87c36aa4a769f5ef303e75fab94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041500275
+status: 1
+tags: []
+user_id: unknown

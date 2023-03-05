@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7fd971ab41eb4f4ab9b490a367c512ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7fd971ab41eb4f4ab9b490a367c512ac
+run_name: calm-vole-980
+run_uuid: 7fd971ab41eb4f4ab9b490a367c512ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041918179
+status: 1
+tags: []
+user_id: unknown

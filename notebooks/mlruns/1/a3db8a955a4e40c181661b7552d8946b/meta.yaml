@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a3db8a955a4e40c181661b7552d8946b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a3db8a955a4e40c181661b7552d8946b
+run_name: gaudy-ant-663
+run_uuid: a3db8a955a4e40c181661b7552d8946b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041551021
+status: 1
+tags: []
+user_id: unknown

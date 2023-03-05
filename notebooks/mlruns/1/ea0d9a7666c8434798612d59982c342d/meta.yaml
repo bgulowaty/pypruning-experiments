@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ea0d9a7666c8434798612d59982c342d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ea0d9a7666c8434798612d59982c342d
+run_name: sneaky-grouse-111
+run_uuid: ea0d9a7666c8434798612d59982c342d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041565912
+status: 1
+tags: []
+user_id: unknown

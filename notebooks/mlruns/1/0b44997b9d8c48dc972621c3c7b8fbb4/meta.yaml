@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0b44997b9d8c48dc972621c3c7b8fbb4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b44997b9d8c48dc972621c3c7b8fbb4
+run_name: awesome-dove-209
+run_uuid: 0b44997b9d8c48dc972621c3c7b8fbb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041717849
+status: 1
+tags: []
+user_id: unknown

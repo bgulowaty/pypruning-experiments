@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a6bed0dcf3754b87b73835fc7d7d444d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a6bed0dcf3754b87b73835fc7d7d444d
+run_name: stately-sloth-980
+run_uuid: a6bed0dcf3754b87b73835fc7d7d444d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041953465
+status: 1
+tags: []
+user_id: unknown

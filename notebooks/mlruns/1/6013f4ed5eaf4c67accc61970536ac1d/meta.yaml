@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6013f4ed5eaf4c67accc61970536ac1d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6013f4ed5eaf4c67accc61970536ac1d
+run_name: blushing-sponge-124
+run_uuid: 6013f4ed5eaf4c67accc61970536ac1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041980534
+status: 1
+tags: []
+user_id: unknown

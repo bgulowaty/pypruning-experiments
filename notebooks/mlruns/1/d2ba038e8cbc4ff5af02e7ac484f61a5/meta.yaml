@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d2ba038e8cbc4ff5af02e7ac484f61a5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2ba038e8cbc4ff5af02e7ac484f61a5
+run_name: bald-stoat-726
+run_uuid: d2ba038e8cbc4ff5af02e7ac484f61a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041683975
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eb1015b54c3541fe9ab772bdf0997723/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb1015b54c3541fe9ab772bdf0997723
+run_name: zealous-panda-58
+run_uuid: eb1015b54c3541fe9ab772bdf0997723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041670085
+status: 1
+tags: []
+user_id: unknown

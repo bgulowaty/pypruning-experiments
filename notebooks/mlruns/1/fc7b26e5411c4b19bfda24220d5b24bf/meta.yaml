@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fc7b26e5411c4b19bfda24220d5b24bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc7b26e5411c4b19bfda24220d5b24bf
+run_name: honorable-wasp-488
+run_uuid: fc7b26e5411c4b19bfda24220d5b24bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041675261
+status: 1
+tags: []
+user_id: unknown

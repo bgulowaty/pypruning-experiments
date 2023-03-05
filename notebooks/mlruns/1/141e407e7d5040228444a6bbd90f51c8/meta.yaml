@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/141e407e7d5040228444a6bbd90f51c8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 141e407e7d5040228444a6bbd90f51c8
+run_name: glamorous-moth-56
+run_uuid: 141e407e7d5040228444a6bbd90f51c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041650581
+status: 1
+tags: []
+user_id: unknown

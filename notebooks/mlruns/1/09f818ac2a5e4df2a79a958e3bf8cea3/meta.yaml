@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/09f818ac2a5e4df2a79a958e3bf8cea3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09f818ac2a5e4df2a79a958e3bf8cea3
+run_name: gregarious-elk-464
+run_uuid: 09f818ac2a5e4df2a79a958e3bf8cea3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497303
+status: 1
+tags: []
+user_id: unknown

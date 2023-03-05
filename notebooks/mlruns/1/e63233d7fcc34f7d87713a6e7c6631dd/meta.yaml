@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e63233d7fcc34f7d87713a6e7c6631dd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e63233d7fcc34f7d87713a6e7c6631dd
+run_name: orderly-gnat-134
+run_uuid: e63233d7fcc34f7d87713a6e7c6631dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041554973
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ad46e548251d42bf89cd8dc339036ccb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad46e548251d42bf89cd8dc339036ccb
+run_name: wistful-crane-788
+run_uuid: ad46e548251d42bf89cd8dc339036ccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041503489
+status: 1
+tags: []
+user_id: unknown

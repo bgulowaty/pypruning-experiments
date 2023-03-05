@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/031774097746441abc5c17efde4196bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 031774097746441abc5c17efde4196bf
+run_name: wise-midge-524
+run_uuid: 031774097746441abc5c17efde4196bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041561241
+status: 1
+tags: []
+user_id: unknown

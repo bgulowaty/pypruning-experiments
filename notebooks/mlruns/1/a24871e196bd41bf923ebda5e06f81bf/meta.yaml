@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a24871e196bd41bf923ebda5e06f81bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a24871e196bd41bf923ebda5e06f81bf
+run_name: dashing-rook-197
+run_uuid: a24871e196bd41bf923ebda5e06f81bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041954848
+status: 1
+tags: []
+user_id: unknown

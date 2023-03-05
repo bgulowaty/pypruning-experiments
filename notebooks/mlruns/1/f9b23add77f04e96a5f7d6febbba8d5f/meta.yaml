@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f9b23add77f04e96a5f7d6febbba8d5f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f9b23add77f04e96a5f7d6febbba8d5f
+run_name: aged-squirrel-21
+run_uuid: f9b23add77f04e96a5f7d6febbba8d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041830933
+status: 1
+tags: []
+user_id: unknown

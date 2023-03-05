@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/147a90ed6ebe4017b8bb8b92e149989c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 147a90ed6ebe4017b8bb8b92e149989c
+run_name: nebulous-shad-821
+run_uuid: 147a90ed6ebe4017b8bb8b92e149989c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041535551
+status: 1
+tags: []
+user_id: unknown

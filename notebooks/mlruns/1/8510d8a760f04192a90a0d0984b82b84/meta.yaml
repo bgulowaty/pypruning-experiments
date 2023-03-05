@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8510d8a760f04192a90a0d0984b82b84/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8510d8a760f04192a90a0d0984b82b84
+run_name: awesome-cow-543
+run_uuid: 8510d8a760f04192a90a0d0984b82b84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041925600
+status: 1
+tags: []
+user_id: unknown

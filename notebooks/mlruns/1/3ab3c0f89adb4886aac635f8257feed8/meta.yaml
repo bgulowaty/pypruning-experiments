@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3ab3c0f89adb4886aac635f8257feed8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3ab3c0f89adb4886aac635f8257feed8
+run_name: crawling-snipe-861
+run_uuid: 3ab3c0f89adb4886aac635f8257feed8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041944830
+status: 1
+tags: []
+user_id: unknown

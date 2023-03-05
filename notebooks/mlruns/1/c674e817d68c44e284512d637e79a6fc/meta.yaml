@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c674e817d68c44e284512d637e79a6fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c674e817d68c44e284512d637e79a6fc
+run_name: big-hen-538
+run_uuid: c674e817d68c44e284512d637e79a6fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041929162
+status: 1
+tags: []
+user_id: unknown

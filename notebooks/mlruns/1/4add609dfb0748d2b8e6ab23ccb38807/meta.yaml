@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4add609dfb0748d2b8e6ab23ccb38807/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4add609dfb0748d2b8e6ab23ccb38807
+run_name: tasteful-auk-358
+run_uuid: 4add609dfb0748d2b8e6ab23ccb38807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041507355
+status: 1
+tags: []
+user_id: unknown

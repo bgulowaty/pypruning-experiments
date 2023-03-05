@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dc837c6da8084db5a5cd8194b3f38e9a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc837c6da8084db5a5cd8194b3f38e9a
+run_name: efficient-bee-621
+run_uuid: dc837c6da8084db5a5cd8194b3f38e9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041816914
+status: 1
+tags: []
+user_id: unknown

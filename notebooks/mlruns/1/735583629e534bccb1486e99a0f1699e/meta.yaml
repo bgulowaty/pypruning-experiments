@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/735583629e534bccb1486e99a0f1699e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 735583629e534bccb1486e99a0f1699e
+run_name: funny-wasp-842
+run_uuid: 735583629e534bccb1486e99a0f1699e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041592326
+status: 1
+tags: []
+user_id: unknown

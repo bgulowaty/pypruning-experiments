@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d9174de056834dadaab8987191bb7c9a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d9174de056834dadaab8987191bb7c9a
+run_name: judicious-rook-311
+run_uuid: d9174de056834dadaab8987191bb7c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041535890
+status: 1
+tags: []
+user_id: unknown

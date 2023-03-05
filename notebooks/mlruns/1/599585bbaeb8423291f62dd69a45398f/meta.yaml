@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/599585bbaeb8423291f62dd69a45398f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 599585bbaeb8423291f62dd69a45398f
+run_name: intelligent-doe-799
+run_uuid: 599585bbaeb8423291f62dd69a45398f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497744
+status: 1
+tags: []
+user_id: unknown

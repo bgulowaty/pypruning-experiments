@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d32c9d92fc0e4b85bcc3d1e89e71b9d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d32c9d92fc0e4b85bcc3d1e89e71b9d7
+run_name: bemused-ram-911
+run_uuid: d32c9d92fc0e4b85bcc3d1e89e71b9d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041558436
+status: 1
+tags: []
+user_id: unknown

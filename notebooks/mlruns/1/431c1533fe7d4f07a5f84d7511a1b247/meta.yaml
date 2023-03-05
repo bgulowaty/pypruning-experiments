@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/431c1533fe7d4f07a5f84d7511a1b247/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 431c1533fe7d4f07a5f84d7511a1b247
+run_name: abundant-shark-432
+run_uuid: 431c1533fe7d4f07a5f84d7511a1b247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041501764
+status: 1
+tags: []
+user_id: unknown

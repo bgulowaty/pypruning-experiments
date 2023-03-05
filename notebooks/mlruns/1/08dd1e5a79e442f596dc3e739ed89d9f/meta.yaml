@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/08dd1e5a79e442f596dc3e739ed89d9f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 08dd1e5a79e442f596dc3e739ed89d9f
+run_name: orderly-stag-264
+run_uuid: 08dd1e5a79e442f596dc3e739ed89d9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041963308
+status: 1
+tags: []
+user_id: unknown

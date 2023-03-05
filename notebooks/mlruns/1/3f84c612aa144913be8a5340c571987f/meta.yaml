@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3f84c612aa144913be8a5340c571987f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3f84c612aa144913be8a5340c571987f
+run_name: crawling-bee-654
+run_uuid: 3f84c612aa144913be8a5340c571987f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041520078
+status: 1
+tags: []
+user_id: unknown

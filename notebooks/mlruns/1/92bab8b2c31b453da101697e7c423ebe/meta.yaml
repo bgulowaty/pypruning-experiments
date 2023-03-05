@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/92bab8b2c31b453da101697e7c423ebe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 92bab8b2c31b453da101697e7c423ebe
+run_name: carefree-snail-84
+run_uuid: 92bab8b2c31b453da101697e7c423ebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041558496
+status: 1
+tags: []
+user_id: unknown

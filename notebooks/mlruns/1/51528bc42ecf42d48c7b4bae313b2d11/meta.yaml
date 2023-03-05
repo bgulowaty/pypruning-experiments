@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/51528bc42ecf42d48c7b4bae313b2d11/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 51528bc42ecf42d48c7b4bae313b2d11
+run_name: unique-jay-654
+run_uuid: 51528bc42ecf42d48c7b4bae313b2d11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041505256
+status: 1
+tags: []
+user_id: unknown

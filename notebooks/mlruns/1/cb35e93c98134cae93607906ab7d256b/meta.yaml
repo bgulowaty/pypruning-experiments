@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cb35e93c98134cae93607906ab7d256b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb35e93c98134cae93607906ab7d256b
+run_name: intrigued-turtle-32
+run_uuid: cb35e93c98134cae93607906ab7d256b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041676785
+status: 1
+tags: []
+user_id: unknown

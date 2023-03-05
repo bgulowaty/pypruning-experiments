@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3dd426c07e27409181182b7d792c8592/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3dd426c07e27409181182b7d792c8592
+run_name: secretive-lark-157
+run_uuid: 3dd426c07e27409181182b7d792c8592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041550782
+status: 1
+tags: []
+user_id: unknown

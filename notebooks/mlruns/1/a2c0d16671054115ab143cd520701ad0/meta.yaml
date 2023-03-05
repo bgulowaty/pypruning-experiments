@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a2c0d16671054115ab143cd520701ad0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2c0d16671054115ab143cd520701ad0
+run_name: orderly-ray-717
+run_uuid: a2c0d16671054115ab143cd520701ad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041572792
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c233dc56552b4cfcb10a32212d825095/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c233dc56552b4cfcb10a32212d825095
+run_name: shivering-fish-206
+run_uuid: c233dc56552b4cfcb10a32212d825095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041675481
+status: 1
+tags: []
+user_id: unknown

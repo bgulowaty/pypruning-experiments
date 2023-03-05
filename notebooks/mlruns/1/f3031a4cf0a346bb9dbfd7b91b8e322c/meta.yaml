@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f3031a4cf0a346bb9dbfd7b91b8e322c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f3031a4cf0a346bb9dbfd7b91b8e322c
+run_name: bittersweet-mule-766
+run_uuid: f3031a4cf0a346bb9dbfd7b91b8e322c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041590633
+status: 1
+tags: []
+user_id: unknown

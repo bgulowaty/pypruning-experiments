@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e573ccc90f464094aa83dd1c15597cd3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e573ccc90f464094aa83dd1c15597cd3
+run_name: classy-mole-776
+run_uuid: e573ccc90f464094aa83dd1c15597cd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041897498
+status: 1
+tags: []
+user_id: unknown

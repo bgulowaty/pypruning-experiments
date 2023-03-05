@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a87b8e56834a4d59bb0341548cfa1577/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a87b8e56834a4d59bb0341548cfa1577
+run_name: delicate-lynx-627
+run_uuid: a87b8e56834a4d59bb0341548cfa1577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494696
+status: 1
+tags: []
+user_id: unknown

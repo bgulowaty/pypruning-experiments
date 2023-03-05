@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/00da3b7a87fd4588960fd9fdeba5e4ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 00da3b7a87fd4588960fd9fdeba5e4ca
+run_name: funny-mink-54
+run_uuid: 00da3b7a87fd4588960fd9fdeba5e4ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041938461
+status: 1
+tags: []
+user_id: unknown

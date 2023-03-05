@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/29eb31a99f234306a40fb674af678a5f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 29eb31a99f234306a40fb674af678a5f
+run_name: unruly-vole-106
+run_uuid: 29eb31a99f234306a40fb674af678a5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041608559
+status: 1
+tags: []
+user_id: unknown

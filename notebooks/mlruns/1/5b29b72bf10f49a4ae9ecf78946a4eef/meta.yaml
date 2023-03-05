@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5b29b72bf10f49a4ae9ecf78946a4eef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5b29b72bf10f49a4ae9ecf78946a4eef
+run_name: dazzling-hound-3
+run_uuid: 5b29b72bf10f49a4ae9ecf78946a4eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041791407
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/76461f8eb8c74e0681f5e385872acadb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 76461f8eb8c74e0681f5e385872acadb
+run_name: righteous-bass-118
+run_uuid: 76461f8eb8c74e0681f5e385872acadb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041775277
+status: 1
+tags: []
+user_id: unknown

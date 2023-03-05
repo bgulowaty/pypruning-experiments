@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a50fb83ba6fa4adcbfe4185440bda9a7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a50fb83ba6fa4adcbfe4185440bda9a7
+run_name: monumental-fowl-249
+run_uuid: a50fb83ba6fa4adcbfe4185440bda9a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041650322
+status: 1
+tags: []
+user_id: unknown

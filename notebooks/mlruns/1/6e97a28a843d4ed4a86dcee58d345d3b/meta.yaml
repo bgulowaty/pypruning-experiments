@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6e97a28a843d4ed4a86dcee58d345d3b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e97a28a843d4ed4a86dcee58d345d3b
+run_name: sophisticated-mink-1
+run_uuid: 6e97a28a843d4ed4a86dcee58d345d3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041903564
+status: 1
+tags: []
+user_id: unknown

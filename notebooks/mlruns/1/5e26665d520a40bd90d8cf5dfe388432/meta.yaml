@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5e26665d520a40bd90d8cf5dfe388432/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e26665d520a40bd90d8cf5dfe388432
+run_name: zealous-gnat-99
+run_uuid: 5e26665d520a40bd90d8cf5dfe388432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041551702
+status: 1
+tags: []
+user_id: unknown

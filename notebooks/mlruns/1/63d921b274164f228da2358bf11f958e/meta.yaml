@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/63d921b274164f228da2358bf11f958e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 63d921b274164f228da2358bf11f958e
+run_name: upset-kit-380
+run_uuid: 63d921b274164f228da2358bf11f958e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497695
+status: 1
+tags: []
+user_id: unknown

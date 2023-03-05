@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2beca3c671374c4c8b58a2ec9f968078/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2beca3c671374c4c8b58a2ec9f968078
+run_name: unique-hawk-3
+run_uuid: 2beca3c671374c4c8b58a2ec9f968078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041657644
+status: 1
+tags: []
+user_id: unknown

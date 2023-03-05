@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e4c19e8eaf514c0785a17594f345461c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e4c19e8eaf514c0785a17594f345461c
+run_name: bedecked-whale-472
+run_uuid: e4c19e8eaf514c0785a17594f345461c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041819323
+status: 1
+tags: []
+user_id: unknown

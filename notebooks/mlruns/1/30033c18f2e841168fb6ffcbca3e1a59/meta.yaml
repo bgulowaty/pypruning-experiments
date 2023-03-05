@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/30033c18f2e841168fb6ffcbca3e1a59/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 30033c18f2e841168fb6ffcbca3e1a59
+run_name: smiling-wasp-677
+run_uuid: 30033c18f2e841168fb6ffcbca3e1a59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041536029
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1bec98f0e9534972b5e8aa39dbe1782a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1bec98f0e9534972b5e8aa39dbe1782a
+run_name: handsome-auk-628
+run_uuid: 1bec98f0e9534972b5e8aa39dbe1782a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041546628
+status: 1
+tags: []
+user_id: unknown

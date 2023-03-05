@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/77fc5a46d18b49cc9afe9664dee766c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 77fc5a46d18b49cc9afe9664dee766c3
+run_name: peaceful-jay-929
+run_uuid: 77fc5a46d18b49cc9afe9664dee766c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041819030
+status: 1
+tags: []
+user_id: unknown

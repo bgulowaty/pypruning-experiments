@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f240233f53cb4d82b9a919668ff2d266/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f240233f53cb4d82b9a919668ff2d266
+run_name: placid-fly-996
+run_uuid: f240233f53cb4d82b9a919668ff2d266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041589628
+status: 1
+tags: []
+user_id: unknown

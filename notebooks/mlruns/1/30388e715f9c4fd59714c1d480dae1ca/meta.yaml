@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/30388e715f9c4fd59714c1d480dae1ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 30388e715f9c4fd59714c1d480dae1ca
+run_name: sassy-gnat-551
+run_uuid: 30388e715f9c4fd59714c1d480dae1ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041548985
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bcf6c7aaf7a041a7a0949553d7cfc322/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bcf6c7aaf7a041a7a0949553d7cfc322
+run_name: kindly-shrimp-846
+run_uuid: bcf6c7aaf7a041a7a0949553d7cfc322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495944
+status: 1
+tags: []
+user_id: unknown

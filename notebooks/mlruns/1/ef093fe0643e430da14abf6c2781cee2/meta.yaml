@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ef093fe0643e430da14abf6c2781cee2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef093fe0643e430da14abf6c2781cee2
+run_name: rare-deer-455
+run_uuid: ef093fe0643e430da14abf6c2781cee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041743387
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ca56bdca7aa4496aaf6cb2c307d4616f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca56bdca7aa4496aaf6cb2c307d4616f
+run_name: brawny-owl-214
+run_uuid: ca56bdca7aa4496aaf6cb2c307d4616f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041506571
+status: 1
+tags: []
+user_id: unknown

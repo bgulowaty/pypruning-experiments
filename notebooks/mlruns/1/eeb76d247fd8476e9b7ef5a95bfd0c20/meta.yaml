@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eeb76d247fd8476e9b7ef5a95bfd0c20/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eeb76d247fd8476e9b7ef5a95bfd0c20
+run_name: awesome-seal-671
+run_uuid: eeb76d247fd8476e9b7ef5a95bfd0c20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041658002
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1ecfb708e09c42afa9191a9adf0e8ecc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ecfb708e09c42afa9191a9adf0e8ecc
+run_name: masked-fish-354
+run_uuid: 1ecfb708e09c42afa9191a9adf0e8ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041737491
+status: 1
+tags: []
+user_id: unknown

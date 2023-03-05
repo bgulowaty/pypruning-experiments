@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c87d1b5585cb4262bdfa99107e5f4dcc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c87d1b5585cb4262bdfa99107e5f4dcc
+run_name: brawny-bass-825
+run_uuid: c87d1b5585cb4262bdfa99107e5f4dcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041522101
+status: 1
+tags: []
+user_id: unknown

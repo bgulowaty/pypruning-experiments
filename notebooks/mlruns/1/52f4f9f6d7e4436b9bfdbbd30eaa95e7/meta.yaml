@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/52f4f9f6d7e4436b9bfdbbd30eaa95e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 52f4f9f6d7e4436b9bfdbbd30eaa95e7
+run_name: intrigued-whale-35
+run_uuid: 52f4f9f6d7e4436b9bfdbbd30eaa95e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041510596
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/19cb7c4fdded4c8d99577ada7881bf59/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 19cb7c4fdded4c8d99577ada7881bf59
+run_name: abundant-grub-627
+run_uuid: 19cb7c4fdded4c8d99577ada7881bf59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041922594
+status: 1
+tags: []
+user_id: unknown

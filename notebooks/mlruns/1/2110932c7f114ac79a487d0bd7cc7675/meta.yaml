@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2110932c7f114ac79a487d0bd7cc7675/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2110932c7f114ac79a487d0bd7cc7675
+run_name: fearless-pug-828
+run_uuid: 2110932c7f114ac79a487d0bd7cc7675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041722442
+status: 1
+tags: []
+user_id: unknown

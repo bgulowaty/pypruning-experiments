@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ab6e0ec0fb26473bb5384cc663e66329/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab6e0ec0fb26473bb5384cc663e66329
+run_name: worried-ape-788
+run_uuid: ab6e0ec0fb26473bb5384cc663e66329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041554464
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/020de41f40bc44cf91c94dcda10531dc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 020de41f40bc44cf91c94dcda10531dc
+run_name: able-shad-820
+run_uuid: 020de41f40bc44cf91c94dcda10531dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041513034
+status: 1
+tags: []
+user_id: unknown

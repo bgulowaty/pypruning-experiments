@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e71ecdf9c9b54729be40b6e2d715f275/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e71ecdf9c9b54729be40b6e2d715f275
+run_name: painted-rook-793
+run_uuid: e71ecdf9c9b54729be40b6e2d715f275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041697752
+status: 1
+tags: []
+user_id: unknown

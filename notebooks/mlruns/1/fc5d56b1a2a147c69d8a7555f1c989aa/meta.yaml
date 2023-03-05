@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fc5d56b1a2a147c69d8a7555f1c989aa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc5d56b1a2a147c69d8a7555f1c989aa
+run_name: dazzling-dolphin-664
+run_uuid: fc5d56b1a2a147c69d8a7555f1c989aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041715427
+status: 1
+tags: []
+user_id: unknown

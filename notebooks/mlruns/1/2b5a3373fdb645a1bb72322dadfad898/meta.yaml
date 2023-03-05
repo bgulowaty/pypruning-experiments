@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2b5a3373fdb645a1bb72322dadfad898/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2b5a3373fdb645a1bb72322dadfad898
+run_name: powerful-gnat-313
+run_uuid: 2b5a3373fdb645a1bb72322dadfad898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041955752
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0e83ba33c8404cae92dbe867a522b171/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0e83ba33c8404cae92dbe867a522b171
+run_name: flawless-goat-747
+run_uuid: 0e83ba33c8404cae92dbe867a522b171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041731328
+status: 1
+tags: []
+user_id: unknown

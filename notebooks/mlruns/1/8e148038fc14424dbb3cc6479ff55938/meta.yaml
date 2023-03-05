@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8e148038fc14424dbb3cc6479ff55938/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e148038fc14424dbb3cc6479ff55938
+run_name: intrigued-koi-494
+run_uuid: 8e148038fc14424dbb3cc6479ff55938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041681838
+status: 1
+tags: []
+user_id: unknown

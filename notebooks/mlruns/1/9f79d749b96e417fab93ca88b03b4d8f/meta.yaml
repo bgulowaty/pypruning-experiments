@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9f79d749b96e417fab93ca88b03b4d8f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9f79d749b96e417fab93ca88b03b4d8f
+run_name: rogue-seal-390
+run_uuid: 9f79d749b96e417fab93ca88b03b4d8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041962078
+status: 1
+tags: []
+user_id: unknown

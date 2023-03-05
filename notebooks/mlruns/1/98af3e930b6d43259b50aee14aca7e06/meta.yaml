@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/98af3e930b6d43259b50aee14aca7e06/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98af3e930b6d43259b50aee14aca7e06
+run_name: tasteful-swan-833
+run_uuid: 98af3e930b6d43259b50aee14aca7e06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041612960
+status: 1
+tags: []
+user_id: unknown

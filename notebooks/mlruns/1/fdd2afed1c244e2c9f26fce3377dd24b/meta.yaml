@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fdd2afed1c244e2c9f26fce3377dd24b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fdd2afed1c244e2c9f26fce3377dd24b
+run_name: nervous-goose-909
+run_uuid: fdd2afed1c244e2c9f26fce3377dd24b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041544095
+status: 1
+tags: []
+user_id: unknown

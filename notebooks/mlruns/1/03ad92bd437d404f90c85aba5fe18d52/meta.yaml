@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/03ad92bd437d404f90c85aba5fe18d52/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 03ad92bd437d404f90c85aba5fe18d52
+run_name: dapper-tern-378
+run_uuid: 03ad92bd437d404f90c85aba5fe18d52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041604335
+status: 1
+tags: []
+user_id: unknown

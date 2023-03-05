@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a3b445fd0cb04d4e82e78b23d28b4584/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a3b445fd0cb04d4e82e78b23d28b4584
+run_name: smiling-crab-194
+run_uuid: a3b445fd0cb04d4e82e78b23d28b4584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041569681
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a0db7ebce1b64a2bb7c48ce9857157cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0db7ebce1b64a2bb7c48ce9857157cd
+run_name: invincible-snake-377
+run_uuid: a0db7ebce1b64a2bb7c48ce9857157cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041813793
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/df4e2f16b6254d6895b0f9f5d5b2d50a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df4e2f16b6254d6895b0f9f5d5b2d50a
+run_name: tasteful-koi-749
+run_uuid: df4e2f16b6254d6895b0f9f5d5b2d50a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494376
+status: 1
+tags: []
+user_id: unknown

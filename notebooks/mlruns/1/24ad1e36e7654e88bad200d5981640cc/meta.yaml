@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/24ad1e36e7654e88bad200d5981640cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 24ad1e36e7654e88bad200d5981640cc
+run_name: luxuriant-midge-86
+run_uuid: 24ad1e36e7654e88bad200d5981640cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041503532
+status: 1
+tags: []
+user_id: unknown

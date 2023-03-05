@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/77fed744853f47099c82709085bd68c1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 77fed744853f47099c82709085bd68c1
+run_name: whimsical-swan-535
+run_uuid: 77fed744853f47099c82709085bd68c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041535922
+status: 1
+tags: []
+user_id: unknown

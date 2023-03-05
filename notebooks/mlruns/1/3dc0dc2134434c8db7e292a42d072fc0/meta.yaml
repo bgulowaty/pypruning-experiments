@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3dc0dc2134434c8db7e292a42d072fc0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3dc0dc2134434c8db7e292a42d072fc0
+run_name: omniscient-chimp-29
+run_uuid: 3dc0dc2134434c8db7e292a42d072fc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041976716
+status: 1
+tags: []
+user_id: unknown

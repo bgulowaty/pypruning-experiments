@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/da85eb493ea9489787abceefd24835e1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da85eb493ea9489787abceefd24835e1
+run_name: lyrical-cat-347
+run_uuid: da85eb493ea9489787abceefd24835e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041832379
+status: 1
+tags: []
+user_id: unknown

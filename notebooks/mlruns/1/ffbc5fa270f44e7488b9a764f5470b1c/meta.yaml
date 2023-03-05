@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ffbc5fa270f44e7488b9a764f5470b1c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ffbc5fa270f44e7488b9a764f5470b1c
+run_name: nimble-cow-950
+run_uuid: ffbc5fa270f44e7488b9a764f5470b1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041579181
+status: 1
+tags: []
+user_id: unknown

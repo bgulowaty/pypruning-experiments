@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ed1b838d605f46b9894824eb61e8d68c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed1b838d605f46b9894824eb61e8d68c
+run_name: secretive-sow-438
+run_uuid: ed1b838d605f46b9894824eb61e8d68c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502461
+status: 1
+tags: []
+user_id: unknown

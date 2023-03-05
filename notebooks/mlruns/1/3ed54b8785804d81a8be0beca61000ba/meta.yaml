@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3ed54b8785804d81a8be0beca61000ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3ed54b8785804d81a8be0beca61000ba
+run_name: youthful-grouse-171
+run_uuid: 3ed54b8785804d81a8be0beca61000ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041641844
+status: 1
+tags: []
+user_id: unknown

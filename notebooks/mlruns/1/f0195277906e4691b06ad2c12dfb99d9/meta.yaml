@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f0195277906e4691b06ad2c12dfb99d9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f0195277906e4691b06ad2c12dfb99d9
+run_name: aged-goose-721
+run_uuid: f0195277906e4691b06ad2c12dfb99d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041583784
+status: 1
+tags: []
+user_id: unknown

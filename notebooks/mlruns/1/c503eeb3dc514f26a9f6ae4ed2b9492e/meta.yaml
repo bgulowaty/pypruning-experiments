@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c503eeb3dc514f26a9f6ae4ed2b9492e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c503eeb3dc514f26a9f6ae4ed2b9492e
+run_name: silent-zebra-68
+run_uuid: c503eeb3dc514f26a9f6ae4ed2b9492e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041515172
+status: 1
+tags: []
+user_id: unknown

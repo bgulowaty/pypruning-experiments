@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f211722010b044b3b9eadb1636653d5d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f211722010b044b3b9eadb1636653d5d
+run_name: rebellious-eel-766
+run_uuid: f211722010b044b3b9eadb1636653d5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041531111
+status: 1
+tags: []
+user_id: unknown

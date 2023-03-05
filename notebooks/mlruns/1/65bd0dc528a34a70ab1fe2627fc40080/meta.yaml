@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/65bd0dc528a34a70ab1fe2627fc40080/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65bd0dc528a34a70ab1fe2627fc40080
+run_name: mysterious-flea-434
+run_uuid: 65bd0dc528a34a70ab1fe2627fc40080
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041586919
+status: 1
+tags: []
+user_id: unknown

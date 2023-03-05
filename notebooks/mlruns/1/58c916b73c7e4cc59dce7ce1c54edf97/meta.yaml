@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/58c916b73c7e4cc59dce7ce1c54edf97/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 58c916b73c7e4cc59dce7ce1c54edf97
+run_name: orderly-conch-768
+run_uuid: 58c916b73c7e4cc59dce7ce1c54edf97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497762
+status: 1
+tags: []
+user_id: unknown

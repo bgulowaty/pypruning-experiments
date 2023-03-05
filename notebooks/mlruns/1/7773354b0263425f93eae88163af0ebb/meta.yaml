@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7773354b0263425f93eae88163af0ebb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7773354b0263425f93eae88163af0ebb
+run_name: bright-toad-538
+run_uuid: 7773354b0263425f93eae88163af0ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041506431
+status: 1
+tags: []
+user_id: unknown

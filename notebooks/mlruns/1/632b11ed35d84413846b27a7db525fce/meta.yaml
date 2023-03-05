@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/632b11ed35d84413846b27a7db525fce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 632b11ed35d84413846b27a7db525fce
+run_name: righteous-newt-372
+run_uuid: 632b11ed35d84413846b27a7db525fce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041564022
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bd7a01e36d4f4fd59250f64c8b9377bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd7a01e36d4f4fd59250f64c8b9377bc
+run_name: chill-moose-31
+run_uuid: bd7a01e36d4f4fd59250f64c8b9377bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499596
+status: 1
+tags: []
+user_id: unknown

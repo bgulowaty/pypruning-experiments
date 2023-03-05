@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2b86baf4aa2a4ec2b5dba62f32ae6886/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2b86baf4aa2a4ec2b5dba62f32ae6886
+run_name: powerful-carp-201
+run_uuid: 2b86baf4aa2a4ec2b5dba62f32ae6886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041612710
+status: 1
+tags: []
+user_id: unknown

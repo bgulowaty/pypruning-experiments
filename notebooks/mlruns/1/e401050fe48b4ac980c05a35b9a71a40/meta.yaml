@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e401050fe48b4ac980c05a35b9a71a40/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e401050fe48b4ac980c05a35b9a71a40
+run_name: bright-robin-429
+run_uuid: e401050fe48b4ac980c05a35b9a71a40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041793311
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d9be8187402f4fdb9b20d1def5f21281/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d9be8187402f4fdb9b20d1def5f21281
+run_name: nosy-shark-594
+run_uuid: d9be8187402f4fdb9b20d1def5f21281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041506450
+status: 1
+tags: []
+user_id: unknown

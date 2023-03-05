@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/70bde63848b34e0d80db3d85be25c2cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 70bde63848b34e0d80db3d85be25c2cd
+run_name: useful-finch-710
+run_uuid: 70bde63848b34e0d80db3d85be25c2cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041791813
+status: 1
+tags: []
+user_id: unknown

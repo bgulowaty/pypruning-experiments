@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/36586249b14d4a0abd034b834167c074/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 36586249b14d4a0abd034b834167c074
+run_name: tasteful-mare-882
+run_uuid: 36586249b14d4a0abd034b834167c074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041510003
+status: 1
+tags: []
+user_id: unknown

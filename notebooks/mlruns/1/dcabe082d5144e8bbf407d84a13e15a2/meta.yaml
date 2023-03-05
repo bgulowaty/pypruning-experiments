@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dcabe082d5144e8bbf407d84a13e15a2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dcabe082d5144e8bbf407d84a13e15a2
+run_name: sedate-dog-466
+run_uuid: dcabe082d5144e8bbf407d84a13e15a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041562041
+status: 1
+tags: []
+user_id: unknown

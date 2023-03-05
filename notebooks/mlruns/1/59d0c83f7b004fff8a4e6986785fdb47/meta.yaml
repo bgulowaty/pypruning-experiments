@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/59d0c83f7b004fff8a4e6986785fdb47/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 59d0c83f7b004fff8a4e6986785fdb47
+run_name: kindly-lark-362
+run_uuid: 59d0c83f7b004fff8a4e6986785fdb47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041928296
+status: 1
+tags: []
+user_id: unknown

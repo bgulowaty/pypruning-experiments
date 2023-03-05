@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/04363d286a2b49e4b0390dd1be4a766b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 04363d286a2b49e4b0390dd1be4a766b
+run_name: sneaky-carp-414
+run_uuid: 04363d286a2b49e4b0390dd1be4a766b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041829941
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f6adadc7f178462399167cd7d19aaaa3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f6adadc7f178462399167cd7d19aaaa3
+run_name: sedate-ram-670
+run_uuid: f6adadc7f178462399167cd7d19aaaa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041514799
+status: 1
+tags: []
+user_id: unknown

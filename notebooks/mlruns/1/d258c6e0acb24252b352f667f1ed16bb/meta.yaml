@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d258c6e0acb24252b352f667f1ed16bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d258c6e0acb24252b352f667f1ed16bb
+run_name: gentle-rat-616
+run_uuid: d258c6e0acb24252b352f667f1ed16bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041743468
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e1b707bc0d3443e5b3115431ffc87c38/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e1b707bc0d3443e5b3115431ffc87c38
+run_name: nosy-foal-961
+run_uuid: e1b707bc0d3443e5b3115431ffc87c38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041706660
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/92c213b2df0a4d2da78c57d06e1f63f0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 92c213b2df0a4d2da78c57d06e1f63f0
+run_name: bright-lynx-453
+run_uuid: 92c213b2df0a4d2da78c57d06e1f63f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041536451
+status: 1
+tags: []
+user_id: unknown

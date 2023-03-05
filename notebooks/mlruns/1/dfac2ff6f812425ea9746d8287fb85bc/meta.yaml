@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dfac2ff6f812425ea9746d8287fb85bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dfac2ff6f812425ea9746d8287fb85bc
+run_name: painted-sponge-943
+run_uuid: dfac2ff6f812425ea9746d8287fb85bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041505236
+status: 1
+tags: []
+user_id: unknown

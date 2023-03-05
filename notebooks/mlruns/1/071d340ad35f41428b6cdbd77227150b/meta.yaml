@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/071d340ad35f41428b6cdbd77227150b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 071d340ad35f41428b6cdbd77227150b
+run_name: loud-foal-273
+run_uuid: 071d340ad35f41428b6cdbd77227150b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041681306
+status: 1
+tags: []
+user_id: unknown

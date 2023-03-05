@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/74cd23d9f0e746f2b1bf2b92a6dd3dc3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74cd23d9f0e746f2b1bf2b92a6dd3dc3
+run_name: bouncy-seal-586
+run_uuid: 74cd23d9f0e746f2b1bf2b92a6dd3dc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041945101
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5527518b1f7b47288cab4418d55a69c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5527518b1f7b47288cab4418d55a69c3
+run_name: funny-goose-381
+run_uuid: 5527518b1f7b47288cab4418d55a69c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041956878
+status: 1
+tags: []
+user_id: unknown

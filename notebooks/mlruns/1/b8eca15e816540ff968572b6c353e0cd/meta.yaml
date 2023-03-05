@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b8eca15e816540ff968572b6c353e0cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b8eca15e816540ff968572b6c353e0cd
+run_name: secretive-shark-975
+run_uuid: b8eca15e816540ff968572b6c353e0cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041914270
+status: 1
+tags: []
+user_id: unknown

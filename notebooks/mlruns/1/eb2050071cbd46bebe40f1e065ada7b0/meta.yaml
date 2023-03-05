@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eb2050071cbd46bebe40f1e065ada7b0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb2050071cbd46bebe40f1e065ada7b0
+run_name: useful-snake-876
+run_uuid: eb2050071cbd46bebe40f1e065ada7b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041679683
+status: 1
+tags: []
+user_id: unknown

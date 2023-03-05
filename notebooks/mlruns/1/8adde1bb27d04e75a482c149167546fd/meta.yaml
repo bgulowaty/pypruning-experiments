@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8adde1bb27d04e75a482c149167546fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8adde1bb27d04e75a482c149167546fd
+run_name: ambitious-cod-268
+run_uuid: 8adde1bb27d04e75a482c149167546fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041658068
+status: 1
+tags: []
+user_id: unknown

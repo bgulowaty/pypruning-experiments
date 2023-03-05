@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/56994884c46d4cb5bbcce087bd2de4f7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 56994884c46d4cb5bbcce087bd2de4f7
+run_name: defiant-sheep-5
+run_uuid: 56994884c46d4cb5bbcce087bd2de4f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041757487
+status: 1
+tags: []
+user_id: unknown

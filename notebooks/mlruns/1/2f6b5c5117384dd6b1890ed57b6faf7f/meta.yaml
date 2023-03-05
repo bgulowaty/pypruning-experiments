@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2f6b5c5117384dd6b1890ed57b6faf7f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2f6b5c5117384dd6b1890ed57b6faf7f
+run_name: righteous-goose-675
+run_uuid: 2f6b5c5117384dd6b1890ed57b6faf7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041843623
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9fa9a7771b88478c8f2f57bc55527b2c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9fa9a7771b88478c8f2f57bc55527b2c
+run_name: wistful-cow-427
+run_uuid: 9fa9a7771b88478c8f2f57bc55527b2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041952643
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ec5a71476909443693bdcc18877e835b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec5a71476909443693bdcc18877e835b
+run_name: amazing-rat-340
+run_uuid: ec5a71476909443693bdcc18877e835b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041757604
+status: 1
+tags: []
+user_id: unknown

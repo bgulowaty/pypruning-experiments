@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d2d68a3053014369b893ba9d7667e34e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2d68a3053014369b893ba9d7667e34e
+run_name: bemused-gnat-482
+run_uuid: d2d68a3053014369b893ba9d7667e34e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041594493
+status: 1
+tags: []
+user_id: unknown

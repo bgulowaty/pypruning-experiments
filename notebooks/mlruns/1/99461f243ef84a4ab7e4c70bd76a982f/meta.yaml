@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/99461f243ef84a4ab7e4c70bd76a982f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99461f243ef84a4ab7e4c70bd76a982f
+run_name: sneaky-hare-230
+run_uuid: 99461f243ef84a4ab7e4c70bd76a982f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041875817
+status: 1
+tags: []
+user_id: unknown

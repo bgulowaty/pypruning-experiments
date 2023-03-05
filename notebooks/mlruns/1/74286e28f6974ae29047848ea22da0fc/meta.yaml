@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/74286e28f6974ae29047848ea22da0fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74286e28f6974ae29047848ea22da0fc
+run_name: handsome-mouse-525
+run_uuid: 74286e28f6974ae29047848ea22da0fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041664792
+status: 1
+tags: []
+user_id: unknown

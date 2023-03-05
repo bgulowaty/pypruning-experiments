@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/04f86c0675194c7d81a0a8bb1b060b4a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 04f86c0675194c7d81a0a8bb1b060b4a
+run_name: valuable-wasp-809
+run_uuid: 04f86c0675194c7d81a0a8bb1b060b4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041777287
+status: 1
+tags: []
+user_id: unknown

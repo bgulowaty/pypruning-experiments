@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0a855c9d89b44cc4b7a6a9b3a40f6686/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0a855c9d89b44cc4b7a6a9b3a40f6686
+run_name: inquisitive-deer-40
+run_uuid: 0a855c9d89b44cc4b7a6a9b3a40f6686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041503772
+status: 1
+tags: []
+user_id: unknown

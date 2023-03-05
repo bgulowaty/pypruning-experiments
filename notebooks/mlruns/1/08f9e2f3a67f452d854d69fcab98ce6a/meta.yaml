@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/08f9e2f3a67f452d854d69fcab98ce6a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 08f9e2f3a67f452d854d69fcab98ce6a
+run_name: efficient-fish-585
+run_uuid: 08f9e2f3a67f452d854d69fcab98ce6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041590952
+status: 1
+tags: []
+user_id: unknown

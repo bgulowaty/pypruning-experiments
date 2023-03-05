@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/84e2903261be4539b1286f91e1e190b0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 84e2903261be4539b1286f91e1e190b0
+run_name: awesome-colt-163
+run_uuid: 84e2903261be4539b1286f91e1e190b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041590575
+status: 1
+tags: []
+user_id: unknown

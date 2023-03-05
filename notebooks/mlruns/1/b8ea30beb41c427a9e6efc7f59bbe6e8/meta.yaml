@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b8ea30beb41c427a9e6efc7f59bbe6e8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b8ea30beb41c427a9e6efc7f59bbe6e8
+run_name: clean-finch-596
+run_uuid: b8ea30beb41c427a9e6efc7f59bbe6e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041772164
+status: 1
+tags: []
+user_id: unknown

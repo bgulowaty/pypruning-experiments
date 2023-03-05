@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d01f921a2e6b4e61b309a94a46dad78e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d01f921a2e6b4e61b309a94a46dad78e
+run_name: nebulous-duck-792
+run_uuid: d01f921a2e6b4e61b309a94a46dad78e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041922272
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e59eed34149d43f3aa1df324144d53aa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e59eed34149d43f3aa1df324144d53aa
+run_name: gaudy-turtle-694
+run_uuid: e59eed34149d43f3aa1df324144d53aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041529648
+status: 1
+tags: []
+user_id: unknown

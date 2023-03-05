@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ceaf34d4d98644a89924360703a9188d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ceaf34d4d98644a89924360703a9188d
+run_name: tasteful-wasp-379
+run_uuid: ceaf34d4d98644a89924360703a9188d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041590525
+status: 1
+tags: []
+user_id: unknown

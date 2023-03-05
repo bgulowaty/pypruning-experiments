@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/73101cfa5d9e4570a40bbec3bd301425/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 73101cfa5d9e4570a40bbec3bd301425
+run_name: welcoming-shrimp-773
+run_uuid: 73101cfa5d9e4570a40bbec3bd301425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041541431
+status: 1
+tags: []
+user_id: unknown

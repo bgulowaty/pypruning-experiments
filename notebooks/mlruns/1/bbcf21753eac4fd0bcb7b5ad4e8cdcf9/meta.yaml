@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bbcf21753eac4fd0bcb7b5ad4e8cdcf9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bbcf21753eac4fd0bcb7b5ad4e8cdcf9
+run_name: loud-snail-893
+run_uuid: bbcf21753eac4fd0bcb7b5ad4e8cdcf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041500570
+status: 1
+tags: []
+user_id: unknown

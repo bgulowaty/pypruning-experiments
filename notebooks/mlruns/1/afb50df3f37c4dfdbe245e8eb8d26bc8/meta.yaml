@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/afb50df3f37c4dfdbe245e8eb8d26bc8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: afb50df3f37c4dfdbe245e8eb8d26bc8
+run_name: sedate-ray-564
+run_uuid: afb50df3f37c4dfdbe245e8eb8d26bc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041632324
+status: 1
+tags: []
+user_id: unknown

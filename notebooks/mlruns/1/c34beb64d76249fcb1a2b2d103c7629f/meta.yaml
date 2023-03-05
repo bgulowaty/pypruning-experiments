@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c34beb64d76249fcb1a2b2d103c7629f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c34beb64d76249fcb1a2b2d103c7629f
+run_name: whimsical-frog-422
+run_uuid: c34beb64d76249fcb1a2b2d103c7629f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041982179
+status: 1
+tags: []
+user_id: unknown

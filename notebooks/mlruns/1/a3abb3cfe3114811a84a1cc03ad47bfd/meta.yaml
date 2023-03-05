@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a3abb3cfe3114811a84a1cc03ad47bfd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a3abb3cfe3114811a84a1cc03ad47bfd
+run_name: efficient-fowl-609
+run_uuid: a3abb3cfe3114811a84a1cc03ad47bfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041599661
+status: 1
+tags: []
+user_id: unknown

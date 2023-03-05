@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f5323f1f4f8e4a26bec437c3c049b66b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f5323f1f4f8e4a26bec437c3c049b66b
+run_name: skillful-crab-528
+run_uuid: f5323f1f4f8e4a26bec437c3c049b66b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041501108
+status: 1
+tags: []
+user_id: unknown

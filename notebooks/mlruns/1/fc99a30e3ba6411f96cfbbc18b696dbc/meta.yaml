@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fc99a30e3ba6411f96cfbbc18b696dbc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc99a30e3ba6411f96cfbbc18b696dbc
+run_name: monumental-snipe-890
+run_uuid: fc99a30e3ba6411f96cfbbc18b696dbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041653062
+status: 1
+tags: []
+user_id: unknown

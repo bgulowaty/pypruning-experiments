@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/98481a7e824d4747b49486bfa2b6d292/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98481a7e824d4747b49486bfa2b6d292
+run_name: learned-yak-758
+run_uuid: 98481a7e824d4747b49486bfa2b6d292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041688155
+status: 1
+tags: []
+user_id: unknown

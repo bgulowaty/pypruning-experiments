@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d9b6cacb78154161888d4cb1a16d1503/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d9b6cacb78154161888d4cb1a16d1503
+run_name: skittish-hog-764
+run_uuid: d9b6cacb78154161888d4cb1a16d1503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496949
+status: 1
+tags: []
+user_id: unknown

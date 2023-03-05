@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2d00dce17897467f931dc5dc6863f7f3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2d00dce17897467f931dc5dc6863f7f3
+run_name: luminous-hawk-685
+run_uuid: 2d00dce17897467f931dc5dc6863f7f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041766976
+status: 1
+tags: []
+user_id: unknown

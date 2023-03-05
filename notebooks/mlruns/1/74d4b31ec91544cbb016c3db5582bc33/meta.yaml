@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/74d4b31ec91544cbb016c3db5582bc33/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74d4b31ec91544cbb016c3db5582bc33
+run_name: languid-mare-878
+run_uuid: 74d4b31ec91544cbb016c3db5582bc33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041507273
+status: 1
+tags: []
+user_id: unknown

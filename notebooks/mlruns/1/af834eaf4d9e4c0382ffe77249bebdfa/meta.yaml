@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/af834eaf4d9e4c0382ffe77249bebdfa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: af834eaf4d9e4c0382ffe77249bebdfa
+run_name: calm-mouse-166
+run_uuid: af834eaf4d9e4c0382ffe77249bebdfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041530982
+status: 1
+tags: []
+user_id: unknown

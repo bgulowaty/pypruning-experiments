@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6f7544a3eb7a442f80775825f219d127/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6f7544a3eb7a442f80775825f219d127
+run_name: blushing-hawk-886
+run_uuid: 6f7544a3eb7a442f80775825f219d127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041594155
+status: 1
+tags: []
+user_id: unknown

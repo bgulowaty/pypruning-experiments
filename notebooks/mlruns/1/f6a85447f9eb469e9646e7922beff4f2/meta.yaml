@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f6a85447f9eb469e9646e7922beff4f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f6a85447f9eb469e9646e7922beff4f2
+run_name: capricious-deer-592
+run_uuid: f6a85447f9eb469e9646e7922beff4f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041549041
+status: 1
+tags: []
+user_id: unknown

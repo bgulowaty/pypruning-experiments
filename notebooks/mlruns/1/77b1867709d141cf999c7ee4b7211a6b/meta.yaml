@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/77b1867709d141cf999c7ee4b7211a6b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 77b1867709d141cf999c7ee4b7211a6b
+run_name: youthful-carp-157
+run_uuid: 77b1867709d141cf999c7ee4b7211a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041527875
+status: 1
+tags: []
+user_id: unknown

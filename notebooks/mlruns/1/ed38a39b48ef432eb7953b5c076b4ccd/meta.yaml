@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ed38a39b48ef432eb7953b5c076b4ccd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed38a39b48ef432eb7953b5c076b4ccd
+run_name: defiant-hen-323
+run_uuid: ed38a39b48ef432eb7953b5c076b4ccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041642270
+status: 1
+tags: []
+user_id: unknown

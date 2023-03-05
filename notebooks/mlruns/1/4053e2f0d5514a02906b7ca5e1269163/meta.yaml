@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4053e2f0d5514a02906b7ca5e1269163/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4053e2f0d5514a02906b7ca5e1269163
+run_name: bouncy-jay-184
+run_uuid: 4053e2f0d5514a02906b7ca5e1269163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041823978
+status: 1
+tags: []
+user_id: unknown

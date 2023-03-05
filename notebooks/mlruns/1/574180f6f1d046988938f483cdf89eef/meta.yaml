@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/574180f6f1d046988938f483cdf89eef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 574180f6f1d046988938f483cdf89eef
+run_name: agreeable-jay-352
+run_uuid: 574180f6f1d046988938f483cdf89eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041508196
+status: 1
+tags: []
+user_id: unknown

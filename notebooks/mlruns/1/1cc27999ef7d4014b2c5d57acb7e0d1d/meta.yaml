@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1cc27999ef7d4014b2c5d57acb7e0d1d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1cc27999ef7d4014b2c5d57acb7e0d1d
+run_name: judicious-grouse-855
+run_uuid: 1cc27999ef7d4014b2c5d57acb7e0d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041823578
+status: 1
+tags: []
+user_id: unknown

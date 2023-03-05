@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3bc23581c2eb4ceaaab39e3bf82a4b5c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3bc23581c2eb4ceaaab39e3bf82a4b5c
+run_name: vaunted-sheep-816
+run_uuid: 3bc23581c2eb4ceaaab39e3bf82a4b5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041542656
+status: 1
+tags: []
+user_id: unknown

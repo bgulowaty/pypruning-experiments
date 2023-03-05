@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bcda1379473949feb4502aae9a647ecb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bcda1379473949feb4502aae9a647ecb
+run_name: agreeable-ape-345
+run_uuid: bcda1379473949feb4502aae9a647ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041587860
+status: 1
+tags: []
+user_id: unknown

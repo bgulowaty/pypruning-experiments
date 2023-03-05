@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c3955b86d47747f0b753af5cba1d2416/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c3955b86d47747f0b753af5cba1d2416
+run_name: placid-koi-858
+run_uuid: c3955b86d47747f0b753af5cba1d2416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041860704
+status: 1
+tags: []
+user_id: unknown

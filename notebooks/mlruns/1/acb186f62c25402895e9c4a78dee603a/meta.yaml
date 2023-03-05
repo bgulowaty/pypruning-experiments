@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/acb186f62c25402895e9c4a78dee603a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: acb186f62c25402895e9c4a78dee603a
+run_name: brawny-lynx-671
+run_uuid: acb186f62c25402895e9c4a78dee603a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041774671
+status: 1
+tags: []
+user_id: unknown

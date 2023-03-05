@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/504243ca25404ab7865cfc00729f724a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 504243ca25404ab7865cfc00729f724a
+run_name: vaunted-rook-828
+run_uuid: 504243ca25404ab7865cfc00729f724a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041917624
+status: 1
+tags: []
+user_id: unknown

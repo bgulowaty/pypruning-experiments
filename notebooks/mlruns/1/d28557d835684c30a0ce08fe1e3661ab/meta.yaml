@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d28557d835684c30a0ce08fe1e3661ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d28557d835684c30a0ce08fe1e3661ab
+run_name: bright-eel-967
+run_uuid: d28557d835684c30a0ce08fe1e3661ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041726287
+status: 1
+tags: []
+user_id: unknown

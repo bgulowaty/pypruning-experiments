@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8c00cd96f4584c3ca0f4612c7b9acfa2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8c00cd96f4584c3ca0f4612c7b9acfa2
+run_name: legendary-grouse-252
+run_uuid: 8c00cd96f4584c3ca0f4612c7b9acfa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502049
+status: 1
+tags: []
+user_id: unknown

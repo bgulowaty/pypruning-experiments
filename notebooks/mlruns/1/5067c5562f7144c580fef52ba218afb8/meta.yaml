@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5067c5562f7144c580fef52ba218afb8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5067c5562f7144c580fef52ba218afb8
+run_name: treasured-skunk-733
+run_uuid: 5067c5562f7144c580fef52ba218afb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041820236
+status: 1
+tags: []
+user_id: unknown

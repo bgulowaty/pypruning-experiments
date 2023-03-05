@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e606235d5b7e458d8f5fa04f727ff7a5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e606235d5b7e458d8f5fa04f727ff7a5
+run_name: abrasive-sheep-81
+run_uuid: e606235d5b7e458d8f5fa04f727ff7a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041522055
+status: 1
+tags: []
+user_id: unknown

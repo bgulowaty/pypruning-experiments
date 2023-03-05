@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9372f74b45544ba284e67b44ccaf584a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9372f74b45544ba284e67b44ccaf584a
+run_name: skillful-shrew-763
+run_uuid: 9372f74b45544ba284e67b44ccaf584a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041504309
+status: 1
+tags: []
+user_id: unknown

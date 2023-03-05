@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/31e22a4dedb4471e8259a6a3a429eca1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 31e22a4dedb4471e8259a6a3a429eca1
+run_name: ambitious-fly-578
+run_uuid: 31e22a4dedb4471e8259a6a3a429eca1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041685719
+status: 1
+tags: []
+user_id: unknown

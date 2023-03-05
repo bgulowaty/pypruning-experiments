@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/248a9cd27260493babc3228ad6da2dd4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 248a9cd27260493babc3228ad6da2dd4
+run_name: receptive-crab-247
+run_uuid: 248a9cd27260493babc3228ad6da2dd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041512158
+status: 1
+tags: []
+user_id: unknown

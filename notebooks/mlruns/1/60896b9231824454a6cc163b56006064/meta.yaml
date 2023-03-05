@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/60896b9231824454a6cc163b56006064/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 60896b9231824454a6cc163b56006064
+run_name: vaunted-stag-987
+run_uuid: 60896b9231824454a6cc163b56006064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041606347
+status: 1
+tags: []
+user_id: unknown

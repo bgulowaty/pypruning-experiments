@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/22f786b9f53e4a5e8a0a4f35681ae7b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 22f786b9f53e4a5e8a0a4f35681ae7b3
+run_name: delicate-cow-84
+run_uuid: 22f786b9f53e4a5e8a0a4f35681ae7b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041517087
+status: 1
+tags: []
+user_id: unknown

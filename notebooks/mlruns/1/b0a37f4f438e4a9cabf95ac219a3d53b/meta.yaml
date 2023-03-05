@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b0a37f4f438e4a9cabf95ac219a3d53b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b0a37f4f438e4a9cabf95ac219a3d53b
+run_name: amazing-wasp-798
+run_uuid: b0a37f4f438e4a9cabf95ac219a3d53b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041512343
+status: 1
+tags: []
+user_id: unknown

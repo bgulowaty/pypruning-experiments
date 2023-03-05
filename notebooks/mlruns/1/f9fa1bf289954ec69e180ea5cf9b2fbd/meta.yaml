@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f9fa1bf289954ec69e180ea5cf9b2fbd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f9fa1bf289954ec69e180ea5cf9b2fbd
+run_name: casual-asp-781
+run_uuid: f9fa1bf289954ec69e180ea5cf9b2fbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041718816
+status: 1
+tags: []
+user_id: unknown

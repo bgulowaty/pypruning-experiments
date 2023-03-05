@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e4c803468f1d4eb49d0d4dd5d34e3706/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e4c803468f1d4eb49d0d4dd5d34e3706
+run_name: thoughtful-quail-975
+run_uuid: e4c803468f1d4eb49d0d4dd5d34e3706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041666562
+status: 1
+tags: []
+user_id: unknown

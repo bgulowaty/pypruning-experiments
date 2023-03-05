@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7014810ffc6f4529ab4207d1ca8ccdbc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7014810ffc6f4529ab4207d1ca8ccdbc
+run_name: merciful-mink-839
+run_uuid: 7014810ffc6f4529ab4207d1ca8ccdbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041509227
+status: 1
+tags: []
+user_id: unknown

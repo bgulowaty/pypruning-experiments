@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fa7662cf663241f6b1072eb747f40619/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa7662cf663241f6b1072eb747f40619
+run_name: wise-auk-928
+run_uuid: fa7662cf663241f6b1072eb747f40619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494768
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8b8e1afcbb7f457f99b9ec0154f6232d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8b8e1afcbb7f457f99b9ec0154f6232d
+run_name: luminous-fowl-43
+run_uuid: 8b8e1afcbb7f457f99b9ec0154f6232d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041673462
+status: 1
+tags: []
+user_id: unknown

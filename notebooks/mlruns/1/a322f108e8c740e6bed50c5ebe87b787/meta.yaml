@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a322f108e8c740e6bed50c5ebe87b787/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a322f108e8c740e6bed50c5ebe87b787
+run_name: suave-bee-728
+run_uuid: a322f108e8c740e6bed50c5ebe87b787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041634268
+status: 1
+tags: []
+user_id: unknown

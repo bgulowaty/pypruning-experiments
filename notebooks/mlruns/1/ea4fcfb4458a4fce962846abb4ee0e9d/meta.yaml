@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ea4fcfb4458a4fce962846abb4ee0e9d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ea4fcfb4458a4fce962846abb4ee0e9d
+run_name: resilient-shrike-341
+run_uuid: ea4fcfb4458a4fce962846abb4ee0e9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041842545
+status: 1
+tags: []
+user_id: unknown

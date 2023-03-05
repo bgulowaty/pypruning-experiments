@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/750ddaa541104b5daa77120254b7fbe3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 750ddaa541104b5daa77120254b7fbe3
+run_name: inquisitive-fawn-342
+run_uuid: 750ddaa541104b5daa77120254b7fbe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041535384
+status: 1
+tags: []
+user_id: unknown

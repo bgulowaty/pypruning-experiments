@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f0baa19b19cb4114a41509d84853277a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f0baa19b19cb4114a41509d84853277a
+run_name: auspicious-snail-851
+run_uuid: f0baa19b19cb4114a41509d84853277a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041866206
+status: 1
+tags: []
+user_id: unknown

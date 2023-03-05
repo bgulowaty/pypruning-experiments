@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4ecb426983184f6b82a70e997697a29f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ecb426983184f6b82a70e997697a29f
+run_name: nebulous-wren-574
+run_uuid: 4ecb426983184f6b82a70e997697a29f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495657
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fa14433d43e9446bacdebc5b80afc13a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa14433d43e9446bacdebc5b80afc13a
+run_name: omniscient-asp-333
+run_uuid: fa14433d43e9446bacdebc5b80afc13a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041916494
+status: 1
+tags: []
+user_id: unknown

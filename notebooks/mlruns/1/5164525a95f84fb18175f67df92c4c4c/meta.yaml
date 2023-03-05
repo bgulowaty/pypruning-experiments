@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5164525a95f84fb18175f67df92c4c4c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5164525a95f84fb18175f67df92c4c4c
+run_name: invincible-koi-964
+run_uuid: 5164525a95f84fb18175f67df92c4c4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041530065
+status: 1
+tags: []
+user_id: unknown

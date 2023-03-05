@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/966b4a4c953e4b809e72671e12bf8530/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 966b4a4c953e4b809e72671e12bf8530
+run_name: gregarious-vole-917
+run_uuid: 966b4a4c953e4b809e72671e12bf8530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041552852
+status: 1
+tags: []
+user_id: unknown

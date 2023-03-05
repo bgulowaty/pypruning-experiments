@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/14a1b641c0284ff6a5ea3db97c818bf7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 14a1b641c0284ff6a5ea3db97c818bf7
+run_name: fortunate-elk-231
+run_uuid: 14a1b641c0284ff6a5ea3db97c818bf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041624389
+status: 1
+tags: []
+user_id: unknown

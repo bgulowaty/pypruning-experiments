@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4fe35c5aa83a4adfb97f845f78d78b74/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4fe35c5aa83a4adfb97f845f78d78b74
+run_name: loud-goose-174
+run_uuid: 4fe35c5aa83a4adfb97f845f78d78b74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041904000
+status: 1
+tags: []
+user_id: unknown

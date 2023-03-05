@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/da18b2a4f4d240fdb0c3386cde221ce9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da18b2a4f4d240fdb0c3386cde221ce9
+run_name: abundant-wren-313
+run_uuid: da18b2a4f4d240fdb0c3386cde221ce9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041675666
+status: 1
+tags: []
+user_id: unknown

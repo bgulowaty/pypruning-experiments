@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/78fc347086c742e683b7cc6841423034/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 78fc347086c742e683b7cc6841423034
+run_name: bittersweet-bat-493
+run_uuid: 78fc347086c742e683b7cc6841423034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041686383
+status: 1
+tags: []
+user_id: unknown

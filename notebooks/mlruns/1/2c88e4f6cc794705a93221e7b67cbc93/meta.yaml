@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2c88e4f6cc794705a93221e7b67cbc93/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2c88e4f6cc794705a93221e7b67cbc93
+run_name: dapper-squirrel-639
+run_uuid: 2c88e4f6cc794705a93221e7b67cbc93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041916808
+status: 1
+tags: []
+user_id: unknown

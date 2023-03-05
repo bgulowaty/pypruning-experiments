@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ff2572e36292444d8b3d7ea6628489f8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff2572e36292444d8b3d7ea6628489f8
+run_name: charming-eel-629
+run_uuid: ff2572e36292444d8b3d7ea6628489f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041700942
+status: 1
+tags: []
+user_id: unknown

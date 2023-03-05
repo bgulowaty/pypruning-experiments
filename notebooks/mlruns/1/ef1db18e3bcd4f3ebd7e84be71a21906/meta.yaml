@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ef1db18e3bcd4f3ebd7e84be71a21906/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef1db18e3bcd4f3ebd7e84be71a21906
+run_name: handsome-smelt-698
+run_uuid: ef1db18e3bcd4f3ebd7e84be71a21906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041591059
+status: 1
+tags: []
+user_id: unknown

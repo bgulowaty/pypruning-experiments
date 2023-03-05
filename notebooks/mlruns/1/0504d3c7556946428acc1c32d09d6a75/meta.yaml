@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0504d3c7556946428acc1c32d09d6a75/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0504d3c7556946428acc1c32d09d6a75
+run_name: crawling-fox-644
+run_uuid: 0504d3c7556946428acc1c32d09d6a75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041516794
+status: 1
+tags: []
+user_id: unknown

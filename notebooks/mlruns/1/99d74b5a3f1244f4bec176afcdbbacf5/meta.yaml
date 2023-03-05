@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/99d74b5a3f1244f4bec176afcdbbacf5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99d74b5a3f1244f4bec176afcdbbacf5
+run_name: vaunted-hog-304
+run_uuid: 99d74b5a3f1244f4bec176afcdbbacf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041541917
+status: 1
+tags: []
+user_id: unknown

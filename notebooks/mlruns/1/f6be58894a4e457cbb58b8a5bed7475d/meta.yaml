@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f6be58894a4e457cbb58b8a5bed7475d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f6be58894a4e457cbb58b8a5bed7475d
+run_name: languid-calf-67
+run_uuid: f6be58894a4e457cbb58b8a5bed7475d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041708472
+status: 1
+tags: []
+user_id: unknown

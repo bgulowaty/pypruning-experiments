@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5d3b3fb06c0d4065bfc4b425a245079d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5d3b3fb06c0d4065bfc4b425a245079d
+run_name: trusting-steed-849
+run_uuid: 5d3b3fb06c0d4065bfc4b425a245079d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041534627
+status: 1
+tags: []
+user_id: unknown

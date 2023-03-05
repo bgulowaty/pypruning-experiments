@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4d4d5aed51d24c8ea3eb34b956f608f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d4d5aed51d24c8ea3eb34b956f608f9
+run_name: clumsy-foal-45
+run_uuid: 4d4d5aed51d24c8ea3eb34b956f608f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041617983
+status: 1
+tags: []
+user_id: unknown

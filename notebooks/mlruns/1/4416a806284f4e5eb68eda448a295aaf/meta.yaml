@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4416a806284f4e5eb68eda448a295aaf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4416a806284f4e5eb68eda448a295aaf
+run_name: unequaled-pug-971
+run_uuid: 4416a806284f4e5eb68eda448a295aaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041959388
+status: 1
+tags: []
+user_id: unknown

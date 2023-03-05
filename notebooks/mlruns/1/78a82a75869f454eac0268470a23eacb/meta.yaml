@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/78a82a75869f454eac0268470a23eacb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 78a82a75869f454eac0268470a23eacb
+run_name: magnificent-grub-185
+run_uuid: 78a82a75869f454eac0268470a23eacb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041740362
+status: 1
+tags: []
+user_id: unknown

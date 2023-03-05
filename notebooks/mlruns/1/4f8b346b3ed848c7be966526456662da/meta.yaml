@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4f8b346b3ed848c7be966526456662da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4f8b346b3ed848c7be966526456662da
+run_name: inquisitive-sloth-18
+run_uuid: 4f8b346b3ed848c7be966526456662da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496185
+status: 1
+tags: []
+user_id: unknown

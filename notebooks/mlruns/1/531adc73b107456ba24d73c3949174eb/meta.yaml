@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/531adc73b107456ba24d73c3949174eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 531adc73b107456ba24d73c3949174eb
+run_name: welcoming-fawn-140
+run_uuid: 531adc73b107456ba24d73c3949174eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041536777
+status: 1
+tags: []
+user_id: unknown

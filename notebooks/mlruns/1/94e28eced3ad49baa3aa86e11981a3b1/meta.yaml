@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/94e28eced3ad49baa3aa86e11981a3b1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 94e28eced3ad49baa3aa86e11981a3b1
+run_name: thoughtful-midge-278
+run_uuid: 94e28eced3ad49baa3aa86e11981a3b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041907439
+status: 1
+tags: []
+user_id: unknown

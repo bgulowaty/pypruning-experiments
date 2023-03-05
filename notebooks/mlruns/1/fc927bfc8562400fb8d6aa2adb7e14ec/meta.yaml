@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fc927bfc8562400fb8d6aa2adb7e14ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc927bfc8562400fb8d6aa2adb7e14ec
+run_name: secretive-whale-62
+run_uuid: fc927bfc8562400fb8d6aa2adb7e14ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041833035
+status: 1
+tags: []
+user_id: unknown

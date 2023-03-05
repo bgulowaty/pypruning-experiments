@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bb09db7382464adabd706a766b92d52c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb09db7382464adabd706a766b92d52c
+run_name: popular-penguin-257
+run_uuid: bb09db7382464adabd706a766b92d52c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041812268
+status: 1
+tags: []
+user_id: unknown

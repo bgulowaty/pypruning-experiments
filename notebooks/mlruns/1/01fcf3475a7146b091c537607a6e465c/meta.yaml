@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/01fcf3475a7146b091c537607a6e465c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01fcf3475a7146b091c537607a6e465c
+run_name: resilient-seal-118
+run_uuid: 01fcf3475a7146b091c537607a6e465c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041902855
+status: 1
+tags: []
+user_id: unknown

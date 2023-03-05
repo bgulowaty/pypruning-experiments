@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e7a83b0326b8455b8c0e29b7fbe40046/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7a83b0326b8455b8c0e29b7fbe40046
+run_name: unleashed-fish-88
+run_uuid: e7a83b0326b8455b8c0e29b7fbe40046
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041503350
+status: 1
+tags: []
+user_id: unknown

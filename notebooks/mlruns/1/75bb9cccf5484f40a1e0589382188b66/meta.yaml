@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/75bb9cccf5484f40a1e0589382188b66/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 75bb9cccf5484f40a1e0589382188b66
+run_name: enthused-goose-587
+run_uuid: 75bb9cccf5484f40a1e0589382188b66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041939820
+status: 1
+tags: []
+user_id: unknown

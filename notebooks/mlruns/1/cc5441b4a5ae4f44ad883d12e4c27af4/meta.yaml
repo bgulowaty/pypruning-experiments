@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cc5441b4a5ae4f44ad883d12e4c27af4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc5441b4a5ae4f44ad883d12e4c27af4
+run_name: monumental-robin-781
+run_uuid: cc5441b4a5ae4f44ad883d12e4c27af4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041648085
+status: 1
+tags: []
+user_id: unknown

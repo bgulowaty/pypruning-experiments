@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4910cd633c1c430d8fafbf110890143c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4910cd633c1c430d8fafbf110890143c
+run_name: sedate-fowl-732
+run_uuid: 4910cd633c1c430d8fafbf110890143c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041967875
+status: 1
+tags: []
+user_id: unknown

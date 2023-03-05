@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d6a67dc491184ce9acf0abe3ec848a42/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d6a67dc491184ce9acf0abe3ec848a42
+run_name: debonair-calf-408
+run_uuid: d6a67dc491184ce9acf0abe3ec848a42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041567768
+status: 1
+tags: []
+user_id: unknown

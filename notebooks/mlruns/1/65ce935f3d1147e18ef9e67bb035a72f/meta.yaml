@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/65ce935f3d1147e18ef9e67bb035a72f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65ce935f3d1147e18ef9e67bb035a72f
+run_name: sneaky-gnat-132
+run_uuid: 65ce935f3d1147e18ef9e67bb035a72f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499467
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4f6f581738e848e9b649b397e82aac42/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4f6f581738e848e9b649b397e82aac42
+run_name: fearless-rat-603
+run_uuid: 4f6f581738e848e9b649b397e82aac42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041609938
+status: 1
+tags: []
+user_id: unknown

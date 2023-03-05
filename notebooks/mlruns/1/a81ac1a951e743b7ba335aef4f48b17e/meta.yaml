@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a81ac1a951e743b7ba335aef4f48b17e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a81ac1a951e743b7ba335aef4f48b17e
+run_name: resilient-sloth-205
+run_uuid: a81ac1a951e743b7ba335aef4f48b17e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496019
+status: 1
+tags: []
+user_id: unknown

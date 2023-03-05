@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/395e292e49ae488598d912c0e5ea00d2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 395e292e49ae488598d912c0e5ea00d2
+run_name: persistent-colt-495
+run_uuid: 395e292e49ae488598d912c0e5ea00d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041808690
+status: 1
+tags: []
+user_id: unknown

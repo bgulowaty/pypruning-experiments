@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3de5962c86cb4515adfe3e0e45f327de/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3de5962c86cb4515adfe3e0e45f327de
+run_name: delightful-bat-849
+run_uuid: 3de5962c86cb4515adfe3e0e45f327de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041913060
+status: 1
+tags: []
+user_id: unknown

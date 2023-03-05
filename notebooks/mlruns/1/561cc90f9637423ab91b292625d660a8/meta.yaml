@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/561cc90f9637423ab91b292625d660a8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 561cc90f9637423ab91b292625d660a8
+run_name: grandiose-vole-176
+run_uuid: 561cc90f9637423ab91b292625d660a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041748255
+status: 1
+tags: []
+user_id: unknown

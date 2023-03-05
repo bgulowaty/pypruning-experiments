@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/900b450e6cc3483b88ce19c9105cbd9c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 900b450e6cc3483b88ce19c9105cbd9c
+run_name: puzzled-squid-421
+run_uuid: 900b450e6cc3483b88ce19c9105cbd9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041544985
+status: 1
+tags: []
+user_id: unknown

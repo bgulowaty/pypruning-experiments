@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b36f9e27d8194981b6a39c988d0b42e6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b36f9e27d8194981b6a39c988d0b42e6
+run_name: valuable-shark-26
+run_uuid: b36f9e27d8194981b6a39c988d0b42e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041571745
+status: 1
+tags: []
+user_id: unknown

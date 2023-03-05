@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0e0671e044de4495b4c734c3f9f0048f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0e0671e044de4495b4c734c3f9f0048f
+run_name: puzzled-gull-159
+run_uuid: 0e0671e044de4495b4c734c3f9f0048f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041801953
+status: 1
+tags: []
+user_id: unknown

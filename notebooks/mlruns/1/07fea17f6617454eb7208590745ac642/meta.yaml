@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/07fea17f6617454eb7208590745ac642/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 07fea17f6617454eb7208590745ac642
+run_name: receptive-tern-610
+run_uuid: 07fea17f6617454eb7208590745ac642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041818622
+status: 1
+tags: []
+user_id: unknown

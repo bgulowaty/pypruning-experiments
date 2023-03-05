@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c6ba38bb2baa4574a1c68c95533cb59d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c6ba38bb2baa4574a1c68c95533cb59d
+run_name: abundant-hog-533
+run_uuid: c6ba38bb2baa4574a1c68c95533cb59d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041794709
+status: 1
+tags: []
+user_id: unknown

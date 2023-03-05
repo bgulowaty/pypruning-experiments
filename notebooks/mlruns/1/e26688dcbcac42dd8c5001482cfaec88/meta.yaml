@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e26688dcbcac42dd8c5001482cfaec88/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e26688dcbcac42dd8c5001482cfaec88
+run_name: worried-toad-615
+run_uuid: e26688dcbcac42dd8c5001482cfaec88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041882899
+status: 1
+tags: []
+user_id: unknown

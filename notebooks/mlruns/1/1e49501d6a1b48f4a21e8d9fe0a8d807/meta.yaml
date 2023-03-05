@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1e49501d6a1b48f4a21e8d9fe0a8d807/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1e49501d6a1b48f4a21e8d9fe0a8d807
+run_name: legendary-snail-894
+run_uuid: 1e49501d6a1b48f4a21e8d9fe0a8d807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041891347
+status: 1
+tags: []
+user_id: unknown

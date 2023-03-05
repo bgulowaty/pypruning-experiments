@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1e271096a7ba44618081bd58fb629405/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1e271096a7ba44618081bd58fb629405
+run_name: marvelous-slug-528
+run_uuid: 1e271096a7ba44618081bd58fb629405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041818930
+status: 1
+tags: []
+user_id: unknown

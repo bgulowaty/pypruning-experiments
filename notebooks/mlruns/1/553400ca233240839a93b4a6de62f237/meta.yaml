@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/553400ca233240839a93b4a6de62f237/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 553400ca233240839a93b4a6de62f237
+run_name: receptive-goose-191
+run_uuid: 553400ca233240839a93b4a6de62f237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041851423
+status: 1
+tags: []
+user_id: unknown

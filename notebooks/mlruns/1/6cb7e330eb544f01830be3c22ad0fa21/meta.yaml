@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6cb7e330eb544f01830be3c22ad0fa21/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6cb7e330eb544f01830be3c22ad0fa21
+run_name: flawless-bat-50
+run_uuid: 6cb7e330eb544f01830be3c22ad0fa21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496856
+status: 1
+tags: []
+user_id: unknown

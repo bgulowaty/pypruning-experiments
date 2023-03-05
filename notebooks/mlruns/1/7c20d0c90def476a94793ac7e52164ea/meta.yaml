@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7c20d0c90def476a94793ac7e52164ea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7c20d0c90def476a94793ac7e52164ea
+run_name: worried-wolf-385
+run_uuid: 7c20d0c90def476a94793ac7e52164ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041945011
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/77b11aa19e4a45e6a5daafe6b560b46a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 77b11aa19e4a45e6a5daafe6b560b46a
+run_name: gifted-lamb-128
+run_uuid: 77b11aa19e4a45e6a5daafe6b560b46a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041613142
+status: 1
+tags: []
+user_id: unknown

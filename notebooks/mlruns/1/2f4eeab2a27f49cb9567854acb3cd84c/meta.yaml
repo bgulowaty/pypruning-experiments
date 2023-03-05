@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2f4eeab2a27f49cb9567854acb3cd84c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2f4eeab2a27f49cb9567854acb3cd84c
+run_name: peaceful-stag-327
+run_uuid: 2f4eeab2a27f49cb9567854acb3cd84c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041937351
+status: 1
+tags: []
+user_id: unknown

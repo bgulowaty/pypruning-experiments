@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d55be5207b8148a1a55c957038fd27e0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d55be5207b8148a1a55c957038fd27e0
+run_name: salty-bee-512
+run_uuid: d55be5207b8148a1a55c957038fd27e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495855
+status: 1
+tags: []
+user_id: unknown

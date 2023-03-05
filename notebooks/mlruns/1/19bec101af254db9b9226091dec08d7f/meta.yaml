@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/19bec101af254db9b9226091dec08d7f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 19bec101af254db9b9226091dec08d7f
+run_name: persistent-grub-23
+run_uuid: 19bec101af254db9b9226091dec08d7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041548687
+status: 1
+tags: []
+user_id: unknown

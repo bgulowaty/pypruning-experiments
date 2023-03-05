@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eab6dbd23071460b8cd43a36e6cff560/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eab6dbd23071460b8cd43a36e6cff560
+run_name: whimsical-loon-325
+run_uuid: eab6dbd23071460b8cd43a36e6cff560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041645468
+status: 1
+tags: []
+user_id: unknown

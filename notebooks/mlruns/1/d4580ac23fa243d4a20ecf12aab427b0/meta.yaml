@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d4580ac23fa243d4a20ecf12aab427b0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d4580ac23fa243d4a20ecf12aab427b0
+run_name: ambitious-cub-590
+run_uuid: d4580ac23fa243d4a20ecf12aab427b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041626880
+status: 1
+tags: []
+user_id: unknown

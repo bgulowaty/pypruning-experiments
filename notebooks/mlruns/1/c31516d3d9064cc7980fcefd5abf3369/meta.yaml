@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c31516d3d9064cc7980fcefd5abf3369/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c31516d3d9064cc7980fcefd5abf3369
+run_name: rare-tern-169
+run_uuid: c31516d3d9064cc7980fcefd5abf3369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041662086
+status: 1
+tags: []
+user_id: unknown

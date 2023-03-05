@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/caad2d3b173a4aeba16b013a97f359a9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: caad2d3b173a4aeba16b013a97f359a9
+run_name: magnificent-asp-496
+run_uuid: caad2d3b173a4aeba16b013a97f359a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041753078
+status: 1
+tags: []
+user_id: unknown

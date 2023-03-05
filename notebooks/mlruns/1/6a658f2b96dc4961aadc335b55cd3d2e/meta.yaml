@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6a658f2b96dc4961aadc335b55cd3d2e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6a658f2b96dc4961aadc335b55cd3d2e
+run_name: angry-shrike-258
+run_uuid: 6a658f2b96dc4961aadc335b55cd3d2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041973093
+status: 1
+tags: []
+user_id: unknown

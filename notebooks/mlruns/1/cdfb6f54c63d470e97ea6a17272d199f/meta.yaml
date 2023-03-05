@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cdfb6f54c63d470e97ea6a17272d199f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cdfb6f54c63d470e97ea6a17272d199f
+run_name: gaudy-ram-702
+run_uuid: cdfb6f54c63d470e97ea6a17272d199f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041563418
+status: 1
+tags: []
+user_id: unknown

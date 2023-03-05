@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/947537cd01804c988b5a0356369ae7bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 947537cd01804c988b5a0356369ae7bd
+run_name: popular-rook-64
+run_uuid: 947537cd01804c988b5a0356369ae7bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041588028
+status: 1
+tags: []
+user_id: unknown

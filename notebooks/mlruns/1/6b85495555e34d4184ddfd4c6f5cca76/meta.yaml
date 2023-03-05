@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6b85495555e34d4184ddfd4c6f5cca76/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6b85495555e34d4184ddfd4c6f5cca76
+run_name: lyrical-grub-530
+run_uuid: 6b85495555e34d4184ddfd4c6f5cca76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041669820
+status: 1
+tags: []
+user_id: unknown

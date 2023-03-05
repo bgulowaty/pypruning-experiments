@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bb7cc637ce8b48faac289a6e00df6584/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb7cc637ce8b48faac289a6e00df6584
+run_name: ambitious-quail-329
+run_uuid: bb7cc637ce8b48faac289a6e00df6584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041570937
+status: 1
+tags: []
+user_id: unknown

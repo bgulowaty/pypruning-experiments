@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b1ac1935add547b9a8b1fab43848efb4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b1ac1935add547b9a8b1fab43848efb4
+run_name: dashing-foal-147
+run_uuid: b1ac1935add547b9a8b1fab43848efb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041579235
+status: 1
+tags: []
+user_id: unknown

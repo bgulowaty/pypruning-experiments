@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a336527587f9400c8eb10d1a6551aa7b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a336527587f9400c8eb10d1a6551aa7b
+run_name: masked-grouse-314
+run_uuid: a336527587f9400c8eb10d1a6551aa7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041514767
+status: 1
+tags: []
+user_id: unknown

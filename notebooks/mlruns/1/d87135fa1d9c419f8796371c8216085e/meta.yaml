@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d87135fa1d9c419f8796371c8216085e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d87135fa1d9c419f8796371c8216085e
+run_name: indecisive-ox-631
+run_uuid: d87135fa1d9c419f8796371c8216085e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495266
+status: 1
+tags: []
+user_id: unknown

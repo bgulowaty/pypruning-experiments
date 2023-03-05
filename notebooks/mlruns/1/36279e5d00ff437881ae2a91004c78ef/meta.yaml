@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/36279e5d00ff437881ae2a91004c78ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 36279e5d00ff437881ae2a91004c78ef
+run_name: stately-wren-126
+run_uuid: 36279e5d00ff437881ae2a91004c78ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041741845
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7fb1df13fdeb41af8c13916c1be525f0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7fb1df13fdeb41af8c13916c1be525f0
+run_name: classy-skunk-474
+run_uuid: 7fb1df13fdeb41af8c13916c1be525f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041800106
+status: 1
+tags: []
+user_id: unknown

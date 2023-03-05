@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b025fd45101547e7a404344fa653bdbc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b025fd45101547e7a404344fa653bdbc
+run_name: stately-seal-74
+run_uuid: b025fd45101547e7a404344fa653bdbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041668910
+status: 1
+tags: []
+user_id: unknown

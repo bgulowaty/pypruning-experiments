@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cdd98a3f138c4840b45125bc6dadefbc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cdd98a3f138c4840b45125bc6dadefbc
+run_name: ambitious-crane-403
+run_uuid: cdd98a3f138c4840b45125bc6dadefbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041584185
+status: 1
+tags: []
+user_id: unknown

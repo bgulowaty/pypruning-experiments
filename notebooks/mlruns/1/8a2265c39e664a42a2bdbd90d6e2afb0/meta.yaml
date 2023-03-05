@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8a2265c39e664a42a2bdbd90d6e2afb0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8a2265c39e664a42a2bdbd90d6e2afb0
+run_name: secretive-elk-512
+run_uuid: 8a2265c39e664a42a2bdbd90d6e2afb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041613862
+status: 1
+tags: []
+user_id: unknown

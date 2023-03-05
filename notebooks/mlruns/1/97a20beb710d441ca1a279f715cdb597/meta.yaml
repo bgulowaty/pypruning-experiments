@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/97a20beb710d441ca1a279f715cdb597/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 97a20beb710d441ca1a279f715cdb597
+run_name: whimsical-rook-893
+run_uuid: 97a20beb710d441ca1a279f715cdb597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041534450
+status: 1
+tags: []
+user_id: unknown

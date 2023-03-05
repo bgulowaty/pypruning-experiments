@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8963e63745294d1aa99eb2664a6f96ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8963e63745294d1aa99eb2664a6f96ee
+run_name: unequaled-shoat-381
+run_uuid: 8963e63745294d1aa99eb2664a6f96ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494642
+status: 1
+tags: []
+user_id: unknown

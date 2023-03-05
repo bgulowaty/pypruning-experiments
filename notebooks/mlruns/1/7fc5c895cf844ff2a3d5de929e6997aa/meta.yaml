@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7fc5c895cf844ff2a3d5de929e6997aa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7fc5c895cf844ff2a3d5de929e6997aa
+run_name: zealous-bass-352
+run_uuid: 7fc5c895cf844ff2a3d5de929e6997aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041919044
+status: 1
+tags: []
+user_id: unknown

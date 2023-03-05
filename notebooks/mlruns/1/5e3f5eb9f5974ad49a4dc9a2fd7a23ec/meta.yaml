@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5e3f5eb9f5974ad49a4dc9a2fd7a23ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e3f5eb9f5974ad49a4dc9a2fd7a23ec
+run_name: fearless-fawn-460
+run_uuid: 5e3f5eb9f5974ad49a4dc9a2fd7a23ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041754583
+status: 1
+tags: []
+user_id: unknown

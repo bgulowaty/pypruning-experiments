@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c87d448c40b44748bf1c75c12c54d6db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c87d448c40b44748bf1c75c12c54d6db
+run_name: honorable-stork-903
+run_uuid: c87d448c40b44748bf1c75c12c54d6db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041757748
+status: 1
+tags: []
+user_id: unknown

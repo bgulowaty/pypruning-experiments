@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6644216ba7d9468d8e534b852972a957/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6644216ba7d9468d8e534b852972a957
+run_name: puzzled-koi-745
+run_uuid: 6644216ba7d9468d8e534b852972a957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041878172
+status: 1
+tags: []
+user_id: unknown

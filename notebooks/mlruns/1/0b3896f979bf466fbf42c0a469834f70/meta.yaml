@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0b3896f979bf466fbf42c0a469834f70/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b3896f979bf466fbf42c0a469834f70
+run_name: orderly-swan-606
+run_uuid: 0b3896f979bf466fbf42c0a469834f70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041883990
+status: 1
+tags: []
+user_id: unknown

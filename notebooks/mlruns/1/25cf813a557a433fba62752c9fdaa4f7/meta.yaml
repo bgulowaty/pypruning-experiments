@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/25cf813a557a433fba62752c9fdaa4f7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 25cf813a557a433fba62752c9fdaa4f7
+run_name: bustling-shrike-282
+run_uuid: 25cf813a557a433fba62752c9fdaa4f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041757375
+status: 1
+tags: []
+user_id: unknown

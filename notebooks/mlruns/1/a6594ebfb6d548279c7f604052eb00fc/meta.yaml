@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a6594ebfb6d548279c7f604052eb00fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a6594ebfb6d548279c7f604052eb00fc
+run_name: dashing-koi-368
+run_uuid: a6594ebfb6d548279c7f604052eb00fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495059
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ebfbc9549774498c9be4ba43d9a9b69f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ebfbc9549774498c9be4ba43d9a9b69f
+run_name: clean-tern-677
+run_uuid: ebfbc9549774498c9be4ba43d9a9b69f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041761305
+status: 1
+tags: []
+user_id: unknown

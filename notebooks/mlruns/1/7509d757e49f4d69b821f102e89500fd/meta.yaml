@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7509d757e49f4d69b821f102e89500fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7509d757e49f4d69b821f102e89500fd
+run_name: chill-skink-799
+run_uuid: 7509d757e49f4d69b821f102e89500fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041774365
+status: 1
+tags: []
+user_id: unknown

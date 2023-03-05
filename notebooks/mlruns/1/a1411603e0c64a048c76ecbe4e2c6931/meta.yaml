@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a1411603e0c64a048c76ecbe4e2c6931/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a1411603e0c64a048c76ecbe4e2c6931
+run_name: placid-frog-877
+run_uuid: a1411603e0c64a048c76ecbe4e2c6931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041526498
+status: 1
+tags: []
+user_id: unknown

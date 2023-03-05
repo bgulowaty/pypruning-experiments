@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ff157db6beee44fa99831be8bb52889f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff157db6beee44fa99831be8bb52889f
+run_name: defiant-swan-384
+run_uuid: ff157db6beee44fa99831be8bb52889f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041923121
+status: 1
+tags: []
+user_id: unknown

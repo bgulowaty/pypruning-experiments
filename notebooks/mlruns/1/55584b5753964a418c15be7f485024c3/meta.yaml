@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/55584b5753964a418c15be7f485024c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 55584b5753964a418c15be7f485024c3
+run_name: valuable-stoat-813
+run_uuid: 55584b5753964a418c15be7f485024c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041864897
+status: 1
+tags: []
+user_id: unknown

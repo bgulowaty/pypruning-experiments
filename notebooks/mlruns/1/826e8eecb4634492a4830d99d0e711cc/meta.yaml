@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/826e8eecb4634492a4830d99d0e711cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 826e8eecb4634492a4830d99d0e711cc
+run_name: wistful-roo-805
+run_uuid: 826e8eecb4634492a4830d99d0e711cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041505008
+status: 1
+tags: []
+user_id: unknown

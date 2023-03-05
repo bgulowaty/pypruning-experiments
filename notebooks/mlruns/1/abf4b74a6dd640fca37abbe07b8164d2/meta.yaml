@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/abf4b74a6dd640fca37abbe07b8164d2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: abf4b74a6dd640fca37abbe07b8164d2
+run_name: caring-rook-439
+run_uuid: abf4b74a6dd640fca37abbe07b8164d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041615694
+status: 1
+tags: []
+user_id: unknown

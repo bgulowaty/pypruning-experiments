@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cab1e1b61f164e4dbe90c57f372cb55e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cab1e1b61f164e4dbe90c57f372cb55e
+run_name: righteous-ram-165
+run_uuid: cab1e1b61f164e4dbe90c57f372cb55e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041741686
+status: 1
+tags: []
+user_id: unknown

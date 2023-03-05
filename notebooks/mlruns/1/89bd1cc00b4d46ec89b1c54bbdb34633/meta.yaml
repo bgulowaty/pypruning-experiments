@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/89bd1cc00b4d46ec89b1c54bbdb34633/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89bd1cc00b4d46ec89b1c54bbdb34633
+run_name: incongruous-fox-175
+run_uuid: 89bd1cc00b4d46ec89b1c54bbdb34633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041548232
+status: 1
+tags: []
+user_id: unknown

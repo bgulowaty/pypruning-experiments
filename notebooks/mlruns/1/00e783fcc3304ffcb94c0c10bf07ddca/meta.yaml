@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/00e783fcc3304ffcb94c0c10bf07ddca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 00e783fcc3304ffcb94c0c10bf07ddca
+run_name: fortunate-snake-386
+run_uuid: 00e783fcc3304ffcb94c0c10bf07ddca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041914588
+status: 1
+tags: []
+user_id: unknown

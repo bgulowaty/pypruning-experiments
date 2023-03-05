@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9905815c9e624310a5e81b7c1ff03a8c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9905815c9e624310a5e81b7c1ff03a8c
+run_name: shivering-quail-17
+run_uuid: 9905815c9e624310a5e81b7c1ff03a8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041513598
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/18c23c16a8dc4e37bc72ef835cd5324a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 18c23c16a8dc4e37bc72ef835cd5324a
+run_name: sneaky-pig-91
+run_uuid: 18c23c16a8dc4e37bc72ef835cd5324a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041943134
+status: 1
+tags: []
+user_id: unknown

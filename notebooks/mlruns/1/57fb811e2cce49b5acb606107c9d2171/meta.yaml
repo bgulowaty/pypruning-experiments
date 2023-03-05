@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/57fb811e2cce49b5acb606107c9d2171/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 57fb811e2cce49b5acb606107c9d2171
+run_name: invincible-seal-474
+run_uuid: 57fb811e2cce49b5acb606107c9d2171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041980150
+status: 1
+tags: []
+user_id: unknown

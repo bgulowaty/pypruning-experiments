@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f906a0e3a02d4237a10ede7cd0ef6909/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f906a0e3a02d4237a10ede7cd0ef6909
+run_name: auspicious-hound-351
+run_uuid: f906a0e3a02d4237a10ede7cd0ef6909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041926601
+status: 1
+tags: []
+user_id: unknown

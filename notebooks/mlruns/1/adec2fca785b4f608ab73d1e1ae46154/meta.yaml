@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/adec2fca785b4f608ab73d1e1ae46154/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: adec2fca785b4f608ab73d1e1ae46154
+run_name: polite-bee-912
+run_uuid: adec2fca785b4f608ab73d1e1ae46154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041504522
+status: 1
+tags: []
+user_id: unknown

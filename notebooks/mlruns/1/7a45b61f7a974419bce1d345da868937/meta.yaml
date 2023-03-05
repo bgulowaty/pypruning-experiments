@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7a45b61f7a974419bce1d345da868937/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7a45b61f7a974419bce1d345da868937
+run_name: unleashed-moth-874
+run_uuid: 7a45b61f7a974419bce1d345da868937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041906514
+status: 1
+tags: []
+user_id: unknown

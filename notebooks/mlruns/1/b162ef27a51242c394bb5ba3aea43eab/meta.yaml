@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b162ef27a51242c394bb5ba3aea43eab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b162ef27a51242c394bb5ba3aea43eab
+run_name: adaptable-goat-564
+run_uuid: b162ef27a51242c394bb5ba3aea43eab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041520213
+status: 1
+tags: []
+user_id: unknown

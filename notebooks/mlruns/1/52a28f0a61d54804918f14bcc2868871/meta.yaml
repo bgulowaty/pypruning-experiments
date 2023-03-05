@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/52a28f0a61d54804918f14bcc2868871/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 52a28f0a61d54804918f14bcc2868871
+run_name: upbeat-deer-87
+run_uuid: 52a28f0a61d54804918f14bcc2868871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041875334
+status: 1
+tags: []
+user_id: unknown

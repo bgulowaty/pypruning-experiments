@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0562455744c94f5ab680ab94379a6252/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0562455744c94f5ab680ab94379a6252
+run_name: kindly-roo-303
+run_uuid: 0562455744c94f5ab680ab94379a6252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041815125
+status: 1
+tags: []
+user_id: unknown

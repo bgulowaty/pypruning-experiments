@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/138a32502d9b49bf8599509fde021c72/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 138a32502d9b49bf8599509fde021c72
+run_name: hilarious-deer-540
+run_uuid: 138a32502d9b49bf8599509fde021c72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041803045
+status: 1
+tags: []
+user_id: unknown

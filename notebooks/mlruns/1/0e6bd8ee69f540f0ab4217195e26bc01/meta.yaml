@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0e6bd8ee69f540f0ab4217195e26bc01/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0e6bd8ee69f540f0ab4217195e26bc01
+run_name: receptive-loon-719
+run_uuid: 0e6bd8ee69f540f0ab4217195e26bc01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041904324
+status: 1
+tags: []
+user_id: unknown

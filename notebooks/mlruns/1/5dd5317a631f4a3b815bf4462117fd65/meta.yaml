@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5dd5317a631f4a3b815bf4462117fd65/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5dd5317a631f4a3b815bf4462117fd65
+run_name: adaptable-sloth-263
+run_uuid: 5dd5317a631f4a3b815bf4462117fd65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041850843
+status: 1
+tags: []
+user_id: unknown

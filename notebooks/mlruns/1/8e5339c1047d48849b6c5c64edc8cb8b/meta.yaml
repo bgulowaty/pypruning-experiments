@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8e5339c1047d48849b6c5c64edc8cb8b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e5339c1047d48849b6c5c64edc8cb8b
+run_name: grandiose-moose-702
+run_uuid: 8e5339c1047d48849b6c5c64edc8cb8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041982940
+status: 1
+tags: []
+user_id: unknown

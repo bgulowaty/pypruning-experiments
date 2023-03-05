@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/df5be5d6e1924eeb8a1cfdc5e1d90089/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df5be5d6e1924eeb8a1cfdc5e1d90089
+run_name: enthused-snail-411
+run_uuid: df5be5d6e1924eeb8a1cfdc5e1d90089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041908580
+status: 1
+tags: []
+user_id: unknown

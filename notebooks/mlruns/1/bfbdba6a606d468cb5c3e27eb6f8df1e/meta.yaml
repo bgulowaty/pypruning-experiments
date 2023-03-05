@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bfbdba6a606d468cb5c3e27eb6f8df1e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bfbdba6a606d468cb5c3e27eb6f8df1e
+run_name: masked-fawn-233
+run_uuid: bfbdba6a606d468cb5c3e27eb6f8df1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041741158
+status: 1
+tags: []
+user_id: unknown

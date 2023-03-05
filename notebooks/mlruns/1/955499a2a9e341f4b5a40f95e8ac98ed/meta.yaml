@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/955499a2a9e341f4b5a40f95e8ac98ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 955499a2a9e341f4b5a40f95e8ac98ed
+run_name: orderly-frog-171
+run_uuid: 955499a2a9e341f4b5a40f95e8ac98ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041974564
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/421d734c40bb415ab75da96ce5b14111/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 421d734c40bb415ab75da96ce5b14111
+run_name: able-wren-757
+run_uuid: 421d734c40bb415ab75da96ce5b14111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041618498
+status: 1
+tags: []
+user_id: unknown

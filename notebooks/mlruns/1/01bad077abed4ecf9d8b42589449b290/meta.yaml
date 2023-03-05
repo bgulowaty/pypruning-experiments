@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/01bad077abed4ecf9d8b42589449b290/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01bad077abed4ecf9d8b42589449b290
+run_name: amusing-bass-243
+run_uuid: 01bad077abed4ecf9d8b42589449b290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041965273
+status: 1
+tags: []
+user_id: unknown

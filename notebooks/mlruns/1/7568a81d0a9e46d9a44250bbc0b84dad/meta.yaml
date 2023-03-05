@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7568a81d0a9e46d9a44250bbc0b84dad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7568a81d0a9e46d9a44250bbc0b84dad
+run_name: sneaky-wasp-381
+run_uuid: 7568a81d0a9e46d9a44250bbc0b84dad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041726362
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7ef0ce70bfbe4d5b845a6700f978afcf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7ef0ce70bfbe4d5b845a6700f978afcf
+run_name: gifted-kit-787
+run_uuid: 7ef0ce70bfbe4d5b845a6700f978afcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041888405
+status: 1
+tags: []
+user_id: unknown

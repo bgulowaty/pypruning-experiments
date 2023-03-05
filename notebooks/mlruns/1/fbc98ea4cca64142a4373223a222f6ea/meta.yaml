@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fbc98ea4cca64142a4373223a222f6ea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fbc98ea4cca64142a4373223a222f6ea
+run_name: fearless-croc-737
+run_uuid: fbc98ea4cca64142a4373223a222f6ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041765662
+status: 1
+tags: []
+user_id: unknown

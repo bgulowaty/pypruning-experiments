@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/261c150f01a84d0282711fb1b4887e61/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 261c150f01a84d0282711fb1b4887e61
+run_name: sedate-stag-487
+run_uuid: 261c150f01a84d0282711fb1b4887e61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041544314
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2bf215ee63d84a82ae7b8590cd94179a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2bf215ee63d84a82ae7b8590cd94179a
+run_name: peaceful-shoat-555
+run_uuid: 2bf215ee63d84a82ae7b8590cd94179a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041551757
+status: 1
+tags: []
+user_id: unknown

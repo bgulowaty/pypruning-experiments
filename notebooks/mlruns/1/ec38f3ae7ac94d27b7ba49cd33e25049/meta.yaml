@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ec38f3ae7ac94d27b7ba49cd33e25049/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec38f3ae7ac94d27b7ba49cd33e25049
+run_name: stylish-goat-985
+run_uuid: ec38f3ae7ac94d27b7ba49cd33e25049
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499796
+status: 1
+tags: []
+user_id: unknown

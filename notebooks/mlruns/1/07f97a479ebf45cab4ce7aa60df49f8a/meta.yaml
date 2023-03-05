@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/07f97a479ebf45cab4ce7aa60df49f8a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 07f97a479ebf45cab4ce7aa60df49f8a
+run_name: indecisive-boar-87
+run_uuid: 07f97a479ebf45cab4ce7aa60df49f8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041528783
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/23562ab8012c4c9a89a267337f0a8396/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 23562ab8012c4c9a89a267337f0a8396
+run_name: bemused-donkey-163
+run_uuid: 23562ab8012c4c9a89a267337f0a8396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041928625
+status: 1
+tags: []
+user_id: unknown

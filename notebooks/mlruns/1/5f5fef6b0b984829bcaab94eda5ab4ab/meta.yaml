@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5f5fef6b0b984829bcaab94eda5ab4ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5f5fef6b0b984829bcaab94eda5ab4ab
+run_name: magnificent-toad-923
+run_uuid: 5f5fef6b0b984829bcaab94eda5ab4ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041516294
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ba5cb3d403a940c49610a4c17f9acaf8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ba5cb3d403a940c49610a4c17f9acaf8
+run_name: awesome-shark-417
+run_uuid: ba5cb3d403a940c49610a4c17f9acaf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041970352
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/27e8a9a3eea740c7baa10d88c3f1fe96/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 27e8a9a3eea740c7baa10d88c3f1fe96
+run_name: blushing-goat-828
+run_uuid: 27e8a9a3eea740c7baa10d88c3f1fe96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041746529
+status: 1
+tags: []
+user_id: unknown

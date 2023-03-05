@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/22243b468f3d4c56a2a3646b27eb99c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 22243b468f3d4c56a2a3646b27eb99c7
+run_name: skittish-shrimp-993
+run_uuid: 22243b468f3d4c56a2a3646b27eb99c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041628410
+status: 1
+tags: []
+user_id: unknown

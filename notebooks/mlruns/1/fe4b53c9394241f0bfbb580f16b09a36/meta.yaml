@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fe4b53c9394241f0bfbb580f16b09a36/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe4b53c9394241f0bfbb580f16b09a36
+run_name: illustrious-hawk-216
+run_uuid: fe4b53c9394241f0bfbb580f16b09a36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041550503
+status: 1
+tags: []
+user_id: unknown

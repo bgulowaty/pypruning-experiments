@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9f175751c49748bc9f730fdff1f6f54f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9f175751c49748bc9f730fdff1f6f54f
+run_name: kindly-grouse-672
+run_uuid: 9f175751c49748bc9f730fdff1f6f54f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041737199
+status: 1
+tags: []
+user_id: unknown

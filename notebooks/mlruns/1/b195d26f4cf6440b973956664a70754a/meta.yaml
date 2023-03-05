@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b195d26f4cf6440b973956664a70754a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b195d26f4cf6440b973956664a70754a
+run_name: popular-koi-8
+run_uuid: b195d26f4cf6440b973956664a70754a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041674021
+status: 1
+tags: []
+user_id: unknown

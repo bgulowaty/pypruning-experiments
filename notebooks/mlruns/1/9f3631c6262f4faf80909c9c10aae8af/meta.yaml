@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9f3631c6262f4faf80909c9c10aae8af/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9f3631c6262f4faf80909c9c10aae8af
+run_name: charming-foal-712
+run_uuid: 9f3631c6262f4faf80909c9c10aae8af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041592389
+status: 1
+tags: []
+user_id: unknown

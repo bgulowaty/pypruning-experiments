@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d5ba2b01577541e6a5a3b5c3ae34a125/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d5ba2b01577541e6a5a3b5c3ae34a125
+run_name: brawny-fawn-825
+run_uuid: d5ba2b01577541e6a5a3b5c3ae34a125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041732652
+status: 1
+tags: []
+user_id: unknown

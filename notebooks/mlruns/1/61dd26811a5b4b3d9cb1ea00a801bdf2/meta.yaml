@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/61dd26811a5b4b3d9cb1ea00a801bdf2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 61dd26811a5b4b3d9cb1ea00a801bdf2
+run_name: exultant-crane-962
+run_uuid: 61dd26811a5b4b3d9cb1ea00a801bdf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041737338
+status: 1
+tags: []
+user_id: unknown

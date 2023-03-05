@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3f7feaab65944666a40f0c5ef4e46205/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3f7feaab65944666a40f0c5ef4e46205
+run_name: burly-newt-435
+run_uuid: 3f7feaab65944666a40f0c5ef4e46205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041649657
+status: 1
+tags: []
+user_id: unknown

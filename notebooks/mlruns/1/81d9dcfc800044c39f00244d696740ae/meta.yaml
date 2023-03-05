@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/81d9dcfc800044c39f00244d696740ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 81d9dcfc800044c39f00244d696740ae
+run_name: clean-fox-641
+run_uuid: 81d9dcfc800044c39f00244d696740ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041836668
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/50e532ea6d054c579681d734e05aebc9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 50e532ea6d054c579681d734e05aebc9
+run_name: rare-snake-320
+run_uuid: 50e532ea6d054c579681d734e05aebc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041669603
+status: 1
+tags: []
+user_id: unknown

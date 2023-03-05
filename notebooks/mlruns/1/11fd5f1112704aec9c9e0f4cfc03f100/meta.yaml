@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/11fd5f1112704aec9c9e0f4cfc03f100/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 11fd5f1112704aec9c9e0f4cfc03f100
+run_name: thundering-dog-98
+run_uuid: 11fd5f1112704aec9c9e0f4cfc03f100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041538105
+status: 1
+tags: []
+user_id: unknown

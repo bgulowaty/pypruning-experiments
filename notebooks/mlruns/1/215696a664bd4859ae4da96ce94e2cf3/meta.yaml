@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/215696a664bd4859ae4da96ce94e2cf3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 215696a664bd4859ae4da96ce94e2cf3
+run_name: spiffy-grouse-435
+run_uuid: 215696a664bd4859ae4da96ce94e2cf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041841747
+status: 1
+tags: []
+user_id: unknown

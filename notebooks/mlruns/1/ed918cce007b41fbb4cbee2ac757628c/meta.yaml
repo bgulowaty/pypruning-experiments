@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ed918cce007b41fbb4cbee2ac757628c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed918cce007b41fbb4cbee2ac757628c
+run_name: efficient-loon-963
+run_uuid: ed918cce007b41fbb4cbee2ac757628c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041503238
+status: 1
+tags: []
+user_id: unknown

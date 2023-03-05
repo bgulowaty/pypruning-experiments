@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/190d4145f77e43428a2a76fcbd1c4700/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 190d4145f77e43428a2a76fcbd1c4700
+run_name: learned-grub-66
+run_uuid: 190d4145f77e43428a2a76fcbd1c4700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041956779
+status: 1
+tags: []
+user_id: unknown

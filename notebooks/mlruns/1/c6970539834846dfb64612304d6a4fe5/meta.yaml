@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c6970539834846dfb64612304d6a4fe5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c6970539834846dfb64612304d6a4fe5
+run_name: receptive-auk-292
+run_uuid: c6970539834846dfb64612304d6a4fe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041920424
+status: 1
+tags: []
+user_id: unknown

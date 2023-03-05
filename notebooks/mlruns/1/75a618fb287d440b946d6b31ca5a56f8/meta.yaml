@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/75a618fb287d440b946d6b31ca5a56f8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 75a618fb287d440b946d6b31ca5a56f8
+run_name: welcoming-cow-568
+run_uuid: 75a618fb287d440b946d6b31ca5a56f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041909516
+status: 1
+tags: []
+user_id: unknown

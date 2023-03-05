@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8bac8b41b93c4b4da6ec3d9fd9b0ad1c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8bac8b41b93c4b4da6ec3d9fd9b0ad1c
+run_name: awesome-shoat-689
+run_uuid: 8bac8b41b93c4b4da6ec3d9fd9b0ad1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041515559
+status: 1
+tags: []
+user_id: unknown

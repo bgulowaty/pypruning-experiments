@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3727a265ca9849c9a186aeb74dc52d6e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3727a265ca9849c9a186aeb74dc52d6e
+run_name: painted-finch-991
+run_uuid: 3727a265ca9849c9a186aeb74dc52d6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041682969
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ae8552a1240e4160aa66e62f7a21218b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ae8552a1240e4160aa66e62f7a21218b
+run_name: able-kit-683
+run_uuid: ae8552a1240e4160aa66e62f7a21218b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041498472
+status: 1
+tags: []
+user_id: unknown

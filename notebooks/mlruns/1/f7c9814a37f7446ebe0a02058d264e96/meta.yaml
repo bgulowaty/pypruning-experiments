@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f7c9814a37f7446ebe0a02058d264e96/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f7c9814a37f7446ebe0a02058d264e96
+run_name: smiling-bug-57
+run_uuid: f7c9814a37f7446ebe0a02058d264e96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496540
+status: 1
+tags: []
+user_id: unknown

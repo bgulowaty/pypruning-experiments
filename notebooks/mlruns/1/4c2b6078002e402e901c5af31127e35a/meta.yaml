@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4c2b6078002e402e901c5af31127e35a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4c2b6078002e402e901c5af31127e35a
+run_name: peaceful-asp-729
+run_uuid: 4c2b6078002e402e901c5af31127e35a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041757267
+status: 1
+tags: []
+user_id: unknown

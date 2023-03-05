@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cd7b7d61bd8040549c5e44bee578256a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cd7b7d61bd8040549c5e44bee578256a
+run_name: selective-bird-637
+run_uuid: cd7b7d61bd8040549c5e44bee578256a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041532342
+status: 1
+tags: []
+user_id: unknown

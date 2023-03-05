@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b6d9447aaf8941269928230dc1b00130/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b6d9447aaf8941269928230dc1b00130
+run_name: melodic-shoat-795
+run_uuid: b6d9447aaf8941269928230dc1b00130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041805868
+status: 1
+tags: []
+user_id: unknown

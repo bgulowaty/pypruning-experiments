@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/431a3f46956c4c37b4e9aaa14c8aca8b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 431a3f46956c4c37b4e9aaa14c8aca8b
+run_name: powerful-hen-548
+run_uuid: 431a3f46956c4c37b4e9aaa14c8aca8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041513692
+status: 1
+tags: []
+user_id: unknown

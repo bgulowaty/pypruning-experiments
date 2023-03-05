@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ed07b1b3743b4a528709d9e9ff7bd0fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed07b1b3743b4a528709d9e9ff7bd0fc
+run_name: rebellious-foal-411
+run_uuid: ed07b1b3743b4a528709d9e9ff7bd0fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041837289
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/af2987662a924a0cba749f3594a964b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: af2987662a924a0cba749f3594a964b3
+run_name: gifted-gull-152
+run_uuid: af2987662a924a0cba749f3594a964b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041528163
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e653e192c97c4c8c86ec81475b7e5bef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e653e192c97c4c8c86ec81475b7e5bef
+run_name: melodic-ray-735
+run_uuid: e653e192c97c4c8c86ec81475b7e5bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041586408
+status: 1
+tags: []
+user_id: unknown

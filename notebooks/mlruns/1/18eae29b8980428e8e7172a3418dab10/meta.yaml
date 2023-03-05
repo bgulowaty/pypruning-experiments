@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/18eae29b8980428e8e7172a3418dab10/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 18eae29b8980428e8e7172a3418dab10
+run_name: bright-vole-948
+run_uuid: 18eae29b8980428e8e7172a3418dab10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041931306
+status: 1
+tags: []
+user_id: unknown

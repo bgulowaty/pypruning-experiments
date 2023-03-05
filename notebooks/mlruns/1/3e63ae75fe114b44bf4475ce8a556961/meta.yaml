@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3e63ae75fe114b44bf4475ce8a556961/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e63ae75fe114b44bf4475ce8a556961
+run_name: unequaled-wolf-838
+run_uuid: 3e63ae75fe114b44bf4475ce8a556961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499215
+status: 1
+tags: []
+user_id: unknown

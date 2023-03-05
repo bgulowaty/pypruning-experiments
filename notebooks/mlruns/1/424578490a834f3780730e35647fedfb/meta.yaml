@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/424578490a834f3780730e35647fedfb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 424578490a834f3780730e35647fedfb
+run_name: awesome-pig-237
+run_uuid: 424578490a834f3780730e35647fedfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041809027
+status: 1
+tags: []
+user_id: unknown

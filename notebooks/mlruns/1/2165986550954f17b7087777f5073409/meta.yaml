@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2165986550954f17b7087777f5073409/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2165986550954f17b7087777f5073409
+run_name: gaudy-ray-780
+run_uuid: 2165986550954f17b7087777f5073409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041578742
+status: 1
+tags: []
+user_id: unknown

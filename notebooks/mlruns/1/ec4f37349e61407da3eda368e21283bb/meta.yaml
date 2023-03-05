@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ec4f37349e61407da3eda368e21283bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec4f37349e61407da3eda368e21283bb
+run_name: zealous-asp-801
+run_uuid: ec4f37349e61407da3eda368e21283bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041534483
+status: 1
+tags: []
+user_id: unknown

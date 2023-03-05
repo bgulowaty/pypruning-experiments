@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dadf03aea1f5460fba0a190e255e16ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dadf03aea1f5460fba0a190e255e16ce
+run_name: big-sow-81
+run_uuid: dadf03aea1f5460fba0a190e255e16ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041729983
+status: 1
+tags: []
+user_id: unknown

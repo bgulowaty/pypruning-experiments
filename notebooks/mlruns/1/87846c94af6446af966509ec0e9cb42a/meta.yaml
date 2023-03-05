@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/87846c94af6446af966509ec0e9cb42a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87846c94af6446af966509ec0e9cb42a
+run_name: bustling-dove-832
+run_uuid: 87846c94af6446af966509ec0e9cb42a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041503389
+status: 1
+tags: []
+user_id: unknown

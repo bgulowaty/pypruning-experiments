@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a2c56d6950b84c5686a90d95dd485395/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2c56d6950b84c5686a90d95dd485395
+run_name: monumental-ram-402
+run_uuid: a2c56d6950b84c5686a90d95dd485395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041584061
+status: 1
+tags: []
+user_id: unknown

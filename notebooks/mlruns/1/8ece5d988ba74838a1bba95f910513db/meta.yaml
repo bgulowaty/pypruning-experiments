@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8ece5d988ba74838a1bba95f910513db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8ece5d988ba74838a1bba95f910513db
+run_name: debonair-fawn-664
+run_uuid: 8ece5d988ba74838a1bba95f910513db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041651206
+status: 1
+tags: []
+user_id: unknown

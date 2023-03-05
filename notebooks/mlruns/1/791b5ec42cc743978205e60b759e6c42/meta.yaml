@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/791b5ec42cc743978205e60b759e6c42/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 791b5ec42cc743978205e60b759e6c42
+run_name: caring-ox-200
+run_uuid: 791b5ec42cc743978205e60b759e6c42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041527792
+status: 1
+tags: []
+user_id: unknown

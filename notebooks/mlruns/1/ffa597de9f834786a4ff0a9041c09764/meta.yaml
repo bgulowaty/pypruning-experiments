@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ffa597de9f834786a4ff0a9041c09764/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ffa597de9f834786a4ff0a9041c09764
+run_name: sincere-crane-157
+run_uuid: ffa597de9f834786a4ff0a9041c09764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041721543
+status: 1
+tags: []
+user_id: unknown

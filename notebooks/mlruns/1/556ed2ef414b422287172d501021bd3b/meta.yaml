@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/556ed2ef414b422287172d501021bd3b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 556ed2ef414b422287172d501021bd3b
+run_name: bemused-chimp-73
+run_uuid: 556ed2ef414b422287172d501021bd3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041621964
+status: 1
+tags: []
+user_id: unknown

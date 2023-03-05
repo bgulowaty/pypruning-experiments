@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/80f835847225423caf43dc36dad0d8e4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 80f835847225423caf43dc36dad0d8e4
+run_name: defiant-goose-904
+run_uuid: 80f835847225423caf43dc36dad0d8e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496115
+status: 1
+tags: []
+user_id: unknown

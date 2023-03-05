@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5a4957a637764a53b6cbc515f9301426/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5a4957a637764a53b6cbc515f9301426
+run_name: charming-bass-589
+run_uuid: 5a4957a637764a53b6cbc515f9301426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041520354
+status: 1
+tags: []
+user_id: unknown

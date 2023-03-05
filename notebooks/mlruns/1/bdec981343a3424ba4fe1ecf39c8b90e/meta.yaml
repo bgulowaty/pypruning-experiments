@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bdec981343a3424ba4fe1ecf39c8b90e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bdec981343a3424ba4fe1ecf39c8b90e
+run_name: gaudy-seal-586
+run_uuid: bdec981343a3424ba4fe1ecf39c8b90e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041569966
+status: 1
+tags: []
+user_id: unknown

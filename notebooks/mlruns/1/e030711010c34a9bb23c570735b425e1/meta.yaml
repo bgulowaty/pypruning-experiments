@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e030711010c34a9bb23c570735b425e1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e030711010c34a9bb23c570735b425e1
+run_name: unequaled-gnu-16
+run_uuid: e030711010c34a9bb23c570735b425e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041828140
+status: 1
+tags: []
+user_id: unknown

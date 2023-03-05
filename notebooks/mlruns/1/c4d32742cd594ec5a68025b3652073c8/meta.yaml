@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c4d32742cd594ec5a68025b3652073c8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c4d32742cd594ec5a68025b3652073c8
+run_name: selective-bass-116
+run_uuid: c4d32742cd594ec5a68025b3652073c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041662614
+status: 1
+tags: []
+user_id: unknown

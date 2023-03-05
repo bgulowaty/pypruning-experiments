@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/49c6fba7f1574fa3b6c90aebb95cd22f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 49c6fba7f1574fa3b6c90aebb95cd22f
+run_name: treasured-squid-571
+run_uuid: 49c6fba7f1574fa3b6c90aebb95cd22f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499630
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6318eac46d7148f9b6ddd073ab431fe9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6318eac46d7148f9b6ddd073ab431fe9
+run_name: powerful-rook-516
+run_uuid: 6318eac46d7148f9b6ddd073ab431fe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041868649
+status: 1
+tags: []
+user_id: unknown

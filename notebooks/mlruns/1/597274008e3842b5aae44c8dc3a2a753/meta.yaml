@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/597274008e3842b5aae44c8dc3a2a753/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 597274008e3842b5aae44c8dc3a2a753
+run_name: rare-bass-502
+run_uuid: 597274008e3842b5aae44c8dc3a2a753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041718920
+status: 1
+tags: []
+user_id: unknown

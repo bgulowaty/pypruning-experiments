@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3cb907bd910643fcaf8b2d55f46b635b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3cb907bd910643fcaf8b2d55f46b635b
+run_name: upset-cod-459
+run_uuid: 3cb907bd910643fcaf8b2d55f46b635b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041611201
+status: 1
+tags: []
+user_id: unknown

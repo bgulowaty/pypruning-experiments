@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/38a7ab3df13b4e43a3c04daa6b4ceb9b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 38a7ab3df13b4e43a3c04daa6b4ceb9b
+run_name: unequaled-conch-472
+run_uuid: 38a7ab3df13b4e43a3c04daa6b4ceb9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041746038
+status: 1
+tags: []
+user_id: unknown

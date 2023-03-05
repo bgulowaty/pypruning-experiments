@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c27c9f76343d4fd0bf48bc8213322901/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c27c9f76343d4fd0bf48bc8213322901
+run_name: adorable-panda-675
+run_uuid: c27c9f76343d4fd0bf48bc8213322901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041777805
+status: 1
+tags: []
+user_id: unknown

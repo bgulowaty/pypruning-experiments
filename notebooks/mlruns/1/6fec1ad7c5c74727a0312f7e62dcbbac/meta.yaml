@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6fec1ad7c5c74727a0312f7e62dcbbac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6fec1ad7c5c74727a0312f7e62dcbbac
+run_name: bustling-jay-135
+run_uuid: 6fec1ad7c5c74727a0312f7e62dcbbac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041913274
+status: 1
+tags: []
+user_id: unknown

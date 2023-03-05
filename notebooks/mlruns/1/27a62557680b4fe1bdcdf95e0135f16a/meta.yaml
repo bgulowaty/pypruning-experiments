@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/27a62557680b4fe1bdcdf95e0135f16a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 27a62557680b4fe1bdcdf95e0135f16a
+run_name: luminous-snake-126
+run_uuid: 27a62557680b4fe1bdcdf95e0135f16a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041549914
+status: 1
+tags: []
+user_id: unknown

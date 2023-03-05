@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c31a351f0ef641cba9d4cf7439d50c4e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c31a351f0ef641cba9d4cf7439d50c4e
+run_name: bemused-jay-326
+run_uuid: c31a351f0ef641cba9d4cf7439d50c4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041516856
+status: 1
+tags: []
+user_id: unknown

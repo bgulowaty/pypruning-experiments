@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/58b95b6b606b4128bd30d06121b316c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 58b95b6b606b4128bd30d06121b316c7
+run_name: bittersweet-cub-876
+run_uuid: 58b95b6b606b4128bd30d06121b316c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041953276
+status: 1
+tags: []
+user_id: unknown

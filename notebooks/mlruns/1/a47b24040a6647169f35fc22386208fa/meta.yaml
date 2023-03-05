@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a47b24040a6647169f35fc22386208fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a47b24040a6647169f35fc22386208fa
+run_name: indecisive-skink-450
+run_uuid: a47b24040a6647169f35fc22386208fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041600238
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8956ed63e4364253b14da7e05c6fc17b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8956ed63e4364253b14da7e05c6fc17b
+run_name: useful-ray-486
+run_uuid: 8956ed63e4364253b14da7e05c6fc17b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041705179
+status: 1
+tags: []
+user_id: unknown

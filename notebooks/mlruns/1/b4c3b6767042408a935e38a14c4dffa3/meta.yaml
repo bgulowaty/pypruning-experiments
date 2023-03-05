@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b4c3b6767042408a935e38a14c4dffa3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b4c3b6767042408a935e38a14c4dffa3
+run_name: traveling-robin-739
+run_uuid: b4c3b6767042408a935e38a14c4dffa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041782623
+status: 1
+tags: []
+user_id: unknown

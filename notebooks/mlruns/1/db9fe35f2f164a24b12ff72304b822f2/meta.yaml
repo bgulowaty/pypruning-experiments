@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/db9fe35f2f164a24b12ff72304b822f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db9fe35f2f164a24b12ff72304b822f2
+run_name: big-fawn-242
+run_uuid: db9fe35f2f164a24b12ff72304b822f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502782
+status: 1
+tags: []
+user_id: unknown

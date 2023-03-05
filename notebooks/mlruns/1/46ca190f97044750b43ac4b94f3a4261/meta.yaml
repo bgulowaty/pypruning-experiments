@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/46ca190f97044750b43ac4b94f3a4261/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46ca190f97044750b43ac4b94f3a4261
+run_name: aged-foal-518
+run_uuid: 46ca190f97044750b43ac4b94f3a4261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041498862
+status: 1
+tags: []
+user_id: unknown

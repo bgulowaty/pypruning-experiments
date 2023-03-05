@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e2f666f46d3f433e8e33481ee19f1c96/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e2f666f46d3f433e8e33481ee19f1c96
+run_name: respected-shoat-865
+run_uuid: e2f666f46d3f433e8e33481ee19f1c96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041580635
+status: 1
+tags: []
+user_id: unknown

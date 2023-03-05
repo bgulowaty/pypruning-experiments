@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0d0a021df94744d08e80c68bbff7a4e8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0d0a021df94744d08e80c68bbff7a4e8
+run_name: delicate-bass-350
+run_uuid: 0d0a021df94744d08e80c68bbff7a4e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041505710
+status: 1
+tags: []
+user_id: unknown

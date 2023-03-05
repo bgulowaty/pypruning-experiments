@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/589626e709da44d893176a386e4cb306/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 589626e709da44d893176a386e4cb306
+run_name: burly-dog-293
+run_uuid: 589626e709da44d893176a386e4cb306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041914378
+status: 1
+tags: []
+user_id: unknown

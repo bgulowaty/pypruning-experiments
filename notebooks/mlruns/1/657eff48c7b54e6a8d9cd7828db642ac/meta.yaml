@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/657eff48c7b54e6a8d9cd7828db642ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 657eff48c7b54e6a8d9cd7828db642ac
+run_name: carefree-bird-612
+run_uuid: 657eff48c7b54e6a8d9cd7828db642ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041727241
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/36c6cf4b55f04d6b8301856919dab330/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 36c6cf4b55f04d6b8301856919dab330
+run_name: adorable-snipe-710
+run_uuid: 36c6cf4b55f04d6b8301856919dab330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041578009
+status: 1
+tags: []
+user_id: unknown

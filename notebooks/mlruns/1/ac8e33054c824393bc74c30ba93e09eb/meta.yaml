@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ac8e33054c824393bc74c30ba93e09eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac8e33054c824393bc74c30ba93e09eb
+run_name: entertaining-asp-644
+run_uuid: ac8e33054c824393bc74c30ba93e09eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041706802
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/283dff03488747c39273d15737fde411/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 283dff03488747c39273d15737fde411
+run_name: casual-ray-715
+run_uuid: 283dff03488747c39273d15737fde411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041500749
+status: 1
+tags: []
+user_id: unknown

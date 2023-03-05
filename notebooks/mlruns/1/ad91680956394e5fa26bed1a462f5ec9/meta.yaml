@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ad91680956394e5fa26bed1a462f5ec9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad91680956394e5fa26bed1a462f5ec9
+run_name: efficient-auk-338
+run_uuid: ad91680956394e5fa26bed1a462f5ec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041940107
+status: 1
+tags: []
+user_id: unknown

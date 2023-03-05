@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/228056cf206941c2ac192485d229c269/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 228056cf206941c2ac192485d229c269
+run_name: melodic-foal-149
+run_uuid: 228056cf206941c2ac192485d229c269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041557439
+status: 1
+tags: []
+user_id: unknown

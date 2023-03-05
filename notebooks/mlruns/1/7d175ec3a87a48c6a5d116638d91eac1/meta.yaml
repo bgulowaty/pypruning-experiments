@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7d175ec3a87a48c6a5d116638d91eac1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d175ec3a87a48c6a5d116638d91eac1
+run_name: sedate-gull-29
+run_uuid: 7d175ec3a87a48c6a5d116638d91eac1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041915005
+status: 1
+tags: []
+user_id: unknown

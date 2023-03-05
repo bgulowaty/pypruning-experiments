@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4ee2820f19254ce0987d15d748ae16cb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ee2820f19254ce0987d15d748ae16cb
+run_name: receptive-goat-793
+run_uuid: 4ee2820f19254ce0987d15d748ae16cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041823047
+status: 1
+tags: []
+user_id: unknown

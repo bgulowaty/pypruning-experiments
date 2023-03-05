@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2e8bd281b0914b528c5e9bc2040b9436/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2e8bd281b0914b528c5e9bc2040b9436
+run_name: capricious-steed-969
+run_uuid: 2e8bd281b0914b528c5e9bc2040b9436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494982
+status: 1
+tags: []
+user_id: unknown

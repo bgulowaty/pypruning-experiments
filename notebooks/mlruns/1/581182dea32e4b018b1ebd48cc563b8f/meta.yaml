@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/581182dea32e4b018b1ebd48cc563b8f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 581182dea32e4b018b1ebd48cc563b8f
+run_name: classy-frog-109
+run_uuid: 581182dea32e4b018b1ebd48cc563b8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041575661
+status: 1
+tags: []
+user_id: unknown

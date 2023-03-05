@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b2e3c29ec90444519d44a6f4b8c17eec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b2e3c29ec90444519d44a6f4b8c17eec
+run_name: abundant-hawk-372
+run_uuid: b2e3c29ec90444519d44a6f4b8c17eec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041744700
+status: 1
+tags: []
+user_id: unknown

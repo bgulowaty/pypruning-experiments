@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8b93f2c97ee0474089e328e1eb4bd776/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8b93f2c97ee0474089e328e1eb4bd776
+run_name: able-wolf-864
+run_uuid: 8b93f2c97ee0474089e328e1eb4bd776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041598523
+status: 1
+tags: []
+user_id: unknown

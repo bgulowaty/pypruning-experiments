@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8c379a488b444b9c91a1550b812fe2f4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8c379a488b444b9c91a1550b812fe2f4
+run_name: capable-sow-899
+run_uuid: 8c379a488b444b9c91a1550b812fe2f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041588909
+status: 1
+tags: []
+user_id: unknown

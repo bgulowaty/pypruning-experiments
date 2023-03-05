@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3c8567fb0f3d46c2903a8039fadea1a3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c8567fb0f3d46c2903a8039fadea1a3
+run_name: learned-calf-635
+run_uuid: 3c8567fb0f3d46c2903a8039fadea1a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041946172
+status: 1
+tags: []
+user_id: unknown

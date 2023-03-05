@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c7873d6994324930be4d0d513adc2daa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7873d6994324930be4d0d513adc2daa
+run_name: thundering-shark-766
+run_uuid: c7873d6994324930be4d0d513adc2daa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496896
+status: 1
+tags: []
+user_id: unknown

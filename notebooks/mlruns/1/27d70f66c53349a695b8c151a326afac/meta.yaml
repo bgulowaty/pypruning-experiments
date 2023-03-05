@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/27d70f66c53349a695b8c151a326afac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 27d70f66c53349a695b8c151a326afac
+run_name: lyrical-colt-562
+run_uuid: 27d70f66c53349a695b8c151a326afac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041892095
+status: 1
+tags: []
+user_id: unknown

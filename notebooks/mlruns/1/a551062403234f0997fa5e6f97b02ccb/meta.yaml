@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a551062403234f0997fa5e6f97b02ccb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a551062403234f0997fa5e6f97b02ccb
+run_name: intelligent-owl-678
+run_uuid: a551062403234f0997fa5e6f97b02ccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041548734
+status: 1
+tags: []
+user_id: unknown

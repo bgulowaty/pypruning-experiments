@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fc060ab99db848bb9ae9058790466fbb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc060ab99db848bb9ae9058790466fbb
+run_name: gifted-deer-501
+run_uuid: fc060ab99db848bb9ae9058790466fbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041514578
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a8034380d4a74c14b857ffa05a77a2bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8034380d4a74c14b857ffa05a77a2bc
+run_name: crawling-vole-390
+run_uuid: a8034380d4a74c14b857ffa05a77a2bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041882546
+status: 1
+tags: []
+user_id: unknown

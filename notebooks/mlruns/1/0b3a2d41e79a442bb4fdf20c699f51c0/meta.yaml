@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0b3a2d41e79a442bb4fdf20c699f51c0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b3a2d41e79a442bb4fdf20c699f51c0
+run_name: amusing-snipe-776
+run_uuid: 0b3a2d41e79a442bb4fdf20c699f51c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041909834
+status: 1
+tags: []
+user_id: unknown

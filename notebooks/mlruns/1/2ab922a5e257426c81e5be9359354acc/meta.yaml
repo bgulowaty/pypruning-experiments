@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2ab922a5e257426c81e5be9359354acc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ab922a5e257426c81e5be9359354acc
+run_name: hilarious-snipe-275
+run_uuid: 2ab922a5e257426c81e5be9359354acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041709503
+status: 1
+tags: []
+user_id: unknown

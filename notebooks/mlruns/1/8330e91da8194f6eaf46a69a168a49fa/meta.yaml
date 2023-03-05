@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8330e91da8194f6eaf46a69a168a49fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8330e91da8194f6eaf46a69a168a49fa
+run_name: hilarious-sloth-610
+run_uuid: 8330e91da8194f6eaf46a69a168a49fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041643895
+status: 1
+tags: []
+user_id: unknown

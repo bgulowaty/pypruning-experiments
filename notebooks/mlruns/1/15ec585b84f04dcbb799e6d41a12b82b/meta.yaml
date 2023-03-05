@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/15ec585b84f04dcbb799e6d41a12b82b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 15ec585b84f04dcbb799e6d41a12b82b
+run_name: sassy-fox-520
+run_uuid: 15ec585b84f04dcbb799e6d41a12b82b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041755739
+status: 1
+tags: []
+user_id: unknown

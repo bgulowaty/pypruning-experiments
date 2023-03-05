@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2930a15d750c4232a3fbab90e41fdef4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2930a15d750c4232a3fbab90e41fdef4
+run_name: bold-dolphin-783
+run_uuid: 2930a15d750c4232a3fbab90e41fdef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041565086
+status: 1
+tags: []
+user_id: unknown

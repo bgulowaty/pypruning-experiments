@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ff08cb114a614dae83f1ece5e5662a71/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff08cb114a614dae83f1ece5e5662a71
+run_name: secretive-calf-252
+run_uuid: ff08cb114a614dae83f1ece5e5662a71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041863140
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e921771ff6c94d9bb5397fd58e710723/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e921771ff6c94d9bb5397fd58e710723
+run_name: enchanting-snake-259
+run_uuid: e921771ff6c94d9bb5397fd58e710723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041837641
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4f7bfd64b98a4d5a98188e71921237ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4f7bfd64b98a4d5a98188e71921237ba
+run_name: able-jay-867
+run_uuid: 4f7bfd64b98a4d5a98188e71921237ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041835400
+status: 1
+tags: []
+user_id: unknown

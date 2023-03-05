@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e46d359c9e974966b65276c8a71b55c0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e46d359c9e974966b65276c8a71b55c0
+run_name: flawless-bear-310
+run_uuid: e46d359c9e974966b65276c8a71b55c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041901198
+status: 1
+tags: []
+user_id: unknown

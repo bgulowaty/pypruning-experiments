@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d8e855b9fd024aa28f92683a89328933/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8e855b9fd024aa28f92683a89328933
+run_name: fortunate-toad-220
+run_uuid: d8e855b9fd024aa28f92683a89328933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041661116
+status: 1
+tags: []
+user_id: unknown

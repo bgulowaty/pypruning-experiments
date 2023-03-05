@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/62b3d9ea34014805a6836dcd17714775/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 62b3d9ea34014805a6836dcd17714775
+run_name: luxuriant-panda-797
+run_uuid: 62b3d9ea34014805a6836dcd17714775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041826608
+status: 1
+tags: []
+user_id: unknown

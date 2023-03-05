@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ec16af4eecda494d91493684ed1bacce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec16af4eecda494d91493684ed1bacce
+run_name: delicate-doe-359
+run_uuid: ec16af4eecda494d91493684ed1bacce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041550648
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d695c80eceb747bc859bb90d7ce7b1ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d695c80eceb747bc859bb90d7ce7b1ac
+run_name: blushing-yak-455
+run_uuid: d695c80eceb747bc859bb90d7ce7b1ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041738099
+status: 1
+tags: []
+user_id: unknown

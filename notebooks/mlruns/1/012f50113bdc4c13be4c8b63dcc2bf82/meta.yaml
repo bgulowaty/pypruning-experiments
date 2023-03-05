@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/012f50113bdc4c13be4c8b63dcc2bf82/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 012f50113bdc4c13be4c8b63dcc2bf82
+run_name: omniscient-squid-66
+run_uuid: 012f50113bdc4c13be4c8b63dcc2bf82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499096
+status: 1
+tags: []
+user_id: unknown

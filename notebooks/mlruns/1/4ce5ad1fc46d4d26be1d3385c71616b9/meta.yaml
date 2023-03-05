@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4ce5ad1fc46d4d26be1d3385c71616b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ce5ad1fc46d4d26be1d3385c71616b9
+run_name: legendary-sheep-170
+run_uuid: 4ce5ad1fc46d4d26be1d3385c71616b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041838326
+status: 1
+tags: []
+user_id: unknown

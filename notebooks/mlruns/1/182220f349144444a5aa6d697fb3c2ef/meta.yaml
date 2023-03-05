@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/182220f349144444a5aa6d697fb3c2ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 182220f349144444a5aa6d697fb3c2ef
+run_name: inquisitive-crane-79
+run_uuid: 182220f349144444a5aa6d697fb3c2ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041670314
+status: 1
+tags: []
+user_id: unknown

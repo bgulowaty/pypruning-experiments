@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/57f7861d0d0545b486700d9ff515c367/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 57f7861d0d0545b486700d9ff515c367
+run_name: redolent-grub-835
+run_uuid: 57f7861d0d0545b486700d9ff515c367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041530936
+status: 1
+tags: []
+user_id: unknown

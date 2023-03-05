@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8a901556355e41309c3d57b487f451e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8a901556355e41309c3d57b487f451e7
+run_name: brawny-snake-476
+run_uuid: 8a901556355e41309c3d57b487f451e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041543304
+status: 1
+tags: []
+user_id: unknown

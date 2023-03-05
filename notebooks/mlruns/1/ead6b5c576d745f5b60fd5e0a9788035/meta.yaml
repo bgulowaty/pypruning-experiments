@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ead6b5c576d745f5b60fd5e0a9788035/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ead6b5c576d745f5b60fd5e0a9788035
+run_name: masked-perch-964
+run_uuid: ead6b5c576d745f5b60fd5e0a9788035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496555
+status: 1
+tags: []
+user_id: unknown

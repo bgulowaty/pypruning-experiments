@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/89474fc5cbaa4885b9601ed0ae973eec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89474fc5cbaa4885b9601ed0ae973eec
+run_name: silent-asp-777
+run_uuid: 89474fc5cbaa4885b9601ed0ae973eec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041818028
+status: 1
+tags: []
+user_id: unknown

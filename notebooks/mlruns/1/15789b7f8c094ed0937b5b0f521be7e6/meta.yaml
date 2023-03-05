@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/15789b7f8c094ed0937b5b0f521be7e6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 15789b7f8c094ed0937b5b0f521be7e6
+run_name: stately-fowl-454
+run_uuid: 15789b7f8c094ed0937b5b0f521be7e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041522202
+status: 1
+tags: []
+user_id: unknown

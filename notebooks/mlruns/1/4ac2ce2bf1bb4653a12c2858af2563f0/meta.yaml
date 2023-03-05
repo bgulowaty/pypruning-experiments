@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4ac2ce2bf1bb4653a12c2858af2563f0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ac2ce2bf1bb4653a12c2858af2563f0
+run_name: sincere-ape-818
+run_uuid: 4ac2ce2bf1bb4653a12c2858af2563f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041697409
+status: 1
+tags: []
+user_id: unknown

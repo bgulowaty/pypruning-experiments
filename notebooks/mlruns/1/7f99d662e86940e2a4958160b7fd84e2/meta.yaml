@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7f99d662e86940e2a4958160b7fd84e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7f99d662e86940e2a4958160b7fd84e2
+run_name: valuable-bug-466
+run_uuid: 7f99d662e86940e2a4958160b7fd84e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494495
+status: 1
+tags: []
+user_id: unknown

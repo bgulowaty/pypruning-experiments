@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/df66eadbe7564983b83028c409db8a7f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df66eadbe7564983b83028c409db8a7f
+run_name: beautiful-boar-968
+run_uuid: df66eadbe7564983b83028c409db8a7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041574294
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/93a85722531b4f8fa26a4373449328df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 93a85722531b4f8fa26a4373449328df
+run_name: vaunted-shark-393
+run_uuid: 93a85722531b4f8fa26a4373449328df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041830108
+status: 1
+tags: []
+user_id: unknown

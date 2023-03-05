@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/febcce3548f747c8abaaf5006cb6e6d2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: febcce3548f747c8abaaf5006cb6e6d2
+run_name: enchanting-seal-19
+run_uuid: febcce3548f747c8abaaf5006cb6e6d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041973193
+status: 1
+tags: []
+user_id: unknown

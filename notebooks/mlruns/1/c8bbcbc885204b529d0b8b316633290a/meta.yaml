@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c8bbcbc885204b529d0b8b316633290a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c8bbcbc885204b529d0b8b316633290a
+run_name: masked-newt-98
+run_uuid: c8bbcbc885204b529d0b8b316633290a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041533933
+status: 1
+tags: []
+user_id: unknown

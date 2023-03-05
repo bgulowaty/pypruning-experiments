@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/37d58f132bf549d8bbded71922d6f4e5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 37d58f132bf549d8bbded71922d6f4e5
+run_name: chill-hare-283
+run_uuid: 37d58f132bf549d8bbded71922d6f4e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041794235
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7226fa30a8e54a37a356b37c091afdcb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7226fa30a8e54a37a356b37c091afdcb
+run_name: merciful-perch-181
+run_uuid: 7226fa30a8e54a37a356b37c091afdcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041961391
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/387b6a6d82ba4003b7d920f1680290ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 387b6a6d82ba4003b7d920f1680290ee
+run_name: kindly-gnat-119
+run_uuid: 387b6a6d82ba4003b7d920f1680290ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041547338
+status: 1
+tags: []
+user_id: unknown

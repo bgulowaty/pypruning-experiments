@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a075182e45934db7a0cf834086e08d89/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a075182e45934db7a0cf834086e08d89
+run_name: amusing-hog-854
+run_uuid: a075182e45934db7a0cf834086e08d89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502705
+status: 1
+tags: []
+user_id: unknown

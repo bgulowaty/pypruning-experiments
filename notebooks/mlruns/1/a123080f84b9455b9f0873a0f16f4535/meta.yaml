@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a123080f84b9455b9f0873a0f16f4535/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a123080f84b9455b9f0873a0f16f4535
+run_name: unruly-horse-743
+run_uuid: a123080f84b9455b9f0873a0f16f4535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041837811
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d8529043c7b0475fb67b84e7a03b6158/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8529043c7b0475fb67b84e7a03b6158
+run_name: placid-kite-34
+run_uuid: d8529043c7b0475fb67b84e7a03b6158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495911
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0ab7b9b371634d529dd8d8de4a007909/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ab7b9b371634d529dd8d8de4a007909
+run_name: redolent-flea-266
+run_uuid: 0ab7b9b371634d529dd8d8de4a007909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041684992
+status: 1
+tags: []
+user_id: unknown

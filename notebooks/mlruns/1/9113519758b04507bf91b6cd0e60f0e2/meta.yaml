@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9113519758b04507bf91b6cd0e60f0e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9113519758b04507bf91b6cd0e60f0e2
+run_name: welcoming-dog-659
+run_uuid: 9113519758b04507bf91b6cd0e60f0e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494392
+status: 1
+tags: []
+user_id: unknown

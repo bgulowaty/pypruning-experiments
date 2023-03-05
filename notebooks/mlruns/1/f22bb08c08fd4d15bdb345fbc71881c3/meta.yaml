@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f22bb08c08fd4d15bdb345fbc71881c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f22bb08c08fd4d15bdb345fbc71881c3
+run_name: bouncy-snail-590
+run_uuid: f22bb08c08fd4d15bdb345fbc71881c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041593253
+status: 1
+tags: []
+user_id: unknown

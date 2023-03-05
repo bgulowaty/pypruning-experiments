@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/28474688343b4fdbb95331952629f516/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 28474688343b4fdbb95331952629f516
+run_name: magnificent-koi-782
+run_uuid: 28474688343b4fdbb95331952629f516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041771347
+status: 1
+tags: []
+user_id: unknown

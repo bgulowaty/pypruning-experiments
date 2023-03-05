@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7c0ea8d6dba142f29b45345e001f623e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7c0ea8d6dba142f29b45345e001f623e
+run_name: righteous-eel-37
+run_uuid: 7c0ea8d6dba142f29b45345e001f623e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041976522
+status: 1
+tags: []
+user_id: unknown

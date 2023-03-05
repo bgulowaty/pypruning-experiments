@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6ffc0f0fcd484e3c85fffa9eaa79924a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6ffc0f0fcd484e3c85fffa9eaa79924a
+run_name: redolent-kite-817
+run_uuid: 6ffc0f0fcd484e3c85fffa9eaa79924a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041538554
+status: 1
+tags: []
+user_id: unknown

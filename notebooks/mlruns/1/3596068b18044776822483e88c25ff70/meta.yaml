@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3596068b18044776822483e88c25ff70/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3596068b18044776822483e88c25ff70
+run_name: glamorous-dog-751
+run_uuid: 3596068b18044776822483e88c25ff70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041556806
+status: 1
+tags: []
+user_id: unknown

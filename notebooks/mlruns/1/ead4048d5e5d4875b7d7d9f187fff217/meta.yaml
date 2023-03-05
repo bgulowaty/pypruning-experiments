@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ead4048d5e5d4875b7d7d9f187fff217/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ead4048d5e5d4875b7d7d9f187fff217
+run_name: calm-pug-968
+run_uuid: ead4048d5e5d4875b7d7d9f187fff217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041720634
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6d359438b1f2468c80ea2eb028023b02/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6d359438b1f2468c80ea2eb028023b02
+run_name: unruly-ram-840
+run_uuid: 6d359438b1f2468c80ea2eb028023b02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041528311
+status: 1
+tags: []
+user_id: unknown

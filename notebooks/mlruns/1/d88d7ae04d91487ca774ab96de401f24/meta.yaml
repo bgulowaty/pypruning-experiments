@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d88d7ae04d91487ca774ab96de401f24/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d88d7ae04d91487ca774ab96de401f24
+run_name: classy-owl-460
+run_uuid: d88d7ae04d91487ca774ab96de401f24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041497663
+status: 1
+tags: []
+user_id: unknown

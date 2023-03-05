@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e94933075630402388895427fbcbba1c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e94933075630402388895427fbcbba1c
+run_name: charming-hog-577
+run_uuid: e94933075630402388895427fbcbba1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041546883
+status: 1
+tags: []
+user_id: unknown

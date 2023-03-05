@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2581f698d3604424a98e596747f21bef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2581f698d3604424a98e596747f21bef
+run_name: delightful-skink-986
+run_uuid: 2581f698d3604424a98e596747f21bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041607582
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d70c41e6e3db47219b088f2fda875b32/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d70c41e6e3db47219b088f2fda875b32
+run_name: flawless-hog-873
+run_uuid: d70c41e6e3db47219b088f2fda875b32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041562641
+status: 1
+tags: []
+user_id: unknown

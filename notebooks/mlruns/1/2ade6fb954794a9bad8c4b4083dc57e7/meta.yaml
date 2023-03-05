@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2ade6fb954794a9bad8c4b4083dc57e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ade6fb954794a9bad8c4b4083dc57e7
+run_name: bald-horse-118
+run_uuid: 2ade6fb954794a9bad8c4b4083dc57e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041688865
+status: 1
+tags: []
+user_id: unknown

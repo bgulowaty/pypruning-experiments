@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1764de57374e433eb2cadfc9e7fb6b30/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1764de57374e433eb2cadfc9e7fb6b30
+run_name: youthful-zebra-93
+run_uuid: 1764de57374e433eb2cadfc9e7fb6b30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041622638
+status: 1
+tags: []
+user_id: unknown

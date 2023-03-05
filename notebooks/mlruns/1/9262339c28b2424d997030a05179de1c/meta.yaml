@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9262339c28b2424d997030a05179de1c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9262339c28b2424d997030a05179de1c
+run_name: abundant-mink-214
+run_uuid: 9262339c28b2424d997030a05179de1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041566112
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1fc38190e0c841c1b96189bdfc92882f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1fc38190e0c841c1b96189bdfc92882f
+run_name: righteous-koi-899
+run_uuid: 1fc38190e0c841c1b96189bdfc92882f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041582590
+status: 1
+tags: []
+user_id: unknown

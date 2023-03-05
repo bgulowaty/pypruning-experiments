@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/47eca7d5970c44ce805ee7f3789e247d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 47eca7d5970c44ce805ee7f3789e247d
+run_name: adventurous-calf-627
+run_uuid: 47eca7d5970c44ce805ee7f3789e247d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041605472
+status: 1
+tags: []
+user_id: unknown

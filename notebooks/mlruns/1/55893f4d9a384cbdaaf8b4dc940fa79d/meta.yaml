@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/55893f4d9a384cbdaaf8b4dc940fa79d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 55893f4d9a384cbdaaf8b4dc940fa79d
+run_name: skittish-fowl-201
+run_uuid: 55893f4d9a384cbdaaf8b4dc940fa79d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496495
+status: 1
+tags: []
+user_id: unknown

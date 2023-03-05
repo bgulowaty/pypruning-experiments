@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/99406f1b7c3f4f26b509029e5d80b563/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99406f1b7c3f4f26b509029e5d80b563
+run_name: caring-pig-890
+run_uuid: 99406f1b7c3f4f26b509029e5d80b563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041575055
+status: 1
+tags: []
+user_id: unknown

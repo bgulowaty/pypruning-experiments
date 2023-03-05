@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f39902ee24074831a0c9a567330b4682/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f39902ee24074831a0c9a567330b4682
+run_name: suave-goose-231
+run_uuid: f39902ee24074831a0c9a567330b4682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041933376
+status: 1
+tags: []
+user_id: unknown

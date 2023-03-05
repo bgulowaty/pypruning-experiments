@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ecf14580006b47d6ab5d2cf631624f2e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ecf14580006b47d6ab5d2cf631624f2e
+run_name: angry-koi-187
+run_uuid: ecf14580006b47d6ab5d2cf631624f2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041663504
+status: 1
+tags: []
+user_id: unknown

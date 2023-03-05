@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b3dfdfb4547a4e09b758657873a6ed54/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b3dfdfb4547a4e09b758657873a6ed54
+run_name: able-goat-104
+run_uuid: b3dfdfb4547a4e09b758657873a6ed54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041507582
+status: 1
+tags: []
+user_id: unknown

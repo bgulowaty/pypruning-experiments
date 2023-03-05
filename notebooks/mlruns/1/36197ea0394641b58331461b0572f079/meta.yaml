@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/36197ea0394641b58331461b0572f079/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 36197ea0394641b58331461b0572f079
+run_name: overjoyed-sheep-515
+run_uuid: 36197ea0394641b58331461b0572f079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495077
+status: 1
+tags: []
+user_id: unknown

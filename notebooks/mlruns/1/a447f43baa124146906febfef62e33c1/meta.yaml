@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a447f43baa124146906febfef62e33c1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a447f43baa124146906febfef62e33c1
+run_name: exultant-fawn-923
+run_uuid: a447f43baa124146906febfef62e33c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041540308
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/571ec7fa3a134eddbd1c9e7e5ac11db4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 571ec7fa3a134eddbd1c9e7e5ac11db4
+run_name: nosy-steed-128
+run_uuid: 571ec7fa3a134eddbd1c9e7e5ac11db4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041938553
+status: 1
+tags: []
+user_id: unknown

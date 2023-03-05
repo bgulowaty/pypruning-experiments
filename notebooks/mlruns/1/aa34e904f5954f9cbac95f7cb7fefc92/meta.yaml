@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/aa34e904f5954f9cbac95f7cb7fefc92/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aa34e904f5954f9cbac95f7cb7fefc92
+run_name: worried-stoat-305
+run_uuid: aa34e904f5954f9cbac95f7cb7fefc92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041720199
+status: 1
+tags: []
+user_id: unknown

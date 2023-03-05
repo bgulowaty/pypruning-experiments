@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8e0b12031ac044b7a985e20a2a10a725/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e0b12031ac044b7a985e20a2a10a725
+run_name: grandiose-jay-998
+run_uuid: 8e0b12031ac044b7a985e20a2a10a725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041516197
+status: 1
+tags: []
+user_id: unknown

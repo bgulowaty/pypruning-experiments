@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8f63f4bf72904fa9a8779e9477076873/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8f63f4bf72904fa9a8779e9477076873
+run_name: silent-finch-967
+run_uuid: 8f63f4bf72904fa9a8779e9477076873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041924637
+status: 1
+tags: []
+user_id: unknown

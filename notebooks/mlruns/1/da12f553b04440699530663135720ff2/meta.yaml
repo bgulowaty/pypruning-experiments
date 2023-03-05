@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/da12f553b04440699530663135720ff2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da12f553b04440699530663135720ff2
+run_name: bald-swan-31
+run_uuid: da12f553b04440699530663135720ff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041509348
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/21662a32c46b4ed29bdc5dba6b2de0fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 21662a32c46b4ed29bdc5dba6b2de0fd
+run_name: redolent-swan-882
+run_uuid: 21662a32c46b4ed29bdc5dba6b2de0fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041556987
+status: 1
+tags: []
+user_id: unknown

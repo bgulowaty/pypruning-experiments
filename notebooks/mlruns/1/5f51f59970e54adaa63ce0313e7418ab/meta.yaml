@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5f51f59970e54adaa63ce0313e7418ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5f51f59970e54adaa63ce0313e7418ab
+run_name: zealous-vole-500
+run_uuid: 5f51f59970e54adaa63ce0313e7418ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041864614
+status: 1
+tags: []
+user_id: unknown

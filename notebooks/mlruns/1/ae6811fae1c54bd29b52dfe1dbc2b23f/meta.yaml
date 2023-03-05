@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ae6811fae1c54bd29b52dfe1dbc2b23f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ae6811fae1c54bd29b52dfe1dbc2b23f
+run_name: invincible-hare-925
+run_uuid: ae6811fae1c54bd29b52dfe1dbc2b23f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041533631
+status: 1
+tags: []
+user_id: unknown

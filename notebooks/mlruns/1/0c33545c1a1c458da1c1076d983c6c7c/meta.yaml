@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0c33545c1a1c458da1c1076d983c6c7c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0c33545c1a1c458da1c1076d983c6c7c
+run_name: powerful-grub-658
+run_uuid: 0c33545c1a1c458da1c1076d983c6c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041526120
+status: 1
+tags: []
+user_id: unknown

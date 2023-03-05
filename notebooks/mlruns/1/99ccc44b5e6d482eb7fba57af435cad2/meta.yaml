@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/99ccc44b5e6d482eb7fba57af435cad2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99ccc44b5e6d482eb7fba57af435cad2
+run_name: useful-mole-713
+run_uuid: 99ccc44b5e6d482eb7fba57af435cad2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496152
+status: 1
+tags: []
+user_id: unknown

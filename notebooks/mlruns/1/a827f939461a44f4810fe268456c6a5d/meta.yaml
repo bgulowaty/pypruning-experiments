@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a827f939461a44f4810fe268456c6a5d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a827f939461a44f4810fe268456c6a5d
+run_name: abrasive-shark-141
+run_uuid: a827f939461a44f4810fe268456c6a5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041595016
+status: 1
+tags: []
+user_id: unknown

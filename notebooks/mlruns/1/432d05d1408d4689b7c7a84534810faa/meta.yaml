@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/432d05d1408d4689b7c7a84534810faa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 432d05d1408d4689b7c7a84534810faa
+run_name: traveling-flea-976
+run_uuid: 432d05d1408d4689b7c7a84534810faa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041666409
+status: 1
+tags: []
+user_id: unknown

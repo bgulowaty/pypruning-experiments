@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a419b1634cfc4fe198d2f805356d6679/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a419b1634cfc4fe198d2f805356d6679
+run_name: capable-stoat-864
+run_uuid: a419b1634cfc4fe198d2f805356d6679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041508822
+status: 1
+tags: []
+user_id: unknown

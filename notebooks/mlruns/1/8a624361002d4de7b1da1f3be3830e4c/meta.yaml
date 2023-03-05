@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8a624361002d4de7b1da1f3be3830e4c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8a624361002d4de7b1da1f3be3830e4c
+run_name: big-kit-607
+run_uuid: 8a624361002d4de7b1da1f3be3830e4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041564856
+status: 1
+tags: []
+user_id: unknown

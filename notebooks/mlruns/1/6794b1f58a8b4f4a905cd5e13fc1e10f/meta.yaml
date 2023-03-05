@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6794b1f58a8b4f4a905cd5e13fc1e10f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6794b1f58a8b4f4a905cd5e13fc1e10f
+run_name: whimsical-bass-412
+run_uuid: 6794b1f58a8b4f4a905cd5e13fc1e10f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041822530
+status: 1
+tags: []
+user_id: unknown

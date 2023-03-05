@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f0608fb663c742fea0bcb1321b66a692/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f0608fb663c742fea0bcb1321b66a692
+run_name: beautiful-lark-106
+run_uuid: f0608fb663c742fea0bcb1321b66a692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041631426
+status: 1
+tags: []
+user_id: unknown

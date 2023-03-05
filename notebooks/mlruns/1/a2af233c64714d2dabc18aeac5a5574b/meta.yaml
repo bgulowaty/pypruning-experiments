@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a2af233c64714d2dabc18aeac5a5574b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2af233c64714d2dabc18aeac5a5574b
+run_name: puzzled-fowl-813
+run_uuid: a2af233c64714d2dabc18aeac5a5574b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041540762
+status: 1
+tags: []
+user_id: unknown

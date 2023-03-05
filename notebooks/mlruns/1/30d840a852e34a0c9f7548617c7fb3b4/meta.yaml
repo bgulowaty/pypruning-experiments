@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/30d840a852e34a0c9f7548617c7fb3b4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 30d840a852e34a0c9f7548617c7fb3b4
+run_name: delightful-smelt-975
+run_uuid: 30d840a852e34a0c9f7548617c7fb3b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496661
+status: 1
+tags: []
+user_id: unknown

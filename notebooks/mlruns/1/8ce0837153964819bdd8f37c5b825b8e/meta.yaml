@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8ce0837153964819bdd8f37c5b825b8e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8ce0837153964819bdd8f37c5b825b8e
+run_name: bittersweet-deer-645
+run_uuid: 8ce0837153964819bdd8f37c5b825b8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041932980
+status: 1
+tags: []
+user_id: unknown

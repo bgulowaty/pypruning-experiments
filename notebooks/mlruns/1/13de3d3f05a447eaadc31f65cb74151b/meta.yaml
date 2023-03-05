@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/13de3d3f05a447eaadc31f65cb74151b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 13de3d3f05a447eaadc31f65cb74151b
+run_name: serious-shark-83
+run_uuid: 13de3d3f05a447eaadc31f65cb74151b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041545288
+status: 1
+tags: []
+user_id: unknown

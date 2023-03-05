@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e2b4c87e8bcd45bbbda0bc2910e2f029/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e2b4c87e8bcd45bbbda0bc2910e2f029
+run_name: upbeat-penguin-579
+run_uuid: e2b4c87e8bcd45bbbda0bc2910e2f029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041501579
+status: 1
+tags: []
+user_id: unknown

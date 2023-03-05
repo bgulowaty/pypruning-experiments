@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c1f6b606e2154cc0bcac6fcb1c8900db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c1f6b606e2154cc0bcac6fcb1c8900db
+run_name: invincible-ox-257
+run_uuid: c1f6b606e2154cc0bcac6fcb1c8900db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041729730
+status: 1
+tags: []
+user_id: unknown

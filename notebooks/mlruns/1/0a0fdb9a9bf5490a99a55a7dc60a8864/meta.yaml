@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0a0fdb9a9bf5490a99a55a7dc60a8864/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0a0fdb9a9bf5490a99a55a7dc60a8864
+run_name: adorable-shrew-390
+run_uuid: 0a0fdb9a9bf5490a99a55a7dc60a8864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041688956
+status: 1
+tags: []
+user_id: unknown

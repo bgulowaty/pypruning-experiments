@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bc644977c2e6446f9c8fdcd300f1ef4c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bc644977c2e6446f9c8fdcd300f1ef4c
+run_name: polite-wasp-264
+run_uuid: bc644977c2e6446f9c8fdcd300f1ef4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041919970
+status: 1
+tags: []
+user_id: unknown

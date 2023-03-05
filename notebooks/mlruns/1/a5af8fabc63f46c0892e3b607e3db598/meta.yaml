@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a5af8fabc63f46c0892e3b607e3db598/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a5af8fabc63f46c0892e3b607e3db598
+run_name: enchanting-dove-48
+run_uuid: a5af8fabc63f46c0892e3b607e3db598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041501412
+status: 1
+tags: []
+user_id: unknown

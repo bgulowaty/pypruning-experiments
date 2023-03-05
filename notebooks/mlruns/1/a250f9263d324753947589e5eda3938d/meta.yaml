@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a250f9263d324753947589e5eda3938d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a250f9263d324753947589e5eda3938d
+run_name: invincible-shrew-610
+run_uuid: a250f9263d324753947589e5eda3938d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041937818
+status: 1
+tags: []
+user_id: unknown

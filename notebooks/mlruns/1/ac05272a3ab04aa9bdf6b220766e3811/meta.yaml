@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ac05272a3ab04aa9bdf6b220766e3811/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac05272a3ab04aa9bdf6b220766e3811
+run_name: nebulous-zebra-457
+run_uuid: ac05272a3ab04aa9bdf6b220766e3811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041713325
+status: 1
+tags: []
+user_id: unknown

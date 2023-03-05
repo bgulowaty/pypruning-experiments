@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d67b571ec1344d9cbef0f9a5ef2330cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d67b571ec1344d9cbef0f9a5ef2330cf
+run_name: popular-cod-851
+run_uuid: d67b571ec1344d9cbef0f9a5ef2330cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041865695
+status: 1
+tags: []
+user_id: unknown

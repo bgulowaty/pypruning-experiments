@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/91d582d57c9c48b9aa3f3492ce383ced/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 91d582d57c9c48b9aa3f3492ce383ced
+run_name: welcoming-deer-995
+run_uuid: 91d582d57c9c48b9aa3f3492ce383ced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041944468
+status: 1
+tags: []
+user_id: unknown

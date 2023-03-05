@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bb9235f7f2114b969b3f4343bbc9309f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb9235f7f2114b969b3f4343bbc9309f
+run_name: tasteful-smelt-311
+run_uuid: bb9235f7f2114b969b3f4343bbc9309f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041829611
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/81cc24a1b3444b60b255b5ef06dc5d54/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 81cc24a1b3444b60b255b5ef06dc5d54
+run_name: unique-hound-564
+run_uuid: 81cc24a1b3444b60b255b5ef06dc5d54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041854877
+status: 1
+tags: []
+user_id: unknown

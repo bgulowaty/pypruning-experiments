@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e40a1d4fc75c4ef8938eeefed6125d92/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e40a1d4fc75c4ef8938eeefed6125d92
+run_name: fearless-moth-640
+run_uuid: e40a1d4fc75c4ef8938eeefed6125d92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041895910
+status: 1
+tags: []
+user_id: unknown

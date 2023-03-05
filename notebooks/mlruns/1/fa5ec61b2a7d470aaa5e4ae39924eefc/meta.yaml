@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fa5ec61b2a7d470aaa5e4ae39924eefc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa5ec61b2a7d470aaa5e4ae39924eefc
+run_name: defiant-fox-427
+run_uuid: fa5ec61b2a7d470aaa5e4ae39924eefc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041934065
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/73967abe9f114b9698523d7891a51892/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 73967abe9f114b9698523d7891a51892
+run_name: valuable-goat-127
+run_uuid: 73967abe9f114b9698523d7891a51892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041702600
+status: 1
+tags: []
+user_id: unknown

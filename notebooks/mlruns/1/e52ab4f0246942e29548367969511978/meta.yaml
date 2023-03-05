@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e52ab4f0246942e29548367969511978/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e52ab4f0246942e29548367969511978
+run_name: thoughtful-hog-95
+run_uuid: e52ab4f0246942e29548367969511978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041829285
+status: 1
+tags: []
+user_id: unknown

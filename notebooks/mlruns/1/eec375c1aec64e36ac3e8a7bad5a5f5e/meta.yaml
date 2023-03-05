@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eec375c1aec64e36ac3e8a7bad5a5f5e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eec375c1aec64e36ac3e8a7bad5a5f5e
+run_name: loud-croc-80
+run_uuid: eec375c1aec64e36ac3e8a7bad5a5f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041635788
+status: 1
+tags: []
+user_id: unknown

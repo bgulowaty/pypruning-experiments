@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/60e219e9ceb349cdb57158578d27b5b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 60e219e9ceb349cdb57158578d27b5b9
+run_name: aged-duck-540
+run_uuid: 60e219e9ceb349cdb57158578d27b5b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041622248
+status: 1
+tags: []
+user_id: unknown

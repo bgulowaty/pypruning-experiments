@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/00eb19c2dd5e48a5bc6ad89f70e21dda/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 00eb19c2dd5e48a5bc6ad89f70e21dda
+run_name: burly-horse-914
+run_uuid: 00eb19c2dd5e48a5bc6ad89f70e21dda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041534834
+status: 1
+tags: []
+user_id: unknown

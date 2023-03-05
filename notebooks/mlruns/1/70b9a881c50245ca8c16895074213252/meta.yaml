@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/70b9a881c50245ca8c16895074213252/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 70b9a881c50245ca8c16895074213252
+run_name: unequaled-perch-413
+run_uuid: 70b9a881c50245ca8c16895074213252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041890725
+status: 1
+tags: []
+user_id: unknown

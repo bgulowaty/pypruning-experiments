@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c18d6f381f014a2bb5b4628503aba4ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c18d6f381f014a2bb5b4628503aba4ad
+run_name: shivering-toad-864
+run_uuid: c18d6f381f014a2bb5b4628503aba4ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041542829
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0cb6670b3fea455788f43968428f719a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0cb6670b3fea455788f43968428f719a
+run_name: legendary-croc-886
+run_uuid: 0cb6670b3fea455788f43968428f719a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041543691
+status: 1
+tags: []
+user_id: unknown

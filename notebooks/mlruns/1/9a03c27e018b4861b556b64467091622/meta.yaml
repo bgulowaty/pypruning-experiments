@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9a03c27e018b4861b556b64467091622/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9a03c27e018b4861b556b64467091622
+run_name: valuable-wren-35
+run_uuid: 9a03c27e018b4861b556b64467091622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041759654
+status: 1
+tags: []
+user_id: unknown

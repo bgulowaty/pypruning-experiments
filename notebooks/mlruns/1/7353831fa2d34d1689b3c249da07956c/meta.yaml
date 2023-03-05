@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7353831fa2d34d1689b3c249da07956c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7353831fa2d34d1689b3c249da07956c
+run_name: powerful-frog-29
+run_uuid: 7353831fa2d34d1689b3c249da07956c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041701246
+status: 1
+tags: []
+user_id: unknown

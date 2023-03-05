@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ab1311cc9d2d4769842e5996ff5d3bb7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab1311cc9d2d4769842e5996ff5d3bb7
+run_name: bald-dolphin-507
+run_uuid: ab1311cc9d2d4769842e5996ff5d3bb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041509378
+status: 1
+tags: []
+user_id: unknown

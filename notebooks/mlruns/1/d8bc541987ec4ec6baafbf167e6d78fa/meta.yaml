@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d8bc541987ec4ec6baafbf167e6d78fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8bc541987ec4ec6baafbf167e6d78fa
+run_name: overjoyed-grub-930
+run_uuid: d8bc541987ec4ec6baafbf167e6d78fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041633962
+status: 1
+tags: []
+user_id: unknown

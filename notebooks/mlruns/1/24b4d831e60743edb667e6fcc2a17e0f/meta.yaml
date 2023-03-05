@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/24b4d831e60743edb667e6fcc2a17e0f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 24b4d831e60743edb667e6fcc2a17e0f
+run_name: capricious-elk-944
+run_uuid: 24b4d831e60743edb667e6fcc2a17e0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041561474
+status: 1
+tags: []
+user_id: unknown

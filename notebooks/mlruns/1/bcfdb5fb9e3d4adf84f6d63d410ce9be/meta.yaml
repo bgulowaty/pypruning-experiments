@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bcfdb5fb9e3d4adf84f6d63d410ce9be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bcfdb5fb9e3d4adf84f6d63d410ce9be
+run_name: peaceful-perch-812
+run_uuid: bcfdb5fb9e3d4adf84f6d63d410ce9be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041903072
+status: 1
+tags: []
+user_id: unknown

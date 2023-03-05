@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dbe75648290441959768b1a091b41c8d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dbe75648290441959768b1a091b41c8d
+run_name: debonair-wasp-257
+run_uuid: dbe75648290441959768b1a091b41c8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041518370
+status: 1
+tags: []
+user_id: unknown

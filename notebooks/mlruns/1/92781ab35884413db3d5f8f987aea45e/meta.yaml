@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/92781ab35884413db3d5f8f987aea45e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 92781ab35884413db3d5f8f987aea45e
+run_name: tasteful-colt-828
+run_uuid: 92781ab35884413db3d5f8f987aea45e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041749740
+status: 1
+tags: []
+user_id: unknown

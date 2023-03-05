@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/22e3825ce14d4ca2bfc9cc2a55342293/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 22e3825ce14d4ca2bfc9cc2a55342293
+run_name: calm-roo-493
+run_uuid: 22e3825ce14d4ca2bfc9cc2a55342293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041753650
+status: 1
+tags: []
+user_id: unknown

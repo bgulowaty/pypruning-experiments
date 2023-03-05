@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c45b716528b448be9b7b50b63424b29a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c45b716528b448be9b7b50b63424b29a
+run_name: redolent-roo-381
+run_uuid: c45b716528b448be9b7b50b63424b29a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499953
+status: 1
+tags: []
+user_id: unknown

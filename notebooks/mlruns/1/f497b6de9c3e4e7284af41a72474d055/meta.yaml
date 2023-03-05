@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f497b6de9c3e4e7284af41a72474d055/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f497b6de9c3e4e7284af41a72474d055
+run_name: handsome-bass-298
+run_uuid: f497b6de9c3e4e7284af41a72474d055
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041972307
+status: 1
+tags: []
+user_id: unknown

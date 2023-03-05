@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b10f098ed7b84191b281d752e34c6028/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b10f098ed7b84191b281d752e34c6028
+run_name: unleashed-fowl-972
+run_uuid: b10f098ed7b84191b281d752e34c6028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041980630
+status: 1
+tags: []
+user_id: unknown

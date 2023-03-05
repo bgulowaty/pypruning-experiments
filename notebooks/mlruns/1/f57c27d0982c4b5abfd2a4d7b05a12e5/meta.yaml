@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f57c27d0982c4b5abfd2a4d7b05a12e5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f57c27d0982c4b5abfd2a4d7b05a12e5
+run_name: charming-loon-324
+run_uuid: f57c27d0982c4b5abfd2a4d7b05a12e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041620587
+status: 1
+tags: []
+user_id: unknown

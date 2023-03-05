@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/87fdb6f6d0134a14b77a45e3eb6b0eab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87fdb6f6d0134a14b77a45e3eb6b0eab
+run_name: judicious-mouse-613
+run_uuid: 87fdb6f6d0134a14b77a45e3eb6b0eab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041697612
+status: 1
+tags: []
+user_id: unknown

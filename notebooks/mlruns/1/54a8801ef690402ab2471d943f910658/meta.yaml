@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/54a8801ef690402ab2471d943f910658/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 54a8801ef690402ab2471d943f910658
+run_name: amusing-hare-50
+run_uuid: 54a8801ef690402ab2471d943f910658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041500258
+status: 1
+tags: []
+user_id: unknown

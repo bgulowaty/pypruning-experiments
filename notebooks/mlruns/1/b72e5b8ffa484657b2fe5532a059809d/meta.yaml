@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b72e5b8ffa484657b2fe5532a059809d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b72e5b8ffa484657b2fe5532a059809d
+run_name: worried-slug-48
+run_uuid: b72e5b8ffa484657b2fe5532a059809d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041724786
+status: 1
+tags: []
+user_id: unknown

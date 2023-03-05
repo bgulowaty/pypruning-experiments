@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/67986c7a63244c2e865555bd39a98cd8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 67986c7a63244c2e865555bd39a98cd8
+run_name: respected-elk-7
+run_uuid: 67986c7a63244c2e865555bd39a98cd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041750119
+status: 1
+tags: []
+user_id: unknown

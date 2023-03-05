@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/db7f64fa0b8b422fbd8c093f75346d18/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db7f64fa0b8b422fbd8c093f75346d18
+run_name: adventurous-roo-814
+run_uuid: db7f64fa0b8b422fbd8c093f75346d18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041715775
+status: 1
+tags: []
+user_id: unknown

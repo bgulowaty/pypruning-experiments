@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4083ac947aa147498cf01c36d9d9bedb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4083ac947aa147498cf01c36d9d9bedb
+run_name: clean-yak-129
+run_uuid: 4083ac947aa147498cf01c36d9d9bedb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041975057
+status: 1
+tags: []
+user_id: unknown

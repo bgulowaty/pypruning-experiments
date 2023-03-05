@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5c80641f14e04d7f86231829c2fe76bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5c80641f14e04d7f86231829c2fe76bf
+run_name: abrasive-gnat-550
+run_uuid: 5c80641f14e04d7f86231829c2fe76bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041583396
+status: 1
+tags: []
+user_id: unknown

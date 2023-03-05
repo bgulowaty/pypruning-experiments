@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7af2f67fffea40dda56d2de96324d501/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7af2f67fffea40dda56d2de96324d501
+run_name: upset-moth-348
+run_uuid: 7af2f67fffea40dda56d2de96324d501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041510478
+status: 1
+tags: []
+user_id: unknown

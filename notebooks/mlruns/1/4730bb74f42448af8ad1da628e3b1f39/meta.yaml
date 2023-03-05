@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4730bb74f42448af8ad1da628e3b1f39/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4730bb74f42448af8ad1da628e3b1f39
+run_name: capable-colt-343
+run_uuid: 4730bb74f42448af8ad1da628e3b1f39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041710786
+status: 1
+tags: []
+user_id: unknown

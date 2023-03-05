@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5ba08ecb86ef4083bca700359e49df5b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ba08ecb86ef4083bca700359e49df5b
+run_name: gaudy-colt-39
+run_uuid: 5ba08ecb86ef4083bca700359e49df5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041824849
+status: 1
+tags: []
+user_id: unknown

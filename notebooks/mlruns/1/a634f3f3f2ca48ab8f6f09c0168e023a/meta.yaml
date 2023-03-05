@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a634f3f3f2ca48ab8f6f09c0168e023a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a634f3f3f2ca48ab8f6f09c0168e023a
+run_name: caring-finch-636
+run_uuid: a634f3f3f2ca48ab8f6f09c0168e023a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041935543
+status: 1
+tags: []
+user_id: unknown

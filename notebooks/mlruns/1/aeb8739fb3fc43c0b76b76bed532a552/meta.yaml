@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/aeb8739fb3fc43c0b76b76bed532a552/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aeb8739fb3fc43c0b76b76bed532a552
+run_name: beautiful-ant-699
+run_uuid: aeb8739fb3fc43c0b76b76bed532a552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041758381
+status: 1
+tags: []
+user_id: unknown

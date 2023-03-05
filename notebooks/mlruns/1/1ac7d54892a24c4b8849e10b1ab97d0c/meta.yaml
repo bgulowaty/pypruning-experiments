@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1ac7d54892a24c4b8849e10b1ab97d0c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ac7d54892a24c4b8849e10b1ab97d0c
+run_name: bright-worm-74
+run_uuid: 1ac7d54892a24c4b8849e10b1ab97d0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041639596
+status: 1
+tags: []
+user_id: unknown

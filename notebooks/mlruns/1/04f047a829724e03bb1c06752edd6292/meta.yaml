@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/04f047a829724e03bb1c06752edd6292/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 04f047a829724e03bb1c06752edd6292
+run_name: redolent-boar-542
+run_uuid: 04f047a829724e03bb1c06752edd6292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499181
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3dc7473c59624841896ddb9059c6f505/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3dc7473c59624841896ddb9059c6f505
+run_name: resilient-kite-303
+run_uuid: 3dc7473c59624841896ddb9059c6f505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041897741
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/312f8272d6864fc3997dc41ddddd7663/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 312f8272d6864fc3997dc41ddddd7663
+run_name: melodic-mink-513
+run_uuid: 312f8272d6864fc3997dc41ddddd7663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041963603
+status: 1
+tags: []
+user_id: unknown

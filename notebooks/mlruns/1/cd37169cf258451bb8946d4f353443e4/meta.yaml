@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cd37169cf258451bb8946d4f353443e4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cd37169cf258451bb8946d4f353443e4
+run_name: fortunate-hare-689
+run_uuid: cd37169cf258451bb8946d4f353443e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041698361
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c6d6f5ba58a2430484232a7fd76eac7d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c6d6f5ba58a2430484232a7fd76eac7d
+run_name: incongruous-seal-896
+run_uuid: c6d6f5ba58a2430484232a7fd76eac7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041565382
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/700081efb23245f2b90768b4a114ecaa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 700081efb23245f2b90768b4a114ecaa
+run_name: auspicious-bee-189
+run_uuid: 700081efb23245f2b90768b4a114ecaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499545
+status: 1
+tags: []
+user_id: unknown

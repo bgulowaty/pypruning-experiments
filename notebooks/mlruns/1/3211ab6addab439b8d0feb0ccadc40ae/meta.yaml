@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3211ab6addab439b8d0feb0ccadc40ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3211ab6addab439b8d0feb0ccadc40ae
+run_name: calm-perch-316
+run_uuid: 3211ab6addab439b8d0feb0ccadc40ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041786743
+status: 1
+tags: []
+user_id: unknown

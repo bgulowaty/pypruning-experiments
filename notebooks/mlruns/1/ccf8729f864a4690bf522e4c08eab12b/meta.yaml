@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ccf8729f864a4690bf522e4c08eab12b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ccf8729f864a4690bf522e4c08eab12b
+run_name: unique-sheep-282
+run_uuid: ccf8729f864a4690bf522e4c08eab12b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041522298
+status: 1
+tags: []
+user_id: unknown

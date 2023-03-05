@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6a8cf449869a4fd69cf5d30ae6366c2d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6a8cf449869a4fd69cf5d30ae6366c2d
+run_name: crawling-trout-12
+run_uuid: 6a8cf449869a4fd69cf5d30ae6366c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041781241
+status: 1
+tags: []
+user_id: unknown

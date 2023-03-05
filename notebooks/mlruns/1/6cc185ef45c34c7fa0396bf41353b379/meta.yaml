@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6cc185ef45c34c7fa0396bf41353b379/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6cc185ef45c34c7fa0396bf41353b379
+run_name: upset-perch-264
+run_uuid: 6cc185ef45c34c7fa0396bf41353b379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041689728
+status: 1
+tags: []
+user_id: unknown

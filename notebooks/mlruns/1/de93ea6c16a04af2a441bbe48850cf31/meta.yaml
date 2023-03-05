@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/de93ea6c16a04af2a441bbe48850cf31/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de93ea6c16a04af2a441bbe48850cf31
+run_name: luxuriant-gull-189
+run_uuid: de93ea6c16a04af2a441bbe48850cf31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041743155
+status: 1
+tags: []
+user_id: unknown

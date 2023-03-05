@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/183a7715d52442a189925f69cfc0355d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 183a7715d52442a189925f69cfc0355d
+run_name: melodic-fish-471
+run_uuid: 183a7715d52442a189925f69cfc0355d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041979671
+status: 1
+tags: []
+user_id: unknown

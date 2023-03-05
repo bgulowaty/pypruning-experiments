@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9696688a38a14a5e9d93424988342cde/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9696688a38a14a5e9d93424988342cde
+run_name: vaunted-croc-256
+run_uuid: 9696688a38a14a5e9d93424988342cde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041800023
+status: 1
+tags: []
+user_id: unknown

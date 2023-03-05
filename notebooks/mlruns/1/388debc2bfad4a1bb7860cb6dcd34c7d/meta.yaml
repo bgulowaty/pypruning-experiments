@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/388debc2bfad4a1bb7860cb6dcd34c7d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 388debc2bfad4a1bb7860cb6dcd34c7d
+run_name: sneaky-finch-485
+run_uuid: 388debc2bfad4a1bb7860cb6dcd34c7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041596179
+status: 1
+tags: []
+user_id: unknown

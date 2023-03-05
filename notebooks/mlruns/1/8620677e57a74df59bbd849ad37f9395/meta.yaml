@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8620677e57a74df59bbd849ad37f9395/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8620677e57a74df59bbd849ad37f9395
+run_name: incongruous-deer-296
+run_uuid: 8620677e57a74df59bbd849ad37f9395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041645039
+status: 1
+tags: []
+user_id: unknown

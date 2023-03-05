@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/abc6b91adf5c492ca9d8704ff71a19a9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: abc6b91adf5c492ca9d8704ff71a19a9
+run_name: resilient-bee-908
+run_uuid: abc6b91adf5c492ca9d8704ff71a19a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041975842
+status: 1
+tags: []
+user_id: unknown

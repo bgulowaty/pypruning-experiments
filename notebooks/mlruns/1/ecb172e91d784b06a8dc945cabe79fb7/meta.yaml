@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ecb172e91d784b06a8dc945cabe79fb7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ecb172e91d784b06a8dc945cabe79fb7
+run_name: defiant-gnat-286
+run_uuid: ecb172e91d784b06a8dc945cabe79fb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041545210
+status: 1
+tags: []
+user_id: unknown

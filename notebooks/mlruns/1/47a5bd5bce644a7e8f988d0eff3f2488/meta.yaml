@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/47a5bd5bce644a7e8f988d0eff3f2488/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 47a5bd5bce644a7e8f988d0eff3f2488
+run_name: colorful-snail-300
+run_uuid: 47a5bd5bce644a7e8f988d0eff3f2488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041510795
+status: 1
+tags: []
+user_id: unknown

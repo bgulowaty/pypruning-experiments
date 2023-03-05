@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/17bd427a55224a4c81510d241debacdd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 17bd427a55224a4c81510d241debacdd
+run_name: rebellious-fox-210
+run_uuid: 17bd427a55224a4c81510d241debacdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041967581
+status: 1
+tags: []
+user_id: unknown

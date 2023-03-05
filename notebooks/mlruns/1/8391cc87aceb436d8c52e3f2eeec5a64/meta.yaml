@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8391cc87aceb436d8c52e3f2eeec5a64/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8391cc87aceb436d8c52e3f2eeec5a64
+run_name: agreeable-ram-665
+run_uuid: 8391cc87aceb436d8c52e3f2eeec5a64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041625908
+status: 1
+tags: []
+user_id: unknown

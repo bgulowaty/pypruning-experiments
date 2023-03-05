@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7f269c5de9a2481b8e981bf46ef221c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7f269c5de9a2481b8e981bf46ef221c7
+run_name: suave-kite-454
+run_uuid: 7f269c5de9a2481b8e981bf46ef221c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041535277
+status: 1
+tags: []
+user_id: unknown

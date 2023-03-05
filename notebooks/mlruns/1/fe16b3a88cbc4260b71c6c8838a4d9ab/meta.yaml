@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fe16b3a88cbc4260b71c6c8838a4d9ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe16b3a88cbc4260b71c6c8838a4d9ab
+run_name: inquisitive-flea-579
+run_uuid: fe16b3a88cbc4260b71c6c8838a4d9ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041517838
+status: 1
+tags: []
+user_id: unknown

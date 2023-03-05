@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4f1d363cd25b4830b2a5875fc0871dea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4f1d363cd25b4830b2a5875fc0871dea
+run_name: orderly-trout-534
+run_uuid: 4f1d363cd25b4830b2a5875fc0871dea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041498318
+status: 1
+tags: []
+user_id: unknown

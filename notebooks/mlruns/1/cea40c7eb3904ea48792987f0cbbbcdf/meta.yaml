@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cea40c7eb3904ea48792987f0cbbbcdf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cea40c7eb3904ea48792987f0cbbbcdf
+run_name: receptive-horse-372
+run_uuid: cea40c7eb3904ea48792987f0cbbbcdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041881378
+status: 1
+tags: []
+user_id: unknown

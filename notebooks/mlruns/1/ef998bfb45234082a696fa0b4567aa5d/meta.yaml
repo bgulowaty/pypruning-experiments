@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ef998bfb45234082a696fa0b4567aa5d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef998bfb45234082a696fa0b4567aa5d
+run_name: welcoming-bass-942
+run_uuid: ef998bfb45234082a696fa0b4567aa5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041645867
+status: 1
+tags: []
+user_id: unknown

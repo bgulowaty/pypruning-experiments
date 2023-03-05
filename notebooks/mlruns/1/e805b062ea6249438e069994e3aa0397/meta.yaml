@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e805b062ea6249438e069994e3aa0397/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e805b062ea6249438e069994e3aa0397
+run_name: illustrious-ape-361
+run_uuid: e805b062ea6249438e069994e3aa0397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041941976
+status: 1
+tags: []
+user_id: unknown

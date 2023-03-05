@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d6837a77f7d148829ce05f5b57972bba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d6837a77f7d148829ce05f5b57972bba
+run_name: gentle-foal-738
+run_uuid: d6837a77f7d148829ce05f5b57972bba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041828310
+status: 1
+tags: []
+user_id: unknown

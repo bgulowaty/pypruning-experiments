@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/61bfebf9c2394e8a9a224080a565ccb7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 61bfebf9c2394e8a9a224080a565ccb7
+run_name: puzzled-mare-25
+run_uuid: 61bfebf9c2394e8a9a224080a565ccb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494371
+status: 1
+tags: []
+user_id: unknown

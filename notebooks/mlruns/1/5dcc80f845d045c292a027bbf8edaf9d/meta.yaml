@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5dcc80f845d045c292a027bbf8edaf9d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5dcc80f845d045c292a027bbf8edaf9d
+run_name: silent-fly-155
+run_uuid: 5dcc80f845d045c292a027bbf8edaf9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041595453
+status: 1
+tags: []
+user_id: unknown

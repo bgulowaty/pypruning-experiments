@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eb57010640a54f5c8c9ddb4f647050fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb57010640a54f5c8c9ddb4f647050fb
+run_name: bright-horse-658
+run_uuid: eb57010640a54f5c8c9ddb4f647050fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041579653
+status: 1
+tags: []
+user_id: unknown

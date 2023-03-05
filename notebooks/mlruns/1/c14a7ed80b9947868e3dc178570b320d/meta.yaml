@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c14a7ed80b9947868e3dc178570b320d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c14a7ed80b9947868e3dc178570b320d
+run_name: big-bird-360
+run_uuid: c14a7ed80b9947868e3dc178570b320d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041597813
+status: 1
+tags: []
+user_id: unknown

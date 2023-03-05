@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2ae2cfc96cf74b70a3e28714238d6226/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ae2cfc96cf74b70a3e28714238d6226
+run_name: bright-swan-669
+run_uuid: 2ae2cfc96cf74b70a3e28714238d6226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041518780
+status: 1
+tags: []
+user_id: unknown

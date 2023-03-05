@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f0fe1ca13bd74e7c98a3139e5a106672/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f0fe1ca13bd74e7c98a3139e5a106672
+run_name: merciful-fly-827
+run_uuid: f0fe1ca13bd74e7c98a3139e5a106672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041592170
+status: 1
+tags: []
+user_id: unknown

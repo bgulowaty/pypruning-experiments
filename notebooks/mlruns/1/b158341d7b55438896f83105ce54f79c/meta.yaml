@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b158341d7b55438896f83105ce54f79c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b158341d7b55438896f83105ce54f79c
+run_name: awesome-gull-856
+run_uuid: b158341d7b55438896f83105ce54f79c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041500323
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4a563bd2b8a94e8fbab66a9a3789a6ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a563bd2b8a94e8fbab66a9a3789a6ff
+run_name: smiling-goat-850
+run_uuid: 4a563bd2b8a94e8fbab66a9a3789a6ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041528919
+status: 1
+tags: []
+user_id: unknown

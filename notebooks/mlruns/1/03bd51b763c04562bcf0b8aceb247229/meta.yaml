@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/03bd51b763c04562bcf0b8aceb247229/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 03bd51b763c04562bcf0b8aceb247229
+run_name: salty-fowl-875
+run_uuid: 03bd51b763c04562bcf0b8aceb247229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494999
+status: 1
+tags: []
+user_id: unknown

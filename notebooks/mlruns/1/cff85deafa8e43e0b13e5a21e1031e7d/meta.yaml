@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cff85deafa8e43e0b13e5a21e1031e7d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cff85deafa8e43e0b13e5a21e1031e7d
+run_name: abundant-loon-106
+run_uuid: cff85deafa8e43e0b13e5a21e1031e7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495453
+status: 1
+tags: []
+user_id: unknown

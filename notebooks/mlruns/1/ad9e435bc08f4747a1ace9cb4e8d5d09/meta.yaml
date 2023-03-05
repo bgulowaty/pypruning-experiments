@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ad9e435bc08f4747a1ace9cb4e8d5d09/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad9e435bc08f4747a1ace9cb4e8d5d09
+run_name: treasured-mule-882
+run_uuid: ad9e435bc08f4747a1ace9cb4e8d5d09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041496791
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fa7338f5334b4353a87e0e66aad3c70f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa7338f5334b4353a87e0e66aad3c70f
+run_name: salty-bat-504
+run_uuid: fa7338f5334b4353a87e0e66aad3c70f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041637624
+status: 1
+tags: []
+user_id: unknown

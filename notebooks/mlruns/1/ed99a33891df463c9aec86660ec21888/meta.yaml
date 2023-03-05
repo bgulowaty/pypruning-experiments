@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ed99a33891df463c9aec86660ec21888/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed99a33891df463c9aec86660ec21888
+run_name: orderly-panda-669
+run_uuid: ed99a33891df463c9aec86660ec21888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495331
+status: 1
+tags: []
+user_id: unknown

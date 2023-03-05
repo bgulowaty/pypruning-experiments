@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ddc5839eaca54a7b944239701b95e892/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ddc5839eaca54a7b944239701b95e892
+run_name: defiant-finch-854
+run_uuid: ddc5839eaca54a7b944239701b95e892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041508436
+status: 1
+tags: []
+user_id: unknown

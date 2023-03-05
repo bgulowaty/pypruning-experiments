@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ae683662472440e2a491d3cd72d23ee9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ae683662472440e2a491d3cd72d23ee9
+run_name: hilarious-kit-492
+run_uuid: ae683662472440e2a491d3cd72d23ee9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041863844
+status: 1
+tags: []
+user_id: unknown

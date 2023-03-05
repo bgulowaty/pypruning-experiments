@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3975c465f9a74ba89a35bd93ea5d967c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3975c465f9a74ba89a35bd93ea5d967c
+run_name: worried-bear-421
+run_uuid: 3975c465f9a74ba89a35bd93ea5d967c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041704649
+status: 1
+tags: []
+user_id: unknown

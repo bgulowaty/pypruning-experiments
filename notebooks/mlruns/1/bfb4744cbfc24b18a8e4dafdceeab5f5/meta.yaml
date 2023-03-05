@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bfb4744cbfc24b18a8e4dafdceeab5f5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bfb4744cbfc24b18a8e4dafdceeab5f5
+run_name: caring-bee-667
+run_uuid: bfb4744cbfc24b18a8e4dafdceeab5f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041614878
+status: 1
+tags: []
+user_id: unknown

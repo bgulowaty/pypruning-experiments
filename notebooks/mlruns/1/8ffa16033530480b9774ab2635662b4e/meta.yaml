@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8ffa16033530480b9774ab2635662b4e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8ffa16033530480b9774ab2635662b4e
+run_name: adaptable-shrew-848
+run_uuid: 8ffa16033530480b9774ab2635662b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041508410
+status: 1
+tags: []
+user_id: unknown

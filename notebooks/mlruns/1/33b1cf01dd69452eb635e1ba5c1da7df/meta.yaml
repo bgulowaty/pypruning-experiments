@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/33b1cf01dd69452eb635e1ba5c1da7df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 33b1cf01dd69452eb635e1ba5c1da7df
+run_name: flawless-sponge-35
+run_uuid: 33b1cf01dd69452eb635e1ba5c1da7df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041658135
+status: 1
+tags: []
+user_id: unknown

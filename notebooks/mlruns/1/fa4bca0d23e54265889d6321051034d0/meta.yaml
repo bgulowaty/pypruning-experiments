@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fa4bca0d23e54265889d6321051034d0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa4bca0d23e54265889d6321051034d0
+run_name: bustling-sponge-251
+run_uuid: fa4bca0d23e54265889d6321051034d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041810459
+status: 1
+tags: []
+user_id: unknown

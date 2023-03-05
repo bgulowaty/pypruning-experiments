@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/79ad7be265a84b879dbd1867bd82618e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 79ad7be265a84b879dbd1867bd82618e
+run_name: rare-hen-88
+run_uuid: 79ad7be265a84b879dbd1867bd82618e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041664175
+status: 1
+tags: []
+user_id: unknown

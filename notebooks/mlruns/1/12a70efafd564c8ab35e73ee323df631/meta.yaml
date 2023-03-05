@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/12a70efafd564c8ab35e73ee323df631/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 12a70efafd564c8ab35e73ee323df631
+run_name: nosy-owl-843
+run_uuid: 12a70efafd564c8ab35e73ee323df631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041792920
+status: 1
+tags: []
+user_id: unknown

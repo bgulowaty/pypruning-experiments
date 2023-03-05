@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d1d370c1f48b4796a85ff2beba3a91c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d1d370c1f48b4796a85ff2beba3a91c3
+run_name: wistful-lamb-528
+run_uuid: d1d370c1f48b4796a85ff2beba3a91c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041563299
+status: 1
+tags: []
+user_id: unknown

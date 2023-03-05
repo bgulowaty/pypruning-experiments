@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/86e3699a21274254ad43872c74b49e7c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86e3699a21274254ad43872c74b49e7c
+run_name: tasteful-stoat-336
+run_uuid: 86e3699a21274254ad43872c74b49e7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041719321
+status: 1
+tags: []
+user_id: unknown

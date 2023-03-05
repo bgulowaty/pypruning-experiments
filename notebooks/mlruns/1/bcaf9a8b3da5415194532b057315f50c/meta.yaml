@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bcaf9a8b3da5415194532b057315f50c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bcaf9a8b3da5415194532b057315f50c
+run_name: bustling-donkey-844
+run_uuid: bcaf9a8b3da5415194532b057315f50c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041508946
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ec010f8f1106492b9aa635a1d8a4fdd9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec010f8f1106492b9aa635a1d8a4fdd9
+run_name: classy-shad-748
+run_uuid: ec010f8f1106492b9aa635a1d8a4fdd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041589578
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/948b1687e6cc4acbb12a07d1728bf3bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 948b1687e6cc4acbb12a07d1728bf3bd
+run_name: abrasive-bat-85
+run_uuid: 948b1687e6cc4acbb12a07d1728bf3bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041642762
+status: 1
+tags: []
+user_id: unknown

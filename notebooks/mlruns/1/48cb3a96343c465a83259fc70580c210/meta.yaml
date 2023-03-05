@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/48cb3a96343c465a83259fc70580c210/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 48cb3a96343c465a83259fc70580c210
+run_name: wise-robin-218
+run_uuid: 48cb3a96343c465a83259fc70580c210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041722840
+status: 1
+tags: []
+user_id: unknown

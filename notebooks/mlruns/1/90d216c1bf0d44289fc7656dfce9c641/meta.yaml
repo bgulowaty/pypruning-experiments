@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/90d216c1bf0d44289fc7656dfce9c641/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 90d216c1bf0d44289fc7656dfce9c641
+run_name: industrious-mule-438
+run_uuid: 90d216c1bf0d44289fc7656dfce9c641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041544913
+status: 1
+tags: []
+user_id: unknown

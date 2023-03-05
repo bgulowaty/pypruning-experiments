@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ca7eface280f4119b7dd8ae5b28e879c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca7eface280f4119b7dd8ae5b28e879c
+run_name: burly-fish-725
+run_uuid: ca7eface280f4119b7dd8ae5b28e879c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041585534
+status: 1
+tags: []
+user_id: unknown

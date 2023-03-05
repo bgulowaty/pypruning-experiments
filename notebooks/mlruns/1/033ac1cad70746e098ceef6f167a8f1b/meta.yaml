@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/033ac1cad70746e098ceef6f167a8f1b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 033ac1cad70746e098ceef6f167a8f1b
+run_name: bouncy-ox-939
+run_uuid: 033ac1cad70746e098ceef6f167a8f1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041619716
+status: 1
+tags: []
+user_id: unknown

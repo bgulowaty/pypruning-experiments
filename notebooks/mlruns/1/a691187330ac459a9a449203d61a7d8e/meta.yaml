@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a691187330ac459a9a449203d61a7d8e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a691187330ac459a9a449203d61a7d8e
+run_name: sassy-cat-212
+run_uuid: a691187330ac459a9a449203d61a7d8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041607863
+status: 1
+tags: []
+user_id: unknown

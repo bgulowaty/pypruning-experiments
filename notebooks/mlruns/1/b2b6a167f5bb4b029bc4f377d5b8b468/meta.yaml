@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b2b6a167f5bb4b029bc4f377d5b8b468/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b2b6a167f5bb4b029bc4f377d5b8b468
+run_name: unequaled-lark-560
+run_uuid: b2b6a167f5bb4b029bc4f377d5b8b468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041574222
+status: 1
+tags: []
+user_id: unknown

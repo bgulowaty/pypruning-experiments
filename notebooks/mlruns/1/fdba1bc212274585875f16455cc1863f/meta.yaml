@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fdba1bc212274585875f16455cc1863f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fdba1bc212274585875f16455cc1863f
+run_name: brawny-mink-746
+run_uuid: fdba1bc212274585875f16455cc1863f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041510649
+status: 1
+tags: []
+user_id: unknown

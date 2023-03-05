@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/da91eabcc5614046b73f59ff78abc494/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da91eabcc5614046b73f59ff78abc494
+run_name: carefree-doe-379
+run_uuid: da91eabcc5614046b73f59ff78abc494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041558588
+status: 1
+tags: []
+user_id: unknown

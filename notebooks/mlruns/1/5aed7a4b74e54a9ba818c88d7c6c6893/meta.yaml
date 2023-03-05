@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5aed7a4b74e54a9ba818c88d7c6c6893/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5aed7a4b74e54a9ba818c88d7c6c6893
+run_name: beautiful-grouse-241
+run_uuid: 5aed7a4b74e54a9ba818c88d7c6c6893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041515619
+status: 1
+tags: []
+user_id: unknown

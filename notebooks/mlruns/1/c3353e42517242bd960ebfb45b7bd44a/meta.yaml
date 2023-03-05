@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c3353e42517242bd960ebfb45b7bd44a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c3353e42517242bd960ebfb45b7bd44a
+run_name: fun-grouse-374
+run_uuid: c3353e42517242bd960ebfb45b7bd44a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502033
+status: 1
+tags: []
+user_id: unknown

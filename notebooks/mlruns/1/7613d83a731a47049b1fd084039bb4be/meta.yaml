@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7613d83a731a47049b1fd084039bb4be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7613d83a731a47049b1fd084039bb4be
+run_name: languid-shrike-97
+run_uuid: 7613d83a731a47049b1fd084039bb4be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041727096
+status: 1
+tags: []
+user_id: unknown

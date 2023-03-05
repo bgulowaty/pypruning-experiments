@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c075bd6bb5ce4994887f619127f350ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c075bd6bb5ce4994887f619127f350ce
+run_name: funny-stork-48
+run_uuid: c075bd6bb5ce4994887f619127f350ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041604077
+status: 1
+tags: []
+user_id: unknown

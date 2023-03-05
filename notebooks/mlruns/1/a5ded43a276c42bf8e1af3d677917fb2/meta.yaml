@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a5ded43a276c42bf8e1af3d677917fb2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a5ded43a276c42bf8e1af3d677917fb2
+run_name: luminous-jay-750
+run_uuid: a5ded43a276c42bf8e1af3d677917fb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041782980
+status: 1
+tags: []
+user_id: unknown

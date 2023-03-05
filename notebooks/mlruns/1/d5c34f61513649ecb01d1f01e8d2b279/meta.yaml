@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d5c34f61513649ecb01d1f01e8d2b279/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d5c34f61513649ecb01d1f01e8d2b279
+run_name: bald-rook-321
+run_uuid: d5c34f61513649ecb01d1f01e8d2b279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041809532
+status: 1
+tags: []
+user_id: unknown

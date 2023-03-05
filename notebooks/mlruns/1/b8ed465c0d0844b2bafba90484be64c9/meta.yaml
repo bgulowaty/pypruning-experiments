@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b8ed465c0d0844b2bafba90484be64c9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b8ed465c0d0844b2bafba90484be64c9
+run_name: respected-frog-356
+run_uuid: b8ed465c0d0844b2bafba90484be64c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041900595
+status: 1
+tags: []
+user_id: unknown

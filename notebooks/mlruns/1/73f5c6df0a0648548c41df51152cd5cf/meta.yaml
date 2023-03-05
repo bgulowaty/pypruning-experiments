@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/73f5c6df0a0648548c41df51152cd5cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 73f5c6df0a0648548c41df51152cd5cf
+run_name: persistent-fawn-287
+run_uuid: 73f5c6df0a0648548c41df51152cd5cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041785228
+status: 1
+tags: []
+user_id: unknown

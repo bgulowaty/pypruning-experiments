@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/22e605a8b6034ca5828af0d3f904b3dc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 22e605a8b6034ca5828af0d3f904b3dc
+run_name: stately-shad-979
+run_uuid: 22e605a8b6034ca5828af0d3f904b3dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041704102
+status: 1
+tags: []
+user_id: unknown

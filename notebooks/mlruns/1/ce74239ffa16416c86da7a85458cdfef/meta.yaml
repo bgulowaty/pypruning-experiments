@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ce74239ffa16416c86da7a85458cdfef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce74239ffa16416c86da7a85458cdfef
+run_name: stately-moth-111
+run_uuid: ce74239ffa16416c86da7a85458cdfef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041829532
+status: 1
+tags: []
+user_id: unknown

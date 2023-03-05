@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f66d92d4b86d4108b1ca80ba0b9da800/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f66d92d4b86d4108b1ca80ba0b9da800
+run_name: defiant-crow-757
+run_uuid: f66d92d4b86d4108b1ca80ba0b9da800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041504829
+status: 1
+tags: []
+user_id: unknown

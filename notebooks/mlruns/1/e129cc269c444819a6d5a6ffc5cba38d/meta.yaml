@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e129cc269c444819a6d5a6ffc5cba38d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e129cc269c444819a6d5a6ffc5cba38d
+run_name: selective-stag-479
+run_uuid: e129cc269c444819a6d5a6ffc5cba38d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041974958
+status: 1
+tags: []
+user_id: unknown

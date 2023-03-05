@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0c9f475758db4051a99f640570d809f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0c9f475758db4051a99f640570d809f9
+run_name: honorable-bug-376
+run_uuid: 0c9f475758db4051a99f640570d809f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041859892
+status: 1
+tags: []
+user_id: unknown

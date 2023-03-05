@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d7b23aa463744872892d9771008e4f37/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7b23aa463744872892d9771008e4f37
+run_name: enthused-bee-179
+run_uuid: d7b23aa463744872892d9771008e4f37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041495157
+status: 1
+tags: []
+user_id: unknown

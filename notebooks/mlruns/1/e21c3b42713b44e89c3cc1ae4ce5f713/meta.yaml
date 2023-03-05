@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e21c3b42713b44e89c3cc1ae4ce5f713/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e21c3b42713b44e89c3cc1ae4ce5f713
+run_name: sneaky-fowl-466
+run_uuid: e21c3b42713b44e89c3cc1ae4ce5f713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041739406
+status: 1
+tags: []
+user_id: unknown

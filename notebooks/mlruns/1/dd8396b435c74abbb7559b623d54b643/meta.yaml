@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dd8396b435c74abbb7559b623d54b643/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd8396b435c74abbb7559b623d54b643
+run_name: nosy-snipe-338
+run_uuid: dd8396b435c74abbb7559b623d54b643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041840499
+status: 1
+tags: []
+user_id: unknown

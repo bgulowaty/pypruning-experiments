@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2d8596fc04804aa7afc06a1530f4e371/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2d8596fc04804aa7afc06a1530f4e371
+run_name: legendary-bear-720
+run_uuid: 2d8596fc04804aa7afc06a1530f4e371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041498265
+status: 1
+tags: []
+user_id: unknown

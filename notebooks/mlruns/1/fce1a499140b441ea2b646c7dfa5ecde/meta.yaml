@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fce1a499140b441ea2b646c7dfa5ecde/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fce1a499140b441ea2b646c7dfa5ecde
+run_name: dashing-hog-842
+run_uuid: fce1a499140b441ea2b646c7dfa5ecde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041829204
+status: 1
+tags: []
+user_id: unknown

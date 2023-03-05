@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/737ee773907447e5a47c8f188e367752/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 737ee773907447e5a47c8f188e367752
+run_name: rumbling-kite-510
+run_uuid: 737ee773907447e5a47c8f188e367752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041641427
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/928fa26b1665431ca273d9665321bbdb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 928fa26b1665431ca273d9665321bbdb
+run_name: sneaky-bass-935
+run_uuid: 928fa26b1665431ca273d9665321bbdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041911560
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a51c465d6f7241789d5a6d99f4d6075e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a51c465d6f7241789d5a6d99f4d6075e
+run_name: thoughtful-stag-964
+run_uuid: a51c465d6f7241789d5a6d99f4d6075e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041551061
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/103adf0c4ad644fe9bdf792eab0a3b66/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 103adf0c4ad644fe9bdf792eab0a3b66
+run_name: handsome-eel-281
+run_uuid: 103adf0c4ad644fe9bdf792eab0a3b66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041548782
+status: 1
+tags: []
+user_id: unknown

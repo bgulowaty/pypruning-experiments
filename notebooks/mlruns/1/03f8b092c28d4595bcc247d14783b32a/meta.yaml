@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/03f8b092c28d4595bcc247d14783b32a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 03f8b092c28d4595bcc247d14783b32a
+run_name: nimble-seal-875
+run_uuid: 03f8b092c28d4595bcc247d14783b32a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041571345
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/dc2b2314f04d453dae8836e06b6643bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc2b2314f04d453dae8836e06b6643bd
+run_name: gentle-tern-453
+run_uuid: dc2b2314f04d453dae8836e06b6643bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041933675
+status: 1
+tags: []
+user_id: unknown

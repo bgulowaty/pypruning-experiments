@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d0410f3013994ea4b81f9a65f26b7efc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d0410f3013994ea4b81f9a65f26b7efc
+run_name: bright-carp-239
+run_uuid: d0410f3013994ea4b81f9a65f26b7efc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041622113
+status: 1
+tags: []
+user_id: unknown

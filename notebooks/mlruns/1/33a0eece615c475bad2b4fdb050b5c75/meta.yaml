@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/33a0eece615c475bad2b4fdb050b5c75/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 33a0eece615c475bad2b4fdb050b5c75
+run_name: spiffy-turtle-49
+run_uuid: 33a0eece615c475bad2b4fdb050b5c75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041506218
+status: 1
+tags: []
+user_id: unknown

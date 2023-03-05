@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/efa1ac40e58341a088c5e184e750430e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: efa1ac40e58341a088c5e184e750430e
+run_name: marvelous-goat-646
+run_uuid: efa1ac40e58341a088c5e184e750430e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041782123
+status: 1
+tags: []
+user_id: unknown

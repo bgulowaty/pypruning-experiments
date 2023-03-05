@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0be5dbc7c9f94a869a7010b9e9ef9119/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0be5dbc7c9f94a869a7010b9e9ef9119
+run_name: luxuriant-lamb-923
+run_uuid: 0be5dbc7c9f94a869a7010b9e9ef9119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041852034
+status: 1
+tags: []
+user_id: unknown

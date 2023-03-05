@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/190bb830b1f94222b90aa9b37391e9cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 190bb830b1f94222b90aa9b37391e9cd
+run_name: overjoyed-mare-265
+run_uuid: 190bb830b1f94222b90aa9b37391e9cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041938366
+status: 1
+tags: []
+user_id: unknown

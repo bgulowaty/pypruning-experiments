@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/763ea768097143c88267b4fc95310282/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 763ea768097143c88267b4fc95310282
+run_name: unequaled-rook-674
+run_uuid: 763ea768097143c88267b4fc95310282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041698476
+status: 1
+tags: []
+user_id: unknown

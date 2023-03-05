@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b03ce2010d5f4600b1036087a2de9aa3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b03ce2010d5f4600b1036087a2de9aa3
+run_name: blushing-gull-259
+run_uuid: b03ce2010d5f4600b1036087a2de9aa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041614308
+status: 1
+tags: []
+user_id: unknown

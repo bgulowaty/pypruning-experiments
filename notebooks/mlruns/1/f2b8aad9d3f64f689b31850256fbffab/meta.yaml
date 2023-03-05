@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f2b8aad9d3f64f689b31850256fbffab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f2b8aad9d3f64f689b31850256fbffab
+run_name: nervous-boar-4
+run_uuid: f2b8aad9d3f64f689b31850256fbffab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041925269
+status: 1
+tags: []
+user_id: unknown

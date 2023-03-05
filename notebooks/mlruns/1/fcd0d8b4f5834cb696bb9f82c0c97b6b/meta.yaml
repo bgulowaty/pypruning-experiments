@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fcd0d8b4f5834cb696bb9f82c0c97b6b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fcd0d8b4f5834cb696bb9f82c0c97b6b
+run_name: awesome-mare-982
+run_uuid: fcd0d8b4f5834cb696bb9f82c0c97b6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502536
+status: 1
+tags: []
+user_id: unknown

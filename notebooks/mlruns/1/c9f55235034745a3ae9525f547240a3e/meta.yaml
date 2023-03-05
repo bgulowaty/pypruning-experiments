@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c9f55235034745a3ae9525f547240a3e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c9f55235034745a3ae9525f547240a3e
+run_name: clean-owl-498
+run_uuid: c9f55235034745a3ae9525f547240a3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041729848
+status: 1
+tags: []
+user_id: unknown

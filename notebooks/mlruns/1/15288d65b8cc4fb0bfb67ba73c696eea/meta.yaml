@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/15288d65b8cc4fb0bfb67ba73c696eea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 15288d65b8cc4fb0bfb67ba73c696eea
+run_name: bouncy-ram-371
+run_uuid: 15288d65b8cc4fb0bfb67ba73c696eea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041754656
+status: 1
+tags: []
+user_id: unknown

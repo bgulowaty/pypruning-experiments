@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3e81651d54c247c8aca266a92dd6efe6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e81651d54c247c8aca266a92dd6efe6
+run_name: skillful-auk-179
+run_uuid: 3e81651d54c247c8aca266a92dd6efe6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041720090
+status: 1
+tags: []
+user_id: unknown

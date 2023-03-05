@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/778af56fd5c44b7fa3f4a684dbc455af/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 778af56fd5c44b7fa3f4a684dbc455af
+run_name: learned-asp-672
+run_uuid: 778af56fd5c44b7fa3f4a684dbc455af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041625425
+status: 1
+tags: []
+user_id: unknown

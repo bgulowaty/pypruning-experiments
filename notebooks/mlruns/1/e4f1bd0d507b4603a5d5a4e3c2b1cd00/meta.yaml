@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e4f1bd0d507b4603a5d5a4e3c2b1cd00/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e4f1bd0d507b4603a5d5a4e3c2b1cd00
+run_name: adaptable-mouse-904
+run_uuid: e4f1bd0d507b4603a5d5a4e3c2b1cd00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041512253
+status: 1
+tags: []
+user_id: unknown

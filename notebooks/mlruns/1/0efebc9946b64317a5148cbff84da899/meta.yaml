@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0efebc9946b64317a5148cbff84da899/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0efebc9946b64317a5148cbff84da899
+run_name: fun-midge-688
+run_uuid: 0efebc9946b64317a5148cbff84da899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041773031
+status: 1
+tags: []
+user_id: unknown

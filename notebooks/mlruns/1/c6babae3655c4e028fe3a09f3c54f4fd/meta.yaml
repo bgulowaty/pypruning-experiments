@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c6babae3655c4e028fe3a09f3c54f4fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c6babae3655c4e028fe3a09f3c54f4fd
+run_name: funny-rook-898
+run_uuid: c6babae3655c4e028fe3a09f3c54f4fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041609529
+status: 1
+tags: []
+user_id: unknown

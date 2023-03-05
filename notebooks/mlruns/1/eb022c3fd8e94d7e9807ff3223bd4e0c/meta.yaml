@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eb022c3fd8e94d7e9807ff3223bd4e0c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb022c3fd8e94d7e9807ff3223bd4e0c
+run_name: blushing-bear-784
+run_uuid: eb022c3fd8e94d7e9807ff3223bd4e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041810873
+status: 1
+tags: []
+user_id: unknown

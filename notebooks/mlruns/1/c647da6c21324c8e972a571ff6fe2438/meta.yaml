@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c647da6c21324c8e972a571ff6fe2438/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c647da6c21324c8e972a571ff6fe2438
+run_name: able-skunk-898
+run_uuid: c647da6c21324c8e972a571ff6fe2438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041948905
+status: 1
+tags: []
+user_id: unknown

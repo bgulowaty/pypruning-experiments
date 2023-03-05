@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1137c1a8f06f436f97e3f4f2bc92708d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1137c1a8f06f436f97e3f4f2bc92708d
+run_name: redolent-sponge-734
+run_uuid: 1137c1a8f06f436f97e3f4f2bc92708d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041567341
+status: 1
+tags: []
+user_id: unknown

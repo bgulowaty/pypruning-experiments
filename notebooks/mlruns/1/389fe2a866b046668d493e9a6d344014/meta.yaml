@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/389fe2a866b046668d493e9a6d344014/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 389fe2a866b046668d493e9a6d344014
+run_name: marvelous-toad-546
+run_uuid: 389fe2a866b046668d493e9a6d344014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041636880
+status: 1
+tags: []
+user_id: unknown

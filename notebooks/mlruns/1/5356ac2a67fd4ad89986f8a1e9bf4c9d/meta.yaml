@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5356ac2a67fd4ad89986f8a1e9bf4c9d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5356ac2a67fd4ad89986f8a1e9bf4c9d
+run_name: aged-horse-142
+run_uuid: 5356ac2a67fd4ad89986f8a1e9bf4c9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041499038
+status: 1
+tags: []
+user_id: unknown

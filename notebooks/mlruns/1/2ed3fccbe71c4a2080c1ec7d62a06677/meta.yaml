@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2ed3fccbe71c4a2080c1ec7d62a06677/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ed3fccbe71c4a2080c1ec7d62a06677
+run_name: fortunate-wren-494
+run_uuid: 2ed3fccbe71c4a2080c1ec7d62a06677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041503182
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f5ccabb16ba740ac8a21e33d10569f8b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f5ccabb16ba740ac8a21e33d10569f8b
+run_name: fearless-kite-960
+run_uuid: f5ccabb16ba740ac8a21e33d10569f8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041632006
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/db145b1bcc7946f1a4b49f76cbedbb50/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db145b1bcc7946f1a4b49f76cbedbb50
+run_name: sincere-trout-391
+run_uuid: db145b1bcc7946f1a4b49f76cbedbb50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041953559
+status: 1
+tags: []
+user_id: unknown

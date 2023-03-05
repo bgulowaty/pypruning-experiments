@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/45fcd90d3e9040e3a9aa646d1dff3b12/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45fcd90d3e9040e3a9aa646d1dff3b12
+run_name: bouncy-dolphin-97
+run_uuid: 45fcd90d3e9040e3a9aa646d1dff3b12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041519178
+status: 1
+tags: []
+user_id: unknown

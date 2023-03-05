@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c700025df2c14d4ab29d438f8ddf9258/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c700025df2c14d4ab29d438f8ddf9258
+run_name: silent-wren-96
+run_uuid: c700025df2c14d4ab29d438f8ddf9258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041650007
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/231a2699b7a84fbc9b47fe8f005f132c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 231a2699b7a84fbc9b47fe8f005f132c
+run_name: vaunted-whale-329
+run_uuid: 231a2699b7a84fbc9b47fe8f005f132c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041878625
+status: 1
+tags: []
+user_id: unknown

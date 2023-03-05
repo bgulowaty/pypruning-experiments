@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/015fe671937947f6a9a41a68b4766739/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 015fe671937947f6a9a41a68b4766739
+run_name: lyrical-hawk-200
+run_uuid: 015fe671937947f6a9a41a68b4766739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041945996
+status: 1
+tags: []
+user_id: unknown

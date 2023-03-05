@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4a7fc8fbf1ba4f619e02f9eadcb8cd8d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a7fc8fbf1ba4f619e02f9eadcb8cd8d
+run_name: burly-conch-575
+run_uuid: 4a7fc8fbf1ba4f619e02f9eadcb8cd8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041858033
+status: 1
+tags: []
+user_id: unknown

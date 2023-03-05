@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/faff2e1b51b14cec8916f8a6d75b052f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: faff2e1b51b14cec8916f8a6d75b052f
+run_name: illustrious-rat-77
+run_uuid: faff2e1b51b14cec8916f8a6d75b052f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041630928
+status: 1
+tags: []
+user_id: unknown

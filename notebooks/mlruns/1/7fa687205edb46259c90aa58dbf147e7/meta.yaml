@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/7fa687205edb46259c90aa58dbf147e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7fa687205edb46259c90aa58dbf147e7
+run_name: skittish-bee-754
+run_uuid: 7fa687205edb46259c90aa58dbf147e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041873187
+status: 1
+tags: []
+user_id: unknown

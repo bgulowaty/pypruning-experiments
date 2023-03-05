@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/95f9c74fa2c94663b85606164a037d59/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95f9c74fa2c94663b85606164a037d59
+run_name: traveling-cat-469
+run_uuid: 95f9c74fa2c94663b85606164a037d59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041650971
+status: 1
+tags: []
+user_id: unknown

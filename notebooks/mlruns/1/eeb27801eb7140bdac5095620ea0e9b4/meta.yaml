@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eeb27801eb7140bdac5095620ea0e9b4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eeb27801eb7140bdac5095620ea0e9b4
+run_name: burly-shrew-71
+run_uuid: eeb27801eb7140bdac5095620ea0e9b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041812570
+status: 1
+tags: []
+user_id: unknown

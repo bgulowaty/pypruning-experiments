@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a6d5d410661248e2a09fef21310043b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a6d5d410661248e2a09fef21310043b3
+run_name: magnificent-foal-962
+run_uuid: a6d5d410661248e2a09fef21310043b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041817519
+status: 1
+tags: []
+user_id: unknown

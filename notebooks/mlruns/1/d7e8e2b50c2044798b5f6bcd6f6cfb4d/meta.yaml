@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d7e8e2b50c2044798b5f6bcd6f6cfb4d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7e8e2b50c2044798b5f6bcd6f6cfb4d
+run_name: marvelous-grouse-109
+run_uuid: d7e8e2b50c2044798b5f6bcd6f6cfb4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041973884
+status: 1
+tags: []
+user_id: unknown

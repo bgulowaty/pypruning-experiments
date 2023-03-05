@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e6655ed48e964e59beb581bf8f9d320a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e6655ed48e964e59beb581bf8f9d320a
+run_name: salty-turtle-659
+run_uuid: e6655ed48e964e59beb581bf8f9d320a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041795750
+status: 1
+tags: []
+user_id: unknown

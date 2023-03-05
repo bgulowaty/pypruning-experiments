@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8d1f27e9cf034f2bad89f8dcb787c534/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8d1f27e9cf034f2bad89f8dcb787c534
+run_name: skittish-hound-201
+run_uuid: 8d1f27e9cf034f2bad89f8dcb787c534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041521919
+status: 1
+tags: []
+user_id: unknown

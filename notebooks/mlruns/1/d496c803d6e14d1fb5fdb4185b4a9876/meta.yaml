@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d496c803d6e14d1fb5fdb4185b4a9876/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d496c803d6e14d1fb5fdb4185b4a9876
+run_name: dashing-flea-828
+run_uuid: d496c803d6e14d1fb5fdb4185b4a9876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041651634
+status: 1
+tags: []
+user_id: unknown

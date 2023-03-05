@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d2f10b0669404e829c8fb4ff6c7bf4c2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2f10b0669404e829c8fb4ff6c7bf4c2
+run_name: kindly-sponge-234
+run_uuid: d2f10b0669404e829c8fb4ff6c7bf4c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041712467
+status: 1
+tags: []
+user_id: unknown

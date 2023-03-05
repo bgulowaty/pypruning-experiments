@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d174b7117e04419883c5f6ff63c31847/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d174b7117e04419883c5f6ff63c31847
+run_name: enthused-colt-195
+run_uuid: d174b7117e04419883c5f6ff63c31847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041703354
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/061e9904a37644b583c072388d85a2f1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 061e9904a37644b583c072388d85a2f1
+run_name: likeable-shad-346
+run_uuid: 061e9904a37644b583c072388d85a2f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041743543
+status: 1
+tags: []
+user_id: unknown

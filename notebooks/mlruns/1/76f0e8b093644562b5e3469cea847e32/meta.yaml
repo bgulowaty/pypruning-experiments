@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/76f0e8b093644562b5e3469cea847e32/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 76f0e8b093644562b5e3469cea847e32
+run_name: redolent-deer-195
+run_uuid: 76f0e8b093644562b5e3469cea847e32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041570475
+status: 1
+tags: []
+user_id: unknown

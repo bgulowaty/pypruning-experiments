@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/942795dd2c2e4fffabebbf2238021c28/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 942795dd2c2e4fffabebbf2238021c28
+run_name: nimble-pig-900
+run_uuid: 942795dd2c2e4fffabebbf2238021c28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041720524
+status: 1
+tags: []
+user_id: unknown

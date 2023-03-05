@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a82d1911b4c449a98a380e6a5fe4f7d8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a82d1911b4c449a98a380e6a5fe4f7d8
+run_name: monumental-ox-53
+run_uuid: a82d1911b4c449a98a380e6a5fe4f7d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041643263
+status: 1
+tags: []
+user_id: unknown

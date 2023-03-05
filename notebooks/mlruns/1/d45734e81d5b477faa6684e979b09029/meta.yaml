@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d45734e81d5b477faa6684e979b09029/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d45734e81d5b477faa6684e979b09029
+run_name: unruly-shark-594
+run_uuid: d45734e81d5b477faa6684e979b09029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041843915
+status: 1
+tags: []
+user_id: unknown

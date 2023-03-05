@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/74fc49cbd48d44ed92b1999bba4a2dae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74fc49cbd48d44ed92b1999bba4a2dae
+run_name: calm-stork-850
+run_uuid: 74fc49cbd48d44ed92b1999bba4a2dae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494849
+status: 1
+tags: []
+user_id: unknown

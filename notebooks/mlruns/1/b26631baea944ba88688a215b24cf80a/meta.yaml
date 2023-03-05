@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b26631baea944ba88688a215b24cf80a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b26631baea944ba88688a215b24cf80a
+run_name: funny-cub-690
+run_uuid: b26631baea944ba88688a215b24cf80a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041561586
+status: 1
+tags: []
+user_id: unknown

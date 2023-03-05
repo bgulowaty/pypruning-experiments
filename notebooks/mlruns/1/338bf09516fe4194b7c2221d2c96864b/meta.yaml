@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/338bf09516fe4194b7c2221d2c96864b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 338bf09516fe4194b7c2221d2c96864b
+run_name: judicious-foal-975
+run_uuid: 338bf09516fe4194b7c2221d2c96864b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041976134
+status: 1
+tags: []
+user_id: unknown

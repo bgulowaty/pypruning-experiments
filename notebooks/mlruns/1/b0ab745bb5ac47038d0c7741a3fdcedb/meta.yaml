@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b0ab745bb5ac47038d0c7741a3fdcedb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b0ab745bb5ac47038d0c7741a3fdcedb
+run_name: nervous-duck-400
+run_uuid: b0ab745bb5ac47038d0c7741a3fdcedb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041968954
+status: 1
+tags: []
+user_id: unknown

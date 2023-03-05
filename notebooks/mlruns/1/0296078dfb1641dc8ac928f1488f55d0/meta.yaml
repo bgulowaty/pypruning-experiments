@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0296078dfb1641dc8ac928f1488f55d0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0296078dfb1641dc8ac928f1488f55d0
+run_name: zealous-calf-878
+run_uuid: 0296078dfb1641dc8ac928f1488f55d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041575849
+status: 1
+tags: []
+user_id: unknown

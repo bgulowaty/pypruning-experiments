@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f7554453e03c486e80db20826583bb5d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f7554453e03c486e80db20826583bb5d
+run_name: awesome-mink-835
+run_uuid: f7554453e03c486e80db20826583bb5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041626182
+status: 1
+tags: []
+user_id: unknown

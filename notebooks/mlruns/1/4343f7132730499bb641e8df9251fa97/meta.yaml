@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4343f7132730499bb641e8df9251fa97/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4343f7132730499bb641e8df9251fa97
+run_name: fortunate-ram-346
+run_uuid: 4343f7132730499bb641e8df9251fa97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041869971
+status: 1
+tags: []
+user_id: unknown

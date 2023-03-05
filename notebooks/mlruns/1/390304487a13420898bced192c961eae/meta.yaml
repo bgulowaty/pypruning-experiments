@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/390304487a13420898bced192c961eae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 390304487a13420898bced192c961eae
+run_name: powerful-skunk-958
+run_uuid: 390304487a13420898bced192c961eae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041557499
+status: 1
+tags: []
+user_id: unknown

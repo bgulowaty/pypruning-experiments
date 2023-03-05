@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f6500d62f4194b76a1bd7910d7e0e5ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f6500d62f4194b76a1bd7910d7e0e5ba
+run_name: thoughtful-frog-277
+run_uuid: f6500d62f4194b76a1bd7910d7e0e5ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041707964
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/814d586ad300448fb3a3430bc47c66fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 814d586ad300448fb3a3430bc47c66fb
+run_name: inquisitive-shad-822
+run_uuid: 814d586ad300448fb3a3430bc47c66fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041542230
+status: 1
+tags: []
+user_id: unknown

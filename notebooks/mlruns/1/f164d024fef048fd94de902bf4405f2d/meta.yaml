@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f164d024fef048fd94de902bf4405f2d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f164d024fef048fd94de902bf4405f2d
+run_name: bright-pig-436
+run_uuid: f164d024fef048fd94de902bf4405f2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041725662
+status: 1
+tags: []
+user_id: unknown

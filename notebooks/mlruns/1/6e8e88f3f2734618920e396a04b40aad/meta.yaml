@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6e8e88f3f2734618920e396a04b40aad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e8e88f3f2734618920e396a04b40aad
+run_name: stately-wolf-462
+run_uuid: 6e8e88f3f2734618920e396a04b40aad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041507667
+status: 1
+tags: []
+user_id: unknown

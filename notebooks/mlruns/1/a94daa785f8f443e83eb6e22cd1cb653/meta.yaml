@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/a94daa785f8f443e83eb6e22cd1cb653/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a94daa785f8f443e83eb6e22cd1cb653
+run_name: selective-seal-721
+run_uuid: a94daa785f8f443e83eb6e22cd1cb653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041777484
+status: 1
+tags: []
+user_id: unknown

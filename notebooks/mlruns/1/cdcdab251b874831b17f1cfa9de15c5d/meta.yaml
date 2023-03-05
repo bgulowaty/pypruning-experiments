@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cdcdab251b874831b17f1cfa9de15c5d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cdcdab251b874831b17f1cfa9de15c5d
+run_name: delicate-shoat-148
+run_uuid: cdcdab251b874831b17f1cfa9de15c5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041640464
+status: 1
+tags: []
+user_id: unknown

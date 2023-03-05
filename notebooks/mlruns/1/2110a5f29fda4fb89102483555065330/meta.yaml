@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2110a5f29fda4fb89102483555065330/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2110a5f29fda4fb89102483555065330
+run_name: exultant-swan-466
+run_uuid: 2110a5f29fda4fb89102483555065330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041861693
+status: 1
+tags: []
+user_id: unknown

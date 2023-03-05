@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/51157ad1774641f6b54700b56f49a348/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 51157ad1774641f6b54700b56f49a348
+run_name: rare-dog-466
+run_uuid: 51157ad1774641f6b54700b56f49a348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041906079
+status: 1
+tags: []
+user_id: unknown

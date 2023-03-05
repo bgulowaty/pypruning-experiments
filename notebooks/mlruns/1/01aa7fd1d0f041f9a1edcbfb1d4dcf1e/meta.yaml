@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/01aa7fd1d0f041f9a1edcbfb1d4dcf1e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01aa7fd1d0f041f9a1edcbfb1d4dcf1e
+run_name: burly-mule-516
+run_uuid: 01aa7fd1d0f041f9a1edcbfb1d4dcf1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041631342
+status: 1
+tags: []
+user_id: unknown

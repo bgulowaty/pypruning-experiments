@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bdd05b384eab4adf969071c915a88311/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bdd05b384eab4adf969071c915a88311
+run_name: unleashed-bee-949
+run_uuid: bdd05b384eab4adf969071c915a88311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041513295
+status: 1
+tags: []
+user_id: unknown

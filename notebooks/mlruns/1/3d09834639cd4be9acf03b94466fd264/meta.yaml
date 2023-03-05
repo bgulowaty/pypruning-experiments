@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3d09834639cd4be9acf03b94466fd264/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3d09834639cd4be9acf03b94466fd264
+run_name: rogue-fawn-462
+run_uuid: 3d09834639cd4be9acf03b94466fd264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041646435
+status: 1
+tags: []
+user_id: unknown

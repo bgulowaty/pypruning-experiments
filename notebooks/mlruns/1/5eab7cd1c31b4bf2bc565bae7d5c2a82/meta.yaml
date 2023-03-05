@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5eab7cd1c31b4bf2bc565bae7d5c2a82/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5eab7cd1c31b4bf2bc565bae7d5c2a82
+run_name: casual-stag-630
+run_uuid: 5eab7cd1c31b4bf2bc565bae7d5c2a82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041526163
+status: 1
+tags: []
+user_id: unknown

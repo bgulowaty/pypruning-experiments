@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/adaac22485674fac92f546069ef0b007/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: adaac22485674fac92f546069ef0b007
+run_name: gaudy-stoat-439
+run_uuid: adaac22485674fac92f546069ef0b007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041541607
+status: 1
+tags: []
+user_id: unknown

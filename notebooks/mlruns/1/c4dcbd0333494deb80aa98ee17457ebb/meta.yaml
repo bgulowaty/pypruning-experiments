@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c4dcbd0333494deb80aa98ee17457ebb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c4dcbd0333494deb80aa98ee17457ebb
+run_name: legendary-sponge-392
+run_uuid: c4dcbd0333494deb80aa98ee17457ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041690745
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5589a87fb9e74ed7b3928b8d42d8fefd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5589a87fb9e74ed7b3928b8d42d8fefd
+run_name: valuable-snake-567
+run_uuid: 5589a87fb9e74ed7b3928b8d42d8fefd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041909177
+status: 1
+tags: []
+user_id: unknown

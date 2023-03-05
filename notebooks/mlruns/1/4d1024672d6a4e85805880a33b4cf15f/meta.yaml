@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4d1024672d6a4e85805880a33b4cf15f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d1024672d6a4e85805880a33b4cf15f
+run_name: treasured-stoat-601
+run_uuid: 4d1024672d6a4e85805880a33b4cf15f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041853483
+status: 1
+tags: []
+user_id: unknown

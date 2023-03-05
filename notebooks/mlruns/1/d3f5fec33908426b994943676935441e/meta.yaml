@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d3f5fec33908426b994943676935441e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d3f5fec33908426b994943676935441e
+run_name: sincere-bass-975
+run_uuid: d3f5fec33908426b994943676935441e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041971823
+status: 1
+tags: []
+user_id: unknown

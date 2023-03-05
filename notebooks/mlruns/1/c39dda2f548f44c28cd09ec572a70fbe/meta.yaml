@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c39dda2f548f44c28cd09ec572a70fbe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c39dda2f548f44c28cd09ec572a70fbe
+run_name: youthful-cat-441
+run_uuid: c39dda2f548f44c28cd09ec572a70fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041656824
+status: 1
+tags: []
+user_id: unknown

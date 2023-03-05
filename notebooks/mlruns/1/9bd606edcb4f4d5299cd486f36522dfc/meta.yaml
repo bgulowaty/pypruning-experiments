@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9bd606edcb4f4d5299cd486f36522dfc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9bd606edcb4f4d5299cd486f36522dfc
+run_name: able-bat-512
+run_uuid: 9bd606edcb4f4d5299cd486f36522dfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041560049
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/47ce2e41ba2749148ba608691967fe77/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 47ce2e41ba2749148ba608691967fe77
+run_name: mysterious-colt-910
+run_uuid: 47ce2e41ba2749148ba608691967fe77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041560411
+status: 1
+tags: []
+user_id: unknown

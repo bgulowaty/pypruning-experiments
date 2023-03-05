@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8b160ae7b1144fda84f5c9be662ae433/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8b160ae7b1144fda84f5c9be662ae433
+run_name: hilarious-snake-201
+run_uuid: 8b160ae7b1144fda84f5c9be662ae433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041548645
+status: 1
+tags: []
+user_id: unknown

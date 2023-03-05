@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5f15489b7c0947f1bf09c00984182da7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5f15489b7c0947f1bf09c00984182da7
+run_name: bright-fawn-664
+run_uuid: 5f15489b7c0947f1bf09c00984182da7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041681667
+status: 1
+tags: []
+user_id: unknown

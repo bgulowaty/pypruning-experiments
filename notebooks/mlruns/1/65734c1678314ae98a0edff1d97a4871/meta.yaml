@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/65734c1678314ae98a0edff1d97a4871/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65734c1678314ae98a0edff1d97a4871
+run_name: likeable-steed-457
+run_uuid: 65734c1678314ae98a0edff1d97a4871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041571866
+status: 1
+tags: []
+user_id: unknown

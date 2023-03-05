@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/28bdb10057ed4911b6fb96f07b99983e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 28bdb10057ed4911b6fb96f07b99983e
+run_name: angry-trout-254
+run_uuid: 28bdb10057ed4911b6fb96f07b99983e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041643071
+status: 1
+tags: []
+user_id: unknown

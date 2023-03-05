@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/97211718b003442583a51af19c2ca134/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 97211718b003442583a51af19c2ca134
+run_name: calm-koi-511
+run_uuid: 97211718b003442583a51af19c2ca134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041919729
+status: 1
+tags: []
+user_id: unknown

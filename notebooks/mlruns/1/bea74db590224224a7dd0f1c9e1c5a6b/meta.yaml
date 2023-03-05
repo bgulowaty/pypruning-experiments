@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bea74db590224224a7dd0f1c9e1c5a6b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bea74db590224224a7dd0f1c9e1c5a6b
+run_name: crawling-loon-414
+run_uuid: bea74db590224224a7dd0f1c9e1c5a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041813648
+status: 1
+tags: []
+user_id: unknown

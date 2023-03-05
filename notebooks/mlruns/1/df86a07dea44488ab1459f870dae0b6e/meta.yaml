@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/df86a07dea44488ab1459f870dae0b6e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df86a07dea44488ab1459f870dae0b6e
+run_name: incongruous-loon-63
+run_uuid: df86a07dea44488ab1459f870dae0b6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041817411
+status: 1
+tags: []
+user_id: unknown

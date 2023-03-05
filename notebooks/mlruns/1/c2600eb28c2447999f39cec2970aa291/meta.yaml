@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c2600eb28c2447999f39cec2970aa291/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c2600eb28c2447999f39cec2970aa291
+run_name: amusing-shrew-281
+run_uuid: c2600eb28c2447999f39cec2970aa291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041835730
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9f9cfc03ae284060a7902cb164ad7d99/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9f9cfc03ae284060a7902cb164ad7d99
+run_name: entertaining-roo-269
+run_uuid: 9f9cfc03ae284060a7902cb164ad7d99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041588547
+status: 1
+tags: []
+user_id: unknown

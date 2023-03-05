@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/277515f4684d4b7dacdd3c227bf8433b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 277515f4684d4b7dacdd3c227bf8433b
+run_name: dapper-fawn-837
+run_uuid: 277515f4684d4b7dacdd3c227bf8433b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041676690
+status: 1
+tags: []
+user_id: unknown

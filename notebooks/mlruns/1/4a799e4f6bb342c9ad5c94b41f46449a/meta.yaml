@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/4a799e4f6bb342c9ad5c94b41f46449a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a799e4f6bb342c9ad5c94b41f46449a
+run_name: efficient-steed-275
+run_uuid: 4a799e4f6bb342c9ad5c94b41f46449a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041974078
+status: 1
+tags: []
+user_id: unknown

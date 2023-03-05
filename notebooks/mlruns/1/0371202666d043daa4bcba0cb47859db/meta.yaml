@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/0371202666d043daa4bcba0cb47859db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0371202666d043daa4bcba0cb47859db
+run_name: tasteful-sloth-564
+run_uuid: 0371202666d043daa4bcba0cb47859db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041527352
+status: 1
+tags: []
+user_id: unknown

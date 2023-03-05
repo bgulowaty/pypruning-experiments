@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/43fcd5ee0c9142d69e90a54ce14e99fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 43fcd5ee0c9142d69e90a54ce14e99fc
+run_name: overjoyed-tern-943
+run_uuid: 43fcd5ee0c9142d69e90a54ce14e99fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041645130
+status: 1
+tags: []
+user_id: unknown

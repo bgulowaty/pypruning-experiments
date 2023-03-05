@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fba19fb05f4d41c5a8a558d93ff704a4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fba19fb05f4d41c5a8a558d93ff704a4
+run_name: painted-dog-896
+run_uuid: fba19fb05f4d41c5a8a558d93ff704a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041582891
+status: 1
+tags: []
+user_id: unknown

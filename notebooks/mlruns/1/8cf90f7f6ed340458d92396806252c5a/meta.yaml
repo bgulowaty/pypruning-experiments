@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8cf90f7f6ed340458d92396806252c5a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8cf90f7f6ed340458d92396806252c5a
+run_name: dazzling-roo-423
+run_uuid: 8cf90f7f6ed340458d92396806252c5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041959488
+status: 1
+tags: []
+user_id: unknown

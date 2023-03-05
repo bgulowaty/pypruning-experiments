@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/be913201b41747e8ac64b8da27adccbe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: be913201b41747e8ac64b8da27adccbe
+run_name: masked-bear-289
+run_uuid: be913201b41747e8ac64b8da27adccbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041691490
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ef62d8b60d614df09d4b25c7f7a593f3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef62d8b60d614df09d4b25c7f7a593f3
+run_name: serious-lynx-103
+run_uuid: ef62d8b60d614df09d4b25c7f7a593f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041933177
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/eb91f91e57524f7b91beed02e5ea6fad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb91f91e57524f7b91beed02e5ea6fad
+run_name: nebulous-squid-953
+run_uuid: eb91f91e57524f7b91beed02e5ea6fad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041506238
+status: 1
+tags: []
+user_id: unknown

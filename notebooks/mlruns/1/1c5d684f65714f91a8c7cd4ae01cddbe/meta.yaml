@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1c5d684f65714f91a8c7cd4ae01cddbe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c5d684f65714f91a8c7cd4ae01cddbe
+run_name: wistful-hog-875
+run_uuid: 1c5d684f65714f91a8c7cd4ae01cddbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041976619
+status: 1
+tags: []
+user_id: unknown

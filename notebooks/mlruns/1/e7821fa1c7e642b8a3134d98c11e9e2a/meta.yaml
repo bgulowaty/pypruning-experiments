@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e7821fa1c7e642b8a3134d98c11e9e2a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7821fa1c7e642b8a3134d98c11e9e2a
+run_name: chill-eel-353
+run_uuid: e7821fa1c7e642b8a3134d98c11e9e2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041935164
+status: 1
+tags: []
+user_id: unknown

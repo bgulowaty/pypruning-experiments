@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e0e3f5548a4140468135543697387b4c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e0e3f5548a4140468135543697387b4c
+run_name: nimble-auk-35
+run_uuid: e0e3f5548a4140468135543697387b4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041827023
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/32c4e04026884d44bac19f6dce232747/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 32c4e04026884d44bac19f6dce232747
+run_name: worried-pug-149
+run_uuid: 32c4e04026884d44bac19f6dce232747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041494914
+status: 1
+tags: []
+user_id: unknown

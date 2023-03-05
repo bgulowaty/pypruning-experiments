@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/c5c466759e3145f393718409a4d4677e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c5c466759e3145f393718409a4d4677e
+run_name: charming-lamb-782
+run_uuid: c5c466759e3145f393718409a4d4677e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041593143
+status: 1
+tags: []
+user_id: unknown

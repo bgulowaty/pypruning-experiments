@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/bc6eab94349c40d98f8f3b9adca98bc3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bc6eab94349c40d98f8f3b9adca98bc3
+run_name: vaunted-gnu-167
+run_uuid: bc6eab94349c40d98f8f3b9adca98bc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041502277
+status: 1
+tags: []
+user_id: unknown

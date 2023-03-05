@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/3c0927be35b64e7896e207329dacfa30/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c0927be35b64e7896e207329dacfa30
+run_name: beautiful-elk-275
+run_uuid: 3c0927be35b64e7896e207329dacfa30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041928186
+status: 1
+tags: []
+user_id: unknown

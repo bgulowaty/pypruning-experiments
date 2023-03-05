@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/1790a12b7df443bbb0d2ec96ca6a0220/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1790a12b7df443bbb0d2ec96ca6a0220
+run_name: blushing-crow-374
+run_uuid: 1790a12b7df443bbb0d2ec96ca6a0220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041736014
+status: 1
+tags: []
+user_id: unknown

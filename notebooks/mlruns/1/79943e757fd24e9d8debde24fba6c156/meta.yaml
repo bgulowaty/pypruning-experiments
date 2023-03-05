@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/79943e757fd24e9d8debde24fba6c156/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 79943e757fd24e9d8debde24fba6c156
+run_name: bustling-conch-843
+run_uuid: 79943e757fd24e9d8debde24fba6c156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041498703
+status: 1
+tags: []
+user_id: unknown

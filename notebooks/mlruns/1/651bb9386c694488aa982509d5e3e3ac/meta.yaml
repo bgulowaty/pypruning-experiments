@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/651bb9386c694488aa982509d5e3e3ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 651bb9386c694488aa982509d5e3e3ac
+run_name: spiffy-panda-653
+run_uuid: 651bb9386c694488aa982509d5e3e3ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041634456
+status: 1
+tags: []
+user_id: unknown

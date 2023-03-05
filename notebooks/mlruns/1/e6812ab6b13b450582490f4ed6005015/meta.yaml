@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e6812ab6b13b450582490f4ed6005015/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e6812ab6b13b450582490f4ed6005015
+run_name: victorious-crow-762
+run_uuid: e6812ab6b13b450582490f4ed6005015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041659282
+status: 1
+tags: []
+user_id: unknown

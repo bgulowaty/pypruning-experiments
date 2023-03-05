@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ebebc9e293b8454bb875bc611f05074d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ebebc9e293b8454bb875bc611f05074d
+run_name: wise-donkey-261
+run_uuid: ebebc9e293b8454bb875bc611f05074d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041680968
+status: 1
+tags: []
+user_id: unknown

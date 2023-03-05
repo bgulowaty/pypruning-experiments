@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e291e6173daa4a7286af752e1efb63f6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e291e6173daa4a7286af752e1efb63f6
+run_name: glamorous-squid-675
+run_uuid: e291e6173daa4a7286af752e1efb63f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041533594
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/8891ca5f12ce4950a4bebb8b7231f1b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8891ca5f12ce4950a4bebb8b7231f1b9
+run_name: blushing-fawn-204
+run_uuid: 8891ca5f12ce4950a4bebb8b7231f1b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041910043
+status: 1
+tags: []
+user_id: unknown

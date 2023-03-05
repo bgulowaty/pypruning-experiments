@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/cecc042feb1b4e1c9404283e7e281939/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cecc042feb1b4e1c9404283e7e281939
+run_name: salty-calf-513
+run_uuid: cecc042feb1b4e1c9404283e7e281939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041904442
+status: 1
+tags: []
+user_id: unknown

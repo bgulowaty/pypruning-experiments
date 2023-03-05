@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fd40b89d8aff45c8b6951e6e072f0b16/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fd40b89d8aff45c8b6951e6e072f0b16
+run_name: sincere-dolphin-408
+run_uuid: fd40b89d8aff45c8b6951e6e072f0b16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041600578
+status: 1
+tags: []
+user_id: unknown

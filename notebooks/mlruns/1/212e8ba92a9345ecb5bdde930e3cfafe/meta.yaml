@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/212e8ba92a9345ecb5bdde930e3cfafe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 212e8ba92a9345ecb5bdde930e3cfafe
+run_name: bouncy-eel-639
+run_uuid: 212e8ba92a9345ecb5bdde930e3cfafe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041833918
+status: 1
+tags: []
+user_id: unknown

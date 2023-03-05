@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/ada547d01bf84f6a8e4f05c69cc69e0d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ada547d01bf84f6a8e4f05c69cc69e0d
+run_name: bouncy-sponge-814
+run_uuid: ada547d01bf84f6a8e4f05c69cc69e0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041815590
+status: 1
+tags: []
+user_id: unknown

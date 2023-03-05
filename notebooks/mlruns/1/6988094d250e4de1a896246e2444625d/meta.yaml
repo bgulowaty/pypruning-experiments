@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/6988094d250e4de1a896246e2444625d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6988094d250e4de1a896246e2444625d
+run_name: funny-smelt-635
+run_uuid: 6988094d250e4de1a896246e2444625d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041581511
+status: 1
+tags: []
+user_id: unknown

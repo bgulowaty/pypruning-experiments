@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/117c2cbfe1724cc8a2f7dd8e4adc7165/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 117c2cbfe1724cc8a2f7dd8e4adc7165
+run_name: enthused-cat-514
+run_uuid: 117c2cbfe1724cc8a2f7dd8e4adc7165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041533056
+status: 1
+tags: []
+user_id: unknown

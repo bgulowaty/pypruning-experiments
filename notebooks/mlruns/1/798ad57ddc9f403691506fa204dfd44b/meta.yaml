@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/798ad57ddc9f403691506fa204dfd44b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 798ad57ddc9f403691506fa204dfd44b
+run_name: sedate-perch-121
+run_uuid: 798ad57ddc9f403691506fa204dfd44b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041876527
+status: 1
+tags: []
+user_id: unknown

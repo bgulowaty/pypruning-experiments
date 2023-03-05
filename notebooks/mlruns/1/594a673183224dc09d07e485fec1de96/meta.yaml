@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/594a673183224dc09d07e485fec1de96/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 594a673183224dc09d07e485fec1de96
+run_name: luminous-toad-670
+run_uuid: 594a673183224dc09d07e485fec1de96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041507477
+status: 1
+tags: []
+user_id: unknown

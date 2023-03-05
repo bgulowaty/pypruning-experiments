@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fdeb098d0b56470583bd17c9e555bd7e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fdeb098d0b56470583bd17c9e555bd7e
+run_name: omniscient-sow-900
+run_uuid: fdeb098d0b56470583bd17c9e555bd7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041836933
+status: 1
+tags: []
+user_id: unknown

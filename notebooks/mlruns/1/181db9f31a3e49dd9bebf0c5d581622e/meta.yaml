@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/181db9f31a3e49dd9bebf0c5d581622e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 181db9f31a3e49dd9bebf0c5d581622e
+run_name: intelligent-bird-217
+run_uuid: 181db9f31a3e49dd9bebf0c5d581622e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041805025
+status: 1
+tags: []
+user_id: unknown

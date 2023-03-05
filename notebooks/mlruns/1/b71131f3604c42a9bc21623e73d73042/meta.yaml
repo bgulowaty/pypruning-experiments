@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/b71131f3604c42a9bc21623e73d73042/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b71131f3604c42a9bc21623e73d73042
+run_name: painted-carp-347
+run_uuid: b71131f3604c42a9bc21623e73d73042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041976328
+status: 1
+tags: []
+user_id: unknown

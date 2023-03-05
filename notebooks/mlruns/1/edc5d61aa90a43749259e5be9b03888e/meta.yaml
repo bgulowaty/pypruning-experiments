@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/edc5d61aa90a43749259e5be9b03888e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: edc5d61aa90a43749259e5be9b03888e
+run_name: unleashed-shad-18
+run_uuid: edc5d61aa90a43749259e5be9b03888e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041503752
+status: 1
+tags: []
+user_id: unknown

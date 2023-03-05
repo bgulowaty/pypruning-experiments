@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/2cc2c48f13c84cd59343ee96a4ba84ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2cc2c48f13c84cd59343ee96a4ba84ad
+run_name: incongruous-newt-95
+run_uuid: 2cc2c48f13c84cd59343ee96a4ba84ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041638931
+status: 1
+tags: []
+user_id: unknown

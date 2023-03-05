@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/9c2a02a4f514466aa0798cc0aaa5fa9e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9c2a02a4f514466aa0798cc0aaa5fa9e
+run_name: persistent-moose-436
+run_uuid: 9c2a02a4f514466aa0798cc0aaa5fa9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041747616
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/e8679f633d3447158e40757a0638ab00/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e8679f633d3447158e40757a0638ab00
+run_name: exultant-hen-305
+run_uuid: e8679f633d3447158e40757a0638ab00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041640935
+status: 1
+tags: []
+user_id: unknown

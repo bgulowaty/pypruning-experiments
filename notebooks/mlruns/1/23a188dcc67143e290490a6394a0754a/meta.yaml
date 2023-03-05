@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/23a188dcc67143e290490a6394a0754a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 23a188dcc67143e290490a6394a0754a
+run_name: beautiful-koi-501
+run_uuid: 23a188dcc67143e290490a6394a0754a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041507897
+status: 1
+tags: []
+user_id: unknown

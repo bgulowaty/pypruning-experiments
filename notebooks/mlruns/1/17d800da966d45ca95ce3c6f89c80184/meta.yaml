@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/17d800da966d45ca95ce3c6f89c80184/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 17d800da966d45ca95ce3c6f89c80184
+run_name: popular-hound-681
+run_uuid: 17d800da966d45ca95ce3c6f89c80184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041701997
+status: 1
+tags: []
+user_id: unknown

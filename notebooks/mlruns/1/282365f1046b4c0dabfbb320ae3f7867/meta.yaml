@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/282365f1046b4c0dabfbb320ae3f7867/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 282365f1046b4c0dabfbb320ae3f7867
+run_name: bold-ox-18
+run_uuid: 282365f1046b4c0dabfbb320ae3f7867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041565260
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/aa7159819c9f4e50baeeb32569194f19/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aa7159819c9f4e50baeeb32569194f19
+run_name: shivering-hawk-311
+run_uuid: aa7159819c9f4e50baeeb32569194f19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041685897
+status: 1
+tags: []
+user_id: unknown

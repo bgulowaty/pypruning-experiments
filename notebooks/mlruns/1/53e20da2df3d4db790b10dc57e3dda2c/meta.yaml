@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/53e20da2df3d4db790b10dc57e3dda2c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 53e20da2df3d4db790b10dc57e3dda2c
+run_name: victorious-seal-705
+run_uuid: 53e20da2df3d4db790b10dc57e3dda2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041601929
+status: 1
+tags: []
+user_id: unknown

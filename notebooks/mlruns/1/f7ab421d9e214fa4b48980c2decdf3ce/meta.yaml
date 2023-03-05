@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f7ab421d9e214fa4b48980c2decdf3ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f7ab421d9e214fa4b48980c2decdf3ce
+run_name: fearless-cat-2
+run_uuid: f7ab421d9e214fa4b48980c2decdf3ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041531023
+status: 1
+tags: []
+user_id: unknown

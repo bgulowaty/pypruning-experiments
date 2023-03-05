@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/fc2e14e0184b4de8b3794dd0920b7417/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc2e14e0184b4de8b3794dd0920b7417
+run_name: clumsy-trout-824
+run_uuid: fc2e14e0184b4de8b3794dd0920b7417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041536633
+status: 1
+tags: []
+user_id: unknown

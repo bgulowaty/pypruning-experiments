@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/d6e00508828248f5a0c70a4e28bc0ce4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d6e00508828248f5a0c70a4e28bc0ce4
+run_name: amazing-tern-622
+run_uuid: d6e00508828248f5a0c70a4e28bc0ce4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041751410
+status: 1
+tags: []
+user_id: unknown

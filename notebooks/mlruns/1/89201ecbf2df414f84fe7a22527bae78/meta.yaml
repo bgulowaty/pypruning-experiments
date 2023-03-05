@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/89201ecbf2df414f84fe7a22527bae78/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89201ecbf2df414f84fe7a22527bae78
+run_name: thundering-duck-715
+run_uuid: 89201ecbf2df414f84fe7a22527bae78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041747269
+status: 1
+tags: []
+user_id: unknown

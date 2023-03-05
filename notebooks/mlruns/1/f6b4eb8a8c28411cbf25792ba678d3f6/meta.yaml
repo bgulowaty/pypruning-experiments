@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/f6b4eb8a8c28411cbf25792ba678d3f6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f6b4eb8a8c28411cbf25792ba678d3f6
+run_name: bald-mouse-436
+run_uuid: f6b4eb8a8c28411cbf25792ba678d3f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041912851
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bogdan/Projects/pypruning-new/notebooks/mlruns/1/5e2fdbf72c14402b84517c4fe83cc776/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e2fdbf72c14402b84517c4fe83cc776
+run_name: auspicious-shoat-608
+run_uuid: 5e2fdbf72c14402b84517c4fe83cc776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678041953921
+status: 1
+tags: []
+user_id: unknown
