@@ -1,5 +1,5 @@
 artifact_uri: file:///home/bogul/pypruning-experiments/notebooks/mlruns/2/26a5c71a45f84a86a125ce9c332fb386/artifacts
-end_time: null
+end_time: 1678116255016
 entry_point_name: ''
 experiment_id: '2'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1678056611109
-status: 1
+status: 3
 tags: []
 user_id: unknown
